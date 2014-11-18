@@ -1,7 +1,5 @@
-Henchmen
-
-
-== Legendary ==
+== Legendary Henchmen ==
+Base Henchmen
 
 [b]Doombot Legion[/b] (Dr. Doom always leads)
 Fight: Look at the top two cards of your deck. KO one of them and put the other back.
@@ -24,7 +22,8 @@ Attack: 3
 VP: 1
 
 
-== Dark City ==
+== Legendary: Dark City Henchmen ==
+DC Henchmen
 
 [b]Maggia Goons[/b]
 Bribe
@@ -36,3 +35,11 @@ VP: 1
 Fight: Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
 Attack: 3
 VP: 1
+
+
+== Legendary: Villains Backup Adversaries ==
+
+Asgardian Warriors
+Cops
+Multiple Man
+S.H.I.E.L.D. Assault Squad
