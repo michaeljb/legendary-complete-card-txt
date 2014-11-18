@@ -1,10 +1,11 @@
-Villain Groups
-
 Unless otherwise noted, there are 2 copies of each Villain card.
 
 
 
-== Legendary ==
+== Legendary Villain Groups ==
+Base Villain Groups
+Legendary Villains
+Base Villains
 
 [b]Brotherhood[/b] (Magneto always leads)
 [i]Blob[/i]
@@ -171,8 +172,23 @@ Attack: 5
 VP: 3
 
 
+== Legendary: Villains Adversary Groups ==
+Villains Adversaries
 
-== Dark City ==
+Avengers
+Defenders
+Marvel Knights
+Spider Friends
+Uncanny Avengers
+Uncanny X-Men
+X-Men First Class
+
+
+== Legendary: Dark City Villain Groups ==
+DC Villain Groups
+Dark City Villains
+DC Villains
+
 
 [b] Emissaries of Evil[/b]
 [i]Egghead[/i]
@@ -321,7 +337,12 @@ VP: 3
 
 
 
-== Fantastic Four ==
+== Legendary: Fantastic Four Villain Groups ==
+FF Villain Groups
+F4 Villain Groups
+Fantastic Four Villains
+FF Villains
+F4 Villains
 
 [b]Heralds of Galactus[/b] (Galactus always leads)
 [i]Firelord[/i]
@@ -377,7 +398,10 @@ VP: 2
 
 
 
-== Paint the Town Red ==
+== Legendary: Paint the Town Red Villain Groups ==
+PtTR Villain Groups
+Paint the Town Red Villains
+PtTR Villains
 
 [b]Maximum Carnage[/b] (Carnage always leads)
 [i]Carrion[/i]
@@ -442,7 +466,12 @@ VP: 2
 
 
 
-== Guardians of the Galaxy ==
+== Legendary: Guardians of the Galaxy Villain Groups ==
+Guardians Villain Groups
+GotG Villain Groups
+Guardians of the Galaxy Villains
+Guardians Villains
+GotG Villains
 
 [b]Kree Starforce[/b]
 [i]Captain Atlas[/i] (1 copy)
