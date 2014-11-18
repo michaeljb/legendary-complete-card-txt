@@ -1,0 +1,19 @@
+[b]Wound[/b]
+Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
+
+
+
+Bystanders
+
+All Bystanders are worth 1 VP.
+
+== Dark City ==
+
+[b]News Reporter[/b] (3 copies)
+When you rescue this Bystander, draw a card.
+
+[b]Paramedic[/b] (3 copies)
+When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.
+
+[b]Radiation Scientist[/b] (4 copies)
+When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.

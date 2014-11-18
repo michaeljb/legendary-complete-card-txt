@@ -1,0 +1,38 @@
+Henchmen
+
+
+== Legendary ==
+
+[b]Doombot Legion[/b] (Dr. Doom always leads)
+Fight: Look at the top two cards of your deck. KO one of them and put the other back.
+Attack: 3
+VP: 1
+
+[b]Hand Ninjas[/b]
+Fight: You get +1 Recruit Point.
+Attack: 3
+VP: 1
+
+[b]Savage Land Mutates[/b]
+Fight: When you draw a new hand of cards at the end of this turn, draw an extra card.
+Attack: 3
+VP: 1
+
+[b]Sentinel[/b]
+Fight: KO one of your Heroes.
+Attack: 3
+VP: 1
+
+
+== Dark City ==
+
+[b]Maggia Goons[/b]
+Bribe
+Fight: KO one of your Heroes.
+Attack: 4*
+VP: 1
+
+[b]Phalanx[/b]
+Fight: Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
+Attack: 3
+VP: 1

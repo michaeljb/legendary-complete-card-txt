@@ -1,0 +1,1608 @@
+[url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
+
+So, partially inspired by [url=http://boardgamegeek.com/thread/550755/dominion-prosperity-complete-card-list]threads like this[/url] for my first gaming love, Dominion, and by wanting to learn the cards better for the upcoming season of the [url=http://boardgamegeek.com/thread/1205999/legendary-online-league-season-4-planning-thread]Legendary Online League[/url], I made this. Hope you like it!
+
+I'm happy to take feedback on how the info is presented here, I'm certain there are things that can be improved. For instance, I added the colored backgrounds for the Hero Type names, but now I feel the card names themselves are not emphasized enough, and I don't want this to end up looking too cluttered. Anyway, if you have any thoughts on that (or notice any errors), please let me know and I'll be sure to get them fixed.
+
+This list includes cards from all expansions, through Paint the Town Red, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
+
+
+Starting Cards
+
+
+== S.H.I.E.L.D. Cards ==
+
+[b]S.H.I.E.L.D. Agent[/b] (8 copies in starting deck)
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]
+Cost: 0
+-----
+1 Recruit Point
+
+
+[b]S.H.I.E.L.D. Trooper[/b] (4 copies in starting deck)
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]
+Cost: 0
+-----
+1 Attack
+
+
+[b]S.H.I.E.L.D. Officer[/b] (deck of 30 copies to the left of the HQ)
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]
+Cost: 3
+-----
+2 Recruit Points
+
+
+== Legendary Heroes ==
+Base Heroes
+
+[b]Black Widow[/b]
+Avengers
+
+[i]Dangerous Rescue[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, rescue a Bystander.
+
+[i]Mission Accomplished[/i]
+Cost: 2
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Rescue a Bystander.
+
+[i]Covert Operation[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+You get +1 Attack for each Bystander in your Victory pile.
+
+[i]Silent Sniper[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Defeat a Villain or Mastermind that has a Bystander.
+
+
+[b]Captain America[/b]
+Avengers
+
+[i]Avengers Assemble![/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+You get +1 Recruit Points for each color of Hero you have.
+
+[i]Perfect Teamwork[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+You get +1 Attack for each color of Hero you have.
+
+[i]Diving Block[/i]
+Cost: 6
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+4 Attack
+If you would gain a Wound, you may reveal this card and draw a card instead.
+
+[i]A Day Unlike Any Other[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+Avengers: You get +3 Attack for each other Avengers Hero you played this turn.
+
+
+[b]Cyclops[/b]
+X-Men
+
+[i]Determination[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+To play this card, you must discard a card from your hand.
+
+[i]Optic Blast[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3 Attack
+To play this card, you must discard a card from your hand.
+
+[i]Undending Energy[/i]
+Cost: 6
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4 Attack
+If a card effect makes you discard this card, you may return this card to your hand.
+
+[i]X-Men United[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+6+ Attack
+X-Men: You get +2 Attack for each other X-Men Hero you played this turn.
+
+
+[b]Deadpool[/b]
+
+[i]Here, Hold This for a Second[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+A Villain of your choice captures a Bystander.
+
+[i]Oddball[/i]
+Cost: 5
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You get +1 Attack for each other Hero with an odd-numbered Cost you played this turn.
+
+[i]Hey, Can I Get a Do-Over?[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Attack
+If this is the first Hero you played this turn, you may discard the rest of your hand and draw four cards.
+
+[i]Random Acts of Unkindness[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+6 Attack
+You may gain a Wound to your hand. Then each player passes a card from their hand to the player on their left.
+
+
+[b]Emma Frost[/b]
+X-Men
+
+[i]Mental Discipline[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+1 Recruit Point
+Draw a card.
+
+[i]Shadowed Thoughts[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may play the top card of the Villain Deck. If you do, you get +2 Attack.
+
+[i]Psychic Link[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Each player may reveal an X-Men Hero. Each player who does draws a card.
+
+[i]Diamond Form[/i]
+Cost: 7
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+5 Attack
+Whenever you defeat a Villain or Mastermind this turn, you get +3 Recruit Points.
+
+
+[b]Gambit[/b]
+X-Men
+
+[i]Card Shark[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Reveal the top card of your deck. If it's an X-Men Hero, draw it.
+
+[i]Stack the Deck[/i]
+Cost: 2
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Draw two cards. Then put a card from your hand on top of your deck.
+
+[i]Hypnotic Charm[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Reveal the top card of your deck. Discard it or put it back.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Do the same thing to each other player's deck.
+
+[i]High Stakes Jackpot[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Reveal the top card of your deck. You get + Attack equal to that card's cost.
+
+
+[b]Hawkeye[/b]
+Avengers
+
+[i]Quick Draw[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1 Attack
+Draw a card.
+
+[i]Team Player[/i]
+Cost: 4
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+Avengers: You get +1 Attack.
+
+[i]Covering Fire[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Choose one: each other player draws a card or each other player discards a card.
+
+[i]Impossible Trick Shot[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+5 Attack
+Whenver you defeat a Villain or Mastermind this turn, rescue three Bystanders.
+
+
+[b]Hulk[/b]
+Avengers
+
+[i]Growing Anger[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+
+[i]Unstoppable Hulk[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.
+
+[i]Crazed Rampage[/i]
+Cost: 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Each player gains a Wound.
+
+[i]Hulk Smash![/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +5 Attack.
+
+
+[b]Iron Man[/b]
+Avengers
+
+[i]Endless Invention[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw another card.
+
+[i]Repulsor Rays[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack.
+
+[i]Arc Reactor[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero you played this turn.
+
+[i]Quantum Breakthrough[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Draw two cards.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw two more cards.
+
+
+[b]Nick Fury[/b]
+S.H.I.E.L.D.
+
+[i]Battlefield Promotion[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+You may KO a S.H.I.E.L.D. Hero from your hand or discard pile. If you do, you may gain a S.H.I.E.L.D. Officer to your hand.
+
+[i]High-Tech Weaponry[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack.
+
+[i]Legendary Commander[/i]
+Cost: 6
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
+
+[i]Pure Fury[/i]
+Cost: 8
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Defeat any Villain or Mastermind whose Attack is less than the number of S.H.I.E.L.D. Heroes in the KO pile.
+
+
+[b]Rogue[/b]
+X-Men
+
+[i]Borrowed Brawn[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack.
+
+[i]Energy Drain[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit Point.
+
+[i]Copy Powers[/i]
+Cost: 5
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Play this card as a copy of another Hero you played this turn. This card is both [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and the color you copy.
+
+[i]Steal Abilities[/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Each player discards the top card of their deck. Play a copy of each of those cards.
+
+
+[b]Spider-Man[/b]
+Spider Friends
+
+[i]Astonishing Strength[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1 Recruit Point
+Reveal the top card of your deck. If that card costs 2 or less, draw it.
+
+[i]Great Responsibility[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1 Attack
+Reveal the top card of your deck. If that card costs 2 or less, draw it.
+
+[i]Web-Shooters[/i]
+Cost: 2
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Rescue a Bystander.
+Reveal the top card of your deck. If that card costs 2 or less, draw it.
+
+[i]The Amazing Spider-Man[/i]
+Cost: 2
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Reveal the top three cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
+
+
+[b]Storm[/b]
+X-Men
+
+[i]Gathering Stormclouds[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
+
+[i]Lightning Bolt[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Any Villain you fight on the Rooftops this turn gets -2 Attack.
+
+[i]Spinning Cyclone[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4 Attack
+You may move a Villain to a new city space. Rescue any Bystanders captured by that Villain. (If you move a Villain to a city space that already has Villain, swap them.)
+
+[i]Tidal Wave[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+5 Attack
+Any Villain you fight on the Bridge this turn gets -2 Attack.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: The Mastermind gets -2 Attack this turn.
+
+
+[b]Thor[/b]
+Avengers
+
+[i]Odinson[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Recruit Points.
+
+[i]Surge of Power[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+0+ Attack
+If you made 8 or more Recruit Points this turn, you get +3 Attack.
+
+[i]Call Lightning[/i]
+Cost: 6
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
+
+[i]God of Thunder[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+5 Recruit Points
+0+ Attack
+You can use Recruit Points as Attack this turn.
+
+
+[b]Wolverine[/b]
+X-Men
+
+[i]Healing Factor[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Attack
+You may KO a Wound from your hand or discard pile. If you do, draw a card.
+
+[i]Keen Senses[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+
+[i]Frenzied Slashing[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw two cards.
+
+[i]Berserker Rage[/i]
+Cost: 8
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Draw three cards.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack for each extra card you've drawn this turn.
+
+
+
+== Legendary: Dark City Heroes ==
+DC Heroes
+
+[b]Angel[/b]
+X-Men
+
+[i]Diving Catch[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+When a card effect causes you to discard this card, resuce a Bystander and draw two cards.
+
+[i]High-Speed Chase[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Draw two cards, then discard a card.
+
+[i]Drop Off a Friend[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You may discard a card. You get + Attack equal to that card's Cost.
+
+[i]Strength of Spirit[/i]
+Cost: 7
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Discard any number of cards. Draw that many cards.
+
+
+[b]Bishop[/b]
+X-Men
+
+[i]Absorb Energies[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+2 Attack
+Whenever a card you own is KO'd this turn, you get +2 Recruit Points.
+
+[i]Whatever the Cost[/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Draw a card.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+
+[i]Concussive Blast[/i]
+Cost: 5
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
+
+[i]Firepower From the Future[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Dsicard the top four cards of your deck. You get + Attack equal to those cards' printed Attack.
+X-Men: KO any number of those cards.
+
+
+[b]Blade[/b]
+Marvel Knights
+
+[i]Night Hunter[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+2 Attack
+Whenever you defeat a Villain in the Sewers or Rooftops this turn, you get +2 Recruit Points.
+
+[i]Stalk the Prey[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+You may move a Villain to an adjacent city space. If another Villain is already there, swap them.
+
+[i]Nowhere to Hide[/i]
+Cost: 6
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Whenever you defeat a Villain in the Sewers or Rooftops this turn, draw two cards.
+
+[i]Vampiric Surge[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+You get +1 Attack for each Villain in your Victory Pile.
+
+
+[b]Cable[/b]
+X-Force
+
+[i]Disaster Survivalist[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+When a Master Strike is played, before it takes effect, you may discard this card. If you do, draw three extra cards at the end of this turn.
+
+[i]Strike at the Heart of Evil[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You get +2 Attack only when fighting Masterminds.
+
+[i]Rapid Response Force[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+Teleport
+X-Force: You get +1 Attack for each other X-Force Hero you played this turn.
+
+[i]Army of One[/i]
+Cost: 8
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+KO any number of cards from your hand. You get +1 Attack for each card KO'd this way.
+
+
+[b]Colossus[/b]
+X-Force
+
+[i]Draw Their Fire[/i]
+Cost: 1
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3 Attack
+You gain a Wound.
+
+[i]Invulnerability[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+If you would gain a Wound, you may discard this card instead. If you do, draw two cards.
+
+[i]Silent Statue[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+
+[i]Russian Heavy Tank[/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+6 Attack
+If another player would gain a Wound, you may reveal this card to gain that Wound and draw a card.
+
+
+[b]Daredevil[/b]
+Marvel Knights
+
+[i]Backflip[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+When you play Backflip, the next Hero you recruit this turn goes on top of your deck.
+
+[i]Radar Sense[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+Choose a number, then reveal the top card of your deck. If the card is that Cost, you get +2 Attack.
+
+[i]Blind Justice[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Choose a number, then reveal the top card of your deck. If the card is that Cost, draw it.
+
+[i]The Man Without Fear[/i]
+Cost: 8
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+7 Attack
+Choose a number, then reveal the top card of your deck. If the card is that Cost, draw it and repeat this process.
+
+
+[b]Domino[/b]
+X-Force
+
+[i]Lucky Break[/i]
+Cost: 1
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Draw a card.
+X-Force: Versatile 1
+
+[i]Ready for Anything[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Versatile 2
+
+[i]Specialized Ammunition[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+You may discard a card from your hand. If that card had a Recruit Points icon, you get +4 Recruit Points. If that card had an Attack icon, you get +4 Attack.
+
+[i]Against All Odds[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Versatile 5
+X-Force: This card and each other Versatile ability you use for the rest of this turn produces both Recruit Points and Attack.
+
+
+[b]Elektra[/b]
+Marvel Knights
+
+[i]First Strike[/i]
+Cost: 1
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+If this is the first card you played this turn, you get +1 Attack.
+
+[i]Ninjitsu[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+Draw a card.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit Points.
+
+[i]Sai Blades[/i]
+Cost: 6
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+You get +1 Attack for each Hero you played this turn that costs 1 or 2.
+
+[i]Silent Meditation[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+5+ Recruit Points
+When you play Silent Meditation, the next Hero you recruit this turn goes into your hand.
+Marvel Knights: You get +2 Recruit Points.
+
+
+[b]Forge[/b]
+X-Force
+
+[i]Dirty Work[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Any Villain you fight in the Sewers this turn gets -2 Attack.
+
+[i]Reboot[/i]
+Cost: 4
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may discard a card. If you do, draw two cards.
+
+[i]Overdrive[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Versatile 3
+
+[i]B.F.G.[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+5 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Defeat the Mastermind once for free.
+
+
+[b]Ghost Rider[/b]
+Marvel Knights
+
+[i]Blazing Hellfire[/i]
+Cost: 5
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You may KO a Villain from your Victory Pile. If you do, you get +3 Attack.
+
+[i]Hell on Wheels[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Marvel Knights: You get +2 Recruit Points.
+
+[i]Infernal Chains[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+Draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat a Villain of 3 Attack or less for free.
+
+[i]Penance Stare[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+Each player KOs a Villain from their Victory Pile. You get +1 Attack for each Villain KO'd this way.
+Marvel Knights: Put one of those Villains into your Victory Pile.
+
+
+[b]Iceman[/b]
+X-Men
+
+[i]Deep Freeze[/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+Draw a card.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit Point for each other [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero you played this turn.
+
+[i]Ice Slide[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack for each other [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero you played this turn.
+
+[i]Frost Spike Armor[/i]
+Cost: 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3 Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero you played this turn.
+
+[i]Impenetrable Ice Wall[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+7 Attack
+If a Villain, Master Strike, or Mastermind Tactic would cause you to gain any Wounds or discard any cards, you may reveal this card instead.
+
+
+[b]Iron Fist[/b]
+Marvel Knights
+
+[i]Focus Chi[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Recruit Points
+You get +1 Recruit Point for each Hero with a different Cost you have.
+
+[i]Wield the Iron Fist[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+You get +1 Attack for each Hero with a different Cost you have.
+
+[i]Ancient Legacy[/i]
+Cost: 1
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Versatile 2
+
+[i]Living Weapon[/i]
+Cost: 9
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+8 Attack
+Reveal cards from your deck until you have revealed two cards with the same Cost. Draw all the cards you revealed.
+
+
+[b]Jean Grey[/b]
+X-Men
+
+[i]Psychic Search[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+X-Men: Rescue a Bystander.
+
+[i]Read Your Thoughts[/i]
+Cost: 5
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3+ Recruit Points
+Whenever you rescue a Bystander this turn, you get +1 Recruit Point.
+
+[i]Mind Over Matter[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Whenever you rescue a Bystander this turn, draw a card.
+
+[i]Telekinetic Mastery[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+Whenever you rescue a Bystander this turn, you get +1 Attack.
+X-Men: Rescue a Bystander for each other X-Men Hero you played this turn.
+
+
+[b]Nightcrawler[/b]
+X-Men
+
+[i]Bamf![/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Teleport
+
+[i]Blend Into Shadows[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Teleport
+
+[i]Swashbuckler[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +3 Attack
+
+[i]Along for the Ride[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+5 Attack
+Teleport
+When you play or Teleport this card, you may also Teleport up to three other cards from your hand.
+
+
+[b]Professor X[/b]
+X-Men
+
+[i]Class Dismissed[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+You may put a Hero from the HQ on the bottom of the Hero Deck.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+
+[i]Psionic Astral Form[/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+X-Men: You get +2 Attack.
+
+[i]Telepathic Probe[/i]
+Cost: 5
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Reveal the top card of the Villain Deck. If it's a Bystander, you may rescue it. If it's a Villain, you may fight it this turn.
+
+[i]Mind Control[/i]
+Cost: 8
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+6 Attack
+Whenever you defeat a Villain this turn, you may gain it. It becomes a grey Hero with no text that gives + Attack equal to its Attack. (You still get its VP.)
+
+
+[b]Punisher[/b]
+Marvel Knights
+
+[i]Boom Goes the Dynamite[/i]
+Cost: 2
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Reveal the top card of your deck. If it costs 0, KO it.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
+
+[i]Hail of Bullets[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+Reveal the top card of the Villain Deck. If it's a Villain, you get + Attack equal to its printed VP.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may defeat that Villain for free.
+
+[i]Hostile Interrogation[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Each other player reveals the top card of their deck. If that card costs 4 or more, discard it. You get +1 Recruit Point for each card discarded this way.
+
+[i]The Punisher[/i]
+Cost: 8
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Reveal cards from the Hero Deck until you have revealed two cards with the same Cost. You get +1 Attack for each card revealed this way. Put them on the bottom of the Hero Deck in random order.
+
+
+[b]Wolverine[/b]
+X-Force
+
+[i]Animal Instincts[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Draw a card.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack.
+
+[i]Sudden Ambush[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+If you drew any extra cards this turn, you get +2 Attack.
+
+[i]No Mercy[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+Draw a card.
+You may KO a card from your hand or discard pile.
+
+[i]Reckless Abandon[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Count the number of extra cards you drew this turn. Draw that many cards.
+
+
+
+== Legendary: Fantastic Four Heroes ==
+FF Heroes
+F4 Heroes
+
+[b]Human Torch[/b]
+Fantastic Four
+
+[i]Call for Backup[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+You may KO a Wound from your hand or discard pile. If you do, you get +1 Recruit Point.
+
+[i]Hothead[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4 Attack
+You gain a Wound.
+
+[i]Flame On![/i]
+Cost: 6
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Focus 6 Recruit Points -> You get +4 Attack.
+
+[i]Nova Flame[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+6+ Attack
+Fantastic Four: You get +1 Attack for each city space that contains a Villain.
+
+
+[b]Invisible Woman[/b]
+Fantastic Four
+
+[i]Disappearing Act[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Focus 2 Recruit Points -> You may KO a card from your hand or discard pile.
+
+[i]Four of a Kind[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+If you played any other cards that cost 4 this turn, you get +2 Attack.
+
+[i]Unseen Rescue[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Focus 2 Recruit Points -> Rescue a Bystander. You amy only use this ability up to four times this turn.
+
+[i]Invisible Barrier[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+5 Attack
+If an ambush effect would occur, you may reveal this card and draw two cards instead.
+
+
+[b]Mr. Fantastic[/b]
+Fantastic Four
+
+[i]Twisting Equations[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Focus 2 Recruit Points -> When you draw a new hand of cards at the end of this turn, draw an extra card.
+
+[i]Unstable Molecules[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Draw two cards.
+
+[i]One Gigantic Head[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Fantastic Four: You get +1 Attack for each card in your hand.
+
+[i]Ultimate Nullifier[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+If an Enemy you fight this turn would have a fight effect, you may cancel that effect instead.
+Focus 1 Recruit Point -> You get +1 Attack usable only against the Mastermind.
+
+
+[b]Silver Surfer[/b]
+
+[i]Epic Destiny[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Focus 6 Recruit Points -> Defeat a Villain of 5 Attack or 6 Attack.
+
+[i]Warp Speed[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Focus 2 Recruit Points -> Draw a card.
+
+[i]The Power Cosmic[/i]
+Cost: 6
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+0+ Attack
+Focus 9 Recruit Points -> You get +9 Attack.
+
+[i]Energy Surge[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Double the Recruit Points you have.
+
+
+[b]Thing[/b]
+Fantastic Four
+
+[i]It Started on Yancy Street[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Fantastic Four: You get +2 Recruit Points.
+
+[i]Knuckle Sandwich[/i]
+Cost: 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+0+ Attack
+Focus 3 Recruit Points -> You get +2 Attack.
+
+[i]Crime Stopper[/i]
+Cost: 6
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Whenever you defeat a Villain in the Bank this turn, rescue a Bystander.
+Focus 1 Recruit Point -> Move a Villain to an adjacent city space. If another Villain is already there, swap them.
+
+[i]It's Clobberin' Time![/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack for each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+
+
+
+== Legendary: Paint the Town Red Heroes ==
+PtTR Heroes
+
+[b]Black Cat[/b]
+Spider Friends
+
+[i]Casual Bank Robbery[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Wall-Crawl
+You get another +1 Recruit Point usable only to recruit the Hero in the HQ Space under the Bank.
+
+[i]Pickpocket[/i]
+Cost: 1
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Wall-Crawl
+Reveal the top card of any player's deck. You get + Attack equal to that card's printed Recruit Points plus its printed Attack.
+
+[i]Jinx[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Each player reveals the top card of their deck. Choose any number of those cards to be discarded.
+
+[i]Cat Burglar[/i]
+Cost: 8
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or chooses a Bystander from their Victory Pile. You rescue those Bystanders.
+Spider Friends: You get +1 Attack for each Bystander you rescued this turn.
+
+
+[b]Moon Knight[/b]
+Marvel Knights
+
+[i]Climbing Claws[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Wall-Crawl
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Recruit Point.
+
+[i]Lunar Communion[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Wall-Crawl
+Whenever you defeat a Villain on the Rooftops this turn, you may KO one of your cards or a card from your discard pile.
+
+[i]Crescent Moon Darts[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Reveal the top card of your deck. If it's [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] or [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], draw it.
+
+[i]Golden Ankh of Khonshu[/i]
+Cost: 8
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+6 Attack
+Whenever you defeat a Villain on the Rooftops this turn, rescue Bystanders equal to that Villain's printed VP.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may move a Villain to the Rooftops. If another Villain is already there, swap them.
+
+
+[b]Scarlet Spider[/b]
+Spider Friends
+
+[i]Flip Out[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1 Recruit Point
+Wall-Crawl
+Spider Friends: Draw a card.
+
+[i]Perfect Hunter[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1 Attack
+Wall-Crawl
+Draw a card.
+
+[i]Leap From Above[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+Wall-Crawl
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack.
+
+[i]Sting of the Spider[/i]
+Cost: 7
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+5 Attack
+Whenever you put a card on top of your deck this turn, you may draw that card.
+
+
+[b]Spider-Woman[/b]
+Spider Friends
+
+[i]Bioelectric Shock[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Wall-Crawl
+Reveal the top card of your deck. If that card has an Attack icon, draw it.
+
+[i]Radioactive Spider[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+To play this card, you must put a card from your hand on top of your deck.
+
+[i]Venom Blast[/i]
+Cost: 6
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Wall-Crawl
+Reveal the top card of your deck. If that card has a Recruit Point icon, draw it.
+
+[i]Arachno-Pheromones[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Recruit a Hero from the HQ for free.
+Spider Friends: Put that Hero on top of your deck.
+
+
+[b]Symbiote Spider-Man[/b]
+Spider Friends
+
+[i]Dark Strength[/i]
+Cost: 2
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Wall-Crawl
+Reveal the top card of your deck. If it costs 1 or 2, you get +2 Attack.
+
+[i]Spider-Sense Tingling[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
+
+[i]Shadowed Spider[/i]
+Cost: 2
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Wall-Crawl
+You get +1 Attack for each other Hero you played this turn that costs 1 or 2.
+
+[i]Thwip![/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4 Attack
+To play this card, you must put two cards from your hand on top of your deck.
+
+== Legendary: Villains Allies ==
+
+Bullseye
+Dr. Octopus
+Electro
+Enchantress
+Green Goblin
+Juggernaut
+Kingpin
+Kraven
+Loki
+Magneto
+Mysterio
+Mystique
+Sabretooth
+Ultron
+Venom
+
+== Legendary: Guardians of the Galaxy Heroes ==
+Guardians Heroes
+GotG Heroes
+
+[b]Drax the Destroyer[/b]
+Guardians of the Galaxy
+
+[i]Knives of the Hunter[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Once per turn, you get +1 Attack.
+
+[i]Interstellar Tracker[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Look at the top card of your deck. Discard it or put it back.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO the card you discarded this way.
+
+[i]The Destroyer[/i]
+Cost: 6
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Guardians of the Galaxy: Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards an Artifact they control. For each Artifact discarded this way, you gain a Shard.
+
+[i]Avatar of Destruction[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Double the Attack you have.
+
+
+[b]Gamorra[/b]
+Guardians of the Galaxy
+
+[i]Bounty Hunter[/i]
+Cost: 2
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+A Villain gains a Shard.
+
+[i]Deadliest Woman in the Universe[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Gain two Shards.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Gain another Shard.
+
+[i]Galactic Assassin[/i]
+Cost: 5
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3 Attack
+A Villain of your choice gets no Attack from Shards this turn.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: The Mastermind gets no Attack from Shards this turn.
+
+[i]Godslayer Blade[/i]
+Cost: 8
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Once per turn, gain two Shards. Once per turn, you may spend 5 Shards to get +10 Attack.
+
+
+[b]Groot[/b]
+Guardians of the Galaxy
+
+[i]Prune the Growths[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, gain a Shard.
+
+[i]Surviving Sprig[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+1 Attack
+When you draw a new hand of cards at the end of this turn, draw an extra card.
+
+[i]Groot and Branches[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Gain two Shards. You may spend Shards to get Recruit Points this turn.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may choose another player. That player gains a Shard.
+
+[i]I Am Groot[/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+5 Recruit Points
+When you recruit your next Hero this turn, you gain Shards equal to that Hero's cost.
+
+
+[b]Rocket Raccoon[/b]
+Guardians of the Galaxy
+
+[i]Gritty Scavenger[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Cost: 3
+-----
+2 Recruit Points
+You may discard a card. If you do, draw a card.
+
+[i]Trigger Happy[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Guardians of the Galaxy: You gain a Shard for each other Guardians of the Galaxy Hero you played this turn.
+
+[i]Incoming Detector[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Whenever a Master Strike or Villain's Ambush ability is completed, you may gain a Shard.
+
+[i]Vengeance is Rocket[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack for each Master Strike in the KO pile and/or stacked next to the Mastermind.
+
+
+[b]Star-Lord[/b]
+Guardians of the Galaxy
+
+[i]Element Guns[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Once per turn, gain a Shard.
+
+[i]Legendary Outlaw[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Choose an Artifact any player controls with a "once per turn" ability. Play a copy of one of those abilities.
+
+[i]Implanted Memory Chip[/i]
+Cost: 6
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Once per turn, draw a card.
+
+[i]Sentient Starship[/i]
+Cost: 8
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Artifact -
+Once per turn, gain a Shard for each Artifact you control.

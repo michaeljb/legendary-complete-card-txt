@@ -1,0 +1,528 @@
+Villain Groups
+
+Unless otherwise noted, there are 2 copies of each Villain card.
+
+
+
+== Legendary ==
+
+[b]Brotherhood[/b] (Magneto always leads)
+[i]Blob[/i]
+You can't defeat Blob unless you have an X-Men Hero.
+Attack: 4
+VP: 2
+
+[i]Juggernaut[/i]
+Ambush: Each player KOs two Heroes from their discard pile.
+Escape: Each player KOs two Heroes from their hand.
+Attack: 6
+VP: 4
+
+[i]Mystique[/i]
+Escape: Mystique becomes a Scheme Twist that takes effect immediately.
+Atack: 5
+VP: 3
+
+[i]Sabretooth[/i]
+Fight: Each player reveals an X-Men Hero or gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+
+[b]Enemies of Asgard[/b] (Loki always leads)
+[i]Destroyer[/i] (1 copy)
+Fight: KO all your S.H.I.E.L.D. Heroes.
+Escape: Each player KOs two of their Heroes.
+Attack: 7
+VP: 5
+
+[i]Enchantress[/i]
+Fight: Draw three cards
+Attack: 6
+VP: 4
+
+[i]Frost Giant[/i] (3 copies)
+Fight: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Escape: Same effect.
+Attack: 4
+VP: 2
+
+[i]Ymir, Frost Giant King[/i]
+Ambush: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Fight: Choose a player. That player KOs any number of Wounds from their hand and discard pile.
+Attack: 6
+VP: 4
+
+
+[b]HYDRA[/b] (Red Skull always leads)
+[i]Endless Armies of HYDRA[/i] (3 copies)
+Fight: Play the top two cards of the Villain Deck.
+Attack: 4
+VP: 3
+
+[i]HYDRA Kidnappers[/i] (3 copies)
+Fight: You may gain a S.H.I.E.L.D. Officer.
+Attack: 3
+VP: 1
+
+[i]Supreme HYDRA[/i] (1 copy)
+Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.
+Attack: 6
+VP: 3*
+
+[i]Viper[/i] (1 copy)
+Fight: Each player without another HYDRA Villain in their Victory Pile gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+
+[b]Masters of Evil[/b]
+[i]Baron Zemo[/i]
+Fight: For each of your Avengers Heroes, rescue a Bystander.
+Attack: 6
+VP: 4
+
+[i]Melter[/i]
+Fight: Each player reveals the top card of their deck. For each card, you choose to KO it or put it back.
+Attack: 5
+VP: 3
+
+[i]Ultron[/i]
+Ultron is worth +1 VP for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero you have among all your cards at the end of the game.
+Escape: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Attack: 6
+VP: 2+
+
+[i]Whirlwind[/i]
+Fight: If you fight Whirlwind on the Rooftops or Brige, KO two of your Heroes.
+Attack: 4
+VP: 2
+
+
+[b]Radiation[/b]
+[i]Abomination[/i]
+Fight: If you fight Abomination on the Streets or Bridge, rescue three Bystanders.
+Attack: 5
+VP: 3
+
+[i]The Leader[/i]
+Ambush: Play the top card of the Villain Deck.
+Attack: 4
+VP: 2
+
+[i]Maestro[/i]
+Fight: For each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes, KO one of your Heroes.
+Attack: 6
+VP: 4
+
+[i]Zzzax[/i]
+Fight: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+
+[b]Skrulls[/b]
+[i]Paibok the Power Skrull[/i] (1 copy)
+Fight: Choose a Hero in the HQ for each player. Each player gains that Hero.
+Attack: 8
+VP: 3
+
+[i]Skrull Queen Veranke[/i] (1 copy)
+Ambush: Put the highest-cost Hero from the HQ under this Villain. This Villain's Attack is equal to that Hero's Cost.
+Fight: Gain that Hero.
+Attack: *
+VP: 4
+
+[i]Skrull Shapeshifters[/i] (3 copies)
+Ambush: Put the rightmost Hero from the HQ under this Villain. This Villain's Attack is equal to that Hero's Cost.
+Fight: Gain that Hero
+Attack: *
+VP: 2
+
+[i]Super-Skrull[/i] (3 copies)
+Fight: Each player KOs one of their Heroes.
+Attack: 4
+VP: 2
+
+
+[b]Spider-Foes[/b]
+[i]Doctor Octopus[/i]
+Fight: When you draw a new hand of cards at the end of this turn, draw eight cards instead of six.
+Attack: 4
+VP: 2
+
+[i]Green Goblin[/i]
+Ambush: Green Goblin captures a Bystander.
+Attack: 6
+VP: 4
+
+[i]The Lizard[/i]
+Fight: If you fight the Lizard in the Sewers, each other player gains a Wound.
+Attack: 3
+VP: 2
+
+[i]Venom[/i]
+You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero.
+Escape: Each player gains a Wound.
+Attack: 5
+VP: 3
+
+
+
+== Dark City ==
+
+[b] Emissaries of Evil[/b]
+[i]Egghead[/i]
+Ambush: Reveal the top card of the Villain Deck. If it's a Villain, play it.
+Attack: 4
+VP: 2
+
+[i]Electro[/i]
+Ambush: Reveal the top card of the Villain Deck. If it's a Scheme Twist, play it.
+Attack: 6
+VP: 4
+
+[i]Gladiator[/i]
+Ambush: Reveal the top card of the Villain Deck. If it's a Bystander, Gladiator captures it.
+Attack: 5
+VP: 3
+
+[i]Rhino[/i]
+Ambush: Reveal the top card of the Villain Deck. If it's a Master Strike, each player gains a Wound.
+Escape: Each player gains a Wound.
+Attack: 5
+VP: 3
+
+
+[b]Four Horsemen[/b] (Apocalypse always leads)
+[i]Death[/i]
+Fight: Each other player reveals their hand and KOs one of their Heroes that costs 1 or more.
+Escape: Each player does that same effect.
+Attack: 7
+VP: 5
+
+[i]Famine[/i]
+Fight: Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards a card.
+Escape: Each player does that same effect.
+Attack: 4
+VP: 2
+
+[i]Pestilence[/i]
+Fight: Each other player reveals the top three cards of their deck, discards each of those cards taht costs 1 or more, and puts the rest back in any order.
+Escape: Each player does that same effect.
+Attack: 5
+VP: 3
+
+[i]War[/i]
+Fight: Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Escape: Each player does that same effect.
+Attack: 6
+VP: 4
+
+
+[b]Marauders[/b] (Mr. Sinister always leads)
+[i]Blockbuster[/i]
+Blockbuster gets +2 Attack for each Bystander he has.
+Ambush: If there is a Villain in the Bank that Villain and Blockbuster each capture a Bystander.
+Attack: 4+
+VP: 2
+
+[i]Chimera[/i]
+Chimera gets +3 Attack for each Bystander she has.
+Ambush: Reveal the top three cards of the Villain Deck. Chimera captures all the Bystander cards you revealed. Put the rest back in random order.
+Attack: 3+
+VP: 3
+
+[i]Scalphunter[/i]
+Scalphunter gets +1 Attack for each Bystander he has.
+Ambush: Each player chooses a Bystander from their Victory Pile. Scalphunter captures those Bystanders.
+Attack: 4+
+VP:2
+
+[i]Vertigo[/i]
+Fight: Each player discards all the cards in their hand, then draws as many cards as they discarded.
+Attack: 5
+VP: 3
+
+
+[b]MLF[/b] (Stryfe always leads)
+[i]Forearm[/i]
+To fight Forearm, you must also reveal four Hero cards with different card names.
+Attack: 4*
+VP: 4
+
+[i]Reignfire[/i]
+Escape: Reignfire becomes a Master Strike that takes effect immediately.
+Attack: 6
+VP: 4
+
+[i]Wildside[/i]
+Fight: If you fight Wildside in the Sewers or Bank, KO two of your Heroes.
+Attack: 5
+VP: 3
+
+[i]Zero[/i]
+To fight Zero, you must also discard three cards that cost 0.
+Attack: 0*
+VP: 2
+
+
+[b]Streets of New York[/b] (Kingpin always leads)
+[i]Bullseye[/i]
+Fight: KO one of your Heroes with a Recruit Point icon and one of your Heroes with an Attack icon.
+Attack: 6
+VP: 4
+
+[i]Hammerhead[/i]
+Bribe
+Fight: KO one of your Heroes with a Recruit Point icon.
+Attack: 5*
+VP: 2
+
+[i]Jigsaw[/i]
+Ambush: Each player discards three cards, then draws two cards.
+Bribe
+Attack: 11*
+VP: 5
+
+[i]Tombstone[/i]
+Bribe
+Escape: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Attack: 8*
+VP: 4
+
+
+[b]Underworld[/b] (Mephisto always leads)
+[i]Azazel[/i]
+Fight: A card in your hand gains Teleport this turn.
+Attack: 4
+VP: 2
+
+[i]Blackheart[/i]
+Ambush: The player to your right reveals a Marvel Knights Hero or gains a Wound.
+Fight: Same effect.
+Escape: Same effect.
+Attack: 6
+VP: 4
+
+[i]Dracula[/i]
+Ambush: Dracula captures the top card of the Hero Deck. Dracula gets + Attack equal to that card's Cost.
+Fight: Gain that card.
+Attack: 3+
+VP: 4
+
+[i]Lilith, Daughter of Dracula[/i]
+Escape: Each player without Dracula in their Victory Pile gains a Wound.
+Attack: 5
+VP: 3
+
+
+
+== Fantastic Four ==
+
+[b]Heralds of Galactus[/b] (Galactus always leads)
+[i]Firelord[/i]
+Comsic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Fight: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Escape: Same effect.
+Attack: 9*
+VP: 4
+
+[i]Morg[/i]
+Cosmic Threat: [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Ambush: Put each non-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero from the HQ on the bottom of the Hero Deck.
+Attack: 12*
+VP: 6
+
+[i]Stardust[/i]
+Cosmic Threat: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Fight: Choose one of your [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card.
+Attack: 10*
+VP: 5
+
+[i]Terrax the Tamer[/i]
+Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Ambush: For each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero in the HQ, Terrax captures a Bystander.
+Attack: 11*
+VP: 5
+
+
+[b]Subterranea[/b] (Mole Man always leads)
+[i]Giganto[/i]
+Fight: When you draw a new hand of cards at the end of this turn, draw two extra cards.
+Burrow
+Attack: 7
+VP: 4
+
+[i]Megataur[/i]
+Ambush: Megataur captures two Bystanders.
+Burrow
+Attack: 6
+VP: 4
+
+[i]Moloids[/i]
+Fight: KO one of your Heroes.
+Burrow
+Attack: 3
+VP: 2
+
+[i]Ra'ktar the Molan King[/i]
+Ambush: Any Villain in the Streets moves to the Bridge, pushing any Villain already there to escape.
+Burrow
+Attack: 4
+VP: 2
+
+
+
+== Paint the Town Red ==
+
+[b]Maximum Carnage[/b] (Carnage always leads)
+[i]Carrion[/i]
+Feast
+Whenever Carrion feasts on a Hero that costs 1 or more, put Carrion back in the city space where he was.
+Attack: 4
+VP: 3
+
+[i]Demogoblin[/i]
+Ambush: Demogoblin captures a Bystander.
+Feast
+Attack: 5
+VP: 3
+
+[i]Doppelganger[/i]
+Doppelganger's Attack is equal to the Cost of the Hero in the HQ space under him.
+Feast
+Attack: *
+VP: 3
+
+[i]Shriek[/i]
+Feast
+When Shriek feasts on a 0-cost Hero, each other player gains a Wound.
+Escape: Each player gains a Wound.
+Attack: 6
+VP: 4
+
+
+[b]Sinister Six[/b] (Mysterio always leads)
+[i]Chameleon[/i] (1 copy)
+Fight: Copy the effects of the Hero in the HQ space under Chameleon, including its Recruit Points and Attack.
+Attack: 6
+VP: 2
+
+[i]Hobgoblin[/i] (1 copy)
+Ambush: Each Sinister Six Villain captures a Bystander.
+Attack: 5
+VP: 3
+
+[i]Kraven the Hunter[/i] (1 copy)
+Kraven's Attack is equal to the Cost of the highest-cost Hero in the HQ.
+Escape: (After you do the normal escape KO) KO a Hero from the HQ with the highest cost.
+Attack: *
+VP: 4
+
+[i]Sandman[/i] (1 copy)
+Sandman's Attack is twice the number of Villains in the city.
+Escape: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Attack: *
+VP: 4
+
+[i]Shocker[/i]
+Ambush: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards a card.
+Attack: 5
+VP: 3
+
+[i]Vulture[/i]
+Ambush: (After Vulture enters the city) If there is a Villain on the Rooftops or Bridge, swap Vulture with one of those Villains.
+Escape: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Attack: 4
+VP: 2
+
+
+
+== Guardians of the Galaxy ==
+
+[b]Kree Starforce[/b]
+[i]Captain Atlas[/i] (1 copy)
+Captain Atlas gets +1 Attack for each Shard on the Mastermind.
+Escape: Each player loses a Shard. Each player that cannot do so gains a Wound.
+Attack: 6+
+VP: 4
+
+[i]Demon Druid[/i] (1 copy)
+Ambush: Another Villain in the city gains two Shards.
+Attack: 5
+VP: 3
+
+[i]Dr. Minerva[/i] (1 copy)
+Ambush: Each Kree Villain in the city gains a Shard (including this Villain).
+Attack: 5
+VP:3
+
+[i]Korath the Pursuer[/i] (1 copy)
+Ambush: Each player may draw a card. Korath gains a Shard for each card drawn this way.
+Escape: If Korath had any Shards, each player gains a Wound.
+Attack: 5
+VP: 3
+
+[i]Ronan the Accuser[/i] (1 copy)
+Ambush: Each player simultaneously points their finger to accuse another player. Each player who was accused the most gains a Wound.
+Escape: Same effect.
+Attack: 7
+VP: 5
+
+[i]Shatterax[/i] (1 copy)
+Fight: Put a Shard on each Hero in the HQ. When a player gains that Hero, they gain that Shard. If that Hero leaves the HQ some other way, return that Shard to the supply.
+Attack: 5
+VP: 3
+
+[i]Supremor[/i]
+Ambush: Supremor and the Mastermind each gain a Shard.
+Attack: 3
+VP: 2
+
+
+[b]Infinity Gems[/b]
+[i]Mind Gem[/i] (1 copy)
+Ambush: Mind Gem gains a Shard for each Scheme Twist in the KO pile and/or stacked next to the Scheme.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - Once per turn, you get +2 Recruit Points.
+Attack: 6
+VP: 0
+
+[i]Power Gem[/i] (1 copy)
+Ambush: Power Gem gains a Shard for each Master Strike in the KO pile and/or stacked next to the Mastermind.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - Once per turn, you get +2 Attack.
+Attack: 7
+VP: 0
+
+[i]Reality Gem[/i]
+Ambush: Reality Gem gains a Shard for each Infinity Gem Villain card in the city and/or Escape pile.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - Before you play a card from the Villain Deck, you may first reveal the top card of the Villain Deck. If it's not a Scheme Twist, you may put it on the bottom of the Villain Deck. If you do, gain a Shard.
+Attack: 5
+VP: 0
+
+[i]Soul Gem[/i] (1 copy)
+Ambush: Soul Gem gains a Shard for each Villain in the city.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - Whenever you defeat a Villain, put a Shard on Soul Gem from the supply. Once per turn, you get + Attack equal to the number of Shards on Soul Gem.
+Attack: 6
+VP: 0
+
+[i]Space Gem[/i]
+Ambush: Space Gem gains a Shard for each empty space in the city.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - Once per turn, you may move a Villain to another city space. If another Villain is already there, swap them. If you moved any Villains this way, gain a Shard.
+Attack: 5
+VP: 0
+
+[i]Time Gem[/i] (1 copy)
+Ambush: Play another card from the Villain Deck. Time Gem gains Shards equal to that card's printed Victory Points.
+Fight: Put this into your discard pile as an Artifact.
+Artifact - When you play this Artifact, take another turn after this one. Use this ability only if this is the fist time any player has played the Time Gem this game.
+Attack: 6
+VP: 0

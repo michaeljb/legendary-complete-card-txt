@@ -1,0 +1,313 @@
+Masterminds
+
+
+== Legendary ==
+
+
+[b]Dr. Doom[/b]
+Always Leads: Doombot Legion
+Master Strike: Each player with exactly 6 cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts 2 cards from their hand on top of their deck.
+Attack: 9
+VP: 5
+
+[i]Dark Technology[/i]
+Fight: You may recruit a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from the HQ for free.
+
+[i]Monarch's Decree[/i]
+Fight: Choose one: each other player draws a card or each other player discards a card.
+
+[i]Secrets of Time Travel[/i]
+Fight: Take another turn after this one.
+
+[i]Treasures of Latveria[/i]
+Fight: When you draw a new hand of cards at the end of this turn, draw three extra cards.
+
+
+[b]Loki[/b]
+Always Leads: Enemies of Asgard
+Master Strike: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
+Attack: 10
+VP: 5
+
+[i]Cruel Ruler[/i]
+Fight: Defeat a Villain in the City for free.
+
+[i]Maniacal Tyrant[/i]
+Fight: KO up to four cards from your discard pile.
+
+[i]Vanishing Illusions[/i]
+Fight: Each other player KOs a Villain from their Victory Pile.
+
+[i]Whispers and Lies[/i]
+Fight: Each other player KOs two Bystanders from their Victory Pile.
+
+
+[b]Magneto[/b]
+Always Leads: Brotherhood
+Master Strike: Each player reveals an X-Men Hero or discards down to four cards.
+Attack: 8
+VP: 5
+
+[i]Bitter Captor[/i]
+Fight: Recruit an X-Men Hero from the HQ for free.
+
+[i]Crushing Shockwave[/i]
+Fight: Each other player reveals an X-Men Hero or gains two Wounds.
+
+[i]Electromagnetic Bubble[/i]
+Fight: Choose one of your X-Men Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card.
+
+[i]Xavier's Nemesis[/i]
+Fight: For each of your X-Men Heroes, rescue a Bystander.
+
+
+[b]Red Skull[/b]
+Always Leads: HYDRA
+Master Strike: Each player KOs a Hero from their hand.
+Attack: 7
+VP: 5
+
+[i]Endless Resources[/i]
+Fight: You get +4 Recruit Points.
+
+[i]HYDRA Conspiracy[/i]
+Fight: Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile.
+
+[i]Negablast Grenades[/i]
+Fight: You get +3 Attack.
+
+[i]Ruthless Dictator[/i]
+Fight: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
+
+
+== Dark City ==
+
+
+[b]Apocalypse[/b]
+Always Leads: Four Horsemen
+Four Horsemen Villains get +2 Attack
+Apocalypse Wins: When Famine, Pestilence, War, and Death have escaped
+Master Strike: Each player reveals their hand and puts all their Heroes that cost 1 or more on top of their deck.
+Attack: 12
+VP: 6
+
+[i]Apocalyptic Destruction[/i]
+Fight: Each other player KOs two Heroes from their discard pile that each cost 1 or more.
+
+[i]The End of All Things[/i]
+Fight: Each other player reveals the top three cards of their deck, KOs each one of those cards that cost 1 or more, and puts the rest back in any order.
+
+[i]Horsemen Are Drawing Nearer[/i]
+Fight: Each other player plays a Four Horsemen Villain from their Victory Pile as if playing it from the Villain Deck.
+
+[i]Immortal and Undefeated[/i]
+Fight: If this is not the final Tactic, rescue six Bystanders and shuffle this Tactic back into the other Tactics.
+
+
+[b]Kingpin[/b]
+Bribe
+Always Leads: Streets of New York
+Master Strike: Each player reveals a Marvel Knights Hero or discards their hand and draws 5 cards.
+Attack: 13*
+VP: 6
+
+[i]Call a Hit[/i]
+Fight: Choose a Hero from each player's discard pile and KO it.
+
+[i]Criminal Empire[/i]
+Fight: If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order.
+
+[i]Dirty Cops[/i]
+Fight: Put a 0 Cost Hero from the KO pile on top of each other player's deck.
+
+[i]Mob War[/i]
+Fight: Each other player plays a Henchman Villain from their Victory Pile as if playing it from the Villain Deck.
+
+
+[b]Mephisto[/b]
+Whenever a player gains a Wound, put it on top of that player's deck.
+Always Leads: Underworld
+Master Strike: Each player reveals a Marvel Knights Hero or gains a Wound.
+Attack: 10
+VP: 6
+
+[I]Damned If You Do...[/i]
+Fight: Each other player KOs a Bystander from their Victory Pile or gains a Wound.
+
+[i]Devilish Torment[/i]
+Fight: Each other player puts all 0 Cost cards from their discard pile on top of their deck in any order.
+
+[i]Pain Begets Pain[/i]
+Fight: Choose any number of Wounds from your hand and discard pile. The player to your right gains them.
+
+[i]The Price of Failure[/i]
+Fight: Each other player without a Mastermind Tactic in their Victory Pile gains a Wound.
+
+
+[b]Mr. Sinister[/b]
+Mr. Sinister gets +1 Attack for each Bystander he has.
+Always Leads: Marauders
+Master Strike: Mr. Sinister captures a Bystander. Then each player with exactly 6 cards reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards cards equal to the number of Bystanders Mr. Sinister has.
+Attack: 8
+VP: 6
+
+[i]Human Experimentation[/i]
+Fight: Mr. Sinister captures Bystanders equal to the number of Villains in the city.
+
+[i]Master Geneticist[/i]
+Fight: Reveal the top seven cards of the Villain Deck. Mr. Sinister captures all of the Bystanders you revealed. Put the rest back in random order.
+
+[i]Plans Within Plans[/i]
+Fight: Mr. Sinister captures a Bystander for each Mr. Sinister Tactic in players' Victory Piles, including this Tactic.
+
+[i]Telepathic Manipulation[/i]
+Fight: Mr. Sinister captures a Bystander from each other player's Victory Pile.
+
+
+[b]Stryfe[/b]
+Always Leads: MLF
+Master Strike: Stack this Master Strike next to Stryfe.
+Stryfe gets +1 Attack for each Master Strike stacked next to him. Each player reveals an X-Force Hero or discards a card at random.
+Attack: 7
+VP: 6
+
+[i]Furious Wrath[/i]
+Fight: Reveal the top six cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest back in random order.
+
+[i]Psychic Torment[/i]
+Fight: Look at the top five cards of your deck. Put one into your hand and discard the rest.
+
+[i]Swift Vengeance[/i]
+Fight: A Wound from the Wound Stack becomes a Master Strike that takes effect immediately.
+
+[i]Tide of Retribution[/i]
+Fight: Each other player reveals an X-Force Hero or gains a Wound.
+
+
+== Fantastic Four ==
+
+
+[b]Galactus[/b]
+Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Always Leads: Heralds of Galactus
+Master Strike: Destroy the city space closest to Galactus. Any Villain there escapes. Put this Master Strike there.
+Galactus Wins: When the city is destroyed.
+Attack: 20*
+VP: 7
+
+[i]Cosmic Entity[/i]
+Fight: Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then draws that many cards.
+
+[i]Force of Eternity[/i]
+Fight: When you draw a new hand of cards at the end of this turn, draw six extra cards, then discard six cards.
+
+[i]Panicked Mobs[/i]
+Fight: Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then rescues that many Bystanders.
+
+[i]Sunder the Earth[/i]
+Fight: Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ.
+
+
+[b]Mole Man[/b]
+Mole Man gets +1 Attack for each Subterranea Villain that has escaped.
+Always Leads: Subterranea
+Master Strike: All Subterranea Villians in the city escape. If any Villains escaped this way, each player gains a Wound.
+Attack: 7+
+VP: 6
+
+[i]Dig to Freedom[/i]
+Fight: Each other player chooses a Subterranea Villain in their Victory Pile and puts it into the Escaped Villains pile.
+
+[i]Master of Monsters[/i]
+Fight: If this is not the final Tactic, reveal the top six cards of the Villain Deck. Play all the Subterranea Villains you revealed. Put the rest on the bottom of the Villain Deck in random order.
+
+[i]Secret Tunnel[/i]
+Fight: You get +6 Attack usable only against Villains in the Streets.
+
+[i]Underground Riches[/i]
+Fight: You get +6 Recruit Points usable only to recruit Heroes in the HQ space under the Streets.
+
+
+== Paint the Town Red ==
+
+
+[b]Carnage[/b]
+Always Leads: Maximum Carnage
+Master Strike: Feast on each player. Whenever this Master Strike feasts on a player's 0-cost Hero, that player gains a Wound.
+Attack: 9
+VP: 6
+
+[i]Drooling Jaws[/i]
+Fight: Each player reveals the top card of their deck. Then Carnage feasts on the player of your choice.
+
+[i]Endless Hunger[/i]
+Feast
+If Carnage feasts on a 0-cost Hero this way, repeat this process.
+
+[i]Feed Me[/i]
+Feast
+You get + Recruit Points equal to the Cost of the card Carnage feasts on.
+
+[i]Om Nom Nom[/i]
+Feast
+If Carnage feasts on a 0-cost Hero this way, each other player KOs a Bystander from their Victory Pile.
+
+
+[b]Mysterio[/b]
+Always Leads: Sinister Six
+Master Strike: Shuffle this Master Strike into Mysterio's face down Mastermind Tactics. That card becomes a Mastermind Tactic worth 6 VP.
+Attack: 8
+VP: 6
+
+[i]Blurring Images[/i]
+Fight: You get +1 Recruit Point for each Mastermind Tactic Mysterio has left after this one.
+
+[i]Captive Audience[/i]
+Fight: Rescue a Bystander for each Mastermind Tactic Mysterio has left after this one.
+
+[i]Master of Illusions[/i]
+Fight: If this is not the final Tactic, shuffle a Master Strike Tactic from each other player's Victory Pile back into Mysterio's Mastermind Tactics.
+
+[i]Mists of Deception[/i]
+Fight: If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order.
+
+
+== Guardians of the Galaxy ==
+
+[b]Supreme Intelligence of the Kree[/b]
+Always Leads: Kree Starforce
+Master Strike: The Supreme Intelligence gains a Shard. Then each player reveals their hand and discards each with cost equal to, and cost one higher than, the number of Shards on the Supreme Intelligence.
+Attack: 9
+VP: 6
+
+[i]Combined Knowledge of All Kree[/i]
+Fight: The Supreme Intelligence gains a Shard for each Kree Villain in the city and/or the Escape Pile.
+
+[i]Cosmic Omniscience[/i]
+Fight: The Supreme Intelligence gains a Shard for each Master Strike in the KO pile.
+
+[i]Countermeasure Protocols[/i]
+Fight: The Supreme Intelligence gains a Shard for each Mastermind Tactic (including this one) in any player's Victory Pile.
+
+[i]Guide Kree Evolution[/i]
+Fight: The Supreme Intelligence and Kree Villains in the city each gain a Shard.
+
+
+[b]Thanos[/b]
+Always Leads: Infinity Gems
+Thanos gets -2 Attack for each Infinity Gem Artifact card controlled by any player.
+Master Strike: Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a "Bound Souls" pile.
+Attack: 24
+VP: 7
+
+[i]Centuries of Envy[/i]
+Fight: Each other playe discards an Infinity Gem Artifact card they control.
+
+[i]God of Death[/i]
+Fight: Each other player reveals their hand and gains a Wound for each card that player has with the same card name as any card in Thanos' Bound Souls pile.
+
+[i]Keeper of Soulds[/i]
+Fight: Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a non-grey Hero from their discard pile into Thanos' Bound Souls pile.
+
+[i]The Mad Titan[/i]
+Fight: Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile.
