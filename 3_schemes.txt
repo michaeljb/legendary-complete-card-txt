@@ -1,6 +1,5 @@
-Schemes
-
-== Legendary ==
+== Legendary Schemes ==
+Base Schemes
 
 [b]The Legacy Virus[/b]
 [i]Setup[/i]: 8 Twists. Wound stack holds 6 Wounds per player.
@@ -50,7 +49,8 @@ Schemes
 
 
 
-== Dark City ==
+== Legendary: Dark City Schemes ==
+DC Schemes
 
 [b]Capture Baby Hope[/b]
 [i]Setup[/i]: 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
@@ -101,7 +101,9 @@ Schemes
 
 
 
-== Fantastic Four ==
+== Legendary: Fantastic Four Schemes ==
+FF Schemes
+F4 Schemes
 
 [b]Bath the Earth in Cosmic Rays[/b]
 [i]Setup[/i]: 6 Twists.
@@ -126,7 +128,8 @@ Schemes
 
 
 
-== Paint the Town Red ==
+== Legendary: Paint the Town Red Schemes ==
+PtTR Schemes
 
 [b]The Clone Saga[/b]
 [i]Setup[/i]: 8 Twists.
@@ -153,8 +156,21 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [i]Twist 7[/i]: Evil Wins!
 
 
+== Legendary: Villains Plots ==
 
-== Guardians of the Galaxy ==
+Build an Underground MegaVault Prison
+Cage Villains in Power-Supressing Cells
+Crown Thor King of Asgard
+Crush HYDRA
+Graduation at Xavier's X-Academy
+Infiltrate the Lair With Spies
+Mass Produce War Machine Armor
+Resurrect Heroes With Norn Stones
+
+
+== Legendary: Guardians of the Galaxy Schemes ==
+Guardians Schemes
+GotG Schemes
 
 [b]Forge the Infinity Gauntlet[/b]
 [i]Setup[/i]: 8 Twists. Always include the Infinity Gems Villain Group.
