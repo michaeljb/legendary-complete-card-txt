@@ -2,12 +2,16 @@
 Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
 
 
+[b]Bindings[/b]
+Betrayal: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
+
 
 Bystanders
 
 All Bystanders are worth 1 VP.
 
-== Dark City ==
+== Legendary: Dark City Bystanders ==
+DC Bystanders
 
 [b]News Reporter[/b] (3 copies)
 When you rescue this Bystander, draw a card.
@@ -17,3 +21,18 @@ When you rescue this Bystander, you may KO a Wound from your hand or from any pl
 
 [b]Radiation Scientist[/b] (4 copies)
 When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.
+
+
+== Legendary: Villains Bystanders ==
+
+[b]Computer Hacker[/b] (? copies)
+When you kidnap this bystander, draw an extra card when you draw a new hand at the end of your turn.
+
+[b]Engineer[/b] (? copies)
+When you kidnap this Bystander, reveal the top card of your deck. If it costs 0 - KO it.
+
+[b]Public Speaker[/b] (? copies)
+When you kidnap this Bystander, gain 1 recruit.
+
+[b]Rockstar[/b] (? copies)
+When you kidnap this bystander, kidnap another bystander.
