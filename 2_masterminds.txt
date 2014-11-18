@@ -1,8 +1,5 @@
-Masterminds
-
-
-== Legendary ==
-
+== Legendary Masterminds ==
+Base Masterminds
 
 [b]Dr. Doom[/b]
 Always Leads: Doombot Legion
@@ -80,8 +77,8 @@ Fight: You get +3 Attack.
 Fight: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
 
 
-== Dark City ==
-
+== Legendary: Dark City Masterminds ==
+DC Masterminds
 
 [b]Apocalypse[/b]
 Always Leads: Four Horsemen
@@ -184,8 +181,9 @@ Fight: A Wound from the Wound Stack becomes a Master Strike that takes effect im
 Fight: Each other player reveals an X-Force Hero or gains a Wound.
 
 
-== Fantastic Four ==
-
+== Legendary: Fantastic Four Masterminds ==
+FF Masterminds
+F4 Masterminds
 
 [b]Galactus[/b]
 Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -228,8 +226,8 @@ Fight: You get +6 Attack usable only against Villains in the Streets.
 Fight: You get +6 Recruit Points usable only to recruit Heroes in the HQ space under the Streets.
 
 
-== Paint the Town Red ==
-
+== Legendary: Paint the Town Red Masterminds ==
+PtTR Masterminds
 
 [b]Carnage[/b]
 Always Leads: Maximum Carnage
@@ -272,7 +270,17 @@ Fight: If this is not the final Tactic, shuffle a Master Strike Tactic from each
 Fight: If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order.
 
 
-== Guardians of the Galaxy ==
+== Legendary: Villains Commanders ==
+
+Dr. Strange
+Nick Fury
+Odin
+Professor X
+
+
+== Legendary: Guardians of the Galaxy Masterminds ==
+Guardians Masterminds
+GotG Masterminds
 
 [b]Supreme Intelligence of the Kree[/b]
 Always Leads: Kree Starforce
