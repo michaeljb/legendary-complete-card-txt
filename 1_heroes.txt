@@ -7,9 +7,7 @@ I'm happy to take feedback on how the info is presented here, I'm certain there 
 This list includes cards from all expansions, through Paint the Town Red, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
 
 
-Starting Cards
-
-
+Legendary Starting Cards
 == S.H.I.E.L.D. Cards ==
 
 [b]S.H.I.E.L.D. Agent[/b] (8 copies in starting deck)
@@ -31,6 +29,37 @@ Cost: 0
 Cost: 3
 -----
 2 Recruit Points
+
+
+== HYDRA Cards ==
+Legendary: Villains Starting Cards
+
+[b]Hydra Operative[/b]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR]
+Cost: 0
+-----
+1 Recruit Point
+
+
+[b]Hydra Soldier[/b]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR]
+Cost: 0
+-----
+1 Attack
+
+
+[b]New Recruits[/b]
+Cost: 2
+-----
+1 Attack
+Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
+
+
+[b]Madame Hydra[/b]
+Cost: 3
+-----
+2 Recruit Points
+Dodge: To play this card, you must discard a card from your hand.
 
 
 == Legendary Heroes ==
