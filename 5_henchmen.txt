@@ -39,7 +39,22 @@ VP: 1
 
 == Legendary: Villains Backup Adversaries ==
 
-Asgardian Warriors
-Cops
-Multiple Man
-S.H.I.E.L.D. Assault Squad
+[b]Asgardian Warriors[/b]
+Fight: Draw a card.
+Attack: 3
+VP: 1
+
+[b]Cops[/b]
+Fight: Gain a New Recruit.
+Attack: 3
+VP: 1
+
+[b]Multiple Man[/b]
+Fight: KO one of your Allies for each other Multiple Man in your Victory Pile.
+Attack: 3
+VP: 1
+
+[b]S.H.I.E.L.D. Assault Squad[/b]
+Fight: Discard the top card of your deck. Then KO an Ally from your discard pile.
+Attack: 3
+VP: 1
