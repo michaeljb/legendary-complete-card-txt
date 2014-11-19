@@ -212,7 +212,7 @@ VP: 4
 Elusive 7
 
 
-[b]Defenders[/b]
+[b]Defenders[/b] (Dr. Strange always leads)
 [i]Daredevil[/i]
 Attack: 5
 VP: 3
@@ -330,7 +330,7 @@ Ambush: (After Storm enters the city.) Move Storm to the Rooftops. If another Ad
 Fight: If you fight Storm on the Rooftops, each other player gains a Bindings.
 
 
-[b]X-Men First Class[/b]
+[b]X-Men First Class[/b] (Professor X always leads)
 [i]Angel[/i]
 Attack: 4+
 VP: 2
