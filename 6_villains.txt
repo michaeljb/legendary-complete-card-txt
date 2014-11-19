@@ -563,17 +563,26 @@ Overrun: Each player gains a Bindings.
 [i]Havok[/i]
 Attack: 4+
 VP: 2
-X-Treme Attack.  Ambush: Each player who does not reveal a Ranged Ally discards two cards, then draws a card.
+X-Treme Attack.
+Ambush: Each player who does not reveal a Ranged Ally discards two cards, then draws a card.
 
 [i]Rogue[/i]
 Attack: 4+
 VP: 2
-X-Treme Attack.  Fight: Each other player discards the top card of their deck. Play a copy of one of those Allies.
+X-Treme Attack.
+Fight: Each other player discards the top card of their deck. Play a copy of one of those Allies.
 
 [i]Scarlet Witch[/i]
 Attack: 5
 VP: 3
 Fight: Reveal the top three cards of your deck. Put any that have odd-numbered costs into your hand and discard the rest. (0 is even.)
+
+[i]Wolverine[/i]
+Attack: 7+
+VP: 5
+X-Treme Attack.
+Wolverine gets +1 Attack for each card you've drawn this turn.
+Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then shuffle Wolverine back into the Adversary deck.
 
 
 [b]Uncanny X-Men[/b]
