@@ -39,7 +39,7 @@ VP: 1
 
 == Legendary: Villains Backup Adversaries ==
 
-[b]Asgardian Warriors[/b]
+[b]Asgardian Warriors[/b] (Odin always leads)
 Fight: Draw a card.
 Attack: 3
 VP: 1
