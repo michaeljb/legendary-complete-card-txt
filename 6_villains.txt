@@ -170,199 +170,6 @@ Attack: 5
 VP: 3
 
 
-== Legendary: Villains Adversary Groups ==
-
-[b]Avengers[/b] (Nick Fury always leads)
-[i]Ant-Man[/i]
-Attack: 3*
-VP: 2
-Elusive 4
-
-[i]Captain America[/i]
-Attack: 4+
-VP: 5
-Ambush: Each player reveals three colors of Allies or gains a Bindings. (Grey is a color.)
-Fight: Same effect. Captain America gets +1 Attack for each color of Ally in the Lair.
-Overrun: Demolish each player.
-
-[i]Hulk[/i]
-Attack: 8
-VP: 6
-Ambush: Demolish each player twice.
-Fight: Same effect.
-Overrun: Same effect.
-
-[i]Iron Man[/i]
-Attack: 7
-VP: 5
-Ambush: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or gains a Bindings.
-Fight: Same effect.
-Overrun: Demolish each player.
-
-[i]Thor[/i]
-Attack: 7
-VP: 5
-Ambush: KO each Ally from the Lair that costs 7 Cost or more.
-Fight: Same effect.
-Overrun: Demolish each player.
-
-[i]Wasp[/i]
-Attack: 1*
-VP: 4
-Elusive 7
-
-
-[b]Defenders[/b] (Dr. Strange always leads)
-[i]Daredevil[/i]
-Attack: 5
-VP: 3
-Fight: The next Ally you recruit this turn goes on top of your deck.
-Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, discards it.
-
-[i]Iron Fist[/i]
-Attack: 3*
-VP: 2
-To fight Iron Fist, you must also reveal three Allies with different costs.
-
-[i]Namor, The Sub-Mariner[/i]
-Attack: 6
-VP: 4
-Ambush: If any other Defenders Adversaries are in the city, each player gains a Bindings.
-Fight: Same Effect.
-Overrun: Same Effects.
-
-[i]Luke Cage[/i]
-Attack: 4
-VP: 2
-Fight: Each player reveals the top three cards of their deck. You choose which players discard them and which players put them back on top in the order of their choice.
-
-
-[b]Marvel Knights[/b]
-[i]Black Panther[/i]
-Attack: 4
-VP: 2
-Fight: Each player draws a card.
-
-[i]Elektra[/i]
-Attack: 4
-VP: 2
-Fight: KO one of your Allies. Then KO a Bindings from your hand or discard pile.
-
-[i]Punisher[/i]
-Attack: 6
-VP: 4
-Fight: Reveal the top card of your deck. If it costs 0 Cost, KO it.
-Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, KOs it.
-
-[i]Ghost Rider[/i]
-Attack: 5
-VP: 3
-Fight: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.
-Overrun: Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings.
-
-
-[b]Spider Friends[/b]
-[i]Black Cat[/i]
-Attack: 2*
-VP: 2
-Elusive 6.
-Fight: Each player reveals the top card of their deck. Choose any number of those cards to be discarded.
-
-[i]Firestar[/i]
-Attack: 5
-VP: 3
-Fight: Reveal the top card of your deck. If it has a Recruit icon, KO it.
-Overrun: Each player reveals the top card of their deck, and if it has an Attack icon, KO it.
-
-[i]Moon Knight[/i]
-Attack: 4
-VP: 2
-Fight: KO one of your Allies. Then, if you fought Moon Knight on the Rooftops, KO another of your Allies.
-
-[i]Spider-Man[/i]
-Attack: 2
-VP: 3
-Fight: Reveal the top card of the Adversary Deck. If that card is worth 2 Victory Points or less, play it. If you play a card from the Adversary Deck this way, put Spider-Man back on top of the Adversary Deck.
-Overrun: Each player gains a Bindings.
-
-
-[b]Uncanny Avengers[/b]
-[i]Havok[/i]
-Attack: 4+
-VP: 2
-X-Treme Attack.  Ambush: Each player who does not reveal a Ranged Ally discards two cards, then draws a card.
-
-[i]Rogue[/i]
-Attack: 4+
-VP: 2
-X-Treme Attack.  Fight: Each other player discards the top card of their deck. Play a copy of one of those Allies.
-
-[i]Scarlet Witch[/i]
-Attack: 5
-VP: 3
-Fight: Reveal the top three cards of your deck. Put any that have odd-numbered costs into your hand and discard the rest. (0 is even.)
-
-
-[b]Uncanny X-Men[/b]
-[i]Colossus[/i]
-Attack: 5+
-VP: 3
-X-Treme Attack.
-Fight: You may KO a Bindings from your hand or discard pile. If you don't, each other player gains a Bindings.
-
-[i]Nightcrawler[/i]
-Attack: 4+
-VP: 2
-X-Treme Attack.
-Fight: Choose an Ally you played this turn. When you draw a new hand of cards at the end of this turn, add that Ally to your new hand as an extra card.
-
-[i]Shadowcat[/i]
-Attack: 2*+
-VP: 2
-X-Treme Attack.
-Elusive 5
-
-[i]Storm[/i]
-Attack: 4+
-VP: 2
-X-Treme Attack.
-Ambush: (After Storm enters the city.) Move Storm to the Rooftops. If another Adversary is already there, swap them.
-Fight: If you fight Storm on the Rooftops, each other player gains a Bindings.
-
-
-[b]X-Men First Class[/b] (Professor X always leads)
-[i]Angel[/i]
-Attack: 4+
-VP: 2
-X-Treme Attack.
-Fight: Draws two cards, then discard a card.
-
-[i]Iceman[/i]
-Attack: 5+
-VP: 3
-X-Treme Attack.
-Fight: Draw a card for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally you played this turn.
-
-[i]Jean Grey[/i]
-Attack: 6+
-VP: 4
-X-Treme Attack.
-Ambush: Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).
-Fight: You get +1 Recruit for each Bystander you kidnapped this turn.
-
-[i]Beast[/i]
-Attack: 5+
-VP: 3
-X-Treme Attack.
-Fight: KO one of your Allies. Then KO another of your Allies if there are any other Adversaries in the city with X-Treme Attack.
-
-[i]Cyclops[/i]
-Attack: 6+
-VP: 4
-X-Treme Attack. To Fight Cyclops, you must also discard a card.
-Overrun: Each player reveals a Brotherhood Ally or discards a card.
-
-
 == Legendary: Dark City Villain Groups ==
 DC Villain Groups
 
@@ -635,6 +442,198 @@ Escape: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][
 Attack: 4
 VP: 2
 
+
+== Legendary: Villains Adversary Groups ==
+
+[b]Avengers[/b] (Nick Fury always leads)
+[i]Ant-Man[/i]
+Attack: 3*
+VP: 2
+Elusive 4
+
+[i]Captain America[/i]
+Attack: 4+
+VP: 5
+Ambush: Each player reveals three colors of Allies or gains a Bindings. (Grey is a color.)
+Fight: Same effect. Captain America gets +1 Attack for each color of Ally in the Lair.
+Overrun: Demolish each player.
+
+[i]Hulk[/i]
+Attack: 8
+VP: 6
+Ambush: Demolish each player twice.
+Fight: Same effect.
+Overrun: Same effect.
+
+[i]Iron Man[/i]
+Attack: 7
+VP: 5
+Ambush: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or gains a Bindings.
+Fight: Same effect.
+Overrun: Demolish each player.
+
+[i]Thor[/i]
+Attack: 7
+VP: 5
+Ambush: KO each Ally from the Lair that costs 7 Cost or more.
+Fight: Same effect.
+Overrun: Demolish each player.
+
+[i]Wasp[/i]
+Attack: 1*
+VP: 4
+Elusive 7
+
+
+[b]Defenders[/b] (Dr. Strange always leads)
+[i]Daredevil[/i]
+Attack: 5
+VP: 3
+Fight: The next Ally you recruit this turn goes on top of your deck.
+Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, discards it.
+
+[i]Iron Fist[/i]
+Attack: 3*
+VP: 2
+To fight Iron Fist, you must also reveal three Allies with different costs.
+
+[i]Namor, The Sub-Mariner[/i]
+Attack: 6
+VP: 4
+Ambush: If any other Defenders Adversaries are in the city, each player gains a Bindings.
+Fight: Same Effect.
+Overrun: Same Effects.
+
+[i]Luke Cage[/i]
+Attack: 4
+VP: 2
+Fight: Each player reveals the top three cards of their deck. You choose which players discard them and which players put them back on top in the order of their choice.
+
+
+[b]Marvel Knights[/b]
+[i]Black Panther[/i]
+Attack: 4
+VP: 2
+Fight: Each player draws a card.
+
+[i]Elektra[/i]
+Attack: 4
+VP: 2
+Fight: KO one of your Allies. Then KO a Bindings from your hand or discard pile.
+
+[i]Punisher[/i]
+Attack: 6
+VP: 4
+Fight: Reveal the top card of your deck. If it costs 0 Cost, KO it.
+Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, KOs it.
+
+[i]Ghost Rider[/i]
+Attack: 5
+VP: 3
+Fight: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.
+Overrun: Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings.
+
+
+[b]Spider Friends[/b]
+[i]Black Cat[/i]
+Attack: 2*
+VP: 2
+Elusive 6.
+Fight: Each player reveals the top card of their deck. Choose any number of those cards to be discarded.
+
+[i]Firestar[/i]
+Attack: 5
+VP: 3
+Fight: Reveal the top card of your deck. If it has a Recruit icon, KO it.
+Overrun: Each player reveals the top card of their deck, and if it has an Attack icon, KO it.
+
+[i]Moon Knight[/i]
+Attack: 4
+VP: 2
+Fight: KO one of your Allies. Then, if you fought Moon Knight on the Rooftops, KO another of your Allies.
+
+[i]Spider-Man[/i]
+Attack: 2
+VP: 3
+Fight: Reveal the top card of the Adversary Deck. If that card is worth 2 Victory Points or less, play it. If you play a card from the Adversary Deck this way, put Spider-Man back on top of the Adversary Deck.
+Overrun: Each player gains a Bindings.
+
+
+[b]Uncanny Avengers[/b]
+[i]Havok[/i]
+Attack: 4+
+VP: 2
+X-Treme Attack.  Ambush: Each player who does not reveal a Ranged Ally discards two cards, then draws a card.
+
+[i]Rogue[/i]
+Attack: 4+
+VP: 2
+X-Treme Attack.  Fight: Each other player discards the top card of their deck. Play a copy of one of those Allies.
+
+[i]Scarlet Witch[/i]
+Attack: 5
+VP: 3
+Fight: Reveal the top three cards of your deck. Put any that have odd-numbered costs into your hand and discard the rest. (0 is even.)
+
+
+[b]Uncanny X-Men[/b]
+[i]Colossus[/i]
+Attack: 5+
+VP: 3
+X-Treme Attack.
+Fight: You may KO a Bindings from your hand or discard pile. If you don't, each other player gains a Bindings.
+
+[i]Nightcrawler[/i]
+Attack: 4+
+VP: 2
+X-Treme Attack.
+Fight: Choose an Ally you played this turn. When you draw a new hand of cards at the end of this turn, add that Ally to your new hand as an extra card.
+
+[i]Shadowcat[/i]
+Attack: 2*+
+VP: 2
+X-Treme Attack.
+Elusive 5
+
+[i]Storm[/i]
+Attack: 4+
+VP: 2
+X-Treme Attack.
+Ambush: (After Storm enters the city.) Move Storm to the Rooftops. If another Adversary is already there, swap them.
+Fight: If you fight Storm on the Rooftops, each other player gains a Bindings.
+
+
+[b]X-Men First Class[/b] (Professor X always leads)
+[i]Angel[/i]
+Attack: 4+
+VP: 2
+X-Treme Attack.
+Fight: Draws two cards, then discard a card.
+
+[i]Iceman[/i]
+Attack: 5+
+VP: 3
+X-Treme Attack.
+Fight: Draw a card for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally you played this turn.
+
+[i]Jean Grey[/i]
+Attack: 6+
+VP: 4
+X-Treme Attack.
+Ambush: Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).
+Fight: You get +1 Recruit for each Bystander you kidnapped this turn.
+
+[i]Beast[/i]
+Attack: 5+
+VP: 3
+X-Treme Attack.
+Fight: KO one of your Allies. Then KO another of your Allies if there are any other Adversaries in the city with X-Treme Attack.
+
+[i]Cyclops[/i]
+Attack: 6+
+VP: 4
+X-Treme Attack. To Fight Cyclops, you must also discard a card.
+Overrun: Each player reveals a Brotherhood Ally or discards a card.
 
 
 == Legendary: Guardians of the Galaxy Villain Groups ==
