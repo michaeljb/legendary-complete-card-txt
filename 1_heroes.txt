@@ -1456,21 +1456,498 @@ To play this card, you must put two cards from your hand on top of your deck.
 
 == Legendary: Villains Allies ==
 
-Bullseye
-Dr. Octopus
-Electro
-Enchantress
-Green Goblin
-Juggernaut
-Kingpin
-Kraven
-Loki
-Magneto
-Mysterio
-Mystique
-Sabretooth
-Ultron
-Venom
+[b]Bullseye[/b]
+Crime Syndicate
+
+[i]Everything's A Weapon (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+
+[i]Fulfill The Contract (5 copies)[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+Dodge
+Choose an Adversary Group. You get +1 Recruit Point for each Adversary in your Victory Pile from that Adversary Group.
+
+[i]Specialist Assassin (3 copies)[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Choose an Adversary. It gets -1 Attack for each Adversary in your Victory Pile from that Adversary Group.
+
+[i]Perfect Aim (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+You get +5 Attack for each Commander Tactic in your Victory Pile.
+
+
+[b]Dr. Octopus[/b]
+Sinister Six
+
+[i]Brilliant Research (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+
+[i]Crazed Experiments (5 copies)[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Draw a card.
+
+[i]Eighth Time's a Charm (3 copies)[/i]
+Cost: 6
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+If this is the eighth card you played this turn, you get +2 Attack.
+
+[i]Octo-Pulverize (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+
+Discard cards from the top of your deck until your deck runs out or you have discarded 8 cards (don't shuffle). Then you get +1 Attack for each card you discarded this turn.
+
+
+[b]Electro[/b]
+Sinister Six
+
+[i]Electroshock Therapy (5 copies)[/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Dodge
+Reveal the top card of your deck. You may KO it.
+
+[i]Shocking Robbery (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Dodge
+You get +3 Attack usable only against Adversaries in the Bank.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Instead you may get +3 Attack usable only against the Commander.
+
+[i]Supercharge (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+
+You get +1 Attack for each card you discarded this turn.
+
+[i]Anti-Matter (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4 Attack
+All Adversaries and the Commander get -1 Attack this turn. Sinister Six Sinister Six: Safe Effect
+
+
+[b]Enchantress[/b]
+Foes of Asgard
+
+[i]Enchant the Senses (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Whenever you defeat an Adversary this turn, you gain a New Recruit.
+
+[i]Soul Sacrifice (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+1+ Recruit Points
+You may KO a card from your hand or discard pile. You get + Recruit Points equal to that card's Cost.
+
+[i]Irresistible Bribe (3 copies)[/i]
+Cost: 6
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+Choose an Adversary. You can spend any combination of Recruit Points and Attack to fight that Adversary this turn. [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You can spend any combination of Recruit Points and Attack to fight this Commander this turn.
+
+[i]Unending Anguish (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Draw three cards. Foes of Asgard: Then put Unending Anguish on the bottom of your deck.
+
+
+[b]Green Goblin[/b]
+Sinister Six
+
+[i]Goblin Glider (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Dodge
+When you play or Dodge with this card, another [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] Ally in your hand gains Dodge this turn.
+
+[i]Pumpkin Bombs (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Dodge
+If you discarded any cards this turn, you get +2 Attack.
+
+[i]Unstable Kidnapper (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+3 Recruit Points
+Dodge
+If you discarded any cards this turn, kidnap a Bystander.
+
+[i]Experimental Goblin Serum (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Return from your discard pile to your hand all the cards you discarded this turn.
+
+
+[b]Juggernaut[/b]
+Brotherhood
+
+[i]Crimson Gem of Cyttorak (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Each other player reveals the top card of their deck, and if it costs 1, 2, or 3, discards it. You get +1 Recruit for each card discarded this way.
+
+[i]Size Matters (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You get +1 Attack for each other card you played this turn that costs 4 or more.
+
+[i]Runaway Train (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+To play this card,  you must discard a card from your hand.
+
+[i]Unstoppable Force (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+5+ Attack
+Choose one: Each player KOs two cards from their hand, or each player KOs two cards from their discard pile. Then you get +1 Attack for each non-grey Ally KO'd this turn.
+
+
+[b]Kingpin[/b]
+Crime Syndicate
+
+[i]Pull the Strings (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Whenever a card effect causes you to gain a New Recruit this turn, put that New Recruit into your hand. Gain a New Recruit.
+
+[i]Recruitment Day (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Gain a New Recruit.
+
+[i]Import Illegal Weapons (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+You get +1 Attack for each New Recruit you played this turn.
+
+[i]Endless Underlings (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+Gain three New Recruits. Crime Syndicate Crime Syndicate: If you would return a New Recruit to the New Recruit Stack this turn, put it on the bottom of your deck instead.
+
+
+[b]Kraven[/b]
+Sinister Six
+
+[i]Ceaseless Tracker (5 copies)[/i]
+Cost: 2
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1+ Recruit Points
+Dodge
+Sinister Six: You get +2 Recruit.
+
+[i]Corner the Prey (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Choose an Adversary. If there are no empty city spaces adjacent to that Adversary, it gets -1 Attack this turn.
+
+[i]Hunt Down (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Choose an Adversary and a direction. Move that Adversary as many adjacent, empty spaces as you can in that direction. You get +1 Attack for each space it moved.
+
+[i]He's the Best Around (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+You get + Attack equal to the Cost of the highest-cost Ally in the Lair.
+
+
+[b]Loki[/b]
+Foes of Asgard
+
+[i]All Humans Are Expendable (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, gain a New Recruit.
+
+[i]Illusionary Bindings  (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally or gains a Bindings. If any number of players gained a Bindings this way, you get +1 Recruit.
+
+[i]Father of Lies (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+3 Attack
+Look at the top two cards of another player's deck. Without revealed those cards, call one of them "Good" and one "Bad." That player puts one of those cards into their discard pile and the other into your discard pile.
+
+[i]God of Mischief (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+6 Attack
+Each player reveals a Foes of Asgard Ally or reveals their hand. For each player that revealed their hand, you may swap a card from that hand with a card in the Lair of the same cost.
+
+
+[b]Magneto[/b]
+Brotherhood
+
+[i]Magnetic Levitation (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Dodge
+You may choose a Bindings from your hand or discard pile and have another player gain that Bindings. If you do, you get +2 Attack.
+
+[i]Mutants Will Rule (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Dodge
+Choose a player. That player reveals a Brotherhood Ally or gains a Bindings. If a Bindings is gained this way, you get +1 Recruit.
+
+[i]Weapons From Scrap Metal (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+3 Attack
+If you discarded any cards this turn, draw a card.
+
+[i]Master of Magnetism (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Brotherhood: For each other Brotherhood Ally you played this turn, choose a player to gain a Bindings. Then you get +2 Attack for each Bindings gained this turn.
+
+
+[b]Mysterio[/b]
+Sinister Six
+
+[i]Psychedelic Mist (5 copies)[/i]
+Cost: 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+Dodge
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Attack.
+
+[i]Shifting Decoy (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Put a card from the lair on the bottom of the Ally Deck. If that card had a Recruit icon, you get +2 Recruit Points. If that card had an Attack icon, you get +2 Attack.
+
+[i]Holographic Illusion (3 copies)[/i]
+Cost: 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+You get +1 Attack for each color of Ally in the Lair.
+
+[i]False Reflection (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+0+ Attack
+Put a card from the Lair on the bottom of the Ally Deck. You get + Recruit Points equal to that card's printed Recruit Points and + Attack equal to its printed Attack.
+Sinister Six: Then, for each other Sinister Six Ally you played this turn, do the same effect. (Use a different Ally from the Lair each time.)
+
+
+[b]Mystique[/b]
+Brotherhood
+
+[i]Hidden Weapons (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +3 Attack.
+
+[i]Show Your True Colors (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Dodge
+As you play this card, you may choose a class. This card is that class instead of [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] this turn.
+
+[i]Turn the Tide (3 copies)[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Reveal the top card of the Ally Deck. You may play a copy of that card this turn. When you do, put that card on the bottom of the Ally Deck.
+
+[i]Spy Games (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Reveal the top five cards of the Ally Deck. You get + Attack equal to their total printed Attack. Then put them back in any order.
+
+
+[b]Sabretooth[/b]
+Brotherhood
+
+[i]Leap of the Tiger (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+Reveal the top card of your deck, then put it back on top of your deck or into your discard pile. If that card was an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally, you get +2 Attack.
+
+[i]Take One for the Team (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+1 Recruit Point
+Reveal the top card of your deck. If it's a Brotherhood Ally, you may draw it. Otherwise, you may KO it.
+
+[i]Stealthy Predator (3 copies)[/i]
+Cost: 2
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+Reveal the top three cards of your deck. Draw one of them, discard one, and put the other back on top of your deck.
+
+[i]Upper Hand (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+Each player reveals a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or reveals the top card of their deck. Choose any number of those revealed top cards to be KO'd.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack for each card KO'd this turn.
+
+
+[b]Ultron[/b]
+
+[i]Army of Ultrons (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+Dodge
+Reveal a [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] card from your hand. That card is [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] instead of its normal color this turn.
+
+[i]Encephalo-Ray (5 copies)[/i]
+Cost: 2
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+0+ Attack
+Dodge
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you played this turn.
+
+[i]Genetic Experimentation (3 copies)[/i]
+Cost: 6
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+3 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Kidnap a Bystander for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you played this turn.
+
+[i]Molecular Rearrangement (1 copy)[/i]
+Cost: 8
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+5+ Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or discards their hand. Each player who discarded their hand this way draws 5 cards.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +3 Attack for each Ally discarded this way that costs 7 Cost or more.
+
+
+[b]Venom[/b]
+Sinister Six
+
+[i]Devour (5 copies)[/i]
+Cost: 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+2+ Attack
+You may KO a Bystander from your Victory Pile. If you do, you get +2 Attack.
+
+[i]Symbiote Takeover (5 copies)[/i]
+Cost: 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Kidnap a Bystander.
+
+[i]Horrify the Populace (3 copies)[/i]
+Cost: 6
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Each Adversary with a 4 Attack or more guards a Bystander.
+
+[i]Ravenous Greed (1 copy)[/i]
+Cost: 7
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+0+ Recruit Points
+5 Attack
+Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or KOs a Bystander from their Victory Pile.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Kidnap all Bystanders that were KO'd this turn. Then you get +1 Recruit for each Bystander you kidnapped this turn.
+
 
 == Legendary: Guardians of the Galaxy Heroes ==
 Guardians Heroes
