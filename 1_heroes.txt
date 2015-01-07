@@ -557,7 +557,7 @@ Cost: 4
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 2 Recruit Points
-When a card effect causes you to discard this card, resuce a Bystander and draw two cards.
+When a card effect causes you to discard this card, rescue a Bystander and draw two cards.
 
 [i]High-Speed Chase (5 copies)[/i]
 Cost: 3
