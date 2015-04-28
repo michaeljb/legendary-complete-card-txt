@@ -232,3 +232,26 @@ GotG Schemes
 [i]Twist[/i]: Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
 [i]Special Rules[/i]: During your turn, any number of times, you may spend 2 Recruit Points to gain one of the Mastermind's Shards.
 [i]Evil Wins[/i]: When the Mastermind has 10 Shards or when there are no more Shards in the supply.
+
+
+== Legendary Villains: Fear Itself Plots ==
+
+[b]Fear Itself[/b]
+[i]Setup[/i]: 10 Twists.
+Earth’s Fear Level starts at 8. The number of Allies in the Lair is always equal to the Fear Level.
+[i]Twist[/i]: KO an Ally from the Liar. The Fear Level goes down by 1.
+[i]Good Wins[/i]: When the Fear Level is 0.
+
+[b]Last Stand at Avengers Tower[/b]
+[i]Setup[/i]: 6 Twists.
+[i]Twist[/i]: Stack this Twist above the Rooftops as StarkTech Defenses. If there is an Adversary on the Rooftops, choose 3 Allies from the Lair and KO them.
+[i]Special Rules[/i]: While an Adversary is on the Rooftops, it gets +1 Attack for each StarkTech Defenses.
+[i]Good Wins[/i]: When there are 13 non-grey Allies in the KO pile.
+
+[b] The Traitor[/b]
+[i]Setup[/i]: 2+ players only. 8 Twists. Shuffle a 'Betrayal Deck' of 3 Bindings per player and a 9th Twist.
+[i]Twists 1-3[/i]: If there is no revealed Traitor, each player puts a 'Betrayl Card' from the Betrayal Deck face down in front of them and looks at it.
+[i]Special Rules[/i]: During your turn, you may reveal a Twist from your Betrayal Cards to become 'the Traitor'. If you do, each other player gains all the Bindings from their Betrayal Cards.
+During your turns, you may spend 4 Attack any number of times to play an additional card from the Adversary Deck.
+[i]Twist 8[/i]: Good wins! The Traitor reveals themself and also wins.
+[i]When the players win[/i]: The Traitor reveals themself and loses.
