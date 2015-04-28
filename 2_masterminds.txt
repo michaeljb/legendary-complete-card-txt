@@ -390,3 +390,24 @@ Fight: Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a 
 
 [i]The Mad Titan[/i]
 Fight: Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile.
+
+
+== Legendary Villains: Fear Itself Commanders ==
+
+[b]Uru-Enchanted Iron Man[/b]
+Always Leads: The Mighty.
+Command Strike: Demolish each player. Then stack this Strike next to Iron Man. Uru-Enchanted Iron Man has an Uru-Enchanted Weapon for each Strike stacked here.
+Attack: 7*
+VP: 6
+
+[i]Armor of the Destroyer[/i]
+Fight: For each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you have, demolish each other player.
+
+[i]Pepper Potts in Rescue Armor[/i]
+Fight: A Bystander from the Bystander Stack becomes a Command Strike that takes effect immediately.
+
+[i]Quantum Inventions[/i]
+Fight: Draw two cards. Then if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card, draw two more cards.
+
+[i]Repulsor Coils[/i]
+Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.
