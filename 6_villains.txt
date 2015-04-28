@@ -742,41 +742,41 @@ Fight or Fail: If Black Widow’s Weapons revealed any Bystanders, kidnap them.
 Attack: 3*
 VP: 4
 
-[i]Doctor Strange[/i] (1 copy)
-1 Uru-Enchanted Weapon
-Ambush: Reveal the top three cars of the Adversary. Put the one with the highest VP on top and the other two on bottom in any order.
-Fight or Fail: Get +2 Recruit Points.
+[i]Dr. Strange[/i] (1 copy)
+Uru-Enchanted Weapon
+Ambush: Reveal the top three cards of the Adversary Deck. Put the one with the highest VP on top and the other two on bottom in any order.
+Fight or Fail: You get +2 Recruit Points.
 Attack: 5*
 VP: 4
 
 [i]Hawkeye[/i] (1 copy)
-1 Uru-Enchanted Weapon
+Uru-Enchanted Weapon
 Fight or Fail: Choose one: either each other player draws a card or each other player discards a card.
 Attack: 3*
 VP: 2
 
 [i]Iron Fist[/i] (1 copy)
-1 Uru-Enchanted Weapon
-If his Uru weapon revealed an Adversary, KO one of your allies.
+Uru-Enchanted Weapon
+If his Uru weapon revealed an Adversary, KO one of your Allies.
 Attack: 3*
 VP: 2
 
 [i]Ms. Marvel[/i] (1 copy)
-1 Uru-Enchanted Weapon
-Fight or Fail: If her weapon revealed a Strike or Twist, play it.
-Overrun: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] ally or gains a Bindings.
+Uru-Enchanted Weapon
+Fight or Fail: If her weapon revealed a Command Strike or Twist, play it.
+Overrun: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally or gains a Bindings.
 Attack: 4*
 VP: 3
 
 [i]Red She-Hulk[/i] (1 copy)
-1 Uru-Enchanted Weapon
+Uru-Enchanted Weapon
 Fight or Fail: if her Weapon revealed an Adversary, put it in your Victory Pile.
 Attack: 4*
 VP: 2
 
 [i]Spider-Man[/i] (1 copy)
 2 Uru-Enchanted Weapons
-Fight or Fail: play all cards revealed by Spider-Man’s weapon that are worth two or less VP.
+Fight or Fail: Play all the cards revealed by his Uru-Enchanted Weapon that are worth 2 or less VP.
 Overrun: Each player gains a Bindings.
 Attack: 2*
 VP: 3
@@ -784,6 +784,6 @@ VP: 3
 [i]Wolverine[/i] (1 copy)
 2 Uru-Enchanted Weapons
 Fight or Fail: Draw two cards.
-Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.
+Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.
 Attack: 5*
 VP: 6
