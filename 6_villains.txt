@@ -530,7 +530,7 @@ Overrun: Each player reveals the top card of their deck and if it costs 1 Cost o
 [i]Ghost Rider[/i]
 Attack: 5
 VP: 3
-Fight: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.
+Fight: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit Points.
 Overrun: Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings.
 
 
@@ -630,7 +630,7 @@ Attack: 6+
 VP: 4
 X-Treme Attack.
 Ambush: Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).
-Fight: You get +1 Recruit for each Bystander you kidnapped this turn.
+Fight: You get +1 Recruit Point for each Bystander you kidnapped this turn.
 
 [i]Beast[/i]
 Attack: 5+
@@ -731,3 +731,59 @@ Fight: Put this into your discard pile as an Artifact.
 Artifact - When you play this Artifact, take another turn after this one. Use this ability only if this is the fist time any player has played the Time Gem this game.
 Attack: 6
 VP: 0
+
+
+== Legendary Villains: Fear Itself Adversary Groups ==
+
+[b]The Mighty[/b]
+[i]Black Widow[/i] (1 copy)
+2 Uru-Enchanted Weapons
+Fight or Fail: If Black Widow’s Weapons revealed any Bystanders, kidnap them.
+Attack: 3*
+VP: 4
+
+[i]Doctor Strange[/i] (1 copy)
+1 Uru-Enchanted Weapon
+Ambush: Reveal the top three cars of the Adversary. Put the one with the highest VP on top and the other two on bottom in any order.
+Fight or Fail: Get +2 Recruit Points.
+Attack: 5*
+VP: 4
+
+[i]Hawkeye[/i] (1 copy)
+1 Uru-Enchanted Weapon
+Fight or Fail: Choose one: either each other player draws a card or each other player discards a card.
+Attack: 3*
+VP: 2
+
+[i]Iron Fist[/i] (1 copy)
+1 Uru-Enchanted Weapon
+If his Uru weapon revealed an Adversary, KO one of your allies.
+Attack: 3*
+VP: 2
+
+[i]Ms. Marvel[/i] (1 copy)
+1 Uru-Enchanted Weapon
+Fight or Fail: If her weapon revealed a Strike or Twist, play it.
+Overrun: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] ally or gains a Bindings.
+Attack: 4*
+VP: 3
+
+[i]Red She-Hulk[/i] (1 copy)
+1 Uru-Enchanted Weapon
+Fight or Fail: if her Weapon revealed an Adversary, put it in your Victory Pile.
+Attack: 4*
+VP: 2
+
+[i]Spider-Man[/i] (1 copy)
+2 Uru-Enchanted Weapons
+Fight or Fail: play all cards revealed by Spider-Man’s weapon that are worth two or less VP.
+Overrun: Each player gains a Bindings.
+Attack: 2*
+VP: 3
+
+[i]Wolverine[/i] (1 copy)
+2 Uru-Enchanted Weapons
+Fight or Fail: Draw two cards.
+Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.
+Attack: 5*
+VP: 6
