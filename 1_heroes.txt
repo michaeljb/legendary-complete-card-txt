@@ -2112,3 +2112,195 @@ Cost: 8
 -----
 Artifact -
 Once per turn, gain a Shard for each Artifact you control.
+
+
+== Legendary Villains: Fear Itself Allies ==
+FI Allies
+
+[b]Greithoth, Breaker of Wills[/b] (Absorbing Man)
+Foes of Asgard
+
+[i]Mace of Chains[/i]
+Cost: 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+When you throw this, you get +2 Recruit Points.
+
+[i]Absorb Metal[/i]
+Cost 3
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+1+ Attack
+If you control an Artifact, you get +2 Attack.
+
+[i]Break the Will to Resist[/i]
+Cost 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Each player discards the bottom card of their deck. You get +1 Attack per non-grey card discarded this way.
+
+[i]Body of Uru[/i]
+Cost 7
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+4+ Attack
+You gain Attack equal to the number of Artifacts controlled by all players and in the Lair.
+
+
+[b]Kuurth, Breaker of Stone[/b] (Juggernaut)
+Foes of Asgard
+
+Unstoppable Sledge
+Cost 4
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Thrown Artifact -
+When you throw this, you get +2 Attack.
+
+[i]Reach for Power[/i]
+Cost 4
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2+ Recruit Points
+Reveal the top or bottom card of your deck. If it costs 4 or more, you get +2 Recruit Points.
+
+[i]Contest of Strength[/i]
+Cost 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+3+ Attack
+Enemy of Asgard: Discard the top card of any player’s deck, then reveal the top or bottom card of your deck. If the latter revealed card is equal to or greater than the first card in cost, you get +2 Attack.
+
+[i]Break Every Bone[/i]
+Cost 7
+-----
+0+ Attack
+Reveal a card in your hand, the top card of your deck and bottom card of your deck. You get Attack equal to their combined Cost.
+
+
+[b]Nerkkod, Breaker of Oceans[/b] (Attuma)
+Foes of Asgard
+
+[i]Pull of the Tides[/i]
+Cost 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+You may move an Adversary to an adjacent city space. If there’s another Adversary there, swap them.
+
+[i]Feed My Undersea Legions[/i]
+Cost 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Whenever you defeat an Adversary on the Bridge this turn, you may KO a card in your hand or discard pile. If you do, gain a New Recruit.
+
+[i]Cudgel of the Deep[/i]
+Cost 5
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Thrown Artifact -
+When you throw this Artifact, you get +3 Attack usable only against an Adversary on the Bridge or the Commander.
+
+[i]Break Their Loyalties[/i]
+Cost 7, 5 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Enemy of Asgard: Each other player reveals their hand. Choose a New Recruit or Madame Hydra from each hand and put it in yours.
+
+
+[b]Nul, Breaker of Worlds[/b] (Hulk)
+Foes of Asgard
+
+[i]Demolition Derby[/i]
+Cost 3
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player to Demolish. If he/she discards a card this way, draw a card.
+
+[i]Otherworldly Mace[/i]
+Cost 4
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Thrown Artifact -
+When you throw this, you get +2 Attack per [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+
+[i]Nul Smash![/i]
+Cost 6
+-----
+4 Attack
+Say “Nul Smash!” Then each player slaps a hand to the table. The last player to do so other than you gets a Bindings.
+
+[i]Break the World[/i]
+Cost 8
+-----
+6 Attack
+KO two cards from your hand and/or discard pile
+For each Bindings KO'd this way, Demolish each other player.
+
+
+[b]Skadi[/b] (Sin)
+Hydra
+
+[i]Dark Prophecy[/i]
+Cost 3
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+2 Recruit Points
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: gain a Madame Hydra.
+
+[i]Ancient Oath of Hydra[/i]
+Cost 5
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+-----
+1 Attack
+You may discard a Hydra card. If you do, draw two cards.
+
+[i]Hammer of the Serpent[/i]
+Cost 5
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+Thrown Artifact -
+When thrown, you get +2 Attack per card you discarded this turn.
+
+[i]War Banner of Hydra[/i]
+Cost 7
+-----
+Thrown Artifact -
+When thrown, you get +1 Attack per Hydra card you played this turn.
+
+
+
+[b]Skirn, Breaker of Men[/b] (Titania)
+Foes of Asgard
+
+[i]Towering Leader[/i]
+Cost 3
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+-----
+Gain two New Recruits.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: gain a third New Recruit.
+
+[i]Underhanded Dealings[/i]
+Cost 4
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+-----
+2 Attack
+Look at the bottom card of your deck. Discard it or put it back.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Draw a card from the bottom of your deck.
+
+[i]Titanic Bludgeon[/i]
+Cost 2
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+-----
+Thrown Artifact -
+When you throw this, you get +1 Attack per card you’ve drawn this turn.
+
+[i]Break Your Hopes[/i]
+Cost 7
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+-----
+4 Attack
+Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] or discards a card. For each card discarded this way, you draw a card.
