@@ -407,7 +407,7 @@ Fight: For each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you 
 Fight: A Bystander from the Bystander Stack becomes a Command Strike that takes effect immediately.
 
 [i]Quantum Inventions[/i]
-Fight: Draw two cards. Then if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card, draw two more cards.
+Fight: Draw two cards. Then, if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card, draw two more cards.
 
 [i]Repulsor Coils[/i]
 Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.

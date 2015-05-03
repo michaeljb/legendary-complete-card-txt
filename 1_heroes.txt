@@ -2124,6 +2124,7 @@ Foes of Asgard
 Cost: 3
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 -----
+Thrown Artifact
 When you throw this, you get +2 Recruit Points.
 
 [i]Absorb Metal[/i]
@@ -2138,14 +2139,14 @@ Cost 5
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 3+ Attack
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Each player discards the bottom card of their deck. You get +1 Attack per non-grey card discarded this way.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Each player discards the bottom card of their deck. For each non-grey card discard this way, you get +1 Attack.
 
 [i]Body of Uru[/i]
 Cost 7
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 -----
 4+ Attack
-You gain Attack equal to the number of Artifacts controlled by all players and in the Lair.
+You get +Attack equal to the total number of Artifacts controlled by players and Artifacts the Lair.
 
 
 [b]Kuurth, Breaker of Stone[/b] (Juggernaut)
@@ -2170,13 +2171,13 @@ Cost 5
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 3+ Attack
-Enemy of Asgard: Discard the top card of any player’s deck, then reveal the top or bottom card of your deck. If the latter revealed card is equal to or greater than the first card in cost, you get +2 Attack.
+Foes of Asgard: Discard the top card of any player’s deck. Then reveal the top or bottom card of your deck. If the card you revealed has an equal or higher cost, you get +2 Attack.
 
 [i]Break Every Bone[/i]
 Cost 7
 -----
 0+ Attack
-Reveal a card in your hand, the top card of your deck and bottom card of your deck. You get Attack equal to their combined Cost.
+Reveal a card from your hand, the top card of your deck, and the bottom card of your deck. You get +Attack equal to their total costs.
 
 
 [b]Nerkkod, Breaker of Oceans[/b] (Attuma)
@@ -2187,27 +2188,28 @@ Cost 3
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 2 Recruit Points
-You may move an Adversary to an adjacent city space. If there’s another Adversary there, swap them.
+You may move an Adversary to an adjacent city space. If another Adversary is already there, swap them.
 
 [i]Feed My Undersea Legions[/i]
 Cost 4
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 -----
 2 Attack
-Whenever you defeat an Adversary on the Bridge this turn, you may KO a card in your hand or discard pile. If you do, gain a New Recruit.
+Whenever you defeat an Adversary on the Bridge this turn, you may KO one of your cards or a card from your discard pile. If you do, gain a New Recruit.
 
 [i]Cudgel of the Deep[/i]
 Cost 5
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 -----
 Thrown Artifact
-When you throw this Artifact, you get +3 Attack usable only against an Adversary on the Bridge or the Commander.
+When you throw this, you get +3 Attack, usable only against Adversaries on the Bridge or the Commander.
 
 [i]Break Their Loyalties[/i]
-Cost 7, 5 Attack
+Cost 7
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 -----
-Enemy of Asgard: Each other player reveals their hand. Choose a New Recruit or Madame HYDRA from each hand and put it in yours.
+5 Attack
+Foes of Asgard: Each other player reveals their hand. Choose a New Recruit or Madame HYDRA from each  of those players' hands and put them into your hand.
 
 
 [b]Nul, Breaker of Worlds[/b] (Hulk)
@@ -2218,29 +2220,28 @@ Cost 3
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 2 Recruit Points
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player to Demolish. If he/she discards a card this way, draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player and demolish them.. If that player discards a card this way, draw a card.
 
 [i]Otherworldly Mace[/i]
 Cost 4
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 -----
 Thrown Artifact
-When you throw this, you get +2 Attack per [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+When you throw this, you get +2 Attack for each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Ally you played this turn.
 
 [i]Nul Smash![/i]
 Cost 6
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 4 Attack
-Say “NUL SMASH!” Then each player slaps a hand to the table. The last player to do so other than you gets a Bindings.
+Say “NUL SMASH!” Then each player slaps a palm on the table. The last other player to slap a palm on the table gains a Bindings.
 
 [i]Break the World[/i]
 Cost 8
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 6 Attack
-KO two cards from your hand and/or discard pile
-For each Bindings KO'd this way, Demolish each other player.
+KO two cards from your hand and/or discard pile. For each Bindings KO this way, demolish each other player.
 
 
 [b]Skadi[/b] (Sin)
@@ -2258,21 +2259,21 @@ Cost 5
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 -----
 1 Attack
-You may discard a HYDRA card. If you do, draw two cards.
+You may discard a HYDRA Ally. If you do, draw two cards.
 
 [i]Hammer of the Serpent[/i]
 Cost 5
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 Thrown Artifact
-When thrown, you get +2 Attack per card you discarded this turn.
+When you throw this, you get +2 Attack for each card you discarded this turn.
 
 [i]War Banner of HYDRA[/i]
 Cost 7
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 -----
 Thrown Artifact
-When thrown, you get +1 Attack per HYDRA card you played this turn.
+When you throw this, you get +1 Attack for each other HYDRA card you played this turn.
 
 
 
@@ -2284,7 +2285,7 @@ Cost 3
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 -----
 Gain two New Recruits.
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: gain a third New Recruit.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Gain a third New Recruit.
 
 [i]Underhanded Dealings[/i]
 Cost 4
@@ -2299,11 +2300,11 @@ Cost 2
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 -----
 Thrown Artifact
-When you throw this, you get +1 Attack per card you’ve drawn this turn.
+When you throw this, you get +1 Attack for each card you’ve drawn this turn.
 
 [i]Break Your Hopes[/i]
 Cost 7
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 -----
 4 Attack
-Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] or discards a card. For each card discarded this way, you draw a card.
+Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Ally or discards a card. For each card discarded this way, you draw a card.
