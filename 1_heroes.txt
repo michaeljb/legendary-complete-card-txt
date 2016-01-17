@@ -1,3 +1,7 @@
+Checklists of cards for partially-complete sets:
+- [url=https://github.com/michaeljb/legendary-complete-card-txt/issues/2]Secret Wars v1[/url]
+- [url=https://github.com/michaeljb/legendary-complete-card-txt/issues/3]Secret Wars v2[/url]
+
 [url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
 
 So, partially inspired by [url=http://boardgamegeek.com/thread/550755/dominion-prosperity-complete-card-list]threads like this[/url] for my first gaming love, Dominion, and by wanting to learn the cards better for the upcoming season of the [url=http://boardgamegeek.com/thread/1205999/legendary-online-league-season-4-planning-thread]Legendary Online League[/url], I made this. Hope you like it!
