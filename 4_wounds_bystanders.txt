@@ -1,11 +1,3 @@
-[b]Wound[/b]
-Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
-
-
-[b]Bindings[/b]
-Betrayal: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
-
-
 Bystanders
 
 All Bystanders are worth 1 VP.
@@ -36,3 +28,22 @@ When you kidnap this Bystander, gain 1 recruit.
 
 [b]Rockstar[/b] (? copies)
 When you kidnap this bystander, kidnap another bystander.
+
+
+== Legendary: Secret Wars - Volume 1 Bystanders ==
+
+[b]Banker[/b] (3 copies)
+When you rescue this Bystander, you get +2 Recruit Points, usable only to
+recruit Heroes in the HQ space under the Bank.
+
+
+== Legendary: Secret Wars - Volume 2 Bystanders ==
+
+[b]Alligator Trapper[/b] (3 copies)
+When you rescue this Bystander, [b]Patrol the Sewers:[/b] If it's empty, you get +2 Recruit.
+
+[b]Shapeshifted Copycat[/b] (4 copies)
+When you rescue this Bystander, this card becomes a Villain with 3 Attack and enters the city. It gains the ability: "Fight: KO one of your Heroes."
+
+[b]Undercover Agent[/b] (3 copies)
+When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Officer.

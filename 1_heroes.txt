@@ -8,6 +8,15 @@ This list includes cards from all expansions, through Paint the Town Red, as wel
 
 
 Legendary Starting Cards
+Legendary Setup Cards
+
+[b]Wound[/b]
+Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
+
+
+[b]Bindings[/b]
+Betrayal: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
+
 == S.H.I.E.L.D. Cards ==
 
 [b]S.H.I.E.L.D. Agent[/b] (8 copies in starting deck)
@@ -60,6 +69,16 @@ Cost: 3
 -----
 2 Recruit Points
 Dodge: To play this card, you must discard a card from your hand.
+
+
+== Legendary: Secret Wars - Volume 1 Cards ==
+
+[b]Sidekick[/b] (deck of 15 copies to the left of the HQ)
+Hero
+Cost: 2
+-----
+You may return this card to the Sidekick Stack. If you do, draw two cards.
+(You can only recruit up to once Sidekick each turn, using Recruit.)
 
 
 == Legendary Heroes ==

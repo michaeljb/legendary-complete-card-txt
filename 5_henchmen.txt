@@ -58,3 +58,51 @@ VP: 1
 Fight: Discard the top card of your deck. Then KO an Ally from your discard pile.
 Attack: 3
 VP: 1
+
+
+== Legendary: Secret Wars - Volume 1 Henchmen ==
+SWv1 Henchmen
+
+[b]Ghost Racers[/b]
+Ambush: Rise of the Living Dead
+Fight: Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
+Attack: 3
+VP: 1
+
+[b]M.O.D.O.K.s[/b]
+Fight: KO a Hero from your discard pile or the HQ. If that Hero has a Recruit icon, you get +1 Recruit.
+Attack: 3
+VP: 1
+
+[b]Thor Corps[/b]
+Fight: Gain this as a Hero.
+       -----
+       Team: Avengers
+       Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+       2+ Recruit
+       [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 [Recruit].
+       -----
+Attack: 3
+VP: 0
+
+
+== Legendary: Secret Wars - Volume 2 Henchmen ==
+SWv2 Henchmen
+
+[b]Khonshu Guardians[/b]
+While in the Sewers, Rooftops or Bridge, this is in "wolf form" and gets +2 Attack.
+Fight: KO one of your Heroes.
+Attack: 3
+VP: 1
+
+[b]Magmen Men[/b]
+Fight: KO one of your Heroes.
+[b]Fateful Resurrection[/b]
+Attack: 3
+VP: 1
+
+[b]Spider-Infected[/b] (Spider-Queen always leads)
+Ambush: This captures a Bystander.
+Fight: The next Hero you gain this turn has Wall-Crawl.
+Attack: 3
+VP: 1
