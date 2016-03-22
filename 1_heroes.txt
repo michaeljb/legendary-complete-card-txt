@@ -1,5 +1,4 @@
 Checklists of cards for partially-complete sets:
-- [url=https://github.com/michaeljb/legendary-complete-card-txt/issues/2]Secret Wars v1[/url]
 - [url=https://github.com/michaeljb/legendary-complete-card-txt/issues/3]Secret Wars v2[/url]
 
 [url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
