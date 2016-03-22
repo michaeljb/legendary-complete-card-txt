@@ -19,7 +19,7 @@ VP: 4
 
 [i]Mystique[/i]
 Escape: Mystique becomes a Scheme Twist that takes effect immediately.
-Atack: 5
+Attack: 5
 VP: 3
 
 [i]Sabretooth[/i]
@@ -95,7 +95,7 @@ Attack: 6
 VP: 2+
 
 [i]Whirlwind[/i]
-Fight: If you fight Whirlwind on the Rooftops or Brige, KO two of your Heroes.
+Fight: If you fight Whirlwind on the Rooftops or Bridge, KO two of your Heroes.
 Attack: 4
 VP: 2
 
@@ -210,7 +210,7 @@ Attack: 4
 VP: 2
 
 [i]Pestilence[/i]
-Fight: Each other player reveals the top three cards of their deck, discards each of those cards taht costs 1 or more, and puts the rest back in any order.
+Fight: Each other player reveals the top three cards of their deck, discards each of those cards that costs 1 or more, and puts the rest back in any order.
 Escape: Each player does that same effect.
 Attack: 5
 VP: 3
@@ -326,7 +326,7 @@ F4 Villain Groups
 
 [b]Heralds of Galactus[/b] (Galactus always leads)
 [i]Firelord[/i]
-Comsic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Cosmic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 Fight: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
 Escape: Same effect.
 Attack: 9*
@@ -787,3 +787,192 @@ Fight or Fail: Draw two cards.
 Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.
 Attack: 5*
 VP: 6
+
+
+== Legendary Secret Wars Volume 1 Villain Groups ==
+
+[b]The Deadlands[/b]
+[i]Zombie Baron Zemo[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Fight: For each of your Avengers Heroes, rescue a Bystander
+Attack: 6
+VP: 4
+
+[i]Zombie Loki[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Escape: Loki ascends to become a new Mastermind. He gains the ability, "Master
+Strike: Each player reveals a
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a
+Wound."
+Attack: 8
+VP: 6
+
+[i]Zombie Madame Hydra[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Fight: KO one of your [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] or [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] Allies.
+Attack: 4
+VP: 2
+
+[i]Zombie M.O.D.O.K.[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Fight: KO one of your Heroes with a Recruit Points icon.
+Attack: 5
+VP: 3
+
+[i]Zombie Mr. Sinister[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Escape: Sinister ascends to become a new Mastermind. He gains the ability, "Master Strike: Sinister captures a Bystander. Then, each player with exactly 6 cards reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards cards equal to the number of Bystanders Sinister has."
+Attack: 7
+VP: 5
+
+[i]Zombie Mysterio[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Escape: Shuffle this card into the Mastermind's face-down Mastermind Tactics. It becomes a Mastermind Tactic that says, "Fight: Draw two cards."
+Attack: 6
+VP: 6
+
+[i]Zombie Thanos[/i] (1 copy)
+Ambush: Rise of the Living Dead
+Escape: Thanos ascends to become a new Mastermind. He gains the ability, "Master Strike: Each player reveals their hand and KOs one of their non-grey Heroes."
+Attack: 9
+VP: 6
+
+[i]Zombie Venom[/i] (1 copy)
+Ambush: Rise of the Living Dead
+You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero.
+Escape: Each player gains a Wound.
+Attack: 5*
+VP: 3
+
+
+[b]Domain of Apocalypse[/b]
+[i]Apocalyptic Blink[/i] (3 copies)
+Fight: Reveal the top card of your deck. Draw it or Teleport it.
+Attack: 5
+VP: 3
+
+[i]Apocalyptic Magneto[/i] (1 copy)
+Fight: Gain an X-Men Hero from the HQ for free.
+Escape: Magneto ascends to become a new Mastermind. He gains the ability, "Master Strike: Each player reveals an X-Men Hero or discards down to 4 cards."
+Attack: 8
+VP: 6
+
+[i]Apocalyptic Rogue[/i]
+Fight: Reveal the top card of the Hero Deck. The player of your choice gains it.
+Escape: Reveal the top card of the Hero Deck. Each player reveals their hand and discards a card of that class.
+Attack: 6
+VP: 4
+
+[i]Apocalyptic Weapon X[/i]
+Fight: KO one of your Heroes.
+Escape: Cross-Dimensional Wolverine Rampage
+Attack: 7
+VP: 5
+
+
+[b]Limbo[/b]
+[i]Inferno Colossus[/i]
+Ambush: The Mastermind captures a Bystander.
+Fight: KO one of your Heroes
+Attack: 5
+VP: 3
+
+[i]Inferno Cyclops[/i]
+Ambush: Inferno Cyclops captures a Bystander.
+Escape: The Mastermind captures all the Bystanders this Villain had. (Players still discard for the Bystander being carried away.)
+Attack: 6
+VP: 4
+
+[i]Inferno Darkchilde[/i]
+Fight: Reveal the top card of your deck. KO it or Teleport it.
+Escape: Each player Teleports a random card from their hand.
+Attack: 5
+VP: 3
+
+[i]Inferno Nightcrawler[/i]
+Fight: Up to two cards in your hand that have a Recruit Points icon gain Teleport this turn.
+Attack: 4
+VP: 2
+
+[b]Manhattan (Earth-1610)[/b]
+Avengers
+
+[i]Ultimate Captain America[/i]
+Fight: Gain this as a Hero.
+Attack: 6
+----------
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each color of Hero you have. (including [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] and grey)
+
+[i]Ultimate Captain Marvel[/i]
+Fight: Gain this as a Hero.
+Attack: 4
+----------
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Recruit Points
+Teleport
+
+[i]Ultimate Thor[/i]
+Fight: Gain this as a Hero.
+Escape: Cross-Dimensional Thor Rampage
+Attack: 7
+----------
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
+
+[i]Ultimate Wasp[/i]
+Fight: Gain this as a Hero.
+Attack: 5
+----------
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Attack.
+
+[b]Sentinel Territories[/b]
+[i]Colossus of Future Past[/i]
+Fight: Colossus alters the future. Don't play a Villain card at the beginning of next turn.
+Attack: 5
+VP: 3
+
+[i]Kate Pryde of Future Past[/i]
+Fight: You get +1 Recruit Point. Then, Kate Pryde alters the future: At the beginning of the next player's turn, that player gets +1 Recruit Point.
+Attack: 4
+VP: 2
+
+[i]Rachel Summers of Future Past[/i]
+Fight: Rachel Summers alters the future: During the next player's turn, all Villains and the Mastermind get -1 Attack
+Escape: This turn, all Villains and the Mastermind get +1 Attack
+Attack: 6
+VP: 4
+
+[i]Wolverine of Future Past[/i]
+Fight: Wolverine alters the future: At the start of the next player's turn, you draw a card, and that player draws a card.
+Escape: Cross-Dimensional Wolverine Rampage
+Attack: 7
+VP: 5
+
+[b]Wasteland[/b]
+[i]The Hulk Gang[/i] (3 copies)
+Fight: Cross-Dimensional Hulk Rampage
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+[i]Wasteland Hawkeye[/i]
+Ambush: Wasteland Hawkeye captures a Bystander.
+Fight: Choose one: Each other player draws a card, or each other player discards a card.
+Attack: 6
+VP: 4
+
+[i]Wasteland Kingpin[/i] (1 copy)
+Bribe
+Escape: Kingpin ascends to become a new Mastermind. He gains the ability, "Master Strike: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards their hand and draws 5 cards."
+Attack: 11*
+VP: 6
+
+[i]Wasteland Spider-Girl[/i]
+Fight: Reveal the top card of your deck. If it costs 2 or less, KO it.
+Attack: 4
+VP: 2
