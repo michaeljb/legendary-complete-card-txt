@@ -976,3 +976,174 @@ VP: 6
 Fight: Reveal the top card of your deck. If it costs 2 or less, KO it.
 Attack: 4
 VP: 2
+
+
+
+
+== Legendary Secret Wars Volume 1 Ambitions ==
+SWv1 Ambitions
+
+[b]Pure Evil[/b]
+[i]Starting Ambition[/i]
+Play a card from the Villain Deck. Keep this card in the Ambition Row.
+[i](This card starts the game in the Ambition Row and cannot be discarded from the Ambition Row. You can use this card multiple times in the same turn.)[/i]
+[i]Attack:[/i] 5
+
+[b]Crackdown[/b]
+Choose a class. Each other player reveals their hand and discards all cards of that class.
+[i]Attack:[/i] 7
+
+[b]Tide of Destruction[/b]
+Play two cards from the Villain Deck.
+[i]Attack:[/i] 8
+
+[b]Abduction[/b]
+Put a Hero from the HQ on the bottom of the Hero Deck.
+[i]Attack:[/i] 2
+
+[b]Secret Plans[/b]
+Put this card under a Villain in the Sewers or Bank. When that Villain escapes, this card becomes a Scheme Twist that takes effect immediately. If that Villain leaves the city another way, discard this.
+[i]Attack:[/i] 4
+
+[b]Wipe Out[/b]
+Choose a class. Put all heroes of that class from the HQ on the bottom of the Hero Deck.
+[i]Attack:[/i] 2
+
+[b]Crush the Weak[/b]
+The other player with the fewest Villains in their Victory Pile gains a Wound. [i](You choose how to break a tie.)[/i]
+[i]Attack:[/i] 3
+
+[b]Identity Theft[/b]
+Each other player that has exactly six cards reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck.
+[i]Attack:[/i] 4
+
+[b]Wave of Punishment[/b]
+Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound to the bottom of their deck.
+[i]Attack:[/i] 5
+
+[b]Force Field[/b]
+Put this card under the Mastermind card. That Mastermind gets +3 Attack until the start of your next turn. Then, discard this card.
+[i]Attack:[/i] 3
+
+[b]Breakout[/b]
+Choose a Villain from the Escape Pile. It enters the city.
+[i]Attack:[/i] 4
+
+[b]Last-Minute Escape[/b]
+Pick a random Mastermind Tactic from all the ones in players' Victory Piles. Shuffle it back into the Mastermind's Tactics.
+[i]Attack:[/i] 9
+
+[b]Empower[/b]
+Put this card under a Villain in the city. Until the start of your next turn, that Villain gets +3 Attack. Then, discard this card.
+[i]Attack:[/i] 3
+
+[b]Deceive[/b]
+Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards their hand and draws five cards.
+[i]Attack:[/i] 4
+
+[b]Inflict Pain[/b]
+Each other player puts a Wound from their discard pile on top of their deck.
+[i]Attack:[/i] 2
+
+[b]Bank Robbery[/b]
+KO the Hero in the HQ space under the Bank. You get + Recruit equal to that Hero's printed Recruit.
+[i]Attack:[/i] 3
+
+[b]Pressure Point[/b]
+Each other player reveals a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound to the top of their deck.
+[i]Attack:[/i] 6
+
+[b]Cleave[/b]
+Choose a number besides 0. Each other player reveals their hand and discards all cards of that cost.
+[i]Attack:[/i] 6
+
+[b]Entrap[/b]
+Put this card on a Hero in the HQ. Players can't recruit that Hero until the start of your next turn. Then, discard this card.
+[i]Attack:[/i] 1
+
+[b]Insane Twist[/b]
+This card becomes a Scheme Twist that takes effect immediately.
+[i]Attack:[/i] 9
+
+[b]Kidnap[/b]
+A Villain in the city captures a Bystander.
+[i]Attack:[/i] 2
+
+[b]Thirst for Power[/b]
+Reveal the top two cards of the Villain Deck. Play a Scheme Twist you revealed. Put the rest back on the top and/or bottom in any order.
+[i]Attack:[/i] 7
+
+[b]Painful Choice[/b]
+Each other player chooses Recruit or Attack, then discard all their cards with that icon.
+[i]Attack:[/i] 8
+
+[b]Crime Surge[/b]
+Each Villain on the Rooftops and Streets captures a Bystander.
+[i]Attack:[/i] 3
+
+[b]Dark Apprentice[/b]
+Add a random new Mastermind to the game with one Tactic.
+[i]Attack:[/i] 10
+
+[b]Collateral Damage[/b]
+Each other player KOs a Bystander from their Victory Pile or gains a Wound.
+[i]Attack:[/i] 4
+
+[b]Ruthless Strike[/b]
+This card becomes a Master Strike that takes effect immediately.
+[i]Attack:[/i] 4
+
+[b]Infiltrate S.H.I.E.L.D.[/b]
+Choose a 0-cost Hero from the KO pile for each other player. Those players gain those Heroes.
+[i]Attack:[/i] 4
+
+[b]Thirst for Vengeance[/b]
+Reveal the top two cards of the Villain Deck. Play a Master Strike you revealed. Put the rest back on the top and/or bottom in any order.
+[i]Attack:[/i] 6
+
+[b]Pummel[/b]
+Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[i]Attack:[/i] 4
+
+[b]Secret Wars, Vol. 2 Ambition Cards [/b]
+
+[b]Puzzle Trap[/b]
+Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card.
+[i]Attack:[/i] 6
+
+[b]Seize the High Ground[/b]
+[b]Patrol the Rooftops:[/b] If there's a Villain there, then all Villains everywhere get +1 Attack until the start of your next turn.
+Then, discard this card.
+[i]Attack:[/i] 3
+
+[b]Hostage Situation[/b]
+[b]Patrol the Streets:[/b] If there's a Villain there, then each Villain in the city captures a Bystander.
+[i]Attack:[/i] 2
+
+[b]This is a Stickup[/b]
+[b]Patrol the Bank:[/b] If there's a Villain there, each other player reveals their hand and discards a card with a Recruit icon.
+[i]Attack:[/i] 4
+
+[b]Shadowy Disciple[/b]
+This ambition ascends to become a new 9 Attack Mastermind worth 5 VP. It gains the ability: "[b]Master Strike[/b]: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound."
+[i]Attack:[/i] 9
+
+[b]Detonate the Bridge[/b]
+[b]Patrol the Bridge:[/b] If there's a Villain there, each player gains a Wound.
+[i]Attack:[/i] 4
+
+[b]Short Escape Tunnels[/b]
+[b]Patrol the Sewers:[/b] If there's a Villain there, it escapes.
+[i]Attack:[/i] 5
+
+[b]Crazed Charge[/b]
+A Villain in the city [b]charges[/b] two spaces.
+[i]Attack:[/i] 3
+
+[b]Devastate S.H.I.E.L.D.[/b]
+Every other player reveals their hand and discards all their cards that cost 0.
+[i]Attack:[/i] 7
+
+[b]Rack and Ruin[/b]
+This card becomes a Master Strike that takes effect immediately. Then, this card becomes a Scheme Twist that takes effect immediately.
+[i]Attack:[/i] 10
