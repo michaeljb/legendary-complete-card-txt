@@ -209,7 +209,7 @@ Fight: Each other player KOs all Heroes from their discard pile with the same ca
 [b]Mole Man[/b]
 Mole Man gets +1 Attack for each Subterranea Villain that has escaped.
 Always Leads: Subterranea
-Master Strike: All Subterranea Villians in the city escape. If any Villains escaped this way, each player gains a Wound.
+Master Strike: All Subterranea Villains in the city escape. If any Villains escaped this way, each player gains a Wound.
 Attack: 7+
 VP: 6
 
@@ -380,12 +380,12 @@ Attack: 24
 VP: 7
 
 [i]Centuries of Envy[/i]
-Fight: Each other playe discards an Infinity Gem Artifact card they control.
+Fight: Each other player discards an Infinity Gem Artifact card they control.
 
 [i]God of Death[/i]
 Fight: Each other player reveals their hand and gains a Wound for each card that player has with the same card name as any card in Thanos' Bound Souls pile.
 
-[i]Keeper of Soulds[/i]
+[i]Keeper of Souls[/i]
 Fight: Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a non-grey Hero from their discard pile into Thanos' Bound Souls pile.
 
 [i]The Mad Titan[/i]
@@ -411,3 +411,173 @@ Fight: Draw two cards. Then, if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tec
 
 [i]Repulsor Coils[/i]
 Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.
+
+
+== Legendary Secret Wars Volume 1 Masterminds ==
+SWv1 Masterminds
+
+[b]Madelyn Pryor, Goblin Queen[/b]
+Bystanders captured by Madelyne are "Demon Goblin" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.
+Always Leads: Limbo
+Master Strike: Madelyn captures 4 Bystanders. If she already had any Bystanders before that, then each player gains a Wound.
+Attack: 10*
+VP: 6
+
+[i]City of Demon Goblins[/i]
+Fight: Madelyne captures five Bystanders.
+
+[i]Corrupted Clone of Jean Grey[/i]
+Fight: Each other player reveals an X-Men Hero or gains a Wound.
+
+[i]Everyone's a Demon on the Inside[/i]
+Fight: Madelyn captures a Bystander from each other player's Victory Pile.
+
+[i]Gather the Harvest[/i]
+Fight: For each Limbo Villain in the city and/or Escape Pile, Madelyne captures a Bystander.
+
+[b]Nimrod[/b]
+You can't fight Nimrod unless you made at least 6 Recruit Points this turn.
+Always Leads: Sentinel Territories
+Master Strike: Each player who does reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit Points or Attack, then discard all their cards with that icon.
+Attack: 6*
+VP: 6
+
+[i]Adapt and Destroy[/i]
+Fight: Choose Recruit Points or Attack. Each other player reveals their hand and discards a card with that icon.
+
+[i]Detect Mutation[/i]
+Fight: Choose Recruit Points or Attack. Then, reveal the top card of your deck. If that card has that icon, draw it and repeat this process.
+
+[i]Scatter the Mutants[/i]
+Fight: Choose Recruit Points or Attack. Put all Heroes from the HQ with that icon on the bottom of the Hero Deck.
+
+[i]Teleport and Incarcerate[/i]
+Fight: Choose Recruit Points or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it.
+
+[b]Wasteland Hulk[/b]
+Wasteland Hulk gets +3 Attack for each of his Mastermind Tactics among all players' Victory Piles.
+Always Leads: Wasteland
+Master Strike: Cross-Dimensional Hulk Rampage
+Attack: 7+
+VP: 6
+
+[i]Brutal Beating[/i]
+Fight: Each other player counts the number of Wounds in their discard pile, then discards that many cards.
+
+[i]Memories of Pain[/i]
+Fight: Each other player puts two Wounds from their discard pile on top of their deck.
+
+[i]Radioactive Regeneration[/i]
+Fight: KO up to two Wounds from your hand and/or discard pile.
+
+[i]Revert to Bruce Banner[/i]
+Fight: You gain a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero from the HQ for free.
+
+[b]Zombie Green Goblin[/b]
+Zombie Green Goblin gets +1 Attack for each Hero in the KO pile that costs 7 or more.
+Always Leads: The Deadlands
+Master Strike: Rise of the Living Dead. KO each Hero in the HQ that costs 7 or more. Then, each player discards a card for each Hero in the KO pile that costs 7 or more.
+Attack: 11+
+VP: 6
+
+[i]Army of Cadavers[/i]
+Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player discards a card for each Villain in the city that has "Rise of the Living Dead."
+
+[i]The Hungry Dead[/i]
+Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player gains a Wound if there are any Villains in the city with "Rise of the Living Dead".
+
+[i]Love To Have You For Dinner[/i]
+Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, reveal the top 5 cards of the Hero Deck. KO all those Heroes that cost 7 or more. Put the rest on the bottom of the Hero Deck in random order.
+
+[i]Reign of Terror[/i]
+Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, put all Heroes from the HQ that cost 6 or less on the bottom of the Hero Deck.
+
+
+
+== Legendary Secret Wars Volume 2 Masterminds ==
+SWv2 Masterminds
+
+
+[b]Immortal Emperor Zheng-Zhu[/b]
+7th Circle of Kung-Fu
+Always Leads: K'un-Lun
+Master Strike: Each player reveals a Hero that costs 7 or more, or they discard down to 3 cards.
+Attack: 7+
+VP: 5
+
+[i]Ultimate Kung-Fu Mastery[/i]
+Fight: Each other player reveals a card with "Circle of Kung-Fu" from their Victory Pile or gains a Wound.
+
+[i]Emperor's Justice[/i]
+Fight: Each other player reveals a Marvel Knight Hero or gains a Wound.
+
+[i]Humble the Pretenders[/i]
+Fight: Each other player reveals a Marvel Knight Hero or discards a card that costs less than 7.
+
+[i]Imperial Edict[/i]
+Fight: Choose any number of Heroes from the HQ. Put them on the bottom of the Hero Deck in random order.
+
+
+[b]King Hyperion[/b]
+Always Leads: Utopolis
+Master Strike: King Hyperion enters the city if he was not already there. Then, he [b]charges[/b] three spaces.
+Escape: Each player gains a wound. Put King Hyperion on the Mastermind space.
+Attack: 12
+VP: 6
+
+[i]Worshipped by Millions[/i]
+Fight: If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, rescue six Bystanders.
+
+[i]Royal Treasury[/i]
+Fight: If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you get +5 Recruit.
+
+[i]Monarch of Utopolis[/i]
+Fight: If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, when you drew a new hand of cards at the end of this turn, draw three extra cards.
+
+[i]Rule with an Iron Fist[/i]
+Fight: If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you may defeat a Villain in the city for free.
+
+
+
+[b]Shiklah, the Demon Bride[/b]
+Always Leads: Monster Metropolis
+Master Strike: Reveal the top three cards of the Villain Deck. Put all the Scheme Twists you revealed on top of the Villain Deck. Put the rest on the bottom of that deck in random order.
+Attack: 9
+VP: 6
+
+[i]Enslavement Beam[/i]
+Fight: [b]Fateful Resurrection[/b]. If she resurrects, rescue four bystanders.
+
+[i]Shiklah's Husband, Deadpool[/i]
+Fight: Gain this as a Hero.
+--------
+(Unaffiliated)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You get +1 Attack for each Hero with an odd-numbered cost you played this turn. [i](0 is even.)[/i]
+5+ Attack
+
+[i]Drain Life[/i]
+Fight: [b]Fateful Resurrection[/b]. If she resurrects, defeat a Villain in the city for free.
+
+[i]Infernal Power[/i]
+Fight: [b]Fateful Resurrection[/b]. If she resurrects, draw two cards.
+
+
+[b]Spider-Queen[/b]
+Spider-Queen gets +1 Attack for each Bystander in the Escape pile.
+Always Leads: Spider-Infected
+Master Strike: Each player puts a Spider-Infected from their Victory Pile into an empty city space. Any player who cannot do so gains a Wound.
+Attack: 8+
+VP: 6
+
+[i]Sonic Scream[/i]
+Fight: Reveal the top eight cards of the Villain Deck. Put all the Bystanders you revealed into the Escape pile. Put the rest on the bottom of the Villain Deck in random orders.
+
+[i]Infect the Entire City[/i]
+Fight: Put a Bystander from the Bystander Deck into the Escape Pile. Then, each Spider-Infected in the city captures a Bystander.
+
+[i]Control Arachnid Genes[/i]
+Fight: You may gain a Spider-Friend Hero from the HQ.
+
+[i]Web the Skyscrapers[/i]
+Fight: Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile.
