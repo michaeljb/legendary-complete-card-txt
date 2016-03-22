@@ -169,7 +169,7 @@ Cost: 3
 3 Attack
 To play this card, you must discard a card from your hand.
 
-[i]Undending Energy (3 copies)[/i]
+[i]Unending Energy (3 copies)[/i]
 Cost: 6
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 -----
@@ -187,7 +187,8 @@ X-Men: You get +2 Attack for each other X-Men Hero you played this turn.
 [b]Deadpool[/b]
 
 [i]Here, Hold This for a Second[/i]
-Cost:  (5 copies)3
+(5 copies)
+Cost:  3
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 -----
 2 Recruit Points
@@ -309,7 +310,7 @@ Cost: 7
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 -----
 5 Attack
-Whenver you defeat a Villain or Mastermind this turn, rescue three Bystanders.
+Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.
 
 
 [b]Hulk[/b]
@@ -633,7 +634,7 @@ Cost: 7
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 -----
 4+ Attack
-Dsicard the top four cards of your deck. You get + Attack equal to those cards' printed Attack.
+Discard the top four cards of your deck. You get + Attack equal to those cards' printed Attack.
 X-Men: KO any number of those cards.
 
 
@@ -1221,7 +1222,7 @@ Cost: 5
 -----
 Draw two cards.
 
-[i]One Gigantic Head (3 copies)[/i]
+[i]One Gigantic Hand (3 copies)[/i]
 Cost: 5
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 -----
@@ -2007,7 +2008,7 @@ Cost: 7
 Double the Attack you have.
 
 
-[b]Gamorra[/b]
+[b]Gamora[/b]
 Guardians of the Galaxy
 
 [i]Bounty Hunter (5 copies)[/i]
@@ -2333,7 +2334,401 @@ Cost 7
 Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Ally or discards a card. For each card discarded this way, you draw a card.
 
 
+== Secret Wars Vol. 1 Heroes ==
+SWv1
+
+[b]Apocalyptic Kitty Pryde[/b]
+X-Men
+
+[i]Phase Out[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, you get +1 Attack.
+2+ Attack
+Cost: 4
+
+[i]Infiltrate HQ [/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You may put a Hero from the HQ on the bottom of the Hero Deck. The Hero that replaces it in the HQ costs 1 less during this turn.
+2 Attack
+Cost: 3
+
+[i]Disrupt Circuits[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero in the HQ.
+2+ Attack
+Cost: 5
+
+[i]Untouchable[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+When any player defeats a Villain or Mastermind with a "Fight" effect, you may discard this card to cancel that fight effect. If you do, draw three cards.
+5 Recruit
+Cost: 7
+
+[b]Black Bolt[/b]
+Illuminati
+
+[i]Destructive Whisper[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+You get +1 Attack if you reveal four cards with no rules text.
+2+ Attack
+Cost: 3
+
+[i]Speak No Words[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Recruit
+1 Attack
+Cost: 4
+
+[i]Silence is Golden[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Choose a card you played this turn with no rules text. You get its Recruit and Attack again.
+0+ Recruit
+4+ Attack
+Cost: 6
+
+[i]Hypersonic Scream [/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+For each card with no rules text you played this turn, draw a card.
+3 Attack
+Cost: 8
+
+[b]Black Panther[/b]
+Illuminati
+
+[i]Catlike Reflexes[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw a card.
+1 Recruit
+Cost: 3
+
+[i]Multifaceted Genius[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each other multicolored card you played this turn.
+2+ Attack
+Cost: 4
+
+[i]Stalk the Urban Jungle[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Whenever you defeat a Villain on the Rooftops or Streets this turn, you may KO one of your cards or a card from your discard pile.
+4 Attack
+Cost: 6
+
+[i]King of Wakanda[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Gain three sidekicks.
+Illuminati: Put them on top of your deck.
+Cost: 7
+
+[b]Captain Marvel[/b]
+Avengers
+
+[i]Supersonic Flight[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Draw a card.
+1 Attack
+Cost: 3
+
+[i]Absorb Energies[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: For each other [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero you have played this turn, you get +1 Recruit.
+2+ Recruit
+Cost: 3
+
+[i]Marvelous Strength[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: For each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero you have played this turn, you get +1 Attack.
+3+ Attack
+Cost: 5
+
+[i]Cosmic Energies[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +6 Attack.
+5+ Attack
+Cost: 7
+
+[b]Dr. Strange[/b]
+Illuminati
+
+[i]Trust Me, I'm a Doctor [/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Illuminati: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.
+1+ Recruit
+Cost: 2
+
+[i]Cloak of Levitation[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Reveal the top card of your deck. Draw it or Teleport it.
+2 Attack
+Cost: 4
+
+[i]Fight the Future [/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Reveal the top card of the Villain Deck. If it's a Villain, you get +2 Attack and may fight that Villain this turn.
+3+ Attack
+Cost: 5
+
+[i]Sorcerer Supreme[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top three cards of your deck. Draw any number of them and Teleport the rest.
+Cost: 7
+
+[b]Lady Thor[/b]
+Avengers
+
+[i]Mysterious Origin[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Once per turn, if you made at least 6 Recruit this turn, draw a card.
+2 Recruit
+Cost: 3
+
+[i]Chosen by Asgard[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Once per turn, if you made at least 6 Recruit this turn, you get +2 Attack
+2 Recruit
+0+ Attack
+Cost: 4
+
+[i]Heir to the Hammer[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
+4+ Attack
+Cost: 6
+
+[i]Living Thunderstorm[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+One per turn, if you made at least 6 Recruit this turn, you get +6 Attack.
+4 Recruit
+0+ Attack
+Cost: 8
+
+[b]Magik[/b]
+X-Men
+
+[i]Rally the New Mutants[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Gain a Sidekick
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Gain another Sidekick.
+Cost: 2
+
+[i]Travel through Limbo[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Teleport
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
+1+ Attack
+Cost: 3
+
+[i]Dimensional Portal[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Teleport
+For each Sidekick you played this turn, you get +1 Attack.
+2+ Attack
+Cost: 5
+
+[i]Wield the Soulsword[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Teleport
+Choose a Villain or Mastermind in your Victory Pile. You get +Attack equal to its printed VP.
+2+ Attack
+Cost: 7
+
+[b]Maximus[/b]
+Cabal
+
+[i]Mental Domination[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Defeat a Henchman Villain for free.
+2 Recruit
+Cost: 3
+
+[i]Enslave the Will[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Whenever you defeat a Villain this turn, you gain a Sidekick.
+2 Attack
+Cost: 4
+
+[i]Pieces on a Chessboard[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You may have a Henchman Villain from your Victory Pile enter the city. If you do, draw a card.
+3 Attack
+Cost: 5
+
+[i]Inhuman Mastery[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] hero or chooses a Henchman Villain from their Victory Pile. You defeat all those Henchmen for free.
+Cabal: You get +1 Attack for each Henchman you defeated this turn.
+4+ Attack
+Cost: 7
+
+[b]Namor, the Sub-Mariner[/b]
+Cabal
+
+[i]Lead the Armies of Atlantis[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Gain a Sidekick.
+2 Recruit
+Cost: 3
+
+[i]Ruler of the Seas[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2, usable only against Villains on the Bridge or the Mastermind.
+2+ Attack
+Cost: 4
+
+[i]Feed the Sharks[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+You may KO a card from your hand or discard pile. If you do, draw a card.
+2 Attack
+Cost: 6
+
+[i]Imperius Rex[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Defeat a Villain for free.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Instead, defeat the Mastermind once for free.
+Cost: 7
+
+[b]Old Man Logan[/b]
+X-Men
+
+[i]Last Survivor[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you KO a wound this way, draw a card.
+2 Attack
+Cost: 3
+
+[i]Loner[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+If you don't recruit any heroes this turn, you get +2 Attack.
+2+ Attack
+Cost: 5
+
+[i]Rage Out[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Cross-Dimensional Wolverine Rampage. For each other player who gained a Wound this way, you get +1 Attack.
+3+ Attack
+Cost: 6
+
+[i]No More Heroes[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Reveal your hand. You get +5 Attack if you haven't played any [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] or [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] cards this turn and don't have any in your hand.
+5+ Attack
+Cost: 7
+
+[b]Proxima Midnight[/b]
+Cabal
+
+[i]Inspiration through Power[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1 Recruit
+1 Attack
+Cost: 2
+
+[i]Master Combatant[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+If the most recent Hero you have played this turn has a Recruit icon, you get +2 Recruit. If it has an Attack icon, you get +2 Attack.
+0+ Recruit
+0+ Attack
+Cost: 4
+
+[i]General of the Black Order[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +3 Recruit.
+0+ Recruit
+3 Attack
+Cost: 5
+
+[i]Supernova Spear[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +4 Recruit and +4 Attack.
+4+ Recruit
+4+ Attack
+Cost: 8
+
+[b]Superior Iron Man[/b]
+Illuminati
+
+[i]Armor Upgrades[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +2 Attack.
+1+ Attack
+Cost: 2
+
+[i]Optimized Technology[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Draw a card.
+2 Attack
+Cost: 5
+
+[i]Superior to Others[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Look at the top two cards of your deck. If one of them has a higher cost than the other, draw it. Put the rest back in any order.
+2 Recruit
+Cost: 3
+
+[i]#Humblebrag[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card for each other player who has fewer cards in their Victory Pile than you.
+5 Attack
+Cost: 8
+
+[b]Thanos[/b]
+Cabal
+
+[i]Revel in Destruction [/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Cabal: KO a Bystander from the Bystander Stack. Then, you get +1 Recruit for every three Bystanders in the KO pile.
+2+ Recruit
+Cost: 3
+
+[i]Transdimensional Overlord[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Teleport
+You may KO a Bystander from your Victory Pile. If you do, you get +2 Attack.
+Cost: 5
+
+[i]Galactic Domination[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or chooses a Bystander from their Victory Pile. You "rescue" those bystanders.
+4 Attack
+Cost: 6
+
+[i]Utter Annihilation[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+KO six Bystanders from the Bystander Stack. Then, defeat any Villain or Mastermind whose Attack is less than the number of Bystanders in the KO pile.
+Cost: 8
+
+[b]Ultimate Spider-Man[/b]
+Spider-Friends
+
+[i]Marvel Team-Up[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Gain a Sidekick.
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+Cost: 2
+
+[i]Leaping Spider[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+0+ Attack
+Cost: 2
+
+[i]Web-Slinger[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +2 usable only against the Mastermind or Villains on the Rooftops or Bridge.
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+0+ Attack
+Cost: 2
+
+[i]Hero from Another Dimension[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You get +2 Attack for each other card you have played this turn that costs 1 or 2.
+0+ Attack
+Cost: 2
+
+
+
 == Secret Wars Vol. 2 Heroes ==
+SWv2
 
 [b]Beast[/b]
 Illuminati
@@ -2759,7 +3154,7 @@ Witness the End[/i]
 2 Recruit
 Cost: 5
 
-[i]Dark Fortelling[/i]
+[i]Dark Foretelling[/i]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 Reveal the top three cards of the Villain Deck. Rescue any Bystanders you revealed, then put the rest back in any order.
 4 Attack
@@ -2773,10 +3168,9 @@ Cabal: Instead, you get + Attack for two of those cards.
 Cost: 7
 
 
-[b]Arron the Magnificent[/b]
-(Unaffiliated)
+[b]Arkon the Magnificent[/b]
 
-[i]Quiver of Thunderbolds[/i]
+[i]Quiver of Thunderbolts[/i]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 Spectrum: Draw a card
 2 Attack
