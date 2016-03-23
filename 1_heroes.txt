@@ -1,5 +1,4 @@
-Checklists of cards for partially-complete sets:
-- [url=https://github.com/michaeljb/legendary-complete-card-txt/issues/3]Secret Wars v2[/url]
+See page 3 for Captain America 75th Anniversary
 
 [url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
 
@@ -7,7 +6,7 @@ So, partially inspired by [url=http://boardgamegeek.com/thread/550755/dominion-p
 
 I'm happy to take feedback on how the info is presented here, I'm certain there are things that can be improved. For instance, I added the colored backgrounds for the Hero Type names, but now I feel the card names themselves are not emphasized enough, and I don't want this to end up looking too cluttered. Anyway, if you have any thoughts on that (or notice any errors), please let me know and I'll be sure to get them fixed.
 
-This list includes cards from all expansions, through Paint the Town Red, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
+This list includes cards from all expansions, through Secret Wars Volume 2, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
 
 
 Legendary Starting Cards
