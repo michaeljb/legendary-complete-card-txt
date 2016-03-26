@@ -1,12 +1,10 @@
-See page 3 for Captain America 75th Anniversary
-
 [url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
 
 So, partially inspired by [url=http://boardgamegeek.com/thread/550755/dominion-prosperity-complete-card-list]threads like this[/url] for my first gaming love, Dominion, and by wanting to learn the cards better for the upcoming season of the [url=http://boardgamegeek.com/thread/1205999/legendary-online-league-season-4-planning-thread]Legendary Online League[/url], I made this. Hope you like it!
 
 I'm happy to take feedback on how the info is presented here, I'm certain there are things that can be improved. For instance, I added the colored backgrounds for the Hero Type names, but now I feel the card names themselves are not emphasized enough, and I don't want this to end up looking too cluttered. Anyway, if you have any thoughts on that (or notice any errors), please let me know and I'll be sure to get them fixed.
 
-This list includes cards from all expansions, through Secret Wars Volume 2, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
+This list includes cards from all expansions, through Captain America 75th Anniversary, as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links.[/url].
 
 
 Legendary Starting Cards
@@ -3196,4 +3194,154 @@ Cost: 5
 Patrol the Rooftops: If it's empty, you get +4 Recruit and +4 Attack. If it's not, defeat the Villain there for free.
 0+ Recruit
 0+ Attack
+Cost: 7
+
+
+
+== Legendary Captain America 75th Anniversary Heroes ==
+
+[b]Agent X-13[/b]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]
+
+[i]Sniper Squad[/i]  (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]: Woman Out of Time
+1 Recruit
+1 Attack
+Cost: 3
+
+[i]Paramilitary Ops[/i]  (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each other [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Hero you played this turn that costs 1 or more.
+2+ Attack
+Cost: 4
+
+[i]Spy Network[/i]  (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Choose one: Gain a [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Officer, or you get +2 Attack.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Woman Out of Time.
+0+ Attack
+Cost: 4
+
+[i]Mobilize for War[/i]  (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+KO up to two [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Heroes from your hand and/or discard pile.
+Savior: For each card KO'd this way, you get +1 Attack.
+4+ Attack
+Cost: 7
+
+[b]Captain America (Falcon)[/b]
+Avengers
+
+[i]Winged Salvation[/i]  (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Savior: You get +2 Attack.
+2+ Attack
+Cost: 7
+
+[i]Aerial Catch[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Rescue a Bystander.
+2 Recruit
+Cost: 3
+
+[i]Flying Shield Block[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Once per turn, if a player would gain a Wound, you may reveal this card and rescue a Bystander instead.
+4 Attack
+Cost: 6
+
+[i]Star-Spangled Hero[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You get +2 Attack for each Hero Class you have.
+Savior: You get +2 Recruit for each Hero Class you have.
+0+ Recruit
+0+ Attack
+Cost: 7
+
+
+[b]Captain America 1941[/b]
+Avengers
+
+[i]Storm the Beachhead[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each Hero class you have.
+Man Out of Time.
+0+ Attack
+Cost: 5
+
+[i]Devoted Patriot[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Man Out of Time
+Cost: 3
+
+[i]Liberate the Prisoners[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Avengers: Rescue a Bystander
+Savior: Draw a card.
+3 Attack
+Cost: 6
+
+[i]Punch Evil in the Face[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Savior: Man Out of Time
+5 Attack
+Cost: 8
+
+
+[b]Steve Rogers, Director of S.H.I.E.L.D.[/b]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]
+
+[i]Reassign to Civilian Duty[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR]: You may KO a [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Hero that you played this turn. If you do, rescue a Bystander.
+2 Attack
+Cost: 5
+
+[i]International Strike Force[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +1 Recruit for each Hero Class you have.
+Savior: You get +1 Attack for each Hero Class you have.
+
+[i]Shadow of Wars Past[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Savior: Man Out of Time
+2 Attack
+Cost: 4
+
+[i]Save the World[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Rescue a Bystander
+Savior: You get +3 Attack.
+4+ Attack
+Cost: 8
+
+
+[b]Winter Soldier[/b]
+
+[i]Sniper Nest[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Man Out of Time
+1 Recruit
+Cost: 4
+
+[i]Bionic Arm[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Man Out of Time.
+2 Attack
+Cost: 3
+
+[i]KGB Training[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+If you played at least 7 other cards this turn you get +2 Attack.
+3+ Attack
+Cost: 5
+
+[i]2>4[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+A Hero in your hand gains Man Out of Time this turn.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Another Hero in your hand gains Man Out of Time this turn.
+4 Attack
 Cost: 7

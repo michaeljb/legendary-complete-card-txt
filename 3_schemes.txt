@@ -361,3 +361,39 @@ SWv2 Schemes
 [i]Setup:[/i] 8 Twists. Add an extra Villain Group.
 [i]Twist:[/i] Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
 [i]Evil Wins:[/i] When the number of escaped Villains equals the number of players plus 6.
+
+
+== Legendary Captain America 75th Anniversary Schemes ==
+
+[b]Schemes[/b]
+
+[b]Brainwash the Military[/b]
+[i]Setup:[/i] 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
+[i]Special Rules:[/i] S.H.I.E.L.D. Officers in the Villain Deck are Villains. Their Attack is 3 plus the number of Twists stacked next to this Scheme. When you defeat a S.H.I.E.L.D. Officer, gain it as a Hero.
+[i]Twist 1-6:[/i] Stack this Twists next to the Scheme as a "Traitor Battalion." Play another card from the Villain Deck.
+[i]Twist 7:[/i] All S.H.I.E.L.D. Officers in the city escape.
+[i]Evil Wins:[/i] When 5 S.H.I.E.L.D. Officers escape.
+
+[b]Change the Outcome of WWII[/b]
+[i]Setup:[/i] 7 Twists. Add an extra Villain Group.
+[i]Twist:[/i] The Axis invades a new country. Put all Villains and Bystanders from the city on the bottom of the Villain Deck. The number of city spaces changes. Play 2 cards from the Villain Deck. If any Villains escape this country, stack a Twist next to the scheme as a "conquered capital."
+[i]Twist 1:[/i] Poland: 4 spaces.
+[i]Twist 2:[/i] France: 3 spaces.
+[i]Twist 3:[/i] USSR: 6 spaces.
+[i]Twist 4:[/i] England: 3 spaces.
+[i]Twist 5:[/i] USA: 5 spaces.
+[i]Twist 6:[/i] Australia: 2 spaces.
+[i]Twist 7:[/i] Switzerland: 1 space.
+[i]Evil Wins:[/i] When 3 capitals are conquered.
+
+[b]Go Back in Time to Slay Heroes' Ancestors[/b]
+[i]Setup:[/i] 9 Twists. 8 Heroes in Hero deck.
+[i]Twist:[/i] Put a Hero form the HQ next to the Scheme, "Purged from the Timestream."
+[i]Special Rules:[/i] Whenever a Hero is in the HQ whose Hero Name has been Purged from the Timestream, KO that Hero.
+[i]Evil Wins:[/i] When the Hero Deck runs out.
+
+[b]The Unbreakable Enigma Code[/b]
+[i]Setup:[/i] 6 Twists.
+[i]Twists 1-5:[/i] Put a card from the Hero Deck face down next to the scheme as part of the "Enigma Code." Mix up those cards face-down.
+[i]Twist 6:[/i] Evil Wins!
+[i]Special Rules:[/i] Whenever you fight a Villain, you may pay 1 Recruit to look at one of the face-down Enigma Cards. When you fight the Mastermind, first guess the color of each Enigma card, and then reveal them. If you guessed them right, fight the Mastermind as normal. If not, your turn ends, and mix up the Enigma cards face-down.

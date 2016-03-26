@@ -581,3 +581,45 @@ Fight: You may gain a Spider-Friend Hero from the HQ.
 
 [i]Web the Skyscrapers[/i]
 Fight: Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile.
+
+
+== Legendary Captain America 75th Anniversary Masterminds ==
+
+[b]Arnim Zola[/b]
+Ultimate Abomination
+[i]Always Leads[/i]: Zola's Creations
+[i]Master Strike[/i]: For each Hero in the HQ that has less than 2 printed Attack, put that Hero on the bottom of the Hero Deck, and each player discards a card of that Hero's cost.
+[i]Attack[/i]: 6+
+[i]VP[/i]: 6
+
+[i]Dominate the Weak[/i]
+Fight: The player of your choice gains a Hero from the HQ that has less than 2 printed Attack.
+
+[i]Computer-Uploaded Genius[/i]
+Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card.
+
+[i]Pet Projects[/i]
+Fight: Each other player reveals a Zola's Creations Villain from their Victory Pile or gains a Wound.
+
+[i]Crush Pacifist Resistance[/i]
+Fight: KO up to two of your Heroes that have less than 2 printed Attack.
+
+
+[b]Baron Heinrich Zemo[/b]
+Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron Zemo gets +9 Attack unless you are a Savior.
+[i]Always Leads[/i]: Masters of Evil (WWII)
+[i]Master Strike[/i]: Each player KOs a Bystander from their Victory Pile. Any player who cannot do so gains a Wound.
+[i]Attack[/i]: 9+
+[i]VP[/i]: 6
+
+[i]Fallen Idols[/i]
+Fight: Each other player that is not a Savior discards a card.
+
+[i]Finding Zemo[/i]
+Fight: Reveal the top five cards of the Villain Deck. If you revealed any Bystanders, KO them and each other player gains a Wound. Put the rest back in random order.
+
+[i]Hatred for the Avengers[/i]
+Fight: For each of your Avengers Heroes, rescue a Bystander.
+
+[i]Prisoners of War[/i]
+Fight: Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander.
