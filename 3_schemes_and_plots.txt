@@ -309,11 +309,22 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 == Legendary Secret Wars Volume 2 Schemes ==
 
-[b]The Mark of Khonshu[/b]
-[i]Setup:[/i] 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
-[i]Special Rules:[/i] Heroes in the Villain Deck are "Khonshu Guardian" Villains with Attack equal to their printed cost. While in the Sewers, Rooftops, or Bridge, they are in "wolf form" and have double their Attack. When you defeat one, gain it as a Hero.
-[i]Twist:[/i] Play two cards from the Villain Deck.
-[i]Evil Wins:[/i] When 7 Khonshu Guardians escape.
+[b]Deadlands Hordes Charge the Wall[/b]
+[i]Setup:[/i] 8 Twists. Add an extra Villain Group.
+[i]Twist:[/i] Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
+[i]Evil Wins:[/i] When the number of escaped Villains equals the number of players plus 6.
+
+[b]Enthrone the Barons of Battleworld[/b]
+[i]Setup:[/i] 8 Twists.
+[i]Twists 1-7:[/i] The Villain in the city or Escape Pile with the highest printed Attack ascends to become a new Mastermind. It gets +2 Attack. It gains the ability "[b]Master Strike:[/b] Each Player discards a card with cost equal to this Mastermind's printed VP." [i](Keep them separate from any Villains who ascend through Escape effects.)[/i]
+[i]Twist 8:[/i] The Villain in each player's Victory Pile with the highest printed Attack ascends the same way.
+[i]Evil Wins:[/i] When there are six Masterminds.
+
+[b]The Fountain of Eternal Life[/b]
+[i]Setup:[/i] 8 Twists. (1 player: 4 Twists.)
+[i]Special Rules:[/i] All Villains and Mastermind Tactics have "[b]Fight:[/b] [b]Fateful Resurrection[/b]."
+[i]Twist:[/i] A Villain from your Victory Pile enters the Sewers. Put this Twist on the bottom of the Villain Deck.
+[i]Evil Wins:[/i] When the number of escaped Villains is 3 times the number of players.
 
 [b]The God-Emperor of Battleworld[/b]
 [i]Setup:[/i] 8 Twists.
@@ -322,23 +333,11 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 [i]Twist 7:[/i] If the God-Emperor lives, it KOs all other Masterminds.
 [i]Twist 8:[/i] Evil wins! [i](If any Mastermind still lives.)[/i]
 
-[b]The Fountain of Eternal Life[/b]
-[i]Setup:[/i] 8 Twists. (1 player: 4 Twists.)
-[i]Special Rules:[/i] All Villains and Mastermind Tactics have "[b]Fight:[/b] [b]Fateful Resurrection[/b]."
-[i]Twist:[/i] A Villain from your Victory Pile enters the Sewers. Put this Twist on the bottom of the Villain Deck.
-[i]Evil Wins:[/i] When the number of escaped Villains is 3 times the number of players.
-
-[b]Sinister Ambitions[/b]
-[i]Setup:[/i] 8 Twists. Add 10 random Ambition cards to the Villain Deck.
-[i]Special Rules:[/i] Ambition cards are Villains with their printed Attack. Add +1 Attack for each Twist stacked next to the Scheme. They are worth 4 VP. Whenever an Ambition Villain escapes, do its Ambition effect.
-[i]Twist 1-5:[/i] Stack this Twist next to the Scheme. Play another card from the Villain Deck.
-[i]Twist 6:[/i] Each Ambition Villain in the city escapes.
-[i]Evil Wins:[/i] When 4 Ambition Villains escape.
-
-[b]Secret Wars[/b]
-[i]Setup:[/i] 6 Twists.
-[i]Twists 1-3:[/i] Add another random Mastermind to the game with one Tactic.
-[i]Twist 6:[/i] Evil wins!
+[b]The Mark of Khonshu[/b]
+[i]Setup:[/i] 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
+[i]Special Rules:[/i] Heroes in the Villain Deck are "Khonshu Guardian" Villains with Attack equal to their printed cost. While in the Sewers, Rooftops, or Bridge, they are in "wolf form" and have double their Attack. When you defeat one, gain it as a Hero.
+[i]Twist:[/i] Play two cards from the Villain Deck.
+[i]Evil Wins:[/i] When 7 Khonshu Guardians escape.
 
 [b]Master the Mysteries of Kung-Fu[/b]
 [i]Setup:[/i] 8 Twists.
@@ -346,16 +345,17 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 [i]Special Rules:[/i] Villains and the Mastermind have the Circle of Kung-Fu matching the number of Twists stacked here.
 [i]Evil Wins:[/i] When the number of escaped Villains is double the number of players.
 
-[b]Enthrone the Barons of Battleworld[/b]
-[i]Setup:[/i] 8 Twists.
-[i]Twists 1-7:[/i] The Villain in the city or Escape Pile with the highest printed Attack ascends to become a new Mastermind. It gets +2 Attack. It gains the ability "[b]Master Strike:[/b] Each Player discards a card with cost equal to this Mastermind's printed VP." [i](Keep them separate from any Villains who ascend through Escape effects.)[/i]
-[i]Twist 8:[/i] The Villain in each player's Victory Pile with the highest printed Attack ascends the same way.
-[i]Evil Wins:[/i] When there are six Masterminds.
+[b]Secret Wars[/b]
+[i]Setup:[/i] 6 Twists.
+[i]Twists 1-3:[/i] Add another random Mastermind to the game with one Tactic.
+[i]Twist 6:[/i] Evil wins!
 
-[b]Deadlands Hordes Charge the Wall[/b]
-[i]Setup:[/i] 8 Twists. Add an extra Villain Group.
-[i]Twist:[/i] Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
-[i]Evil Wins:[/i] When the number of escaped Villains equals the number of players plus 6.
+[b]Sinister Ambitions[/b]
+[i]Setup:[/i] 8 Twists. Add 10 random Ambition cards to the Villain Deck.
+[i]Special Rules:[/i] Ambition cards are Villains with their printed Attack. Add +1 Attack for each Twist stacked next to the Scheme. They are worth 4 VP. Whenever an Ambition Villain escapes, do its Ambition effect.
+[i]Twist 1-5:[/i] Stack this Twist next to the Scheme. Play another card from the Villain Deck.
+[i]Twist 6:[/i] Each Ambition Villain in the city escapes.
+[i]Evil Wins:[/i] When 4 Ambition Villains escape.
 
 
 
