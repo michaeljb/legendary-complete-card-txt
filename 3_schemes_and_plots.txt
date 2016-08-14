@@ -394,4 +394,49 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 
+== Legendary Civil War Schemes ==
+
+[b]Avengers vs. X-Men[/b]
+[i]Setup:[/i] 9 Twists. Hero Deck has 3 Heroes of one Team and 3 Heroes of another Team. (Avengers, X-Men, Spider-Friends, Marvel Knights, etc.)
+[i]Twist:[/i] 1-7 Each player reveals their hand. Each player that has cards of both those teams gains a Wound.
+[i]Twist 8:[/i] Evil wins!
+
+[b]Dark Reign of H.A.M.M.E.R. Officers[/b]
+[i]Setup:[/i] 7 Twists.
+[i]Twist:[/i] Stack this Twist next to the Scheme. Then, for each Twist in that stack, put a S.H.I.E.L.D. Officer next to the Mastermind as a 3 Attack Villain with S.H.I.E.L.D. Clearance. You can fight them to gain them as Heroes.
+[i]Evil Wins:[/i] When there are 7 Officers next to the Mastermind.
+
+[b]Epic Super Hero Civil War[/b]
+[i]Setup:[/i] 1 player: 4 Heroes in Hero Deck. 1-3 players: 9 Twists. 4-5 players: 6 Twists.
+[i]Twist:[/i] Stack this Twist next to the Scheme. Then, for each Twist in that stack, KO a Hero from the HQ and immediately refill that HQ space.
+[i]Evil Wins:[/i] When the Hero Deck runs out.
+
+[b]Imprison Unregistered Superhumans[/b]
+[i]Setup:[/i] 11 Twists.
+[i]Twist 1, 3, 5, 7, 9:[/i] This Scheme fortifies the city space to its right starting with the Bridge. Villains in that space get +1 Attack.
+Other Twists: If there's a Villain in that fortified city space, KO a bystander.
+[i]Evil Wins:[/i] When 3 Bystanders are in the KO pile and/or Escape Pile.
+
+[b]Nitro the Supervillain Threatens Crowds[/b]
+[i]Setup:[/i] 8 Twists.
+[i]Twist:[/i] KO all Bystanders held by Villains. Then, the Villain with the highest Attack captures 3 Bystanders.
+[i]Evil Wins:[/i] When 15 Bystanders are in the KO pile and/or Escape Pile.
+
+[b]Predict Future Crime[/b]
+[i]Setup:[/i] 6 Twists. Add an extra Villain Group.
+[i]Twist:[/i] Reveal the top 3 cards of the Villain Deck. Play each Villain you revealed. Put the rest back in any order.
+[i]Evil Wins:[/i] When there are 2 Villains per player in the Escape Pile.
+
+[b]Reveal Heroes' Secret Identities[/b]
+[i]Setup:[/i] 6 Twists. 7 Heroes in Hero Deck.
+[i]Twist:[/i] Put a Hero from the HQ next to the Scheme as an "Unmasked" Hero. All cards with "Unmasked" Hero Names cost +1 Recruit to recruit. You can't Unmask a Hero Name that has already been Unmasked.
+[i]Evil Wins:[/i] When 5 Heroes are Unmasked.
+
+[b]United States Split by Civil War[/b]
+[i]Setup:[/i] 10 Twists.
+[i]Twist:[/i] If there is a Villain on the Streets or Bridge, put this Twist in a stack of "Western States Victories." Otherwise, if there is a Villain in the Sewers, put this Twist in a stack of "Eastern States Victories."
+[i]Evil Wins:[/i] When there are 3 Western Victories or 3 Eastern Victories.
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
