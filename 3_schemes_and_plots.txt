@@ -1,5 +1,4 @@
 == Legendary Schemes ==
-Base Schemes
 
 [b]The Legacy Virus[/b]
 [i]Setup[/i]: 8 Twists. Wound stack holds 6 Wounds per player.
@@ -50,7 +49,6 @@ Base Schemes
 
 
 == Legendary: Dark City Schemes ==
-DC Schemes
 
 [b]Capture Baby Hope[/b]
 [i]Setup[/i]: 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
@@ -102,8 +100,6 @@ DC Schemes
 
 
 == Legendary: Fantastic Four Schemes ==
-FF Schemes
-F4 Schemes
 
 [b]Bathe the Earth in Cosmic Rays[/b]
 [i]Setup[/i]: 6 Twists.
@@ -129,7 +125,6 @@ F4 Schemes
 
 
 == Legendary: Paint the Town Red Schemes ==
-PtTR Schemes
 
 [b]The Clone Saga[/b]
 [i]Setup[/i]: 8 Twists.
@@ -154,6 +149,7 @@ PtTR Schemes
 You can't fight the Mastermind unless you have a Bystander in your Victory Pile for each Twist next to the Mastermind.
 [i]Twist[/i]: Stack this Twist next to the Mastermind.
 [i]Twist 7[/i]: Evil Wins!
+
 
 
 == Legendary: Villains Plots ==
@@ -206,9 +202,8 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [i]Good Wins[/i]: When there are 3 Adversaries per player in the Overrun Pile.
 
 
+
 == Legendary: Guardians of the Galaxy Schemes ==
-Guardians Schemes
-GotG Schemes
 
 [b]Forge the Infinity Gauntlet[/b]
 [i]Setup[/i]: 8 Twists. Always include the Infinity Gems Villain Group.
@@ -232,6 +227,7 @@ GotG Schemes
 [i]Twist[/i]: Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
 [i]Special Rules[/i]: During your turn, any number of times, you may spend 2 Recruit Points to gain one of the Mastermind's Shards.
 [i]Evil Wins[/i]: When the Mastermind has 10 Shards or when there are no more Shards in the supply.
+
 
 
 == Legendary Villains: Fear Itself Plots ==
@@ -259,7 +255,6 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 == Legendary Secret Wars Volume 1 Schemes ==
-SWv1 Schemes
 
 [b]Build an Army of Annihilation[/b]
 [i]Setup[/i]: 9 Twists. Put 10 extra Annihilation Wave Henchmen in that KO pile.
@@ -311,8 +306,8 @@ SWv1 Schemes
 [i]Evil Wins[/i]: When 10 Villains escape.
 
 
+
 == Legendary Secret Wars Volume 2 Schemes ==
-SWv2 Schemes
 
 [b]The Mark of Khonshu[/b]
 [i]Setup:[/i] 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
@@ -363,9 +358,8 @@ SWv2 Schemes
 [i]Evil Wins:[/i] When the number of escaped Villains equals the number of players plus 6.
 
 
-== Legendary Captain America 75th Anniversary Schemes ==
 
-[b]Schemes[/b]
+== Legendary Captain America 75th Anniversary Schemes ==
 
 [b]Brainwash the Military[/b]
 [i]Setup:[/i] 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
