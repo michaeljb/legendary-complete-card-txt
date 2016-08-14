@@ -28,34 +28,6 @@ Defeat a Villain or Mastermind that has a Bystander.
 Cost: 7
 
 
-[size=10][i][b]The Captain and the Devil [/b][/i][/size]
-Avengers
-
-[i]Jurassic America [/i] (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-1+ Recruit
-[b]Spectrum[/b]: you get +2 Recruit.
-Cost: 2
-
-[i]Patriotic Chomp[/i] (5 copies)
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-2+ Attack
-[b]Spectrum[/b]: You get +2 Attack.
-Cost: 4
-
-[i] Feeding Grounds[/i] (3 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-3 Attack
-[b]Patrol the Streets[/b]: If it's empty, you may KO a card from your hand or discard pile.
-Cost: 6
-
-[i]Dino-Roar of Triumph[/i] (1 copy)
-[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-6 Attack
-Whenever you defeat a Villain this turn, each Villain and Mastermind adjacent to it gets -2 Attack this turn.
-Cost: 8
-
-
 [size=10][i][b]Captain America[/b][/i][/size]
 Avengers
 
@@ -2537,6 +2509,34 @@ Cost: 6
 Reveal the top five cards of the Villain Deck. You get + Attack equal to the printed Victory Point of one of those cards. Put them back in any order.
 Cabal: Instead, you get + Attack for two of those cards.
 Cost: 7
+
+
+[size=10][i][b]The Captain and the Devil [/b][/i][/size]
+Avengers
+
+[i]Jurassic America [/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1+ Recruit
+[b]Spectrum[/b]: you get +2 Recruit.
+Cost: 2
+
+[i]Patriotic Chomp[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Spectrum[/b]: You get +2 Attack.
+Cost: 4
+
+[i] Feeding Grounds[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+[b]Patrol the Streets[/b]: If it's empty, you may KO a card from your hand or discard pile.
+Cost: 6
+
+[i]Dino-Roar of Triumph[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+6 Attack
+Whenever you defeat a Villain this turn, each Villain and Mastermind adjacent to it gets -2 Attack this turn.
+Cost: 8
 
 
 [size=10][i][b]Captain Britain[/b][/i][/size]
