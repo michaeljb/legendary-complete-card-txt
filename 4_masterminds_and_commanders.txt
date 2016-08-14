@@ -416,10 +416,10 @@ Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][
 == Legendary Secret Wars Volume 1 Masterminds ==
 SWv1 Masterminds
 
-[b]Madelyn Pryor, Goblin Queen[/b]
+[b]Madelyne Pryor, Goblin Queen[/b]
 Bystanders captured by Madelyne are "Demon Goblin" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.
 Always Leads: Limbo
-Master Strike: Madelyn captures 4 Bystanders. If she already had any Bystanders before that, then each player gains a Wound.
+Master Strike: Madelyne captures 4 Bystanders. If she already had any Bystanders before that, then each player gains a Wound.
 Attack: 10*
 VP: 6
 
@@ -430,12 +430,12 @@ Fight: Madelyne captures five Bystanders.
 Fight: Each other player reveals an X-Men Hero or gains a Wound.
 
 [i]Everyone's a Demon on the Inside[/i]
-Fight: Madelyn captures a Bystander from each other player's Victory Pile.
+Fight: Madelyne captures a Bystander from each other player's Victory Pile.
 
 [i]Gather the Harvest[/i]
 Fight: For each Limbo Villain in the city and/or Escape Pile, Madelyne captures a Bystander.
 
-[b]Nimrod[/b]
+[b]Nimrod, Super Sentinel[/b]
 You can't fight Nimrod unless you made at least 6 Recruit Points this turn.
 Always Leads: Sentinel Territories
 Master Strike: Each player who does reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit Points or Attack, then discard all their cards with that icon.
@@ -623,3 +623,7 @@ Fight: For each of your Avengers Heroes, rescue a Bystander.
 
 [i]Prisoners of War[/i]
 Fight: Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander.
+
+
+
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

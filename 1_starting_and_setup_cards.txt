@@ -1,0 +1,176 @@
+[size=16][b]Bystanders[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]Bystander[/b][/i][/size] (30 copies)
+VP: 1
+
+
+== Dark City ==
+
+[size=10][i][b]News Reporter[/b][/i][/size] (4 copies)
+When you rescue this Bystander, draw a card.
+VP: 1
+
+
+[size=10][i][b]Paramedic[/b][/i][/size] (3 copies)
+When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.
+VP: 1
+
+
+[size=10][i][b]Radiation Scientist[/b][/i][/size] (4 copies)
+When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.
+VP: 1
+
+
+== Villains ==
+
+[size=10][i][b]Computer Hacker[/b][/i][/size] (3 copies)
+When you kidnap this Bystander, draw an extra card when you draw a new hand at the end of your turn.
+VP: 1
+
+
+[size=10][i][b]Engineer[/b][/i][/size] (3 copies)
+When you kidnap this Bystander, reveal the top card of your deck. If it costs 0 - KO it.
+VP: 1
+
+
+[size=10][i][b]Public Speaker[/b][/i][/size] (3 copies)
+When you kidnap this Bystander, gain 1 recruit.
+VP: 1
+
+
+[size=10][i][b]Rockstar[/b][/i][/size] (3 copies)
+When you kidnap this Bystander, kidnap another Bystander.
+VP: 1
+
+
+== Secret Wars Volume 1 ==
+
+[size=10][i][b]Banker[/b][/i][/size] (3 copies)
+When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.
+VP: 1
+
+
+== Secret Wars Volume 2 ==
+
+[size=10][i][b]Alligator Trapper[/b][/i][/size] (3 copies)
+When you rescue this Bystander, [b]Patrol the Sewers:[/b] If it's empty, you get +2 Recruit.
+VP: 1
+
+
+[size=10][i][b]Shapeshifted Copycat[/b][/i][/size] (4 copies)
+When you rescue this Bystander, this card becomes a Villain with 3 Attack and enters the city. It gains the ability: "[b]Fight[/b]: KO one of your Heroes."
+VP: 1
+
+
+[size=10][i][b]Undercover Agent[/b][/i][/size] (3 copies)
+When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Officer.
+VP: 1
+
+
+== 3D ==
+
+[size=10][i][b]Bulldozer Driver[/b][/i][/size] (? copies)
+When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.
+VP: 1
+
+
+[size=10][i][b]Double Agent Of S.H.I.E.L.D.[/b][/i][/size] (? copies)
+When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA allies.
+VP: 1
+
+
+[size=10][i][b]Fortune Teller[/b][/i][/size] (? copies)
+When you rescue this Bystander, guess "zero" or "not zero." Then reveal the top card of your deck and check its cost. If you guessed right, draw that card.
+VP: 1
+
+
+[size=10][i][b]Photographer[/b][/i][/size] (? copies)
+This Bystander is worth +1 VP for each Hero you have that costs 7 or more among all your cards at the end of the game.
+VP: 1
+
+
+[size=10][i][b]Stan Lee[/b][/i][/size] (? copies)
+When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back inany order.
+VP: 1
+
+
+
+[size=16][b]Setup Cards[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]S.H.I.E.L.D. Officer[/b][/i][/size]
+[i]Maria Hill[/i] (30 copies)
+S.H.I.E.L.D.
+2 Recruit
+Cost: 3
+
+
+[size=10][i][b]Wound[/b][/i][/size] (30 copies)
+[b]Healing[/b]: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
+
+
+== Villains ==
+
+[size=10][i][b]Bindings[/b][/i][/size] (30 copies)
+[b]Betrayal[/b]: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
+
+
+[size=10][i][b]Madame HYDRA[/b][/i][/size]
+[i]Viper[/i] (30 copies)
+HYDRA
+2 Recruit
+[b]Dodge[/b]
+To play this card, you must discard a card from your hand.
+Cost: 3
+
+
+[size=10][i][b]New Recruit[/b][/i][/size] (15 copies)
+1 Attack
+Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
+Cost: 2
+
+
+== Secret Wars Volume 1 ==
+
+[size=10][i][b]Sidekick[/b][/i][/size] (15 copies)
+You may return this card to the Sidekick Stack. If you do, draw two cards.
+[i](You can only recruit up to once Sidekick each turn, using Recruit.)[/i]
+Cost: 2
+
+
+
+[size=16][b]Starting Deck Cards[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]S.H.I.E.L.D. Agent[/b][/i][/size] (8 copies in starting deck)
+S.H.I.E.L.D.
+1 Recruit
+Cost: 0
+
+
+[size=10][i][b]S.H.I.E.L.D. Trooper[/b][/i][/size] (4 copies in starting deck)
+S.H.I.E.L.D.
+1 Attack
+Cost: 0
+
+
+== Villains ==
+
+[size=10][i][b]HYDRA Operative[/b][/i][/size] (8 copies in starting deck)
+HYDRA
+1 Recruit
+Cost: 0
+
+
+[size=10][i][b]HYDRA Soldier[/b][/i][/size] (4 copies in starting deck)
+HYDRA
+1 Attack
+Cost: 0
+
+
+
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

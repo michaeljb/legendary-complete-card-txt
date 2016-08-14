@@ -76,15 +76,12 @@ VP: 1
 
 [b]Thor Corps[/b]
 Fight: Gain this as a Hero.
-       -----
-       Team: Avengers
-       Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-       2+ Recruit
-       [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 [Recruit].
-       -----
 Attack: 3
-VP: 0
-
+-----
+Team: Avengers
+Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Recruit Points
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit Point.
 
 == Legendary: Secret Wars - Volume 2 Henchmen ==
 SWv2 Henchmen
@@ -95,7 +92,7 @@ Fight: KO one of your Heroes.
 Attack: 3
 VP: 1
 
-[b]Magmen Men[/b]
+[b]Magma Men[/b]
 Fight: KO one of your Heroes.
 [b]Fateful Resurrection[/b]
 Attack: 3
@@ -106,3 +103,21 @@ Ambush: This captures a Bystander.
 Fight: The next Hero you gain this turn has Wall-Crawl.
 Attack: 3
 VP: 1
+
+
+== 3D ==
+
+[b]Circus of Crime[/b] (10 copies)
+Fight: Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.
+Attack: 3
+VP: 1
+
+[b]Spider Slayer[/b] (10 copies)
+Fight: Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
+Attack: 3
+VP: 1
+
+
+
+
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

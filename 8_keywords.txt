@@ -1,0 +1,109 @@
+== Dark City Keywords ==
+
+[b]Teleport[/b]: Instead of playing it, you may set aside a card with the keyword "Teleport". If you do, add it to your new hand at the end of your turn as an extra card.
+
+[b]Bribe[/b]: You can fight villains with the keyword "Bribe" by spending any combination of Attack and/or Recruit points. For example, you may play two S.H.I.E.L.D. Agents and two S.H.I.E.L.D. Troopers to fight the +4 Attack Maggia Goons."
+
+[b]Versatile[/b]: When you play a card with the keyword "Versatile" you must first choose between Recruit and Fight. Once you have chosen, the card provides recruit or fight equal to the Versatile value. For example, Versatile 3 gives you +3 Recruit or +3 Attack.
+
+== Fantastic Four Keywords ==
+
+[b]Focus[/b]: When you play a card with a Focus ability, you can pay the cost on the left side of the arrow to get the effect on right side of the arrow. You can use that Focus ability as many times as you want for the rest of the turn. You can even play more Heroes, recruit, fight, then use the Focus ability more.
+Note: You can use Focus abilities and still use the "Healing" ability on Wounds.
+
+[b]Burrow[/b]: This means "Fight: If the Streets were empty, put this Villain back into the Streets." When you fight a Villain with Burrow, do all of that Villain's Fight effects. You rescue any Bystanders the Villain may have captured as normal. Then, if the "Streets" city space was empty, put that Villain back into the Streets space. If you fight a Villain with Burrow twice in a turn, you'll do that Villain's Fight effects twice. Cards that do something "when you defeat" a Villain still work if the Villain burrows to the Streets. When a Villain burrows to the Streets, it does not do any Ambush effects
+
+[b]Cosmic Threat[/b]: If an enemy has Cosmic Threat: Ranged, that means: "For each Ranged card you reveal, this Enemy gets -3 Attack this turn." (An asterisk next to an Enemy's Attack number is to remind you that their Attack can change. The asterisk doesn't mean anything else.)
+
+Galactus' Cosmic Threat means "Once per turn, choose Strength, Instinct, Covert, Tech or Ranged. For each card of that color you reveal, this Enemy gets -3 Attack for one fight this turn." If you try to fight Galactus a second time in the same turn, he will return to his full attack and you cannot use his Cosmic Threat ability a second time that turn.
+
+== Paint the Town Red Keywords ==
+
+[b]Wall-Crawl[/b]: "When you recruit this Hero, you may put it on top of your deck."
+Remember: When you use Wall-Crawl to put a card on top of your deck, don't use any other abilities on that card until it gets drawn from your deck. If you "gain" a Hero through some special ability like Skrull Shapeshifters, you can't use Wall-Crawl because you didn't "recruit" that Hero.
+
+[b]Feast[/b]: "Fight: KO the top card of your deck."
+Carnage's Master Strike starts with "Feast on each player." That means each player does the "Feast" effect.
+Note that Carnage's Master Strike is the only effect that feasts on every player. The "Maximum Carnage" Villains and Carnage's Mastermind Tactic each feast on only one player.
+
+== Villains Keywords ==
+
+[b]Demolish[/b]: Reveal the top card of the Ally (Hero) Deck, note its cost, and put it on the bottom of the Ally Deck. Each player reveals their hand and discards a card with that cost.
+
+[b]Dodge[/b]: "During your turn, you may discard this card from your hand to draw another card." When you Dodge a card from your hand, ignore all the other text on that card. When you Dodge a card from your hand, you didn't "play" that card, so the Dodged card's Ally (Hero) Class/color doesn't help you use the Superpower abilities of other cards you play that turn. Some Allies in the Villains set count the number of cards you discarded this turn; this includes cards you discarded with Dodge.
+
+[b]Elusive[/b]: "Elusive 6" means "You can only fight this Adversary if you have made at least 6 Recruit this turn." You don't have to spend that Recruit to fight this Adversary, you just have to have made that much Recruit this turn. You can still spend that Recruit on recruiting Allies (Heroes).
+
+[b]X-Treme Attack[/b]: "This Adversary gets +1 Attack for each other Adversary in the city with X-Treme Attack."
+
+== Guardians of the Galaxy Keywords ==
+
+[b]Artifact[/b]: When you gain a Hero Artifact, put it in your discard pile like any other Hero card. When you draw that Artifact later in the game, you may play it in front of you and use its effects, usually once one each of your turns. This means you "control" that Artifact. At the end of your turn, when you discard all the cards you played that turn, the Artifacts you control stay in.
+If a card effect during any player's turn asks you to "Reveal a Ranged Hero," you may reveal a Ranged Hero Artifact you control. Card effects that say "your Heroes" or "Heroes you have" include Hero Artifacts you control as well.
+However, you only "played" an Artifact on the turn you put it out, so it only activates Superpower Abilities on the turn you play the Artifact, not every turn of the game.
+If a card effect like Rogue, Chameleon, or Star-Lord would let you "copy" an Artifact card, then you can use that Artifact's "Once per turn" ability once, and there is no other effect.
+
+== Fear Itself Keywords ==
+
+[b]Thrown Artifact[/b]: These are Artifact cards that the player can "throw" at the perfect moment. To "throw" a Thrown Artifact, put it on the bottom of your deck and use its ability.
+You can throw as many Artifacts as you want in a turn. You can only throw during your turn.
+If a card effect like Rogue, Chameleon, or Star-Lord would let you "copy" a Thrown Artifact card, use that Artifact's "When you throw this" ability once, and there is no other effect. (Don't put anything on the bottom of your deck.)
+
+[b]Uru-Enchanted Weapons[/b]: When you try to fight an enemy that has some number of Uru-Enchanted Weapons, reveal that many cards from the top of the Adversary Deck. That enemy immediately gains +Attack equal to the total Victory Points of all the cards you revealed. If you have enough Attack points to match the enemy's improved Attack, use them and defeat the enemy as normal. If you don't have enough Attack points, you don't defeat this enemy, you lose all your Attack points, and you can't fight anymore this turn.
+Whether you defeat that enemy or not, put all the cards you revealed from the Adversary Deck on the bottom of that deck in random order.
+Many of these enemies have a "[b]Fight or Fail[/b]:" effect. Do this effect if you defeat them or if the Uru-Enchanted Weapons cause you to fail to defeat them.
+Once you start to fight an enemy, you can't play any more cards or throw any Artifacts until after that fight is complete. So remember to generate all the Attack points you can before you attack an enemy with Uru-Enchanted Weapons!
+Flipping cards for Uru-Enchanted Weapons cannot end the game. If you run out of cards in the Adversary Deck, shuffle the cards you've revealed so far and keep revealing. (If there are no cards left in the Adversary Deck there is no Attack bonus.)
+
+== Secret Wars Volume 1 Keywords ==
+
+[b]Rise of the Living Dead[/b]: "Each player checks the top card of their Victory Pile. If that card is a Villain with a 'Rise of the Living Dead' ability, that Villain reenters the city."
+(Mastermind Tactics never return this way.)
+If you put a Villain with Bystanders into your Victory Pile, you choose the order.
+
+[b]Cross-Dimensional Rampage[/b]: "Cross-Dimensional (Character) Rampage" means "Each player reveals one of their (Character) Heroes or a (Character) card in their Victory pile or gains a Wound." (Character) cards include any card with "(Character)" in its card name or Hero name.
+"Hulk" cards additionally include "Maestro" and "Nul, Breaker of Worlds."
+"Wolverine" cards additionally include any card with "Weapon X" or "Old Man Logan".
+
+== Secret Wars Volume 2 Keywords ==
+
+[b]Spectrum[/b]: Some cards have abilities like "Spectrum: Draw a card." You can use a card's Spectrum abilities only if you have at least 3 classes of Hero.
+Grey S.H.I.E.L.D. Heroes, HYDRA Allies, New Recruits and Sidekicks don't have classes, so they don't help.
+You can count all the classes you have among cards you played this turn and cards in your hand.
+
+[b]Patrol[/b]: Some cards have abilities like "Patrol the Sewers: If it's empty, rescue a Bystander." When you play that card, you can use that ability only if that city space has no cards in it.
+If that city space becomes empty later in the turn, it's too late to use the Patrol ability.
+This can also say "Fight: Patrol the Bank: If it's empty, you get +2 Recruit. If it's not, you get +2 Attack."
+Other cards let you patrol even stranger places, like the Escape Pile or a Victory Pile. Similarly, you can use those Patrol abilities if that place has no cards in it.
+If a Mastermind or Scheme causes a city space not to exist, you can't patrol that space.
+
+[b]Circle of Kung-Fu (and Quack-Fu)[/b]: "5th Circle of Kung-Fu" means "During your turn, this Villain has +5 Attack unless you reveal a Hero that costs 5 or more."
+Likewise, the 7th Circle gets +7 Attack unless you reveal a Hero that costs 7 or more, etc.
+If a Villain or Mastermind already has a Circle of Kung-Fu, and a Scheme gives them another one, only count the highest circle - don't add them up.
+
+[b]Fateful Resurrection[/b]: On a Villain card, "Fight: Fateful Resurrection" means "Fight: Reveal the top card of the Villain Deck. If it's a Scheme Twist or Master Strike, this Villain reenters the city."
+If a Villain resurrects this way, you still rescue its Bystanders and do its other Fight effects.
+The Villain pushes into the Sewers and does any Ambush abilities as normal.
+If a Mastermind Tactic resurrects this way, shuffle it back into the other face down Tactics.
+If a Villain that has ascended to become a Mastermind resurrects this way, it stays a Mastermind and does not reenter the city.
+
+[b]Charge[/b]: "Ambush: Charge one space" means "(After this Villain enters the Sewers,) it charges forward an extra space, pushing other Villains forward."
+
+== Captain America 75th Anniversary Keywords ==
+
+[b]Man/Woman Out of Time[/b]: "After you use this card's abilities, set it aside. At the beginning of your next turn, play this card a second time then discard it."
+The card is discarded the second time you play it, so you play the card only twice total.
+Play your returning Man Out of Time cards after the "Play a Villain Card" part of your turn and before you start playing out your hand.
+You "played" a Man Out of Time card on both the first turn you played it and the second turn when you replayed it, so it can help activate your Superpower Abilities on both turns.
+
+[b]Savior[/b]: "Use this ability if you have at least 3 Bystanders in your Victory Pile."
+If you defeat a Villain with Bystanders, put those Bystanders into your Victory Pile before checking any Savior ability on that Villain.
+If a Hero card rescues a Bystander, that Bystander counts towards any Savior ability on that Hero.
+
+[b]Abomination[/b]: "This Villain gets +Attack equal to the printed Attack of the Hero in the HQ space under this Villain's city space."
+"Ultimate Abomination" means "This Mastermind gets +Attack equal to the total printed Attack of all the Heroes in the HQ."
+An Abomination Villain's Attack can go up and down as the Villain moves through the city.
+
+
+
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

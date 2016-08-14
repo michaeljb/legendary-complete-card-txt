@@ -858,13 +858,13 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 [i]Attack:[/i] 8
 [i]VP:[/i] 6
 
-[i]Apocalyptic Rogue[/i] (2 copies)
+[i]Apocalyptic Rogue[/i]
 [i]Fight:[/i] Reveal the top card of the Hero deck. The player of your choice gains it.
 [i]Escape:[/i] Reveal the top card of the Hero deck. Each player reveals their hand and discards a card of that class.
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Apocalyptic Weapon X[/i] (2 copies)
+[i]Apocalyptic Weapon X[/i]
 [i]Fight:[/i] KO one of your heroes.
 [i]Escape:[/i] [b]Cross-Dimensional Wolverine Rampage[/b]
 [i]Attack:[/i] 7
@@ -874,26 +874,26 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 
 [b]Limbo[/b]
 
-[i]Inferno Colossus[/i] (2 copies)
+[i]Inferno Colossus[/i]
 [i]Ambush:[/i] The Mastermind captures a Bystander.
 [i]Fight:[/i] KO one of your Heroes.
 [i]Attack:[/i] 5
 [i]VP:[/i] 3
 
-[i]Inferno Cyclops[/i] (2 copies)
+[i]Inferno Cyclops[/i]
 [i]Ambush:[/i] Inferno Cyclops captures a Bystander.
 [i]Escape:[/i] The Mastermind captures all the Bystanders this Villain had.
 [i](Players still discard for the Bystander being carried away.)[/i]
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Inferno Darkchilde[/i] (2 copies)
+[i]Inferno Darkchilde[/i]
 [i]Fight:[/i] Reveal the top card of your deck. KO it or [b]Teleport[/b] it.
 [i]Escape:[/i] Each player [b]Teleports[/b] a random card from their hand.
 [i]Attack:[/i] 5
 [i]VP:[/i] 3
 
-[i]Inferno Nightcrawler[/i] (2 copies)
+[i]Inferno Nightcrawler[/i]
 [i]Fight:[/i] Up to two cards in your hand that have a Recruit icon gain [b]Teleport[/b] this turn.
 [i]Attack:[/i] 4
 [i]VP:[/i] 2
@@ -902,7 +902,7 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 
 [b]Manhattan (Earth-1610)[/b]
 
-[i]Ultimate Captain America[/i] (2 copies)
+[i]Ultimate Captain America[/i]
 [i]Fight:[/i] Gain this as a Hero.
 [i]Attack:[/i] 6
 -----------------
@@ -910,7 +910,7 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 You get +1 Attack for each color of Hero you have
 0+ Attack
 
-[i]Ultimate Captain Marvel[/i] (2 copies)
+[i]Ultimate Captain Marvel[/i]
 [i]Fight:[/i] Gain this as a Hero.
 [i]Attack:[/i] 4
 -----------------
@@ -919,7 +919,7 @@ You get +1 Attack for each color of Hero you have
 2 Recruit
 
 
-[i]Ultimate Thor[/i] (2 copies)
+[i]Ultimate Thor[/i]
 [i]Fight:[/i] Gain this as a Hero.
 [i]Escape:[/i] [b]Cross-Dimensional Thor Rampage[/b]
 [i]Attack:[/i] 7
@@ -929,7 +929,7 @@ You get +1 Attack for each color of Hero you have
 3+ Attack
 
 
-[i]Ultimate Wasp[/i] (2 copies)
+[i]Ultimate Wasp[/i]
 [i]Fight:[/i] Gain this as a Hero.
 [i]Attack:[/i] 5
 -----------------
@@ -941,22 +941,22 @@ You get +1 Attack for each color of Hero you have
 
 [b]Sentinel Territories[/b]
 
-[i]Colossus of Future Past[/i] (2 copies)
+[i]Colossus of Future Past[/i]
 [i]Fight:[/i] [i]Colossus changes the future:[/i] Don't play a Villain card at the beginning of next turn.
 [i]Attack:[/i] 5
 [i]VP:[/i] 3
 
-[i]Kate Pryde of Future Past[/i] (2 copies)
+[i]Kate Pryde of Future Past[/i]
 [i]Fight:[/i] You get +1 Recruit. Then, [i]Kate Pryde alters the future:[/i] At the beginning of the next player's turn, that player gets +1 Recruit.
 [i]Attack:[/i] 4
 [i]VP:[/i] 2
 
-[i]Rachel Summers of Future Past[/i] (2 copies)
+[i]Rachel Summers of Future Past[/i]
 [i]Fight:[/i] [i]Rachel Summers alters the future:[/i] During the next player's turn, all Villains and the Mastermind get -1 Attack. [i]Escape:[/i] This turn, All Villains and the Mastermind get +1 Attack.
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Wolverine of Future Past[/i] (2 copies)
+[i]Wolverine of Future Past[/i]
 [i]Fight:[/i] [i]Wolverine alters the future:[/i] At the start of the next player's turn, you draw a card, and that player draws a card.
 [i]Escape:[/i] [b]Cross-Dimensional Wolverine Rampage[/b]
 [i]Attack:[/i] 7
@@ -977,19 +977,19 @@ You get +1 Attack for each color of Hero you have
 [i]Attack:[/i] 11*
 [i]VP:[/i] 6
 
-[i]Wasteland Hawkeye[/i] (2 copies)
+[i]Wasteland Hawkeye[/i]
 [i]Ambush:[/i] Wasteland Hawkeye captures a Bystander. [i]Fight:[/i] Choose one: Each other player draws a card, or each other player discards a card.
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Wasteland Spider-Girl[/i] (2 copies)
+[i]Wasteland Spider-Girl[/i]
 [i]Fight:[/i] Reveal the top card of your deck. If it costs 2 or less, KO it.
 [i]Attack:[/i] 4
 [i]VP:[/i] 2
 
 
 
-== Legendary Secret Wars volume 2 ==
+== Legendary Secret Wars Volume 2 Villain Groups ==
 SWv2 Villain Groups
 
 
@@ -1002,12 +1002,12 @@ SWv2 Villain Groups
 [i]Attack:[/i] 5+
 [i]VP:[/i] 5
 
-[i]Doop[/i] (2 copies)
-You can’t fight Doop if there is a Villain in an adjacent city space.
+[i]Doop[/i]
+You can't fight Doop if there is a Villain in an adjacent city space.
 [i]Attack:[/i] 2*
 [i]VP:[/i] 2
 
-[i]Howard the Duck[/i] (2 copies)
+[i]Howard the Duck[/i]
 [i]Ambush:[/i] Howard the Duck captures [i](the heart of)[/i] a Bystander.
 [i]7th Circle of Quack-Fu[/i]
 [i]Attack:[/i] 1+
@@ -1027,24 +1027,24 @@ You can’t fight Doop if there is a Villain in an adjacent city space.
 [i]Attack:[/i] 7
 [i]VP:[/i] 5
 
-[i]Drax the Destroyer[/i] (2 copies)
+[i]Drax the Destroyer[/i]
 [i]Fight:[/i] Reveal the top card of your deck. KO it or put it back. [b]Fateful Resurrection.[/b]
 [i]Attack:[/i] 5
 [i]VP:[/i] 4
 
 [i]Gamora[/i] (1 copy)
 [i]Ambush:[/i] [b]Charge[/b] one space.
-[i]Fight:[/i] [i](After this goes to your victory pile.)[/i] [b]Patrol the Sewers:[/b] If it’s empty, each other player gains a Wound.
+[i]Fight:[/i] [i](After this goes to your victory pile.)[/i] [b]Patrol the Sewers:[/b] If it's empty, each other player gains a Wound.
 [i]Escape:[/i] Each player gains a Wound.
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Groot[/i] (2 copies)
+[i]Groot[/i]
 [i]Fight:[/i] [b]Fateful Resurrection.[/b] If Groot resurrects this way, then he becomes Tiny Dancing Groot with Attack 1 and no abilities for the rest of the turn.
 [i]Attack:[/i] 5
 [i]VP:[/i] 4
 
-[i]Rocket Raccoon[/i] (2 copies)
+[i]Rocket Raccoon[/i]
 [i]Fight:[/i] [i](After this goes to your Victory Pile.)[/i] [b]Patrol the Bank:[/b] If it's empty, draw a card. If it's not empty, KO one of your Heroes.
 [i]Attack:[/i] 4
 [i]VP:[/i] 2
@@ -1052,25 +1052,25 @@ You can’t fight Doop if there is a Villain in an adjacent city space.
 
 [b]K'unlun[/b]
 
-[i]Laughing Skull[/i] (2 copies)
+[i]Laughing Skull[/i]
 [i]5th Circle of Kung-Fu[/i]
 [i]Escape:[/i] Each player reveals a Hero that costs 5 or more, or they discard a card.
 [i]Attack:[/i] 5+
 [i]VP:[/i] 5
 
-[i]Rand K'ai[/i] (2 copies)
+[i]Rand K'ai[/i]
 [i]6th Circle of Kung-Fu[/i]
 [i]Escape:[/i] Each player reveals a Hero that costs 6 or more, or they gain a wound.
 [i]Attack:[/i] 6+
 [i]VP:[/i] 6
 
-[i]Razor Fist[/i] (2 copies)
+[i]Razor Fist[/i]
 [i]3rd Circle of Kung-Fu[/i]
 [i]Fight:[/i] For each of your Heroes that costs 3, KO one of your Heroes.
 [i]Attack:[/i] 3+
 [i]VP:[/i] 3
 
-[i]Red Sai[/i] (2 copies)
+[i]Red Sai[/i]
 [i]4th Circle of Kung-Fu[/i]
 [i]Fight:[/i] Draw a card for each of your Heroes that costs 4.
 [i]Attack:[/i] 4+
@@ -1079,24 +1079,24 @@ You can’t fight Doop if there is a Villain in an adjacent city space.
 
 [b]Monster Metropolis[/b]
 
-[i]Bug, Shiklah’s Dragon[/i] (2 copies)
+[i]Bug, Shiklah's Dragon[/i]
 [i]Fight:[/i] KO a card from your discard pile. [b]Fateful Resurrection[/b]
 [i]Attack:[/i] 4
 [i]VP:[/i] 3
 
-[i]Ghost Deadpool[/i] (2 copies)
+[i]Ghost Deadpool[/i]
 [i]Fight:[/i] [b]Fateful Resurrection[/b]. Then, [b]Cross-Dimensional Deadpool Rampage[/b]
 [i]Escape:[/i] [b]Cross-Dimensional Deadpool Rampage[/b]
 [i]Attack:[/i] 5
 [i]VP:[/i] 5
 
-[i]Man-Thing[/i] (2 copies)
+[i]Man-Thing[/i]
 [i]Ambush:[/i] Each Monster Metropolis Villain captures a Bystander.
 [i]Fight:[/i] [b]Fateful Resurrection[/b]
 [i]Attack:[/i] 5
 [i]VP:[/i] 4
 
-[i]Marcus Symbiote Centaur[/i] (2 copies)
+[i]Marcus Symbiote Centaur[/i]
 [i]Ambush:[/i] [b]Charge[/b] two spaces.
 When in the Sewers, Rooftops or Bridge, he is in "wolf form" and gets +3 Attack.
 [i]Attack:[/i] 3+
@@ -1111,7 +1111,7 @@ When in the Sewers, Rooftops or Bridge, he is in "wolf form" and gets +3 Attack.
 [i]Attack:[/i] 6
 [i]VP:[/i] 4
 
-[i]Nighthawk[/i] (2 copies)
+[i]Nighthawk[/i]
 While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [i]Escape:[/i] Nighthawk becomes a Scheme Twist that takes effect immediately.
 [i]Attack:[/i] 4+
@@ -1123,7 +1123,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [i]Attack:[/i] 8
 [i]VP:[/i] 6
 
-[i]Whizzer[/i] (2 copies)
+[i]Whizzer[/i]
 [i]Ambush:[/i] [b]Charge[/b] three spaces.
 [i]Fight[/i] [i](After he goes to your victory pile.)[/i] [b]Patrol the Bridge:[/b] If there's a Villain there, each other player gains a Wound.
 [i]Escape:[/i] Each player gains a Wound.
@@ -1131,9 +1131,9 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [i]VP:[/i] 3
 
 
-[i]X-Men '92[/i]
+[b]X-Men '92[/b]
 
-[i]'92 Beast[/i] (2 copies)
+[i]'92 Beast[/i]
 [i]Ambush:[/i] Charge one space.
 [i]Fight:[/i] Gain this as a Hero.
 Attack: 5
@@ -1156,7 +1156,7 @@ Attack: 5
 [i]Attack:[/i] 8+
 [i]VP:[/i] 6
 
-[i]'92 Wolverine[/i] (2 copies)
+[i]'92 Wolverine[/i]
 [i]Fight:[/i] Gain this as a Hero.
 [i]Escape:[/i] [b]Cross-Dimensional Wolverine Rampage[/b]
 [i]Attack:[/i] 7
@@ -1166,173 +1166,64 @@ Attack: 5
 2 Attack
 
 
+== Captain America 75th Anniversary Villain Groups ==
 
-== Legendary Secret Wars Volume 1 Ambitions ==
-SWv1 Ambitions
+[b]Zola's Creations[/b]
 
-[b]Pure Evil[/b]
-[i]Starting Ambition[/i]
-Play a card from the Villain Deck. Keep this card in the Ambition Row.
-[i](This card starts the game in the Ambition Row and cannot be discarded from the Ambition Row. You can use this card multiple times in the same turn.)[/i]
-[i]Attack:[/i] 5
+[i]Captain Zolandia[/i]
+Abomination
+Fight: You get +1 for each Hero Class you have.
+Attack: 6+
+VP: 5
 
-[b]Crackdown[/b]
-Choose a class. Each other player reveals their hand and discards all cards of that class.
-[i]Attack:[/i] 7
+[i]Doughboy[/i]
+Abomination
+Fight: KO one of your Heroes.
+Attack: 4+
+VP: 3
 
-[b]Tide of Destruction[/b]
-Play two cards from the Villain Deck.
-[i]Attack:[/i] 8
+[i]Man-Fish[/i]
+Abomination
+Fight: If you fought Man-Fish in the Sewers or Bridge, then each other player gains a Wound.
+Escape: Each player gains a Wound.
+Attack: 5+
+VP: 4
 
-[b]Abduction[/b]
-Put a Hero from the HQ on the bottom of the Hero Deck.
-[i]Attack:[/i] 2
-
-[b]Secret Plans[/b]
-Put this card under a Villain in the Sewers or Bank. When that Villain escapes, this card becomes a Scheme Twist that takes effect immediately. If that Villain leaves the city another way, discard this.
-[i]Attack:[/i] 4
-
-[b]Wipe Out[/b]
-Choose a class. Put all heroes of that class from the HQ on the bottom of the Hero Deck.
-[i]Attack:[/i] 2
-
-[b]Crush the Weak[/b]
-The other player with the fewest Villains in their Victory Pile gains a Wound. [i](You choose how to break a tie.)[/i]
-[i]Attack:[/i] 3
-
-[b]Identity Theft[/b]
-Each other player that has exactly six cards reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck.
-[i]Attack:[/i] 4
-
-[b]Wave of Punishment[/b]
-Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound to the bottom of their deck.
-[i]Attack:[/i] 5
-
-[b]Force Field[/b]
-Put this card under the Mastermind card. That Mastermind gets +3 Attack until the start of your next turn. Then, discard this card.
-[i]Attack:[/i] 3
-
-[b]Breakout[/b]
-Choose a Villain from the Escape Pile. It enters the city.
-[i]Attack:[/i] 4
-
-[b]Last-Minute Escape[/b]
-Pick a random Mastermind Tactic from all the ones in players' Victory Piles. Shuffle it back into the Mastermind's Tactics.
-[i]Attack:[/i] 9
-
-[b]Empower[/b]
-Put this card under a Villain in the city. Until the start of your next turn, that Villain gets +3 Attack. Then, discard this card.
-[i]Attack:[/i] 3
-
-[b]Deceive[/b]
-Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards their hand and draws five cards.
-[i]Attack:[/i] 4
-
-[b]Inflict Pain[/b]
-Each other player puts a Wound from their discard pile on top of their deck.
-[i]Attack:[/i] 2
-
-[b]Bank Robbery[/b]
-KO the Hero in the HQ space under the Bank. You get + Recruit equal to that Hero's printed Recruit.
-[i]Attack:[/i] 3
-
-[b]Pressure Point[/b]
-Each other player reveals a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound to the top of their deck.
-[i]Attack:[/i] 6
-
-[b]Cleave[/b]
-Choose a number besides 0. Each other player reveals their hand and discards all cards of that cost.
-[i]Attack:[/i] 6
-
-[b]Entrap[/b]
-Put this card on a Hero in the HQ. Players can't recruit that Hero until the start of your next turn. Then, discard this card.
-[i]Attack:[/i] 1
-
-[b]Insane Twist[/b]
-This card becomes a Scheme Twist that takes effect immediately.
-[i]Attack:[/i] 9
-
-[b]Kidnap[/b]
-A Villain in the city captures a Bystander.
-[i]Attack:[/i] 2
-
-[b]Thirst for Power[/b]
-Reveal the top two cards of the Villain Deck. Play a Scheme Twist you revealed. Put the rest back on the top and/or bottom in any order.
-[i]Attack:[/i] 7
-
-[b]Painful Choice[/b]
-Each other player chooses Recruit or Attack, then discard all their cards with that icon.
-[i]Attack:[/i] 8
-
-[b]Crime Surge[/b]
-Each Villain on the Rooftops and Streets captures a Bystander.
-[i]Attack:[/i] 3
-
-[b]Dark Apprentice[/b]
-Add a random new Mastermind to the game with one Tactic.
-[i]Attack:[/i] 10
-
-[b]Collateral Damage[/b]
-Each other player KOs a Bystander from their Victory Pile or gains a Wound.
-[i]Attack:[/i] 4
-
-[b]Ruthless Strike[/b]
-This card becomes a Master Strike that takes effect immediately.
-[i]Attack:[/i] 4
-
-[b]Infiltrate S.H.I.E.L.D.[/b]
-Choose a 0-cost Hero from the KO pile for each other player. Those players gain those Heroes.
-[i]Attack:[/i] 4
-
-[b]Thirst for Vengeance[/b]
-Reveal the top two cards of the Villain Deck. Play a Master Strike you revealed. Put the rest back on the top and/or bottom in any order.
-[i]Attack:[/i] 6
-
-[b]Pummel[/b]
-Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
-[i]Attack:[/i] 4
+[i]Primus[/i]
+To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
+Escape: each player discards a Hero that costs 2, 3, 5, or 7.
+Attack: 3*
+VP: 3
 
 
-== Legendary Secret Wars Volume 2 Ambitions ==
-SWv2 Ambitions
+[b]Masters of Evil (WWII)[/b]
 
-[b]Puzzle Trap[/b]
-Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card.
-[i]Attack:[/i] 6
+[i]Black Knight[/i]
+Ambush: Black Knight captures a Bystander.
+Fight: Savior: KO one of your Heroes.
+Attack: 4
+VP: 2
 
-[b]Seize the High Ground[/b]
-[b]Patrol the Rooftops:[/b] If there's a Villain there, then all Villains everywhere get +1 Attack until the start of your next turn.
-Then, discard this card.
-[i]Attack:[/i] 3
+[i]Executioner[/i]
+Ambush: Executioner captures a Bystander
+Fight: Savior: Draw a card.
+Escape: KO a Bystander from each player's Victory Pile.
+Attack: 6
+VP: 4
 
-[b]Hostage Situation[/b]
-[b]Patrol the Streets:[/b] If there's a Villain there, then each Villain in the city captures a Bystander.
-[i]Attack:[/i] 2
+[i]Melter (WWII)[/i]
+Ambush: Melter captures a Bystander.
+Fight: Savior: Each player reveals the top card of their deck. For each card, you choose to KO it or put it back.
+Attack: 5
+VP: 3
 
-[b]This is a Stickup[/b]
-[b]Patrol the Bank:[/b] If there's a Villain there, each other player reveals their hand and discards a card with a Recruit icon.
-[i]Attack:[/i] 4
+[i]Radioactive Man[/i]
+Ambush: Radioactive Man captures a Bystander.
+Fight: Each player who is not a Savior gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
 
-[b]Shadowy Disciple[/b]
-This ambition ascends to become a new 9 Attack Mastermind worth 5 VP. It gains the ability: "[b]Master Strike[/b]: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound."
-[i]Attack:[/i] 9
 
-[b]Detonate the Bridge[/b]
-[b]Patrol the Bridge:[/b] If there's a Villain there, each player gains a Wound.
-[i]Attack:[/i] 4
 
-[b]Short Escape Tunnels[/b]
-[b]Patrol the Sewers:[/b] If there's a Villain there, it escapes.
-[i]Attack:[/i] 5
-
-[b]Crazed Charge[/b]
-A Villain in the city [b]charges[/b] two spaces.
-[i]Attack:[/i] 3
-
-[b]Devastate S.H.I.E.L.D.[/b]
-Every other player reveals their hand and discards all their cards that cost 0.
-[i]Attack:[/i] 7
-
-[b]Rack and Ruin[/b]
-This card becomes a Master Strike that takes effect immediately. Then, this card becomes a Scheme Twist that takes effect immediately.
-[i]Attack:[/i] 10
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
