@@ -108,6 +108,39 @@ VP: 1
 
 
 
+[size=16][b]Setup Cards[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]S.H.I.E.L.D. Officer[/b][/i][/size]
+[i]Maria Hill[/i] (30 copies)
+S.H.I.E.L.D.
+2 Recruit
+Cost: 3
+
+
+== Villains ==
+
+[size=10][i][b]Bindings[/b][/i][/size] (30 copies)
+[b]Betrayal[/b]: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
+
+
+[size=10][i][b]Madame HYDRA[/b][/i][/size]
+[i]Viper[/i] (30 copies)
+HYDRA
+2 Recruit
+[b]Dodge[/b]
+To play this card, you must discard a card from your hand.
+Cost: 3
+
+
+[size=10][i][b]New Recruit[/b][/i][/size] (15 copies)
+1 Attack
+Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
+Cost: 2
+
+
+
 [size=16][b]Sidekicks[/b][/size]
 
 == Secret Wars Volume 1 ==
@@ -173,6 +206,37 @@ Cost: 2
 
 
 
+[size=16][b]Starting Deck Cards[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]S.H.I.E.L.D. Agent[/b][/i][/size] (8 copies in starting deck)
+S.H.I.E.L.D.
+1 Recruit
+Cost: 0
+
+
+[size=10][i][b]S.H.I.E.L.D. Trooper[/b][/i][/size] (4 copies in starting deck)
+S.H.I.E.L.D.
+1 Attack
+Cost: 0
+
+
+== Villains ==
+
+[size=10][i][b]HYDRA Operative[/b][/i][/size] (8 copies in starting deck)
+HYDRA
+1 Recruit
+Cost: 0
+
+
+[size=10][i][b]HYDRA Soldier[/b][/i][/size] (4 copies in starting deck)
+HYDRA
+1 Attack
+Cost: 0
+
+
+
 [size=16][b]Wounds[/b][/size]
 
 == Legendary ==
@@ -203,70 +267,6 @@ Cost: 2
 
 [size=10][i][b]Subdermal Tracker[/b][/i][/size] (2 copies)
 [b]Healing[/b]: You may play a card from the Villain Deck. If you do, KO this Wound.
-
-
-
-[size=16][b]Setup Cards[/b][/size]
-
-== Legendary ==
-
-[size=10][i][b]S.H.I.E.L.D. Officer[/b][/i][/size]
-[i]Maria Hill[/i] (30 copies)
-S.H.I.E.L.D.
-2 Recruit
-Cost: 3
-
-
-== Villains ==
-
-[size=10][i][b]Bindings[/b][/i][/size] (30 copies)
-[b]Betrayal[/b]: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
-
-
-[size=10][i][b]Madame HYDRA[/b][/i][/size]
-[i]Viper[/i] (30 copies)
-HYDRA
-2 Recruit
-[b]Dodge[/b]
-To play this card, you must discard a card from your hand.
-Cost: 3
-
-
-[size=10][i][b]New Recruit[/b][/i][/size] (15 copies)
-1 Attack
-Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
-Cost: 2
-
-
-
-[size=16][b]Starting Deck Cards[/b][/size]
-
-== Legendary ==
-
-[size=10][i][b]S.H.I.E.L.D. Agent[/b][/i][/size] (8 copies in starting deck)
-S.H.I.E.L.D.
-1 Recruit
-Cost: 0
-
-
-[size=10][i][b]S.H.I.E.L.D. Trooper[/b][/i][/size] (4 copies in starting deck)
-S.H.I.E.L.D.
-1 Attack
-Cost: 0
-
-
-== Villains ==
-
-[size=10][i][b]HYDRA Operative[/b][/i][/size] (8 copies in starting deck)
-HYDRA
-1 Recruit
-Cost: 0
-
-
-[size=10][i][b]HYDRA Soldier[/b][/i][/size] (4 copies in starting deck)
-HYDRA
-1 Attack
-Cost: 0
 
 
 
