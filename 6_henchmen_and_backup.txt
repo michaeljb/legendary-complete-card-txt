@@ -1,5 +1,4 @@
-== Legendary Henchmen ==
-Base Henchmen
+== Legendary ==
 
 [b]Doombot Legion[/b] (Dr. Doom always leads)
 Fight: Look at the top two cards of your deck. KO one of them and put the other back.
@@ -22,8 +21,7 @@ Attack: 3
 VP: 1
 
 
-== Legendary: Dark City Henchmen ==
-DC Henchmen
+== Dark City ==
 
 [b]Maggia Goons[/b]
 Bribe
@@ -37,7 +35,7 @@ Attack: 3
 VP: 1
 
 
-== Legendary: Villains Backup Adversaries ==
+== Villains ==
 
 [b]Asgardian Warriors[/b] (Odin always leads)
 Fight: Draw a card.
@@ -60,8 +58,7 @@ Attack: 3
 VP: 1
 
 
-== Legendary: Secret Wars - Volume 1 Henchmen ==
-SWv1 Henchmen
+== Secret Wars Volume 1 ==
 
 [b]Ghost Racers[/b]
 Ambush: Rise of the Living Dead
@@ -83,8 +80,8 @@ Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000
 2+ Recruit Points
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit Point.
 
-== Legendary: Secret Wars - Volume 2 Henchmen ==
-SWv2 Henchmen
+
+== Secret Wars Volume 2 ==
 
 [b]Khonshu Guardians[/b]
 While in the Sewers, Rooftops or Bridge, this is in "wolf form" and gets +2 Attack.
@@ -116,7 +113,6 @@ VP: 1
 Fight: Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
 Attack: 3
 VP: 1
-
 
 
 
