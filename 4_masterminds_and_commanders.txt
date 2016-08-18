@@ -625,5 +625,107 @@ Fight: For each of your Avengers Heroes, rescue a Bystander.
 Fight: Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander.
 
 
+== Civil War ==
+
+[b]Authoritarian Iron Man[/b]
+Always Leads: Superhuman Registration Act
+Master Strike: Authoritarian Iron Man fortifies the next city space to his right, starting with the Bridge. You can't fight him while there's a Villain in that space.
+Villains in that space get +3 Attack.
+Attack: 12
+VP: 6
+
+[i]Armada of Armors[/i]
+Fight: You get +6 Recruit usable only to recruit Ranged and/or Tech Heroes.
+
+[i]Freeze Domestic Assets[/i]
+Fight: Each other player reveals their hand and discards all their cards with Recruit icons.
+
+[i]Man the Fortifications[/i]
+Fight: Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space that Authoritarian Iron Man is fortifying.
+
+[i]Recall to Service[/i]
+Fight: The Villcain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying.
+
+
+[b]Baron Helmut Zemo[/b]
+Baron Zemo gets -1 Attack for each Villain in your Victory Pile.
+Always Leads: Thunderbolts
+Master Strike: Each player KOs a Villain from their Victory Pile. Any player who cannot do so gains a Wound.
+Attack: 16*
+VP: 6
+
+[i]Blasted Henchmen![/i]
+Fight: Each other player reveals a Tech Hero or KOs a Villain from their Victory Pile.
+
+[i]Cursed Dynasty[/i]
+Fight: When you draw a new hand of cards at the end of this turn, draw two extra cards.
+
+[i]Endless Minions[/i]
+Fight: Each other player reveals a Tech Hero or chooses a Villain from their Victory Pile and it enters the city.
+
+[i]Revenge for My Father[/i]
+Fight: Each other player reveals their hand. Each player who revealed an Avengers Hero gains a Wound.
+
+
+[b]Maria Hill, Director of S.H.I.E.L.D.[/b]
+Double S.H.I.E.L.D. Clearance. You can't fight Maria Hill while there are any S.H.I.E.L.D. Elite or Officers in the city.
+Always Leads: S.H.I.E.L.D. Elite.
+Master Strike: Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.
+Attack: 7*
+VP: 6
+
+[i]Crash the Helicarrier[/i]
+Fight: KO any number of your S.H.I.E.L.D. Heroes.
+
+[i]Declare Martial Law[/i]
+Fight: Put a S.H.I.E.L.D. Officer into each empty city space as 3 Attack Villains. When you fight them, gain them as Heroes.
+
+[i]Evacuation Code Epislon[/i]
+Fight: Each other player reveals their hand and discards a S.H.I.E.L.D. card.
+
+[i]Rapid Response Team[/i]
+Fight: Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.
+
+
+[b]Misty Knight[/b]
+Bribe
+Always Leads: Heroes for Hire
+Master Strike: Each player reveals 4 cards with Recruit icons or gains a Wound.
+Attack: 14*
+VP: 6
+
+[i]Bionic Repulsor Field[/i]
+Fight: Each other player reveals a Marvel Knight Hero or puts two cards from their hand on top of the deck.
+
+[i]Cyborg Detective[/i]
+Fight: Reveal the top three cards of the Villain Deck. Put them back in any order.
+
+[i]Trusted Bodyguard[/i]
+Fight: Going clockwise, the fist other player with Colleen Wing in their Victory Pile rescues 5 Bystanders and returns Colleen Wing to play fortifying Misty Knight.
+
+[i]Vibranium Cyber Arm[/i]
+Fight: Each other player reveals a Marvel Knight Hero or gains a Wound.
+
+
+[b]Ragnarok[/b]
+Ragnarok gets +2 Attack for each Hero Class among Heroes in the HQ.
+Always Leads: Registration Enforcers
+Master Strike: Each player says "zero" or "not zero." Then, each player discards all their cards with that cost.
+Attack: 6+
+VP: 6
+
+[i]Electrical Charge[/i]
+Fight: Count how many Ranged Heroes you have. Draw that many cards.
+
+[i]God of Cyborg Thunder[/i]
+Fight: You can spend Recruit as Attack this turn.
+
+[i]Hammer Goliath[/i]
+Fight: KO each Hero from the HQ that costs 7 or more.
+
+[i]Unnatural Storm Clouds[/i]
+Fight: Put all Heroes from the HQ on the bottom of the Hero Deck in random order.
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
