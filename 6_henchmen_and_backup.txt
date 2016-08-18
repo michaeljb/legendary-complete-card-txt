@@ -102,6 +102,21 @@ Attack: 3
 VP: 1
 
 
+== Civil War ==
+
+[b]Mandroid[/b]
+This gets +1 Attack for each other Mandroid in your Victory Pile.
+Fight: KO one of your Heroes.
+Attack: 2+
+VP: 1
+
+[b]Cape-Killers[/b]
+S.H.I.E.L.D. Clearance
+Fight: KO a card from your discard pile.
+Attack: 3*
+VP: 1
+
+
 == 3D ==
 
 [b]Circus of Crime[/b] (10 copies)
