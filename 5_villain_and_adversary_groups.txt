@@ -2,8 +2,7 @@ Unless otherwise noted, there are 2 copies of each Villain card.
 
 
 
-== Legendary Villain Groups ==
-Base Villain Groups
+== Legendary ==
 
 [b]Brotherhood[/b] (Magneto always leads)
 [i]Blob[/i]
@@ -170,8 +169,7 @@ Attack: 5
 VP: 3
 
 
-== Legendary: Dark City Villain Groups ==
-DC Villain Groups
+== Dark City ==
 
 [b] Emissaries of Evil[/b]
 [i]Egghead[/i]
@@ -320,9 +318,7 @@ VP: 3
 
 
 
-== Legendary: Fantastic Four Villain Groups ==
-FF Villain Groups
-F4 Villain Groups
+== Fantastic Four ==
 
 [b]Heralds of Galactus[/b] (Galactus always leads)
 [i]Firelord[/i]
@@ -378,8 +374,7 @@ VP: 2
 
 
 
-== Legendary: Paint the Town Red Villain Groups ==
-PtTR Villain Groups
+== Paint the Town Red ==
 
 [b]Maximum Carnage[/b] (Carnage always leads)
 [i]Carrion[/i]
@@ -443,7 +438,7 @@ Attack: 4
 VP: 2
 
 
-== Legendary: Villains Adversary Groups ==
+== Villains ==
 
 [b]Avengers[/b] (Nick Fury always leads)
 [i]Ant-Man[/i]
@@ -645,9 +640,7 @@ X-Treme Attack. To Fight Cyclops, you must also discard a card.
 Overrun: Each player reveals a Brotherhood Ally or discards a card.
 
 
-== Legendary: Guardians of the Galaxy Villain Groups ==
-Guardians Villain Groups
-GotG Villain Groups
+== Guardians of the Galaxy ==
 
 [b]Kree Starforce[/b]
 [i]Captain Atlas[/i] (1 copy)
@@ -733,7 +726,7 @@ Attack: 6
 VP: 0
 
 
-== Legendary Villains: Fear Itself Adversary Groups ==
+== Fear Itself ==
 
 [b]The Mighty[/b]
 [i]Black Widow[/i] (1 copy)
@@ -789,8 +782,7 @@ Attack: 5*
 VP: 6
 
 
-== Legendary Secret Wars Volume 1 Villain Groups ==
-SWv1 Villain Groups
+== Secret Wars Volume 1 ==
 
 
 [b]The Deadlands[/b]
@@ -989,8 +981,7 @@ You get +1 Attack for each color of Hero you have
 
 
 
-== Legendary Secret Wars Volume 2 Villain Groups ==
-SWv2 Villain Groups
+== Secret Wars Volume 2 ==
 
 
 [b]Deadpool's Secret Secret Wars[/b]
@@ -1166,7 +1157,7 @@ Attack: 5
 2 Attack
 
 
-== Captain America 75th Anniversary Villain Groups ==
+== Captain America 75th Anniversary ==
 
 [b]Zola's Creations[/b]
 
