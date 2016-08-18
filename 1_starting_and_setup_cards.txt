@@ -109,6 +109,39 @@ VP: 1
 
 
 
+[size=16][b]Wounds[/b][/size]
+
+== Legendary ==
+
+[size=10][i][b]Wound[/b][/i][/size] (30 copies)
+[b]Healing[/b]: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
+
+
+== Civil War ==
+
+[size=10][i][b]Blinding Flash[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may discard a card and have each other player discard a card. If you do, KO this Wound.
+
+[size=10][i][b]Blunt Force Trauma[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may spend 5 Attack. If you do, KO this Wound.
+
+[size=10][i][b]Corrosive Webbing[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may KO this Wound. If you do, gain another Wound.
+
+[size=10][i][b]Fatal Blow[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may KO a Hero that costs 1 or more from your hand or discard pile. If you do, KO this Wound.
+
+[size=10][i][b]Psychic Trauma[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may spend 5 Recruit. If you do, KO this Wound.
+
+[size=10][i][b]Spreading Nanovirus[/b][/i][/size] (3 copies)
+[b]Healing[/b]: You may have the player on your left gain this Wound.
+
+[size=10][i][b]Subdermal Tracker[/b][/i][/size] (2 copies)
+[b]Healing[/b]: You may play a card from the Villain Deck. If you do, KO this Wound.
+
+
+
 [size=16][b]Setup Cards[/b][/size]
 
 == Legendary ==
@@ -118,10 +151,6 @@ VP: 1
 S.H.I.E.L.D.
 2 Recruit
 Cost: 3
-
-
-[size=10][i][b]Wound[/b][/i][/size] (30 copies)
-[b]Healing[/b]: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
 
 
 == Villains ==
