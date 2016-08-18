@@ -151,7 +151,7 @@ Cost: 2
 
 == Civil War ==
 
-[size=10][i][b]Hairball[/b][/i][/size]
+[size=10][i][b]Hairball[/b][/i][/size] (3 copies)
 Avengers
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 1 Attack
@@ -159,14 +159,14 @@ Draw a card.
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Lockheed[/b][/i][/size]
+[size=10][i][b]Lockheed[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack. Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Lockjaw[/b][/i][/size]
+[size=10][i][b]Lockjaw[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Attack
@@ -174,7 +174,7 @@ Avengers
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Ms. Lion[/b][/i][/size]
+[size=10][i][b]Ms. Lion[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Rescue a Bystander.
@@ -182,13 +182,13 @@ Draw a card.
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Redwing[/b][/i][/size]
+[size=10][i][b]Redwing[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Look at the top three cards of your deck. Draw one. Put the rest back in any order. Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Throg[/b][/i][/size]
+[size=10][i][b]Throg[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
@@ -196,7 +196,7 @@ Avengers
 Once this turn, if you made at least 6 Recruit, you get +2 Attack. Put this on the bottom of the Sidekick Stack.
 Cost: 2
 
-[size=10][i][b]Zabu[/b][/i][/size]
+[size=10][i][b]Zabu[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 KO a card from your hand or discard pile. Put this on the bottom of the Sidekick Stack.
