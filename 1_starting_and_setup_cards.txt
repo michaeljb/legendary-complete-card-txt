@@ -71,7 +71,6 @@ VP: 1
 
 == Civil War ==
 
-
 [size=10][i][b]Aspiring Hero[/b][/i][/size] (4 copies)
 When you rescue this Bystander, gain a Sidekick.
 VP: 1
