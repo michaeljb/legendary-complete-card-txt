@@ -1225,5 +1225,193 @@ Attack: 5
 VP: 3
 
 
+== Civil War ==
+
+[b]CSA Special Marshals[/b]
+
+[i]Bullseye[/i]
+Fight: KO one of your heroes with a Recruit icon.
+Escape: Each player KOs one of their Heroes that has printed Attack of 2 or more.
+Attack: 6
+VP: 4
+
+[i]Moonstone[/i]
+Fight: Each other player discards two cards, and then draws a card.
+Attack: 4
+VP: 2
+
+[i]Penance[/i]
+Penance gets +1 Attack for each Villain in your Victory Pile.
+Attack: 2
+VP: 3
+
+[i]Venom[/i]
+Size-Changing: Covert
+Escape: Fortify the Bystander Stack. While it's fortified, if a Bystander would be rescued from there, KO that Bystander instead.
+Attack: 7*
+VP: 4
+
+
+[b]Great Lakes Avengers[/b]
+
+[i]Big Bertha[/i]
+Size-Changing: Strength
+Fight: Each player reveals a Strength Hero or gains a Wound.
+Escape: Same effect.
+Attack: 7*
+VP: 4
+
+[i]Flatman[/i]
+Size-Changing: Covert
+Fight: KO a card from your discard pile.
+Attack: 5*
+VP: 2
+
+[i]Mr. Immortal[/i]
+Fight: Reveal the top card of the Villain Deck. If it's a Villain or Bystander, Mr. Immortal reenters the Sewers.
+Attack: 2
+VP: 2
+
+[i]Squirrel Girl[/i]
+You can't fight Squirrel Girl if you played more than one card this turn.
+Escape: Fortify the Sidekick Stack. While it's fortified, Sidekicks can't be recruited or gained.
+Attack: 3*
+VP: 2
+
+
+[b]Heroes for Hire[/b]
+
+[i]Colleen Wing[/i]
+Bribe
+Escape: Fortify the Mastermind. While it's fortified, the Mastermind can't be fought.
+Attack: 9*
+VP: 5
+
+[i]Humbug[/i]
+Bribe
+Fight: KO one of your Heroes.
+Attack: 5*
+VP: 3
+
+[i]Shang-Chi[/i]
+Bribe
+Fight: If you have any cards in your discard pile, then shuffle them into your deck, and Shang-Chi reenters the Sewers.
+Attack: 3*
+VP: 2
+
+[i]Tarantula[/i]
+Bribe
+Fight: Each player discards two cards or gains a Wound.
+Escape: Same effect.
+Attack: 7*
+VP: 5
+
+
+[b]Registration Enforcers[/b]
+
+[i]Blade[/i]
+Fight: If you fight Blade in the Sewers or Rooftops, you get +2 Recruit.
+Attack: 4
+VP: 2
+
+[i]Captain Marvel[/i]
+Fight: Each player swaps a card from their hand with the top card of their deck.
+Escape: Each player swaps their hand with the top four cards of their deck.
+Attack: 6
+VP: 4
+
+[i]Deadpool[/i]
+Ambush: Each player reveals a card that costs 5 or discards down to 5 cards.
+Fight: Same effect.
+Escape: Same effect.
+Attack: 5
+VP: 5
+
+[i]Micromax[/i]
+Size-Changing: Instinct
+Fight: KO one of your Heroes.
+Attack: 6*
+VP: 3
+
+
+[b]S.H.I.E.L.D. Elite[/b]
+
+[i]Agent Eric Marshall[/i]
+S.H.I.E.L.D. Clearance
+Ambush: A S.H.I.E.L.D. Officer enters the city as a 3 Attack Villain. When you fight it, gain it as a Hero.
+Attack: 1*
+VP: 2
+
+[i]Agent Gabe Jones[/i]
+S.H.I.E.L.D. Clearance
+Fight: A S.H.I.E.L.D. Officer enters the city as a 3 Attack Villain. When you fight it, gain it as a Hero.
+Attack: 2*
+VP: 2
+
+[i]Dum Dum Dugan[/i]
+S.H.I.E.L.D. Clearance
+Fight: Each player with no S.H.I.E.L.D. Officers in their discard pile gains a Wound.
+Escape: Same effect.
+Attack: 4*
+VP: 3
+
+[i]Sharon Carter, Agent 13[/i]
+S.H.I.E.L.D. Clearance
+Escape: Fortify the S.H.I.E.L.D. Officer stack. While it's fortified, whenever any number of S.H.I.E.L.D. Officers become Villains, an extra one becomes a Villain.
+Attack: 6*
+VP: 5
+
+
+[b]Superhuman Registration Act[/b]
+
+[i]Iron Spider[/i]
+Ambush: Fortify your deck. While Iron Spider fortifies a players deck, that player draws one fewer card at the end of their turn.
+Fight: Reveal the top card of the Villain Deck. If that card is worth 2 VP or less, Iron Spider fortifies the deck of the player on your left.
+Attack: 2
+VP: 3
+
+[i]Ms. Marvel[/i]
+Escape: Fortify an HQ space. While its fortified, Heroes can't be gained from that space.
+Attack: 5
+VP: 3
+
+[i]She-Hulk[/i]
+Size-Changing: Strength
+Escape: Fortify the Villain Deck. When a Master Strike is completed from that deck, each player gains a Wound and She-Hulk enters the Sewers.
+Attack: 8*
+VP: 5
+
+[i]Yellowjacket[/i]
+Size-Changing: Tech
+Escape: Fortify the Hero Deck. While it's fortified, whenever a Hero in the HQ costs 7 or more, KO that Hero.
+Attack: 7*
+VP: 4
+
+
+[b]Thunderbolts[/b]
+
+[i]Fixer[/i]
+Fight: Look at the top three cards of your deck. KO one and put the rest back in any order.
+Attack: 4
+VP: 2
+
+[i]Mach-IV[/i]
+Fight: Each player reveals a Tech Hero or gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+[i]Radioactive Man[/i]
+Escape: Fortify the Wound Stack. While it's fortified, whenever a player gains a Wound, that player gains an extra Wound.
+Attack: 6
+VP: 4
+
+[i]Songbird[/i]
+Fight: Each player without another Thunderbolts Villain in their Victory Pile gains a Wound.
+Escape: Same effect.
+Attack: 5
+VP: 3
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
