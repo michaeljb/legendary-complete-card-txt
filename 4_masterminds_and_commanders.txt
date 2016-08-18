@@ -1,5 +1,4 @@
-== Legendary Masterminds ==
-Base Masterminds
+== Legendary ==
 
 [b]Dr. Doom[/b]
 Always Leads: Doombot Legion
@@ -77,8 +76,7 @@ Fight: You get +3 Attack.
 Fight: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
 
 
-== Legendary: Dark City Masterminds ==
-DC Masterminds
+== Dark City ==
 
 [b]Apocalypse[/b]
 Always Leads: Four Horsemen
@@ -181,9 +179,7 @@ Fight: A Wound from the Wound Stack becomes a Master Strike that takes effect im
 Fight: Each other player reveals an X-Force Hero or gains a Wound.
 
 
-== Legendary: Fantastic Four Masterminds ==
-FF Masterminds
-F4 Masterminds
+== Fantastic Four ==
 
 [b]Galactus[/b]
 Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -226,8 +222,7 @@ Fight: You get +6 Attack usable only against Villains in the Streets.
 Fight: You get +6 Recruit Points usable only to recruit Heroes in the HQ space under the Streets.
 
 
-== Legendary: Paint the Town Red Masterminds ==
-PtTR Masterminds
+== Paint the Town Red ==
 
 [b]Carnage[/b]
 Always Leads: Maximum Carnage
@@ -270,7 +265,7 @@ Fight: If this is not the final Tactic, shuffle a Master Strike Tactic from each
 Fight: If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order.
 
 
-== Legendary: Villains Commanders ==
+== Villains ==
 
 [b]Dr. Strange[/b]
 Always Leads: Defenders.
@@ -349,9 +344,7 @@ Fight: Each other player reveals a Brotherhood Ally or stacks a non-grey Ally fr
 Fight: Each other player reveals a Brotherhood Ally or gains a Bindings.
 
 
-== Legendary: Guardians of the Galaxy Masterminds ==
-Guardians Masterminds
-GotG Masterminds
+== Guardians of the Galaxy ==
 
 [b]Supreme Intelligence of the Kree[/b]
 Always Leads: Kree Starforce
@@ -392,7 +385,7 @@ Fight: Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a 
 Fight: Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile.
 
 
-== Legendary Villains: Fear Itself Commanders ==
+== Fear Itself ==
 
 [b]Uru-Enchanted Iron Man[/b]
 Always Leads: The Mighty.
@@ -413,8 +406,7 @@ Fight: Draw two cards. Then, if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tec
 Fight: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.
 
 
-== Legendary Secret Wars Volume 1 Masterminds ==
-SWv1 Masterminds
+== Secret Wars Volume 1 ==
 
 [b]Madelyne Pryor, Goblin Queen[/b]
 Bystanders captured by Madelyne are "Demon Goblin" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.
@@ -493,10 +485,7 @@ Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics retur
 Fight: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, put all Heroes from the HQ that cost 6 or less on the bottom of the Hero Deck.
 
 
-
-== Legendary Secret Wars Volume 2 Masterminds ==
-SWv2 Masterminds
-
+== Secret Wars Volume 2 ==
 
 [b]Immortal Emperor Zheng-Zhu[/b]
 7th Circle of Kung-Fu
@@ -583,7 +572,7 @@ Fight: You may gain a Spider-Friend Hero from the HQ.
 Fight: Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile.
 
 
-== Legendary Captain America 75th Anniversary Masterminds ==
+== Captain America 75th Anniversary ==
 
 [b]Arnim Zola[/b]
 Ultimate Abomination
