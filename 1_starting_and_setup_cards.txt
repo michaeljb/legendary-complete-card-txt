@@ -121,10 +121,6 @@ Cost: 3
 
 == Villains ==
 
-[size=10][i][b]Bindings[/b][/i][/size] (30 copies)
-[b]Betrayal[/b]: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
-
-
 [size=10][i][b]Madame HYDRA[/b][/i][/size]
 [i]Viper[/i] (30 copies)
 HYDRA
@@ -134,14 +130,16 @@ To play this card, you must discard a card from your hand.
 Cost: 3
 
 
+
+[size=16][b]Sidekicks and New Recruits[/b][/size]
+
+== Villains ==
+
 [size=10][i][b]New Recruit[/b][/i][/size] (15 copies)
 1 Attack
 Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
 Cost: 2
 
-
-
-[size=16][b]Sidekicks[/b][/size]
 
 == Secret Wars Volume 1 ==
 
@@ -237,12 +235,18 @@ Cost: 0
 
 
 
-[size=16][b]Wounds[/b][/size]
+[size=16][b]Wounds and Bindings[/b][/size]
 
 == Legendary ==
 
 [size=10][i][b]Wound[/b][/i][/size] (30 copies)
 [b]Healing[/b]: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
+
+
+== Villains ==
+
+[size=10][i][b]Bindings[/b][/i][/size] (30 copies)
+[b]Betrayal[/b]: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
 
 
 == Civil War ==
