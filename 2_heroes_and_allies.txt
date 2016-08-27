@@ -3010,6 +3010,638 @@ Cost: 7
 
 
 
+== Civil War ==
+
+[size=10][i][b]Captain America, Secret Avenger[/b][/i][/size]
+Avengers
+
+[i]Bold Leadership[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Recruit
+You get +1 Recruit for each Hero Class you have.
+Cost: 2
+
+[i]Inspire a Nation/Inspire a Man[/i] (5 copies)
+[b]Divided[/b]
+[i]Inspire a Nation (Captain America, Secret Avenger: Avengers)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Gain a Sidekick.
+Cost: 3
+-----------------
+[i]Inspire a Man (Captain America, Secret Avenger: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+Cost: 3
+
+[i]Secret Avengers Assemble![/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+You get +1 Attack for each Sidekick and other Avengers Hero you played this turn.
+Cost: 5
+
+[i]Freedom Never Dies[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+5 Attack
+Whenever you play a Sidekick or another Avengers Hero this turn set that card aside. At the end of your turn, put those cards on the bottom of your deck in random order before you draw your new hand.
+Cost: 7
+
+
+[size=10][i][b]Cloak & Dagger[/b][/i][/size]
+Avengers/Marvel Knights
+
+[i]Above/Below[/i] (5 copies)
+[b]Divided[/b]
+[i]Above (Cloak: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+Cost: 3
+-----------------
+[i]Below (Dagger: Marvel Knights)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+You get +3 Recruit usable only to recruit Heroes in the HQ space under the Sewers.
+Cost: 3
+
+[i]Flee/Fight[/i] (5 copies)
+[b]Divided[/b]
+[i]Flee (Cloak: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Recruit
+[b]Phasing[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Recruit.
+Cost: 4
+-----------------
+[i]Fight (Dagger: Marvel Knights)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Phasing[/b]
+Recruit: You get +1 Attack.
+Cost: 4
+
+[i]Darkness/Light[/i] (3 copies)
+[b]Divided[/b]
+[i]Darkness (Cloak: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, KO it.
+Cost: 6
+-----------------
+[i]Light (Dagger: Marvel Knights)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Recruit
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 1 or more, draw it.
+Cost: 6
+
+[i]Penumbra[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+4 Attack
+Whenever you play a [b]Divided[/b] card this turn: play both sides as if they were two different cards.
+Cost: 7
+
+
+[size=10][i][b]Daredevil[/b][/i][/size]
+Avengers
+
+[i]Dual Existence[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Look at the top two cards of your deck. Draw one and put the other back.
+Cost: 2
+
+[i]Roundhouse Side Kick[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+Choose a number, then reveal the top card of your deck. If that card is that cost, gain a Sidekick.
+Cost: 4
+
+[i]Hidden Identity/Revealed Identity[/i] (3 copies)
+[b]Divided[/b]
+[i]Hidden Identity (Daredevil: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Recruit
+The next Hero you recruit this turn goes on top of your deck.
+Cost: 6
+-----------------
+[i]Revealed Identity (Iron Fist: Marvel Knights)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each different cost of Hero you have.
+Cost: 6
+
+[i]Master of Martial Arts[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4+ Attack
+Avengers: Discard the top two cards of your deck. If they have different costs, you get +2 Attack, then repeat this process.
+Cost: 8
+
+
+[size=10][i][b]Falcon[/b][/i][/size]
+Avengers
+
+[i]Rapid Reinforcements[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Recruit
+Put a Hero from the HQ on the bottom of the Hero Deck.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: If that Hero had a Recruit icon, you get +1 Recruit.
+Cost: 3
+
+[i]Talk with Birds/Squawk Back[/i] (5 copies)
+[b]Divided[/b]
+[i]Talk with Birds (Falcon: Avengers)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Gain a Sidekick.
+Cost: 4
+-----------------
+[i]Squawk Back (Redwing: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Look at the top three cards of your deck. Draw one. Put the rest back in any order.
+Cost: 4
+
+[i]Scout the Battlefield[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each card in the HQ with an Attack icon.
+Cost: 6
+
+[i]Fly in a Friend[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+4+ Attack
+Avengers: You get +Attack equal to the printed Attack of a Hero in the HQ.
+Cost: 7
+
+
+[size=10][i][b]Goliath[/b][/i][/size]
+Avengers
+
+[i]Growth Industry[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card
+Cost: 5*
+
+[i]Brilliant Biochemist/Massive Warrior[/i] (5 copies)
+[b]Divided[/b]
+[i]Brilliant Biochemist[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Cost: 4*
+-----------------
+[i]Massive Warrior[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Cost: 4*
+
+[i]Being Big is Best[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +1 for each other card you played this turn that costs 4 or more.
+Cost: 6*
+
+[i]Enormous Implications[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +Attack equal to the cost of another card you played this turn.
+Cost: 8
+
+
+[size=10][i][b]Hercules[/b][/i][/size]
+Avengers
+
+[i]Crowd Favorite[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Whenever you defeat a Villain this turn, rescue a Bystander.
+Cost: 4
+
+[i]Manly Dullard/Boy Genius[/i] (5 copies)
+[b]Divided[/b]
+[i]Manly Dullard (Hercules: Avengers)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Attack
+To play this, you must discard a card from your hand.
+Cost: 3
+-----------------
+[i]Boy Genius (Amadeus Cho: Unaffiliated)[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+Cost: 3
+
+[i]Prince of Power[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Recruit
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, KO it.
+Cost: 5
+
+[i]Son of Zeus[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+Rescue a Bystander. Then, you get +1 Attack for each Bystander in your Victory Pile.
+Avengers: You get +1 Recruit for each Bystander in your Victory Pile.
+Cost: 7
+
+
+[size=10][i][b]Hulkling[/b][/i][/size]
+Avengers
+
+[i]Cellular Regeneration[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You may KO a Wound from your hand or discard pile. If you do, you get +1 Attack.
+Cost: 5*
+
+[i]Half-Kree/Half-Skrull[/i] (5 copies)
+[b]Divided[/b]
+[i]Half-Kree[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Recruit
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Gain a Wound.
+Cost: 4*
+-----------------
+[i]Half-Skrull[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Cost: 4
+
+[i]Impersonate[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Play this card as a copy of another Hero you played this turn. This card is both [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and the class and color you copy.
+Cost: 6
+
+[i]Enormous Shapeshifter[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +4 Attack.
+Cost: 8*
+
+
+[size=10][i][b]Luke Cage[/b][/i][/size]
+Avengers
+
+[i]Take a Bullet for the Team[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+1 Recruit
+1 Attack
+If any player would gain a Wound, you may discard this card instead. If you do, draw two cards.
+Cost: 4
+
+[i]Cautious/Reckless[/i] (5 copies)
+[b]Divided[/b]
+[i]Cautious (Luke Cage: Avengers)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+Cost: 3
+-----------------
+[i]Reckless (Jessica Jones: Marvel Knights)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Attack
+Gain a Wound.
+Cost: 3
+
+[i]Sweet Christmas[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Look at the top three cards of your deck. Discard them all or put them back in any order.
+Cost: 5
+
+[i]Unbreakable Skin[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+6 Attack
+Avengers: [b]Fortify[/b] the Wound Stack. While it's fortified, players can't gain Wounds. At the beginning of your next turn, put this card in your discard pile.
+Cost: 8
+
+
+[size=10][i][b]Patriot[/b][/i][/size]
+Avengers
+
+[i]Intuitive Tactician[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each Hero Name among your non-S.H.I.E.L.D. Heroes.
+Cost: 3
+
+[i]New Generation of Heroes[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +1 Recruit for each Hero Name among your non-S.H.I.E.L.D. Heroes.
+Cost: 2
+
+[i]Incredible Effort/Effortless[/i] (3 copies)
+[b]Divided[/b]
+[i]Incredible Effort (Patriot: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +3 Attack
+Cost: 5
+-----------------
+[i]Effortless (Hawkeye: Avengers)[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Recruit
+Cost: 5
+
+[i]Lead the Young Avengers[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Attack
+Reveal the top three cards of your deck. If you revealed at least three different Hero Names this way, draw those three cards. Otherwise, put them back in any order.
+Cost: 8
+
+
+[size=10][i][b]Peter Parker[/b][/i][/size]
+Avengers
+
+[i]Conflicted Loyalties[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 Recruit
+1 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 2 or less, draw it.
+Cost: 2
+
+[i]Spider-Man Unmasked[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Attack
+Gain a Sidekick.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Put that Sidekick on top of your deck.
+Cost: 2
+
+[i]Protect My Family/Hot Bowl of Soup[/i] (3 copies)
+[b]Divided[/b]
+[i]Protect My Family (Peter Parker: Avengers)[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 Attack
+Rescue a Bystander.
+Cost: 2
+-----------------
+[i]Hot Bowl of Soup (Aunt May: Spider-Friends)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Recruit
+You may KO a Wound from your hand or discard pile.
+Cost: 2
+
+[i]Reluctant Celebrity[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack for each extra card you've drawn this turn.
+Cost: 2
+
+
+[size=10][i][b]Speedball[/b][/i][/size]
+New Warriors
+
+[i]Bounce Around[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: If there are any Bystanders in the city or KO pile, you get +2 Attack.
+Cost: 4
+
+[i]Reckless Rescue Attempt[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Recruit
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Reveal the top card of the Villain Deck. If it's a Villain, rescue a Bystander. Otherwise, KO a Bystander from the Bystander Deck.
+Cost: 3
+
+[i]Double Down/Bubble Up[/i] (3 copies)
+[b]Divided[/b]
+[i]Double Down (Speedball: New Warriors)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Draw two cards.
+Cost: 5
+-----------------
+[i]Bubble Up (Namorita: New Warriors)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Attack
+You get +3 Attack usable only against Villains on the Bridge or against the Mastermind.
+Cost: 5
+
+[i]Kinetic Force Field[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+5 Attack
+If a Master Strike would occur, you may reveal this card to KO that Master Strike, cancel its effects, and draw a card.
+Cost: 7
+
+
+[size=10][i][b]Stature[/b][/i][/size]
+Avengers
+
+[i]Shrink to Nothing[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack.
+Cost: 2*
+
+[i]Crush Ants/Crush File Sizes[/i] (5 copies)
+[b]Divided[/b]
+[i]Crush Ants (Stature: Avengers)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat a Villain that has 3 Attack or less.
+Cost: 5*
+-----------------
+[i]Crush File Sizes (Iron Lad: Avengers)[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 5*
+
+[i]Growing Confidence[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack for each Villain in your Victory Pile that has a printed Attack 3 or less.
+Cost: 6*
+
+[i]Trample the Tiny[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+5 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat each Villain that has 4 Attack or less.
+Cost: 8*
+
+
+[size=10][i][b]Storm & Black Panther[/b][/i][/size]
+X-Men/Avengers
+
+[i]Gathering Rain Clouds/Gathering Clues[/i] (5 copies)
+[b]Divided[/b]
+[i]Gathering Rain Clouds (Storm: X-Men)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1 Recruit
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 2
+-----------------
+[i]Gathering Clues (Black Panther: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 2
+
+[i]Lightning Strike/Pouncing Strike[/i] (5 copies)
+[b]Divided[/b]
+[i]Lightning Strike (Storm: X-Men)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+Any Villain you fight on the Rooftops this turn gets -1 Attack.
+Cost: 3
+-----------------
+[i]Pouncing Strike (Black Panther: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Recruit
+You may move a Villain to an adjacent empty city space.
+Cost: 3
+
+[i]Tsunami of Water/Tsunami of Justice[/i] (3 copies)
+[b]Divided[/b]
+[i]Tsunami of Water (Storm: X-Men)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 attack usable only against the Mastermind.
+Cost: 5
+-----------------
+[i]Tsunami of Justice (Black Panther: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+Cost: 5
+
+[i]King & Queen of Wakanda[/i] (1 copy)
+Storm & Black Panther
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5 Attack
+Reveal any number of multi-class cards from your hand. Gain that many sidekicks.
+Cost: 7
+
+
+[size=10][i][b]Tigra[/b][/i][/size]
+Avengers
+
+[i]Friendship/Ferocity[/i] (5 copies)
+[b]Divided[/b]
+[i]Friendship (Tigra: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1 Recruit
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Gain a Sidekick.
+Cost:2
+-----------------
+[i]Ferocity (Tigra: Avengers)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 2
+
+[i]Supernatural Senses[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+Look at the top card of your deck. Discard it or put it back.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO the card you discarded this way.
+Cost: 3
+
+[i]Can't Surprise a Cat[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+If an Ambush effect would occur, you may discard this card to cancel that effect and draw two cards.
+Cost: 5
+
+[i]Mystic Talisman[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+Recruit a Hero from the HQ for free.
+Avengers: You get that Heroes printed Recruit and Attack.
+Cost: 7
+
+
+[size=10][i][b]Vision[/b][/i][/size]
+Avengers
+
+[i]Solar Energy[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1+ Attack
+[b]Phasing[/b]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
+Cost: 3
+
+[i]Through Solid Objects[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Phasing[/b]
+Choose a Hero Class. Reveal the top card of your deck. If it's the Hero class you named, then draw it.
+Cost: 4
+
+[i]Lighter than Air/Harder than Diamond[/i] (3 copies)
+[b]Divided[/b]
+[i]Lighter than Air (Vision: Avengers)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Recruit
+[b]Size-Changing[/b]: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Phasing[/b]
+Cost: 6*
+-----------------
+[i]Harder than Diamond (Vision: Avengers)[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Phasing[/b]
+Cost: 6*
+
+[i]Insubstantial Accomplishments[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4 Attack
+[b]Phasing[/b]
+When you play this, you may swap a card from your hand with the top two cards of your deck.
+Cost: 7
+
+
+[size=10][i][b]Wiccan[/b][/i][/size]
+Avengers
+
+[i]Astral Projection[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Phasing[/b]
+Choose a number, and then reveal the top card of your deck. If that card is that cost, then you get +1 Attack.
+Cost: 4
+
+[i]Sorceous Illusions[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1+ Recruit
+[b]Phasing[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit.
+Cost: 2
+
+[i]Supersonic Spells/Supersonic Speed[/i] (3 copies)
+[b]Divided[/b]
+[i]Supersonic Spells (Wiccan: Avengers)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 4
+-----------------
+[i]Supersonic Speed (Speed: Avengers)[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Draw another card.
+Cost: 4
+
+[i]Clairvoyance[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Attack
+Choose a number, and then reveal the top card of your deck. If that card is that cost, draw it and draw another card.
+Cost: 7
+
+
+
 == 3D ==
 
 [size=10][i][b]Howard the Duck[/b][/i][/size]
