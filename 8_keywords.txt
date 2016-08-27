@@ -1,4 +1,4 @@
-== Dark City Keywords ==
+== Dark City ==
 
 [b]Teleport[/b]: Instead of playing it, you may set aside a card with the keyword "Teleport". If you do, add it to your new hand at the end of your turn as an extra card.
 
@@ -6,7 +6,7 @@
 
 [b]Versatile[/b]: When you play a card with the keyword "Versatile" you must first choose between Recruit and Fight. Once you have chosen, the card provides recruit or fight equal to the Versatile value. For example, Versatile 3 gives you +3 Recruit or +3 Attack.
 
-== Fantastic Four Keywords ==
+== Fantastic Four ==
 
 [b]Focus[/b]: When you play a card with a Focus ability, you can pay the cost on the left side of the arrow to get the effect on right side of the arrow. You can use that Focus ability as many times as you want for the rest of the turn. You can even play more Heroes, recruit, fight, then use the Focus ability more.
 Note: You can use Focus abilities and still use the "Healing" ability on Wounds.
@@ -17,7 +17,7 @@ Note: You can use Focus abilities and still use the "Healing" ability on Wounds.
 
 Galactus' Cosmic Threat means "Once per turn, choose Strength, Instinct, Covert, Tech or Ranged. For each card of that color you reveal, this Enemy gets -3 Attack for one fight this turn." If you try to fight Galactus a second time in the same turn, he will return to his full attack and you cannot use his Cosmic Threat ability a second time that turn.
 
-== Paint the Town Red Keywords ==
+== Paint the Town Red ==
 
 [b]Wall-Crawl[/b]: "When you recruit this Hero, you may put it on top of your deck."
 Remember: When you use Wall-Crawl to put a card on top of your deck, don't use any other abilities on that card until it gets drawn from your deck. If you "gain" a Hero through some special ability like Skrull Shapeshifters, you can't use Wall-Crawl because you didn't "recruit" that Hero.
@@ -26,7 +26,7 @@ Remember: When you use Wall-Crawl to put a card on top of your deck, don't use a
 Carnage's Master Strike starts with "Feast on each player." That means each player does the "Feast" effect.
 Note that Carnage's Master Strike is the only effect that feasts on every player. The "Maximum Carnage" Villains and Carnage's Mastermind Tactic each feast on only one player.
 
-== Villains Keywords ==
+== Villains ==
 
 [b]Demolish[/b]: Reveal the top card of the Ally (Hero) Deck, note its cost, and put it on the bottom of the Ally Deck. Each player reveals their hand and discards a card with that cost.
 
@@ -36,14 +36,14 @@ Note that Carnage's Master Strike is the only effect that feasts on every player
 
 [b]X-Treme Attack[/b]: "This Adversary gets +1 Attack for each other Adversary in the city with X-Treme Attack."
 
-== Guardians of the Galaxy Keywords ==
+== Guardians of the Galaxy ==
 
 [b]Artifact[/b]: When you gain a Hero Artifact, put it in your discard pile like any other Hero card. When you draw that Artifact later in the game, you may play it in front of you and use its effects, usually once one each of your turns. This means you "control" that Artifact. At the end of your turn, when you discard all the cards you played that turn, the Artifacts you control stay in.
 If a card effect during any player's turn asks you to "Reveal a Ranged Hero," you may reveal a Ranged Hero Artifact you control. Card effects that say "your Heroes" or "Heroes you have" include Hero Artifacts you control as well.
 However, you only "played" an Artifact on the turn you put it out, so it only activates Superpower Abilities on the turn you play the Artifact, not every turn of the game.
 If a card effect like Rogue, Chameleon, or Star-Lord would let you "copy" an Artifact card, then you can use that Artifact's "Once per turn" ability once, and there is no other effect.
 
-== Fear Itself Keywords ==
+== Fear Itself ==
 
 [b]Thrown Artifact[/b]: These are Artifact cards that the player can "throw" at the perfect moment. To "throw" a Thrown Artifact, put it on the bottom of your deck and use its ability.
 You can throw as many Artifacts as you want in a turn. You can only throw during your turn.
@@ -55,7 +55,7 @@ Many of these enemies have a "[b]Fight or Fail[/b]:" effect. Do this effect if y
 Once you start to fight an enemy, you can't play any more cards or throw any Artifacts until after that fight is complete. So remember to generate all the Attack points you can before you attack an enemy with Uru-Enchanted Weapons!
 Flipping cards for Uru-Enchanted Weapons cannot end the game. If you run out of cards in the Adversary Deck, shuffle the cards you've revealed so far and keep revealing. (If there are no cards left in the Adversary Deck there is no Attack bonus.)
 
-== Secret Wars Volume 1 Keywords ==
+== Secret Wars Volume 1 ==
 
 [b]Rise of the Living Dead[/b]: "Each player checks the top card of their Victory Pile. If that card is a Villain with a 'Rise of the Living Dead' ability, that Villain reenters the city."
 (Mastermind Tactics never return this way.)
@@ -65,7 +65,7 @@ If you put a Villain with Bystanders into your Victory Pile, you choose the orde
 "Hulk" cards additionally include "Maestro" and "Nul, Breaker of Worlds."
 "Wolverine" cards additionally include any card with "Weapon X" or "Old Man Logan".
 
-== Secret Wars Volume 2 Keywords ==
+== Secret Wars Volume 2 ==
 
 [b]Spectrum[/b]: Some cards have abilities like "Spectrum: Draw a card." You can use a card's Spectrum abilities only if you have at least 3 classes of Hero.
 Grey S.H.I.E.L.D. Heroes, HYDRA Allies, New Recruits and Sidekicks don't have classes, so they don't help.
@@ -89,7 +89,7 @@ If a Villain that has ascended to become a Mastermind resurrects this way, it st
 
 [b]Charge[/b]: "Ambush: Charge one space" means "(After this Villain enters the Sewers,) it charges forward an extra space, pushing other Villains forward."
 
-== Captain America 75th Anniversary Keywords ==
+== Captain America 75th Anniversary ==
 
 [b]Man/Woman Out of Time[/b]: "After you use this card's abilities, set it aside. At the beginning of your next turn, play this card a second time then discard it."
 The card is discarded the second time you play it, so you play the card only twice total.
@@ -104,6 +104,40 @@ If a Hero card rescues a Bystander, that Bystander counts towards any Savior abi
 "Ultimate Abomination" means "This Mastermind gets +Attack equal to the total printed Attack of all the Heroes in the HQ."
 An Abomination Villain's Attack can go up and down as the Villain moves through the city.
 
+== Civil War ==
 
+[b]Divided[/b]
+Matching the theme of division and duality, Civil War introduces "Divided Cards," which have two miniature cards printed on the same card.
+* You recruit a Divided Card from the HQ as normal by paying its cost. Each side of a Divided Card shows the same cost. (If it costs "3" on each side, you pay only 3 Recruit, not 6.)
+* When you play a Divided Card, you choose which side to play. You generate all the Recruit, Attack, and special abilities of that side as normal. You ignore the other side, as if it doesn't exist.
+* Each side of a Divided Card has a different Hero Class, like [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. You can play the [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] side to get ready to use a Superpower Ability that triggers on [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] cards later in your turn.
+* Different sides of Divided Cards often let you choose between Recruit, Attack, drawing cards, and other effects. Choose carefully which side to play!
+* While a Divided Card is in your hand or the HQ, it counts as all its Hero Classes, Teams and Hero Names. But once you play it, the card only counts as the side you chose.
+* When sorting and setting up, always use the Hero Name on the left side of a Divided Card.
+* A Divided Card is one card, not two. So if you have to "discard two cards," "draw two cards," or count the number of cards in your hand, a Divided Card only counts as one card.
+
+[b]Size-Changing[/b]
+This keyword represents Heroes and Villains using superpowers to massively change their size.
+* Some Hero cards say, "Size-Changing: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]." This means "You can recruit this card for 2 Recruit less if you played a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] card this turn."
+* Likewise, some Villain cards say, "Size-Changing: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]." This means "You can fight this Villain for 2 Attack less if you played a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card this turn."
+* Some Divided Cards say "Size-Changing: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]" on one side and "Size-Changing: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" on the other side. You can recruit either side of the card with its own Size-Changing discount, but you can't get both discounts at once.
+
+[b]Phasing[/b]
+This keyword represents Heroes becoming insubstantial and moving through solid objects.
+* During your turn, if a card with Phasing is in your hand, you may swap it with the top card of your deck.
+* This lets you get a different card instead, save a crucial Phasing card for the next turn, or set up a combo that cares about the top card of your deck.
+* Swapping cards this way isn't "playing a card" or "drawing a card," so it doesn't count for other abilities that trigger on those things.
+
+[b]Fortify[/b]
+This keyword represents Villains setting up nasty traps for the players.
+* Some Villains say things like "Escape: Fortify the Mastermind. While it's fortified, the Mastermind can't be fought."
+* Put this Villain on or near the specified place. While it's there, it has the listed effect. Any player can fight that Villain as normal to end that Fortify effect and put that Villain into their Victory Pile.
+* If a card would fortify a place, don't do anything if there's already a Villain fortifying that place.
+
+[b]S.H.I.E.L.D. Clearance[/b]
+This keyword represents pro-registration S.H.I.E.L.D. forces that can be only defeated with the help of S.H.I.E.L.D. information.
+* If a Villain says "S.H.I.E.L.D. Clearance," then you must discard a S.H.I.E.L.D. Hero as an additional cost to fight that Villain.
+* Likewise, if a Mastermind has "Double S.H.I.E.L.D. Clearance," then you must discard two S.H.I.E.L.D. Heroes each time you fight them.
+* If you are playing with HYDRA Heroes, you may discard them instead of S.H.I.E.L.D. Heroes.
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
