@@ -1,4 +1,4 @@
-== Legendary Heroes ==
+== Legendary ==
 
 [size=10][i][b]Black Widow[/b][/i][/size]
 Avengers
@@ -422,7 +422,7 @@ Cost: 8
 
 
 
-== Dark City Heroes ==
+== Dark City ==
 
 [size=10][i][b]Angel[/b][/i][/size]
 X-Men
@@ -922,7 +922,7 @@ Cost: 7
 
 
 
-== Fantastic Four Heroes ==
+== Fantastic Four ==
 
 [size=10][i][b]Human Torch[/b][/i][/size]
 Fantastic Four
@@ -1067,7 +1067,7 @@ Cost: 8
 
 
 
-== Paint the Town Red Heroes ==
+== Paint the Town Red ==
 
 [size=10][i][b]Black Cat[/b][/i][/size]
 Spider Friends
@@ -1662,7 +1662,7 @@ Cost: 7
 
 
 
-== Guardians of the Galaxy Heroes ==
+== Guardians of the Galaxy ==
 
 [size=10][i][b]Drax the Destroyer[/b][/i][/size]
 Guardians of the Galaxy
@@ -1978,7 +1978,7 @@ Cost: 7
 
 
 
-== Secret Wars Volume 1 Heroes ==
+== Secret Wars Volume 1 ==
 
 [size=10][i][b]Apocalyptic Kitty Pryde[/b][/i][/size]
 X-Men
@@ -2383,7 +2383,7 @@ Cost: 2
 
 
 
-== Secret Wars Volume 2 Heroes ==
+== Secret Wars Volume 2 ==
 
 [size=10][i][b]Agent Venom[/b][/i][/size]
 Spider Friends
@@ -2858,7 +2858,7 @@ Cost: 7
 
 
 
-== Captain America 75th Anniversary Heroes ==
+== Captain America 75th Anniversary ==
 
 [size=10][i][b]Agent X-13[/b][/i][/size]
 S.H.I.E.L.D.
@@ -3010,7 +3010,7 @@ Cost: 7
 
 
 
-== 3D Heroes ==
+== 3D ==
 
 [size=10][i][b]Howard the Duck[/b][/i][/size]
 (Unaffiliated)
