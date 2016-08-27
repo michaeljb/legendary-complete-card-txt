@@ -25,6 +25,10 @@ VP: 1
 
 == Villains ==
 
+[size=10][i][b]Bystander[/b][/i][/size] (30 copies)
+VP: 1
+
+
 [size=10][i][b]Computer Hacker[/b][/i][/size] (3 copies)
 When you kidnap this Bystander, draw an extra card when you draw a new hand at the end of your turn.
 VP: 1
@@ -122,7 +126,7 @@ Cost: 3
 == Villains ==
 
 [size=10][i][b]Madame HYDRA[/b][/i][/size]
-[i]Viper[/i] (30 copies)
+[i]Viper[/i] (15 copies)
 HYDRA
 2 Recruit
 [b]Dodge[/b]
