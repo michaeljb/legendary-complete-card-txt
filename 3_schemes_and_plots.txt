@@ -77,7 +77,7 @@
 
 [size=10][i][b]Save Humanity[/b][/i][/size]
 [b]Setup[/b]: 8 Twists. 24 Bystanders in the Hero Deck. (1 player: 12 Bystanders in the Hero Deck)
-[b]Special Rules[/b]: You may spend 2 Recruit Points to rescue a Bystander from the HQ.
+[b]Special Rules[/b]: You may spend 2 Recruit to rescue a Bystander from the HQ.
 [b]Twist[/b]: KO all Bystanders in the HQ. Then each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or KOs a Bystander from their Victory Pile.
 [b]Evil Wins[/b]: When the number of Bystanders KO'd and/or carried off is 4 times the number of players.
 
@@ -116,12 +116,12 @@
 [size=10][i][b]Invincible Force Field[/b][/i][/size]
 [b]Setup[/b]: 7 Twists.
 [b]Twist[/b]: Stack this Twist next to the Mastermind as a "Force Field."
-[b]Special Rules[/b]: To fight the Mastermind, you must also spend 1 Recruit Point or 1 Attack for each Force Field next to them.
+[b]Special Rules[/b]: To fight the Mastermind, you must also spend 1 Recruit or 1 Attack for each Force Field next to them.
 [b]Twist 7[/b]: Evil Wins!
 
 [size=10][i][b]Pull Reality Into the Negative Zone[/b][/i][/size]
 [b]Setup[/b]: 8 Twists.
-[b]Twist 2, 4, and 6[/b]: Until the next Twist, Enemies cost Recruit Points to fight and Heroes cost Attack to recruit.
+[b]Twist 2, 4, and 6[/b]: Until the next Twist, Enemies cost Recruit to fight and Heroes cost Attack to recruit.
 [b]Twist 7[/b]: Evil Wins!
 
 
@@ -147,7 +147,7 @@
 
 [size=10][i][b]Weave a Web of Lies[/b][/i][/size]
 [b]Setup[/b]: 7 Twists.
-[b]Special Rules[/b]: Whenever you defeat a Villain, you may pay 1 Recruit Point. If you do, rescue a Bystander.
+[b]Special Rules[/b]: Whenever you defeat a Villain, you may pay 1 Recruit. If you do, rescue a Bystander.
 You can't fight the Mastermind unless you have a Bystander in your Victory Pile for each Twist next to the Mastermind.
 [b]Twist[/b]: Stack this Twist next to the Mastermind.
 [b]Twist 7[/b]: Evil Wins!
@@ -227,7 +227,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [size=10][i][b]Unite the Shards[/b][/i][/size]
 [b]Setup[/b]: 30 Shards in the supply. Twists equal to the number of players plus 5.
 [b]Twist[/b]: Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
-[b]Special Rules[/b]: During your turn, any number of times, you may spend 2 Recruit Points to gain one of the Mastermind's Shards.
+[b]Special Rules[/b]: During your turn, any number of times, you may spend 2 Recruit to gain one of the Mastermind's Shards.
 [b]Evil Wins[/b]: When the Mastermind has 10 Shards or when there are no more Shards in the supply.
 
 
@@ -297,7 +297,7 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 [size=10][i][b]Pan-Dimensional Plague[/b][/i][/size]
 [b]Setup[/b]: 10 Twists.
 [b]Twist[/b]: KO all Wounds from next to the HQ. Then, put a Wound from the Wound Stack next to each Hero in the HQ.
-[b]Special Rules[/b]: When a player recruits a Hero with a Wound next to it, that player can either gain that Wound or pay 1 Recruit Point to return that Wound to the Wound Stack.
+[b]Special Rules[/b]: When a player recruits a Hero with a Wound next to it, that player can either gain that Wound or pay 1 Recruit to return that Wound to the Wound Stack.
 [b]Evil Wins[/b]: When the Wound Stack runs out.
 
 [size=10][i][b]Smash Two Dimensions Together[/b][/i][/size]
