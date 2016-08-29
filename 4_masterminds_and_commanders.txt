@@ -70,7 +70,7 @@ Attack: 7
 VP: 5
 
 [i]Endless Resources[/i]
-[b]Fight[/b]: You get +4 Recruit Points.
+[b]Fight[/b]: You get +4 Recruit.
 
 [i]HYDRA Conspiracy[/i]
 [b]Fight[/b]: Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile.
@@ -232,7 +232,7 @@ VP: 6
 [b]Fight[/b]: You get +6 Attack usable only against Villains in the Streets.
 
 [i]Underground Riches[/i]
-[b]Fight[/b]: You get +6 Recruit Points usable only to recruit Heroes in the HQ space under the Streets.
+[b]Fight[/b]: You get +6 Recruit usable only to recruit Heroes in the HQ space under the Streets.
 
 
 == Paint the Town Red ==
@@ -253,7 +253,7 @@ If Carnage feasts on a 0-cost Hero this way, repeat this process.
 
 [i]Feed Me[/i]
 Feast
-You get + Recruit Points equal to the Cost of the card Carnage feasts on.
+You get + Recruit equal to the Cost of the card Carnage feasts on.
 
 [i]Om Nom Nom[/i]
 Feast
@@ -268,7 +268,7 @@ Attack: 8
 VP: 6
 
 [i]Blurring Images[/i]
-[b]Fight[/b]: You get +1 Recruit Point for each Mastermind Tactic Mysterio has left after this one.
+[b]Fight[/b]: You get +1 Recruit for each Mastermind Tactic Mysterio has left after this one.
 
 [i]Captive Audience[/i]
 [b]Fight[/b]: Rescue a Bystander for each Mastermind Tactic Mysterio has left after this one.
@@ -453,23 +453,23 @@ VP: 6
 
 [size=10][i][b]Nimrod, Super Sentinel[/b][/i][/size]
 
-You can't fight Nimrod unless you made at least 6 Recruit Points this turn.
+You can't fight Nimrod unless you made at least 6 Recruit this turn.
 [b]Always Leads[/b]: Sentinel Territories
-[b]Master Strike[/b]: Each player who does reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit Points or Attack, then discard all their cards with that icon.
+[b]Master Strike[/b]: Each player who does reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit or Attack, then discard all their cards with that icon.
 Attack: 6*
 VP: 6
 
 [i]Adapt and Destroy[/i]
-[b]Fight[/b]: Choose Recruit Points or Attack. Each other player reveals their hand and discards a card with that icon.
+[b]Fight[/b]: Choose Recruit or Attack. Each other player reveals their hand and discards a card with that icon.
 
 [i]Detect Mutation[/i]
-[b]Fight[/b]: Choose Recruit Points or Attack. Then, reveal the top card of your deck. If that card has that icon, draw it and repeat this process.
+[b]Fight[/b]: Choose Recruit or Attack. Then, reveal the top card of your deck. If that card has that icon, draw it and repeat this process.
 
 [i]Scatter the Mutants[/i]
-[b]Fight[/b]: Choose Recruit Points or Attack. Put all Heroes from the HQ with that icon on the bottom of the Hero Deck.
+[b]Fight[/b]: Choose Recruit or Attack. Put all Heroes from the HQ with that icon on the bottom of the Hero Deck.
 
 [i]Teleport and Incarcerate[/i]
-[b]Fight[/b]: Choose Recruit Points or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it.
+[b]Fight[/b]: Choose Recruit or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it.
 
 
 [size=10][i][b]Wasteland Hulk[/b][/i][/size]
