@@ -1,441 +1,441 @@
-== Legendary Schemes ==
+== Legendary ==
 
-[b]The Legacy Virus[/b]
-[i]Setup[/i]: 8 Twists. Wound stack holds 6 Wounds per player.
-[i]Twist[/i]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
-[i]Evil Wins[/i]: If the Wound stack runs out.
+[size=10][i][b]The Legacy Virus[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Wound stack holds 6 Wounds per player.
+[b]Twist[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Evil Wins[/b]: If the Wound stack runs out.
 
-[b]Midtown Bank Robbery[/b]
-[i]Setup[/i]: 8 Twists. 12 total Bystanders in the Villain Deck.
-[i]Special Rules[/i]: Each Villain gets +1 Attack for each Bystander it has.
-[i]Twist[/i]: Any Villain in the Bank captures 2 Bystanders. Then play the top card of the Villain Deck.
-[i]Evil Wins[/i]: When 8 Bystanders are carried away by escaping Villains.
+[size=10][i][b]Midtown Bank Robbery[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. 12 total Bystanders in the Villain Deck.
+[b]Special Rules[/b]: Each Villain gets +1 Attack for each Bystander it has.
+[b]Twist[/b]: Any Villain in the Bank captures 2 Bystanders. Then play the top card of the Villain Deck.
+[b]Evil Wins[/b]: When 8 Bystanders are carried away by escaping Villains.
 
-[b]Negative Zone Prison Breakout[/b]
-[i]Setup[/i]: 8 Twists. Add an extra Henchman group to the Villain Deck.
-[i]Twist[/i]: Play the top 2 cards of the Villain Deck.
-[i]Evil Wins[/i]: If 12 Villains escape.
+[size=10][i][b]Negative Zone Prison Breakout[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add an extra Henchman group to the Villain Deck.
+[b]Twist[/b]: Play the top 2 cards of the Villain Deck.
+[b]Evil Wins[/b]: If 12 Villains escape.
 
-[b]Portals to Dark Dimension[/b]
-[i]Setup[/i]: 7 Twists. Each Twist is a Dark Portal.
-[i]Twist 1[/i]: Put the Dark Portal above the Mastermind. The Mastermind gets +1 Attack.
-[i]Twists 2-6[/i]: Put the Dark Portal in the leftmost city space that doesn't yet have a Dark Portal. Villains in that city space get +1 Attack.
-[i]Twist 7[/i]: Evil Wins!
+[size=10][i][b]Portals to Dark Dimension[/b][/i][/size]
+[b]Setup[/b]: 7 Twists. Each Twist is a Dark Portal.
+[b]Twist 1[/b]: Put the Dark Portal above the Mastermind. The Mastermind gets +1 Attack.
+[b]Twists 2-6[/b]: Put the Dark Portal in the leftmost city space that doesn't yet have a Dark Portal. Villains in that city space get +1 Attack.
+[b]Twist 7[/b]: Evil Wins!
 
-[b]Replace Earth's Leaders with Killbots[/b]
-[i]Setup[/i]: 5 Twists. 3 additional Twists next to this Scheme. 18 total Bystanders in the Villain Deck.
-[i]Special Rules[/i]: Bystanders in the Villain Deck count as Killbot Villains, with Attack equal to the number of Twists next to this Scheme.
-[i]Twist[/i]: Put the Twist next to this Scheme.
-[i]Evil Wins[/i]: If 5 "Killbots" escape.
+[size=10][i][b]Replace Earth's Leaders with Killbots[/b][/i][/size]
+[b]Setup[/b]: 5 Twists. 3 additional Twists next to this Scheme. 18 total Bystanders in the Villain Deck.
+[b]Special Rules[/b]: Bystanders in the Villain Deck count as Killbot Villains, with Attack equal to the number of Twists next to this Scheme.
+[b]Twist[/b]: Put the Twist next to this Scheme.
+[b]Evil Wins[/b]: If 5 "Killbots" escape.
 
-[b]Secret Invasion of the Skrull Shapeshifters[/b]
-[i]Setup[/i]: 8 Twists. 6 Heroes. Skrull Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
-[i]Special Rules[/i]: Heroes in the Villain Deck count as Skrull Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
-[i]Twist[/i]: The highest-cost Hero from the HQ moves into the Sewers as a Skrull Villain, as above.
-[i]Evil Wins[/i]: If 6 Heroes get into the Escaped Villains pile.
+[size=10][i][b]Secret Invasion of the Skrull Shapeshifters[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. 6 Heroes. Skrull Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
+[b]Special Rules[/b]: Heroes in the Villain Deck count as Skrull Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
+[b]Twist[/b]: The highest-cost Hero from the HQ moves into the Sewers as a Skrull Villain, as above.
+[b]Evil Wins[/b]: If 6 Heroes get into the Escaped Villains pile.
 
-[b]Super Hero Civil War[/b]
-[i]Setup[/i]: For 2-3 players, use 8 Twists. For 4-5 players, use 5 Twists. If only 2 players, use only 4 Heroes in the Hero Deck.
-[i]Twist[/i]: KO all the Heroes in the HQ.
-[i]Evil Wins[/i]: If the Hero Deck runs out.
+[size=10][i][b]Super Hero Civil War[/b][/i][/size]
+[b]Setup[/b]: For 2-3 players, use 8 Twists. For 4-5 players, use 5 Twists. If only 2 players, use only 4 Heroes in the Hero Deck.
+[b]Twist[/b]: KO all the Heroes in the HQ.
+[b]Evil Wins[/b]: If the Hero Deck runs out.
 
-[b]Unleash the Power of the Cosmic Cube[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist[/i]: Put the Twist next to this Scheme.
-[i]Twist 5-6[/i]: Each player gains a Wound.
-[i]Twist 7[/i]: Each player gains 3 Wounds.
-[i]Twist 8[/i]: Evil Wins!
-
-
-
-== Legendary: Dark City Schemes ==
-
-[b]Capture Baby Hope[/b]
-[i]Setup[/i]: 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
-[i]Twist[/i]: If a Villain has the baby, that Villain escapes. Otherwise, the baby is captured by the closest Villain to the Villain Deck. (If there are no Villains, do nothing.)
-[i]Special Rules[/i]: The Villain with the baby gets +4 Attack. If you defeat that Villain, rescue the baby to your Victory Pile (until the next Twist). The baby is worth 6 VP at the end of the game. If a Villain escapes with the baby, stack a Twist next to the Mastermind and return the baby to this Scheme card.
-[i]Evil Wins[/i]: When there are 3 Twists stacked next to the Mastermind.
-
-[b]Detonate the Helicarrier[/b]
-[i]Setup[/i]: 8 Twists. 6 Heroes in the Hero Deck.
-[i]Special Rules[/i]: Whenever a Hero is KO'd from the HQ, turn that Hero face down on that HQ space, representing an Explosion on the Helicarrier. When an HQ space has 6 Explosions, that space is Destroyed and can't hold Heroes anymore.
-[i]Twist[/i]: Stack this Twist next to the Scheme. Then for each Twist in that stack, KO the leftmost Hero in the HQ and immediately refill that space.
-[i]Evil Wins[/i]: When all HQ spaces are Destroyed or the Hero Deck runs out.
-
-[b]Massive Earthquake Generator[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist[/i]: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or KOs the top card of their deck.
-[i]Evil Wins[/i]: When the number of non grey Heroes in the KO pile is 3 times the number of players.
-
-[b]Organized Crime Wave[/b]
-[i]Setup[/i]: 8 Twists. Include 10 Maggia Goons as one of the Henchman Groups.
-[i]Special Rules[/i]: Goons also have the ability "Ambush: Play another card from the Villain Deck."
-[i]Twist[/i]: Each Goon in the city escapes. Shuffle all Goons from each players' Victory Piles into the Villain Deck.
-[i]Evil Wins[/i]: When 5 Goons escape.
-
-[b]Save Humanity[/b]
-[i]Setup[/i]: 8 Twists. 24 Bystanders in the Hero Deck. (1 player: 12 Bystanders in the Hero Deck)
-[i]Special Rules[/i]: You may spend 2 Recruit Points to rescue a Bystander from the HQ.
-[i]Twist[/i]: KO all Bystanders in the HQ. Then each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or KOs a Bystander from their Victory Pile.
-[i]Evil Wins[/i]: When the number of Bystanders KO'd and/or carried off is 4 times the number of players.
-
-[b]Steal the Weaponized Plutonium[/b]
-[i]Setup[/i]: 8 Twists representing Plutonium. Add an extra Villain Group.
-[i]Twist[/i]: This Plutonium is captured by the closest Villain to the Villain Deck. If there are no Villains in the city, KO this Plutonium. Either way, play another card from the Villain Deck.
-[i]Special Rules[/i]: Each Villain gets +1 Attack for each Plutonium it has. When a Villain with any Plutonium is defeated, shuffle that Plutonium back into the Villain Deck.
-[i]Evil Wins[/i]: When 4 Plutonium have been carried off by Villains.
-
-[b]Transform Citizens Into Demons[/b]
-[i]Setup[/i]: 8 Twists. Villain Deck includes 14 extra Jean Grey cards and no Bystanders.
-[i]Twist[/i]: Stack 5 Bystanders face down next to the Scheme. Bystanders stacked here are "Demon Goblin" Villains. They have 2 Attack. Players can fight these Demon Goblins to rescue them as Bystanders.
-[i]Special Rules[/i]: Each Jean Grey card counts as a "Goblin Queen" Villain. It's worth 4 VP. It has Attack equal to its Cost plus the number of Demon Goblins stacked next to the Scheme.
-[i]Evil Wins[/i]: When 4 Goblin Queen cards escape.
-
-[b]X-Cutioner's Song[/b]
-[i]Setup[/i]: 8 Twists. Villain Deck includes 14 cards for an extra Hero and no Bystanders.
-[i]Special Rules[/i]: Whenever you play a Hero from the Villain Deck, that Hero is captured by the closest enemy to the Villain Deck. Each Villain gets +2 Attack for each Hero it has. When you fight an enemy, gain all the Heroes captured by that enemy.
-[i]Twist[/i]: KO all Heroes captured by enemies. Then play another card from the Villain Deck.
-[i]Evil Wins[/i]: 9 non grey Heroes are KO'd or carried off.
+[size=10][i][b]Unleash the Power of the Cosmic Cube[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist[/b]: Put the Twist next to this Scheme.
+[b]Twist 5-6[/b]: Each player gains a Wound.
+[b]Twist 7[/b]: Each player gains 3 Wounds.
+[b]Twist 8[/b]: Evil Wins!
 
 
 
-== Legendary: Fantastic Four Schemes ==
+== Dark City ==
 
-[b]Bathe the Earth in Cosmic Rays[/b]
-[i]Setup[/i]: 6 Twists.
-[i]Twist[/i]: Each player in turn does the following: Reveal your hand. KO one of your non-grey Heroes. Choose a Hero from the HQ with the same or lower cost and put it into your hand.
-[i]Evil Wins[/i]: When the number of non-grey Heroes in the KO pile is six times the number of players.
+[size=10][i][b]Capture Baby Hope[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
+[b]Twist[/b]: If a Villain has the baby, that Villain escapes. Otherwise, the baby is captured by the closest Villain to the Villain Deck. (If there are no Villains, do nothing.)
+[b]Special Rules[/b]: The Villain with the baby gets +4 Attack. If you defeat that Villain, rescue the baby to your Victory Pile (until the next Twist). The baby is worth 6 VP at the end of the game. If a Villain escapes with the baby, stack a Twist next to the Mastermind and return the baby to this Scheme card.
+[b]Evil Wins[/b]: When there are 3 Twists stacked next to the Mastermind.
 
-[b]Flood the Planet with Melted Glaciers[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist[/i]: Stack the Twist next to the Scheme as "Rising Waters." Then KO each Hero from the HQ whose cost is less than or equal to the number of Rising Waters in that stack.
-[i]Evil Wins[/i]: When 20 non-grey Heroes are KO'd.
+[size=10][i][b]Detonate the Helicarrier[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. 6 Heroes in the Hero Deck.
+[b]Special Rules[/b]: Whenever a Hero is KO'd from the HQ, turn that Hero face down on that HQ space, representing an Explosion on the Helicarrier. When an HQ space has 6 Explosions, that space is Destroyed and can't hold Heroes anymore.
+[b]Twist[/b]: Stack this Twist next to the Scheme. Then for each Twist in that stack, KO the leftmost Hero in the HQ and immediately refill that space.
+[b]Evil Wins[/b]: When all HQ spaces are Destroyed or the Hero Deck runs out.
 
-[b]Invincible Force Field[/b]
-[i]Setup[/i]: 7 Twists.
-[i]Twist[/i]: Stack this Twist next to the Mastermind as a "Force Field."
-[i]Special Rules[/i]: To fight the Mastermind, you must also spend 1 Recruit Point or 1 Attack for each Force Field next to them.
-[i]Twist 7[/i]: Evil Wins!
+[size=10][i][b]Massive Earthquake Generator[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist[/b]: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or KOs the top card of their deck.
+[b]Evil Wins[/b]: When the number of non grey Heroes in the KO pile is 3 times the number of players.
 
-[b]Pull Reality Into the Negative Zone[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist 2, 4, and 6[/i]: Until the next Twist, Enemies cost Recruit Points to fight and Heroes cost Attack to recruit.
-[i]Twist 7[/i]: Evil Wins!
+[size=10][i][b]Organized Crime Wave[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Include 10 Maggia Goons as one of the Henchman Groups.
+[b]Special Rules[/b]: Goons also have the ability "Ambush: Play another card from the Villain Deck."
+[b]Twist[/b]: Each Goon in the city escapes. Shuffle all Goons from each players' Victory Piles into the Villain Deck.
+[b]Evil Wins[/b]: When 5 Goons escape.
+
+[size=10][i][b]Save Humanity[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. 24 Bystanders in the Hero Deck. (1 player: 12 Bystanders in the Hero Deck)
+[b]Special Rules[/b]: You may spend 2 Recruit Points to rescue a Bystander from the HQ.
+[b]Twist[/b]: KO all Bystanders in the HQ. Then each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or KOs a Bystander from their Victory Pile.
+[b]Evil Wins[/b]: When the number of Bystanders KO'd and/or carried off is 4 times the number of players.
+
+[size=10][i][b]Steal the Weaponized Plutonium[/b][/i][/size]
+[b]Setup[/b]: 8 Twists representing Plutonium. Add an extra Villain Group.
+[b]Twist[/b]: This Plutonium is captured by the closest Villain to the Villain Deck. If there are no Villains in the city, KO this Plutonium. Either way, play another card from the Villain Deck.
+[b]Special Rules[/b]: Each Villain gets +1 Attack for each Plutonium it has. When a Villain with any Plutonium is defeated, shuffle that Plutonium back into the Villain Deck.
+[b]Evil Wins[/b]: When 4 Plutonium have been carried off by Villains.
+
+[size=10][i][b]Transform Citizens Into Demons[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Villain Deck includes 14 extra Jean Grey cards and no Bystanders.
+[b]Twist[/b]: Stack 5 Bystanders face down next to the Scheme. Bystanders stacked here are "Demon Goblin" Villains. They have 2 Attack. Players can fight these Demon Goblins to rescue them as Bystanders.
+[b]Special Rules[/b]: Each Jean Grey card counts as a "Goblin Queen" Villain. It's worth 4 VP. It has Attack equal to its Cost plus the number of Demon Goblins stacked next to the Scheme.
+[b]Evil Wins[/b]: When 4 Goblin Queen cards escape.
+
+[size=10][i][b]X-Cutioner's Song[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Villain Deck includes 14 cards for an extra Hero and no Bystanders.
+[b]Special Rules[/b]: Whenever you play a Hero from the Villain Deck, that Hero is captured by the closest enemy to the Villain Deck. Each Villain gets +2 Attack for each Hero it has. When you fight an enemy, gain all the Heroes captured by that enemy.
+[b]Twist[/b]: KO all Heroes captured by enemies. Then play another card from the Villain Deck.
+[b]Evil Wins[/b]: 9 non grey Heroes are KO'd or carried off.
 
 
 
-== Legendary: Paint the Town Red Schemes ==
+== Fantastic Four ==
 
-[b]The Clone Saga[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist[/i]: Each player reveals two non-grey Heroes with the same card name or discards down to 3 cards.
-[i]Evil Wins[/i]: When 2 Villains with the same card name have escaped or the Villain Deck runs out.
+[size=10][i][b]Bathe the Earth in Cosmic Rays[/b][/i][/size]
+[b]Setup[/b]: 6 Twists.
+[b]Twist[/b]: Each player in turn does the following: Reveal your hand. KO one of your non-grey Heroes. Choose a Hero from the HQ with the same or lower cost and put it into your hand.
+[b]Evil Wins[/b]: When the number of non-grey Heroes in the KO pile is six times the number of players.
 
-[b]Invade the Daily Bugle News HQ[/b]
-[i]Setup[/i]: 8 Twists. Add 6 extra Henchmen from a single Henchman Group to the Hero Deck.
-[i]Special Rules[/i]: You can fight Villains in the HQ.
-[i]Twist[/i]: KO a Hero from the HQ. Put the highest-Attack Villain from the city into that HQ space.
-[i]Evil Wins[/i]: When there are 5 Villains in the HQ.
+[size=10][i][b]Flood the Planet with Melted Glaciers[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist[/b]: Stack the Twist next to the Scheme as "Rising Waters." Then KO each Hero from the HQ whose cost is less than or equal to the number of Rising Waters in that stack.
+[b]Evil Wins[/b]: When 20 non-grey Heroes are KO'd.
 
-[b]Splice Humans with Spider DNA[/b]
-[i]Setup[/i]: 8 Twists. Include Sinister Six as one of the Villain Groups.
-[i]Special Rules[/i]: Sinister Six Villains get +3 Attack. All Hero cards have Wall-Crawl.
-[i]Twist[/i]: Each player puts a Sinister Six Villain from their Victory Pile on top of the Villain Deck. No matter how many players did so, play a single card from the Villain Deck.
-[i]Evil Wins[/i]: When 6 Sinister Six Villains have escaped or the Villain Deck runs out.
+[size=10][i][b]Invincible Force Field[/b][/i][/size]
+[b]Setup[/b]: 7 Twists.
+[b]Twist[/b]: Stack this Twist next to the Mastermind as a "Force Field."
+[b]Special Rules[/b]: To fight the Mastermind, you must also spend 1 Recruit Point or 1 Attack for each Force Field next to them.
+[b]Twist 7[/b]: Evil Wins!
 
-[b]Weave a Web of Lies[/b]
-[i]Setup[/i]: 7 Twists.
-[i]Special Rules[/i]: Whenever you defeat a Villain, you may pay 1 Recruit Point. If you do, rescue a Bystander.
+[size=10][i][b]Pull Reality Into the Negative Zone[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist 2, 4, and 6[/b]: Until the next Twist, Enemies cost Recruit Points to fight and Heroes cost Attack to recruit.
+[b]Twist 7[/b]: Evil Wins!
+
+
+
+== Paint the Town Red ==
+
+[size=10][i][b]The Clone Saga[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist[/b]: Each player reveals two non-grey Heroes with the same card name or discards down to 3 cards.
+[b]Evil Wins[/b]: When 2 Villains with the same card name have escaped or the Villain Deck runs out.
+
+[size=10][i][b]Invade the Daily Bugle News HQ[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add 6 extra Henchmen from a single Henchman Group to the Hero Deck.
+[b]Special Rules[/b]: You can fight Villains in the HQ.
+[b]Twist[/b]: KO a Hero from the HQ. Put the highest-Attack Villain from the city into that HQ space.
+[b]Evil Wins[/b]: When there are 5 Villains in the HQ.
+
+[size=10][i][b]Splice Humans with Spider DNA[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Include Sinister Six as one of the Villain Groups.
+[b]Special Rules[/b]: Sinister Six Villains get +3 Attack. All Hero cards have Wall-Crawl.
+[b]Twist[/b]: Each player puts a Sinister Six Villain from their Victory Pile on top of the Villain Deck. No matter how many players did so, play a single card from the Villain Deck.
+[b]Evil Wins[/b]: When 6 Sinister Six Villains have escaped or the Villain Deck runs out.
+
+[size=10][i][b]Weave a Web of Lies[/b][/i][/size]
+[b]Setup[/b]: 7 Twists.
+[b]Special Rules[/b]: Whenever you defeat a Villain, you may pay 1 Recruit Point. If you do, rescue a Bystander.
 You can't fight the Mastermind unless you have a Bystander in your Victory Pile for each Twist next to the Mastermind.
-[i]Twist[/i]: Stack this Twist next to the Mastermind.
-[i]Twist 7[/i]: Evil Wins!
+[b]Twist[/b]: Stack this Twist next to the Mastermind.
+[b]Twist 7[/b]: Evil Wins!
 
 
 
-== Legendary: Villains Plots ==
+== Villains ==
 
-[b]Build an Underground MegaVault Prison[/b]
-[i]Setup[/i]: 8 Twists. The Bindings stack holds 5 Bindings per player.
-[i]Twist[/i]: If there is an Adversary in the Sewers, each player gains a Bindings. Otherwise, reveal the top card of the Adversary Deck. If that card is an Adversary, it enters the Sewers.
-[i]Good Wins[/i]: When the Bindings stack runs out.
+[size=10][i][b]Build an Underground MegaVault Prison[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. The Bindings stack holds 5 Bindings per player.
+[b]Twist[/b]: If there is an Adversary in the Sewers, each player gains a Bindings. Otherwise, reveal the top card of the Adversary Deck. If that card is an Adversary, it enters the Sewers.
+[b]Good Wins[/b]: When the Bindings stack runs out.
 
-[b]Cage Villains in Power-Suppressing Cells[/b]
-[i]Setup[/i]: 8 Twists. Stack 2 Cops per player next to this Plot.
-[i]Twist[/i]: Each player returns all Cops from their Victory Pile to the Cop Stack. Then each player puts a non-grey Ally from their hand in front of them. Put a Cop from the Cop Stack on top of each of those Allies.
-[i]Special Rules[/i]: You can fight any Cop on top of Allies. If you do, the player of your choice gains that Ally.
-[i]Good Wins[/i]: When a Twist must put out a Cop, but the Cop Stack is already empty.
+[size=10][i][b]Cage Villains in Power-Suppressing Cells[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Stack 2 Cops per player next to this Plot.
+[b]Twist[/b]: Each player returns all Cops from their Victory Pile to the Cop Stack. Then each player puts a non-grey Ally from their hand in front of them. Put a Cop from the Cop Stack on top of each of those Allies.
+[b]Special Rules[/b]: You can fight any Cop on top of Allies. If you do, the player of your choice gains that Ally.
+[b]Good Wins[/b]: When a Twist must put out a Cop, but the Cop Stack is already empty.
 
-[b]Crown Thor King of Asgard[/b]
-[i]Setup[/i]: 8 Twists. Put the Thor Adversary next to this Plot.
-[i]Twist[/i]: If Thor is in the city, he overruns. Otherwise, Thor enters the Bridge from wherever he is, and Thor guards 3 Bystanders.
-[i]Special Rules[/i]: Whenever Thor overruns, stack a Plot Twist from the KO pile next to this Plot as a "Triumph of Asgard."
-[i]Good Wins[/i]: When there are 3 Triumphs of Asgard next to this plot.
+[size=10][i][b]Crown Thor King of Asgard[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Put the Thor Adversary next to this Plot.
+[b]Twist[/b]: If Thor is in the city, he overruns. Otherwise, Thor enters the Bridge from wherever he is, and Thor guards 3 Bystanders.
+[b]Special Rules[/b]: Whenever Thor overruns, stack a Plot Twist from the KO pile next to this Plot as a "Triumph of Asgard."
+[b]Good Wins[/b]: When there are 3 Triumphs of Asgard next to this plot.
 
-[b]Crush HYDRA[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twists 1-7[/i]: Each Adversary in the city captures a New Recruit, or if there are no more New Recruits, a Madame HYDRA.
-[i]Twist 8[/i]: Put all captured Allies from the city into the Overrun Pile.
-[i]Special Rules[/i]: An Adversary gets +1 Attack for each Ally it has captured. When you fight that Adversary, gain those Allies.
-[i]Good Wins[/i]: When there are 11 Allies in the Overrun Pile.
+[size=10][i][b]Crush HYDRA[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twists 1-7[/b]: Each Adversary in the city captures a New Recruit, or if there are no more New Recruits, a Madame HYDRA.
+[b]Twist 8[/b]: Put all captured Allies from the city into the Overrun Pile.
+[b]Special Rules[/b]: An Adversary gets +1 Attack for each Ally it has captured. When you fight that Adversary, gain those Allies.
+[b]Good Wins[/b]: When there are 11 Allies in the Overrun Pile.
 
-[b]Graduation at Xavier's X-Academy[/b]
-[i]Setup[/i]: 8 Twists. Stack 8 Bystanders next to this Plot as "Young Mutants."
-[i]Twist[/i]: Put a Bystander from next to this Plot into the Overrun Pile.
-[i]Good Wins[/i]: When there are 8 Bystanders in the Overrun Pile.
+[size=10][i][b]Graduation at Xavier's X-Academy[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Stack 8 Bystanders next to this Plot as "Young Mutants."
+[b]Twist[/b]: Put a Bystander from next to this Plot into the Overrun Pile.
+[b]Good Wins[/b]: When there are 8 Bystanders in the Overrun Pile.
 
-[b]Infiltrate the Lair With Spies[/b]
-[i]Setup[/i]: 8 Twists, Stack 21 Bystanders next to this Plot as "Infiltrating Spies."
-[i]Twist[/i]: Put all Bystanders from the Lair into the Overrun pile. Then put a Bystander from next to this Plot into each Lair space under the Bridge, Streets, and Sewers.
-[i]Special Rules[/i]: When you recruit an Ally, kidnap any Bystander in that Lair space. When an Ally leaves the Lair in any other way, put any Bystander from that Lair space into the Overrun Pile.
-[i]Good Wins[/i]: When there are 12 Bystanders in the Overrun Pile.
+[size=10][i][b]Infiltrate the Lair With Spies[/b][/i][/size]
+[b]Setup[/b]: 8 Twists, Stack 21 Bystanders next to this Plot as "Infiltrating Spies."
+[b]Twist[/b]: Put all Bystanders from the Lair into the Overrun pile. Then put a Bystander from next to this Plot into each Lair space under the Bridge, Streets, and Sewers.
+[b]Special Rules[/b]: When you recruit an Ally, kidnap any Bystander in that Lair space. When an Ally leaves the Lair in any other way, put any Bystander from that Lair space into the Overrun Pile.
+[b]Good Wins[/b]: When there are 12 Bystanders in the Overrun Pile.
 
-[b]Mass Produce War Machine Armor[/b]
-[i]Setup[/i]: 8 Twists, Include 10 S.H.I.E.L.D. Assault Squads as one of the Backup Adversary groups.
-[i]Twist[/i]: Stack this Twist next to the Plot as "War Machine Technology." An Assault Squad from the current player's Victory Pile enters the Bridge.
-[i]Special Rules[/i]: Assault Squads get +1 Attack for each War Machine Technology next to the Plot.
-[i]Good Wins[/i]: When there are 3 Assault Squads in the Overrun Pile.
+[size=10][i][b]Mass Produce War Machine Armor[/b][/i][/size]
+[b]Setup[/b]: 8 Twists, Include 10 S.H.I.E.L.D. Assault Squads as one of the Backup Adversary groups.
+[b]Twist[/b]: Stack this Twist next to the Plot as "War Machine Technology." An Assault Squad from the current player's Victory Pile enters the Bridge.
+[b]Special Rules[/b]: Assault Squads get +1 Attack for each War Machine Technology next to the Plot.
+[b]Good Wins[/b]: When there are 3 Assault Squads in the Overrun Pile.
 
-[b]Resurrect Heroes With Norn Stones[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twists 1-6[/i]: An Adversary from the current player's Victory Pile enters the Bridge. Then play the top card of the Adversary Deck.
-[i]Twists 7-8[/i]: Each player puts an Adversary from their Victory Pile into the Overrun Pile.
-[i]Good Wins[/i]: When there are 3 Adversaries per player in the Overrun Pile.
-
-
-
-== Legendary: Guardians of the Galaxy Schemes ==
-
-[b]Forge the Infinity Gauntlet[/b]
-[i]Setup[/i]: 8 Twists. Always include the Infinity Gems Villain Group.
-[i]Twist[/i]: Starting to your left and going clockwise, the first player with an Infinity Gem Artifact card in play or in their discard pile chooses on of those Infinity Gems to enter the city. Then put a Shard on each Infinity Gem in the city.
-[i]Evil Wins[/i]: When 6 Infinity Gem Villains are in the city and/or the Escape Pile.
-[i]Evil Wins[/i]: When a player controls 4 Infinity Gem Artifacts, that player is corrupted by power. That player wins, Evil wins, and all other players lose.
-
-[b]Intergalactic Kree Nega-Bomb[/b]
-[i]Setup[/i]: 8 Twists. Make a face down 'Nega-Bomb Deck' of 6 Bystanders.
-[i]Twist[/i]: Shuffle this Twist into the Nega-Bomb Deck. Then reveal a random card from that deck. If it's a Bystander, rescue it. If it's a Twist, KO it, KO all Heroes from the HQ, and each player gains a Wound.
-[i]Evil Wins[/i]: When 16 non-grey Heroes are in the KO pile.
-
-[b]The Kree-Skrull War[/b]
-[i]Setup[/i]: 8 Twists. Always include Kree Starforce and Skrull Villain Groups.
-[i]Twists 1-7[/i]: All Kree and Skrulls escape from the city. Then, if there are more Kree than Skrulls in the Escape Pile, stack this Twist next to the Mastermind as a Kree Conquest. If there are more Skrulls than Kree in the Escape Pile, stack this Twist next to the Villain Deck as a Skrull Conquest.
-[i]Twist 8[/i]: Stack this Twist on the side with the most Conquests.
-[i]Evil Wins[/i]: When there are 4 Kree Conquests or 4 Skrull Conquests.
-
-[b]Unite the Shards[/b]
-[i]Setup[/i]: 30 Shards in the supply. Twists equal to the number of players plus 5.
-[i]Twist[/i]: Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
-[i]Special Rules[/i]: During your turn, any number of times, you may spend 2 Recruit Points to gain one of the Mastermind's Shards.
-[i]Evil Wins[/i]: When the Mastermind has 10 Shards or when there are no more Shards in the supply.
+[size=10][i][b]Resurrect Heroes With Norn Stones[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twists 1-6[/b]: An Adversary from the current player's Victory Pile enters the Bridge. Then play the top card of the Adversary Deck.
+[b]Twists 7-8[/b]: Each player puts an Adversary from their Victory Pile into the Overrun Pile.
+[b]Good Wins[/b]: When there are 3 Adversaries per player in the Overrun Pile.
 
 
 
-== Legendary Villains: Fear Itself Plots ==
+== Guardians of the Galaxy ==
 
-[b]Fear Itself[/b]
-[i]Setup[/i]: 10 Twists.
+[size=10][i][b]Forge the Infinity Gauntlet[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Always include the Infinity Gems Villain Group.
+[b]Twist[/b]: Starting to your left and going clockwise, the first player with an Infinity Gem Artifact card in play or in their discard pile chooses on of those Infinity Gems to enter the city. Then put a Shard on each Infinity Gem in the city.
+[b]Evil Wins[/b]: When 6 Infinity Gem Villains are in the city and/or the Escape Pile.
+[b]Evil Wins[/b]: When a player controls 4 Infinity Gem Artifacts, that player is corrupted by power. That player wins, Evil wins, and all other players lose.
+
+[size=10][i][b]Intergalactic Kree Nega-Bomb[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Make a face down 'Nega-Bomb Deck' of 6 Bystanders.
+[b]Twist[/b]: Shuffle this Twist into the Nega-Bomb Deck. Then reveal a random card from that deck. If it's a Bystander, rescue it. If it's a Twist, KO it, KO all Heroes from the HQ, and each player gains a Wound.
+[b]Evil Wins[/b]: When 16 non-grey Heroes are in the KO pile.
+
+[size=10][i][b]The Kree-Skrull War[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Always include Kree Starforce and Skrull Villain Groups.
+[b]Twists 1-7[/b]: All Kree and Skrulls escape from the city. Then, if there are more Kree than Skrulls in the Escape Pile, stack this Twist next to the Mastermind as a Kree Conquest. If there are more Skrulls than Kree in the Escape Pile, stack this Twist next to the Villain Deck as a Skrull Conquest.
+[b]Twist 8[/b]: Stack this Twist on the side with the most Conquests.
+[b]Evil Wins[/b]: When there are 4 Kree Conquests or 4 Skrull Conquests.
+
+[size=10][i][b]Unite the Shards[/b][/i][/size]
+[b]Setup[/b]: 30 Shards in the supply. Twists equal to the number of players plus 5.
+[b]Twist[/b]: Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
+[b]Special Rules[/b]: During your turn, any number of times, you may spend 2 Recruit Points to gain one of the Mastermind's Shards.
+[b]Evil Wins[/b]: When the Mastermind has 10 Shards or when there are no more Shards in the supply.
+
+
+
+== Fear Itself ==
+
+[size=10][i][b]Fear Itself[/b][/i][/size]
+[b]Setup[/b]: 10 Twists.
 Earth's Fear Level starts at 8. The number of Allies in the Lair is always equal to the Fear Level.
-[i]Twist[/i]: KO an Ally from the Liar. The Fear Level goes down by 1.
-[i]Good Wins[/i]: When the Fear Level is 0.
+[b]Twist[/b]: KO an Ally from the Liar. The Fear Level goes down by 1.
+[b]Good Wins[/b]: When the Fear Level is 0.
 
-[b]Last Stand at Avengers Tower[/b]
-[i]Setup[/i]: 6 Twists.
-[i]Twist[/i]: Stack this Twist above the Rooftops as StarkTech Defenses. If there is an Adversary on the Rooftops, choose 3 Allies from the Lair and KO them.
-[i]Special Rules[/i]: While an Adversary is on the Rooftops, it gets +1 Attack for each StarkTech Defenses.
-[i]Good Wins[/i]: When there are 13 non-grey Allies in the KO pile.
+[size=10][i][b]Last Stand at Avengers Tower[/b][/i][/size]
+[b]Setup[/b]: 6 Twists.
+[b]Twist[/b]: Stack this Twist above the Rooftops as StarkTech Defenses. If there is an Adversary on the Rooftops, choose 3 Allies from the Lair and KO them.
+[b]Special Rules[/b]: While an Adversary is on the Rooftops, it gets +1 Attack for each StarkTech Defenses.
+[b]Good Wins[/b]: When there are 13 non-grey Allies in the KO pile.
 
-[b] The Traitor[/b]
-[i]Setup[/i]: 2+ players only. 8 Twists. Shuffle a 'Betrayal Deck' of 3 Bindings per player and a 9th Twist.
-[i]Twists 1-3[/i]: If there is no revealed Traitor, each player puts a 'Betrayal Card' from the Betrayal Deck face down in front of them and looks at it.
-[i]Special Rules[/i]: During your turn, you may reveal a Twist from your Betrayal Cards to become 'the Traitor'. If you do, each other player gains all the Bindings from their Betrayal Cards.
+[size=10][i][b] The Traitor[/b][/i][/size]
+[b]Setup[/b]: 2+ players only. 8 Twists. Shuffle a 'Betrayal Deck' of 3 Bindings per player and a 9th Twist.
+[b]Twists 1-3[/b]: If there is no revealed Traitor, each player puts a 'Betrayal Card' from the Betrayal Deck face down in front of them and looks at it.
+[b]Special Rules[/b]: During your turn, you may reveal a Twist from your Betrayal Cards to become 'the Traitor'. If you do, each other player gains all the Bindings from their Betrayal Cards.
 During your turns, you may spend 4 Attack any number of times to play an additional card from the Adversary Deck.
-[i]Twist 8[/i]: Good wins! The Traitor reveals themself and also wins.
-[i]When the players win[/i]: The Traitor reveals themself and loses.
+[b]Twist 8[/b]: Good wins! The Traitor reveals themself and also wins.
+[b]When the players win[/b]: The Traitor reveals themself and loses.
 
 
 
-== Legendary Secret Wars Volume 1 Schemes ==
+== Secret Wars Volume 1 ==
 
-[b]Build an Army of Annihilation[/b]
-[i]Setup[/i]: 9 Twists. Put 10 extra Annihilation Wave Henchmen in that KO pile.
-[i]Twist[/i]: KO all Annihilation Henchmen from the players' Victory Piles. Stack this Twist next to the Scheme. Then, for each Twist in that stack, put an Annihilation Henchman from the KO pile next to the Mastermind. Players can fight those Henchmen.
-[i]Evil Wins[/i]: When there are 10 Annihilation Henchmen next to the Mastermind.
+[size=10][i][b]Build an Army of Annihilation[/b][/i][/size]
+[b]Setup[/b]: 9 Twists. Put 10 extra Annihilation Wave Henchmen in that KO pile.
+[b]Twist[/b]: KO all Annihilation Henchmen from the players' Victory Piles. Stack this Twist next to the Scheme. Then, for each Twist in that stack, put an Annihilation Henchman from the KO pile next to the Mastermind. Players can fight those Henchmen.
+[b]Evil Wins[/b]: When there are 10 Annihilation Henchmen next to the Mastermind.
 
-[b]Corrupt the Next Generation of Heroes[/b]
-[i]Setup[/i]: 8 Twists. Add 10 Sidekicks to the Villain Deck.
-[i]Special Rules[/i]: Sidekicks in the Villain Deck and city are Villains. Their Attack is 2 plus the number of Twists stacked next to this Scheme. When you defeat a Sidekick, gain it to the top of your deck.
-[i]Twists 1-7[/i]: Each player returns a Sidekick from their discard pile to the Sidekick Stack. Then, two Sidekicks from the Sidekick Stack enter the city.
-[i]Twist 8[/i]: All Sidekicks in the city escape.
-[i]Evil Wins[/i]: When 4 Sidekicks escape.
+[size=10][i][b]Corrupt the Next Generation of Heroes[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add 10 Sidekicks to the Villain Deck.
+[b]Special Rules[/b]: Sidekicks in the Villain Deck and city are Villains. Their Attack is 2 plus the number of Twists stacked next to this Scheme. When you defeat a Sidekick, gain it to the top of your deck.
+[b]Twists 1-7[/b]: Each player returns a Sidekick from their discard pile to the Sidekick Stack. Then, two Sidekicks from the Sidekick Stack enter the city.
+[b]Twist 8[/b]: All Sidekicks in the city escape.
+[b]Evil Wins[/b]: When 4 Sidekicks escape.
 
-[b]Crush Them With My Bare Hands[/b]
-[i]Setup[/i]: 5 Twists. If playing solo, add an extra Villain Group.
-[i]Twist[/i]: This Twist becomes a Master Strike that takes effect immediately.
-[i]Evil Wins[/i]: When 8 Master Strikes have taken effect.
+[size=10][i][b]Crush Them With My Bare Hands[/b][/i][/size]
+[b]Setup[/b]: 5 Twists. If playing solo, add an extra Villain Group.
+[b]Twist[/b]: This Twist becomes a Master Strike that takes effect immediately.
+[b]Evil Wins[/b]: When 8 Master Strikes have taken effect.
 
-[b]Dark Alliance[/b]
-[i]Setup[/i]: 8 Twists.
-[i]Twist 1[/i]: Add a random second Mastermind to the game with one Mastermind Tactic.
-[i]Twists 2-4[/i]: If the second Mastermind is still in play, it gains another Mastermind Tactic.
-[i]Twists 5-6[/i]: Each Mastermind captures a Bystander.
-[i]Twist 7[/i]: Evil Wins!
+[size=10][i][b]Dark Alliance[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist 1[/b]: Add a random second Mastermind to the game with one Mastermind Tactic.
+[b]Twists 2-4[/b]: If the second Mastermind is still in play, it gains another Mastermind Tactic.
+[b]Twists 5-6[/b]: Each Mastermind captures a Bystander.
+[b]Twist 7[/b]: Evil Wins!
 
-[b]Fragmented Realities[/b]
-[i]Setup[/i]: Add an extra Villain Group. Shuffle the Villain Deck, then split it as evenly as possible into a Villain Deck for each player. Then, shuffle 2 Twists into each player's Villain Deck.
-[i]Special Rules[/i]: The normal city does not exist. Instead, each player has a different dimension in fromt of them with one city space. Villains and Bystanders from your Villain Deck enter your dimension. You can fight Villains in any dimension.
-[i]Twist[/i]: Play two card from your Villain Deck
-[i]Evil Wins[/i]: When the number of non-grey Heroes in the KO pile is 5 times the number of players.
+[size=10][i][b]Fragmented Realities[/b][/i][/size]
+[b]Setup[/b]: Add an extra Villain Group. Shuffle the Villain Deck, then split it as evenly as possible into a Villain Deck for each player. Then, shuffle 2 Twists into each player's Villain Deck.
+[b]Special Rules[/b]: The normal city does not exist. Instead, each player has a different dimension in fromt of them with one city space. Villains and Bystanders from your Villain Deck enter your dimension. You can fight Villains in any dimension.
+[b]Twist[/b]: Play two card from your Villain Deck
+[b]Evil Wins[/b]: When the number of non-grey Heroes in the KO pile is 5 times the number of players.
 
-[b]Master of Tyrants[/b]
-[i]Setup[/i]: 8 Twists. Choose 3 other Masterminds, and shuffle their 12 Tactics into the Villain Deck. Those Tactics are "Tyrant Villains" with their printed Attack and no abilities.
-[i]Twist 1-7[/i]: Put this Twist under a Tyrant Villain as "Dark Power." It gets +2 Attack.
-[i]Twist 8[/i]: All Tyrant Villains in the city escape.
-[i]Evil Wins[/i]: When 5 Tyrant Villains escape.
+[size=10][i][b]Master of Tyrants[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Choose 3 other Masterminds, and shuffle their 12 Tactics into the Villain Deck. Those Tactics are "Tyrant Villains" with their printed Attack and no abilities.
+[b]Twist 1-7[/b]: Put this Twist under a Tyrant Villain as "Dark Power." It gets +2 Attack.
+[b]Twist 8[/b]: All Tyrant Villains in the city escape.
+[b]Evil Wins[/b]: When 5 Tyrant Villains escape.
 
-[b]Pan-Dimensional Plague[/b]
-[i]Setup[/i]: 10 Twists.
-[i]Twist[/i]: KO all Wounds from next to the HQ. Then, put a Wound from the Wound Stack next to each Hero in the HQ.
-[i]Special Rules[/i]: When a player recruits a Hero with a Wound next to it, that player can either gain that Wound or pay 1 Recruit Point to return that Wound to the Wound Stack.
-[i]Evil Wins[/i]: When the Wound Stack runs out.
+[size=10][i][b]Pan-Dimensional Plague[/b][/i][/size]
+[b]Setup[/b]: 10 Twists.
+[b]Twist[/b]: KO all Wounds from next to the HQ. Then, put a Wound from the Wound Stack next to each Hero in the HQ.
+[b]Special Rules[/b]: When a player recruits a Hero with a Wound next to it, that player can either gain that Wound or pay 1 Recruit Point to return that Wound to the Wound Stack.
+[b]Evil Wins[/b]: When the Wound Stack runs out.
 
-[b]Smash Two Dimensions Together[/b]
-[i]Setup[/i]: 8 Twists. Add an extra Villain Group. Put the Villain Deck on the Bank space.
-[i]Special Rules[/i]: The Sewers and Bank do not exist, so the city is only 3 spaces. There is a parallel dimension with 3 city spaces above the main city. Whenever a Villain enters the city, the current player chooses which city it enters.
-[i]Twist 1-7[/i]: Play two cards from the Villain Deck.
-[i]Twist 8[/i]: All Villains in both dimensions escape.
-[i]Evil Wins[/i]: When 10 Villains escape.
-
-
-
-== Legendary Secret Wars Volume 2 Schemes ==
-
-[b]Deadlands Hordes Charge the Wall[/b]
-[i]Setup:[/i] 8 Twists. Add an extra Villain Group.
-[i]Twist:[/i] Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
-[i]Evil Wins:[/i] When the number of escaped Villains equals the number of players plus 6.
-
-[b]Enthrone the Barons of Battleworld[/b]
-[i]Setup:[/i] 8 Twists.
-[i]Twists 1-7:[/i] The Villain in the city or Escape Pile with the highest printed Attack ascends to become a new Mastermind. It gets +2 Attack. It gains the ability "[b]Master Strike:[/b] Each Player discards a card with cost equal to this Mastermind's printed VP." [i](Keep them separate from any Villains who ascend through Escape effects.)[/i]
-[i]Twist 8:[/i] The Villain in each player's Victory Pile with the highest printed Attack ascends the same way.
-[i]Evil Wins:[/i] When there are six Masterminds.
-
-[b]The Fountain of Eternal Life[/b]
-[i]Setup:[/i] 8 Twists. (1 player: 4 Twists.)
-[i]Special Rules:[/i] All Villains and Mastermind Tactics have "[b]Fight:[/b] [b]Fateful Resurrection[/b]."
-[i]Twist:[/i] A Villain from your Victory Pile enters the Sewers. Put this Twist on the bottom of the Villain Deck.
-[i]Evil Wins:[/i] When the number of escaped Villains is 3 times the number of players.
-
-[b]The God-Emperor of Battleworld[/b]
-[i]Setup:[/i] 8 Twists.
-[i]Twist 1:[/i] This Scheme ascends to becomes (sic) a new 9-Attack "God-Emperor" Mastermind worth 9 VP. It has "[b]Master Strike[/b]: Each player with exactly six cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck."
-[i]Twist 2-6:[/i] Stack this Twist next to the Scheme. The God-Emperor gets another +2 Attack.
-[i]Twist 7:[/i] If the God-Emperor lives, it KOs all other Masterminds.
-[i]Twist 8:[/i] Evil wins! [i](If any Mastermind still lives.)[/i]
-
-[b]The Mark of Khonshu[/b]
-[i]Setup:[/i] 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
-[i]Special Rules:[/i] Heroes in the Villain Deck are "Khonshu Guardian" Villains with Attack equal to their printed cost. While in the Sewers, Rooftops, or Bridge, they are in "wolf form" and have double their Attack. When you defeat one, gain it as a Hero.
-[i]Twist:[/i] Play two cards from the Villain Deck.
-[i]Evil Wins:[/i] When 7 Khonshu Guardians escape.
-
-[b]Master the Mysteries of Kung-Fu[/b]
-[i]Setup:[/i] 8 Twists.
-[i]Twist:[/i] Stack this Twist next to the Scheme.
-[i]Special Rules:[/i] Villains and the Mastermind have the Circle of Kung-Fu matching the number of Twists stacked here.
-[i]Evil Wins:[/i] When the number of escaped Villains is double the number of players.
-
-[b]Secret Wars[/b]
-[i]Setup:[/i] 6 Twists.
-[i]Twists 1-3:[/i] Add another random Mastermind to the game with one Tactic.
-[i]Twist 6:[/i] Evil wins!
-
-[b]Sinister Ambitions[/b]
-[i]Setup:[/i] 8 Twists. Add 10 random Ambition cards to the Villain Deck.
-[i]Special Rules:[/i] Ambition cards are Villains with their printed Attack. Add +1 Attack for each Twist stacked next to the Scheme. They are worth 4 VP. Whenever an Ambition Villain escapes, do its Ambition effect.
-[i]Twist 1-5:[/i] Stack this Twist next to the Scheme. Play another card from the Villain Deck.
-[i]Twist 6:[/i] Each Ambition Villain in the city escapes.
-[i]Evil Wins:[/i] When 4 Ambition Villains escape.
+[size=10][i][b]Smash Two Dimensions Together[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add an extra Villain Group. Put the Villain Deck on the Bank space.
+[b]Special Rules[/b]: The Sewers and Bank do not exist, so the city is only 3 spaces. There is a parallel dimension with 3 city spaces above the main city. Whenever a Villain enters the city, the current player chooses which city it enters.
+[b]Twist 1-7[/b]: Play two cards from the Villain Deck.
+[b]Twist 8[/b]: All Villains in both dimensions escape.
+[b]Evil Wins[/b]: When 10 Villains escape.
 
 
 
-== Legendary Captain America 75th Anniversary Schemes ==
+== Secret Wars Volume 2 ==
 
-[b]Brainwash the Military[/b]
-[i]Setup:[/i] 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
-[i]Special Rules:[/i] S.H.I.E.L.D. Officers in the Villain Deck are Villains. Their Attack is 3 plus the number of Twists stacked next to this Scheme. When you defeat a S.H.I.E.L.D. Officer, gain it as a Hero.
-[i]Twist 1-6:[/i] Stack this Twists next to the Scheme as a "Traitor Battalion." Play another card from the Villain Deck.
-[i]Twist 7:[/i] All S.H.I.E.L.D. Officers in the city escape.
-[i]Evil Wins:[/i] When 5 S.H.I.E.L.D. Officers escape.
+[size=10][i][b]Deadlands Hordes Charge the Wall[/b][/i][/size]
+[b]Setup:[/b] 8 Twists. Add an extra Villain Group.
+[b]Twist:[/b] Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
+[b]Evil Wins:[/b] When the number of escaped Villains equals the number of players plus 6.
 
-[b]Change the Outcome of WWII[/b]
-[i]Setup:[/i] 7 Twists. Add an extra Villain Group.
-[i]Twist:[/i] The Axis invades a new country. Put all Villains and Bystanders from the city on the bottom of the Villain Deck. The number of city spaces changes. Play 2 cards from the Villain Deck. If any Villains escape this country, stack a Twist next to the scheme as a "conquered capital."
-[i]Twist 1:[/i] Poland: 4 spaces.
-[i]Twist 2:[/i] France: 3 spaces.
-[i]Twist 3:[/i] USSR: 6 spaces.
-[i]Twist 4:[/i] England: 3 spaces.
-[i]Twist 5:[/i] USA: 5 spaces.
-[i]Twist 6:[/i] Australia: 2 spaces.
-[i]Twist 7:[/i] Switzerland: 1 space.
-[i]Evil Wins:[/i] When 3 capitals are conquered.
+[size=10][i][b]Enthrone the Barons of Battleworld[/b][/i][/size]
+[b]Setup:[/b] 8 Twists.
+[b]Twists 1-7:[/b] The Villain in the city or Escape Pile with the highest printed Attack ascends to become a new Mastermind. It gets +2 Attack. It gains the ability "[b]Master Strike:[/b] Each Player discards a card with cost equal to this Mastermind's printed VP." [i](Keep them separate from any Villains who ascend through Escape effects.)[/i]
+[b]Twist 8:[/b] The Villain in each player's Victory Pile with the highest printed Attack ascends the same way.
+[b]Evil Wins:[/b] When there are six Masterminds.
 
-[b]Go Back in Time to Slay Heroes' Ancestors[/b]
-[i]Setup:[/i] 9 Twists. 8 Heroes in Hero deck.
-[i]Twist:[/i] Put a Hero form the HQ next to the Scheme, "Purged from the Timestream."
-[i]Special Rules:[/i] Whenever a Hero is in the HQ whose Hero Name has been Purged from the Timestream, KO that Hero.
-[i]Evil Wins:[/i] When the Hero Deck runs out.
+[size=10][i][b]The Fountain of Eternal Life[/b][/i][/size]
+[b]Setup:[/b] 8 Twists. (1 player: 4 Twists.)
+[b]Special Rules:[/b] All Villains and Mastermind Tactics have "[b]Fight:[/b] [b]Fateful Resurrection[/b]."
+[b]Twist:[/b] A Villain from your Victory Pile enters the Sewers. Put this Twist on the bottom of the Villain Deck.
+[b]Evil Wins:[/b] When the number of escaped Villains is 3 times the number of players.
 
-[b]The Unbreakable Enigma Code[/b]
-[i]Setup:[/i] 6 Twists.
-[i]Twists 1-5:[/i] Put a card from the Hero Deck face down next to the scheme as part of the "Enigma Code." Mix up those cards face-down.
-[i]Twist 6:[/i] Evil Wins!
-[i]Special Rules:[/i] Whenever you fight a Villain, you may pay 1 Recruit to look at one of the face-down Enigma Cards. When you fight the Mastermind, first guess the color of each Enigma card, and then reveal them. If you guessed them right, fight the Mastermind as normal. If not, your turn ends, and mix up the Enigma cards face-down.
+[size=10][i][b]The God-Emperor of Battleworld[/b][/i][/size]
+[b]Setup:[/b] 8 Twists.
+[b]Twist 1:[/b] This Scheme ascends to becomes (sic) a new 9-Attack "God-Emperor" Mastermind worth 9 VP. It has "[b]Master Strike[/b]: Each player with exactly six cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck."
+[b]Twist 2-6:[/b] Stack this Twist next to the Scheme. The God-Emperor gets another +2 Attack.
+[b]Twist 7:[/b] If the God-Emperor lives, it KOs all other Masterminds.
+[b]Twist 8:[/b] Evil wins! [i](If any Mastermind still lives.)[/i]
+
+[size=10][i][b]The Mark of Khonshu[/b][/i][/size]
+[b]Setup:[/b] 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
+[b]Special Rules:[/b] Heroes in the Villain Deck are "Khonshu Guardian" Villains with Attack equal to their printed cost. While in the Sewers, Rooftops, or Bridge, they are in "wolf form" and have double their Attack. When you defeat one, gain it as a Hero.
+[b]Twist:[/b] Play two cards from the Villain Deck.
+[b]Evil Wins:[/b] When 7 Khonshu Guardians escape.
+
+[size=10][i][b]Master the Mysteries of Kung-Fu[/b][/i][/size]
+[b]Setup:[/b] 8 Twists.
+[b]Twist:[/b] Stack this Twist next to the Scheme.
+[b]Special Rules:[/b] Villains and the Mastermind have the Circle of Kung-Fu matching the number of Twists stacked here.
+[b]Evil Wins:[/b] When the number of escaped Villains is double the number of players.
+
+[size=10][i][b]Secret Wars[/b][/i][/size]
+[b]Setup:[/b] 6 Twists.
+[b]Twists 1-3:[/b] Add another random Mastermind to the game with one Tactic.
+[b]Twist 6:[/b] Evil wins!
+
+[size=10][i][b]Sinister Ambitions[/b][/i][/size]
+[b]Setup:[/b] 8 Twists. Add 10 random Ambition cards to the Villain Deck.
+[b]Special Rules:[/b] Ambition cards are Villains with their printed Attack. Add +1 Attack for each Twist stacked next to the Scheme. They are worth 4 VP. Whenever an Ambition Villain escapes, do its Ambition effect.
+[b]Twist 1-5:[/b] Stack this Twist next to the Scheme. Play another card from the Villain Deck.
+[b]Twist 6:[/b] Each Ambition Villain in the city escapes.
+[b]Evil Wins:[/b] When 4 Ambition Villains escape.
 
 
 
-== Legendary Civil War Schemes ==
+== Captain America 75th Anniversary ==
 
-[b]Avengers vs. X-Men[/b]
-[i]Setup:[/i] 9 Twists. Hero Deck has 3 Heroes of one Team and 3 Heroes of another Team. (Avengers, X-Men, Spider-Friends, Marvel Knights, etc.)
-[i]Twist:[/i] 1-7 Each player reveals their hand. Each player that has cards of both those teams gains a Wound.
-[i]Twist 8:[/i] Evil wins!
+[size=10][i][b]Brainwash the Military[/b][/i][/size]
+[b]Setup:[/b] 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
+[b]Special Rules:[/b] S.H.I.E.L.D. Officers in the Villain Deck are Villains. Their Attack is 3 plus the number of Twists stacked next to this Scheme. When you defeat a S.H.I.E.L.D. Officer, gain it as a Hero.
+[b]Twist 1-6:[/b] Stack this Twists next to the Scheme as a "Traitor Battalion." Play another card from the Villain Deck.
+[b]Twist 7:[/b] All S.H.I.E.L.D. Officers in the city escape.
+[b]Evil Wins:[/b] When 5 S.H.I.E.L.D. Officers escape.
 
-[b]Dark Reign of H.A.M.M.E.R. Officers[/b]
-[i]Setup:[/i] 7 Twists.
-[i]Twist:[/i] Stack this Twist next to the Scheme. Then, for each Twist in that stack, put a S.H.I.E.L.D. Officer next to the Mastermind as a 3 Attack Villain with S.H.I.E.L.D. Clearance. You can fight them to gain them as Heroes.
-[i]Evil Wins:[/i] When there are 7 Officers next to the Mastermind.
+[size=10][i][b]Change the Outcome of WWII[/b][/i][/size]
+[b]Setup:[/b] 7 Twists. Add an extra Villain Group.
+[b]Twist:[/b] The Axis invades a new country. Put all Villains and Bystanders from the city on the bottom of the Villain Deck. The number of city spaces changes. Play 2 cards from the Villain Deck. If any Villains escape this country, stack a Twist next to the scheme as a "conquered capital."
+[b]Twist 1:[/b] Poland: 4 spaces.
+[b]Twist 2:[/b] France: 3 spaces.
+[b]Twist 3:[/b] USSR: 6 spaces.
+[b]Twist 4:[/b] England: 3 spaces.
+[b]Twist 5:[/b] USA: 5 spaces.
+[b]Twist 6:[/b] Australia: 2 spaces.
+[b]Twist 7:[/b] Switzerland: 1 space.
+[b]Evil Wins:[/b] When 3 capitals are conquered.
 
-[b]Epic Super Hero Civil War[/b]
-[i]Setup:[/i] 1 player: 4 Heroes in Hero Deck. 1-3 players: 9 Twists. 4-5 players: 6 Twists.
-[i]Twist:[/i] Stack this Twist next to the Scheme. Then, for each Twist in that stack, KO a Hero from the HQ and immediately refill that HQ space.
-[i]Evil Wins:[/i] When the Hero Deck runs out.
+[size=10][i][b]Go Back in Time to Slay Heroes' Ancestors[/b][/i][/size]
+[b]Setup:[/b] 9 Twists. 8 Heroes in Hero deck.
+[b]Twist:[/b] Put a Hero form the HQ next to the Scheme, "Purged from the Timestream."
+[b]Special Rules:[/b] Whenever a Hero is in the HQ whose Hero Name has been Purged from the Timestream, KO that Hero.
+[b]Evil Wins:[/b] When the Hero Deck runs out.
 
-[b]Imprison Unregistered Superhumans[/b]
-[i]Setup:[/i] 11 Twists.
-[i]Twist 1, 3, 5, 7, 9:[/i] This Scheme fortifies the city space to its right starting with the Bridge. Villains in that space get +1 Attack.
+[size=10][i][b]The Unbreakable Enigma Code[/b][/i][/size]
+[b]Setup:[/b] 6 Twists.
+[b]Twists 1-5:[/b] Put a card from the Hero Deck face down next to the scheme as part of the "Enigma Code." Mix up those cards face-down.
+[b]Twist 6:[/b] Evil Wins!
+[b]Special Rules:[/b] Whenever you fight a Villain, you may pay 1 Recruit to look at one of the face-down Enigma Cards. When you fight the Mastermind, first guess the color of each Enigma card, and then reveal them. If you guessed them right, fight the Mastermind as normal. If not, your turn ends, and mix up the Enigma cards face-down.
+
+
+
+== Civil War ==
+
+[size=10][i][b]Avengers vs. X-Men[/b][/i][/size]
+[b]Setup:[/b] 9 Twists. Hero Deck has 3 Heroes of one Team and 3 Heroes of another Team. (Avengers, X-Men, Spider-Friends, Marvel Knights, etc.)
+[b]Twist:[/b] 1-7 Each player reveals their hand. Each player that has cards of both those teams gains a Wound.
+[b]Twist 8:[/b] Evil wins!
+
+[size=10][i][b]Dark Reign of H.A.M.M.E.R. Officers[/b][/i][/size]
+[b]Setup:[/b] 7 Twists.
+[b]Twist:[/b] Stack this Twist next to the Scheme. Then, for each Twist in that stack, put a S.H.I.E.L.D. Officer next to the Mastermind as a 3 Attack Villain with S.H.I.E.L.D. Clearance. You can fight them to gain them as Heroes.
+[b]Evil Wins:[/b] When there are 7 Officers next to the Mastermind.
+
+[size=10][i][b]Epic Super Hero Civil War[/b][/i][/size]
+[b]Setup:[/b] 1 player: 4 Heroes in Hero Deck. 1-3 players: 9 Twists. 4-5 players: 6 Twists.
+[b]Twist:[/b] Stack this Twist next to the Scheme. Then, for each Twist in that stack, KO a Hero from the HQ and immediately refill that HQ space.
+[b]Evil Wins:[/b] When the Hero Deck runs out.
+
+[size=10][i][b]Imprison Unregistered Superhumans[/b][/i][/size]
+[b]Setup:[/b] 11 Twists.
+[b]Twist 1, 3, 5, 7, 9:[/b] This Scheme fortifies the city space to its right starting with the Bridge. Villains in that space get +1 Attack.
 Other Twists: If there's a Villain in that fortified city space, KO a bystander.
-[i]Evil Wins:[/i] When 3 Bystanders are in the KO pile and/or Escape Pile.
+[b]Evil Wins:[/b] When 3 Bystanders are in the KO pile and/or Escape Pile.
 
-[b]Nitro the Supervillain Threatens Crowds[/b]
-[i]Setup:[/i] 8 Twists.
-[i]Twist:[/i] KO all Bystanders held by Villains. Then, the Villain with the highest Attack captures 3 Bystanders.
-[i]Evil Wins:[/i] When 15 Bystanders are in the KO pile and/or Escape Pile.
+[size=10][i][b]Nitro the Supervillain Threatens Crowds[/b][/i][/size]
+[b]Setup:[/b] 8 Twists.
+[b]Twist:[/b] KO all Bystanders held by Villains. Then, the Villain with the highest Attack captures 3 Bystanders.
+[b]Evil Wins:[/b] When 15 Bystanders are in the KO pile and/or Escape Pile.
 
-[b]Predict Future Crime[/b]
-[i]Setup:[/i] 6 Twists. Add an extra Villain Group.
-[i]Twist:[/i] Reveal the top 3 cards of the Villain Deck. Play each Villain you revealed. Put the rest back in any order.
-[i]Evil Wins:[/i] When there are 2 Villains per player in the Escape Pile.
+[size=10][i][b]Predict Future Crime[/b][/i][/size]
+[b]Setup:[/b] 6 Twists. Add an extra Villain Group.
+[b]Twist:[/b] Reveal the top 3 cards of the Villain Deck. Play each Villain you revealed. Put the rest back in any order.
+[b]Evil Wins:[/b] When there are 2 Villains per player in the Escape Pile.
 
-[b]Reveal Heroes' Secret Identities[/b]
-[i]Setup:[/i] 6 Twists. 7 Heroes in Hero Deck.
-[i]Twist:[/i] Put a Hero from the HQ next to the Scheme as an "Unmasked" Hero. All cards with "Unmasked" Hero Names cost +1 Recruit to recruit. You can't Unmask a Hero Name that has already been Unmasked.
-[i]Evil Wins:[/i] When 5 Heroes are Unmasked.
+[size=10][i][b]Reveal Heroes' Secret Identities[/b][/i][/size]
+[b]Setup:[/b] 6 Twists. 7 Heroes in Hero Deck.
+[b]Twist:[/b] Put a Hero from the HQ next to the Scheme as an "Unmasked" Hero. All cards with "Unmasked" Hero Names cost +1 Recruit to recruit. You can't Unmask a Hero Name that has already been Unmasked.
+[b]Evil Wins:[/b] When 5 Heroes are Unmasked.
 
-[b]United States Split by Civil War[/b]
-[i]Setup:[/i] 10 Twists.
-[i]Twist:[/i] If there is a Villain on the Streets or Bridge, put this Twist in a stack of "Western States Victories." Otherwise, if there is a Villain in the Sewers, put this Twist in a stack of "Eastern States Victories."
-[i]Evil Wins:[/i] When there are 3 Western Victories or 3 Eastern Victories.
+[size=10][i][b]United States Split by Civil War[/b][/i][/size]
+[b]Setup:[/b] 10 Twists.
+[b]Twist:[/b] If there is a Villain on the Streets or Bridge, put this Twist in a stack of "Western States Victories." Otherwise, if there is a Villain in the Sewers, put this Twist in a stack of "Eastern States Victories."
+[b]Evil Wins:[/b] When there are 3 Western Victories or 3 Eastern Victories.
 
 
 
