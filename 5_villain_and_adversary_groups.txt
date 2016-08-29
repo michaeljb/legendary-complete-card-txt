@@ -282,13 +282,13 @@ To fight Zero, you must also discard three cards that cost 0.
 [size=10][i][b]Streets of New York[/b][/i][/size]
 
 [i]Bullseye[/i]
-[b]Fight[/b]: KO one of your Heroes with a Recruit Point icon and one of your Heroes with an Attack icon.
+[b]Fight[/b]: KO one of your Heroes with a Recruit icon and one of your Heroes with an Attack icon.
 [b]Attack[/b]: 6
 [b]VP[/b]: 4
 
 [i]Hammerhead[/i]
 Bribe
-[b]Fight[/b]: KO one of your Heroes with a Recruit Point icon.
+[b]Fight[/b]: KO one of your Heroes with a Recruit icon.
 [b]Attack[/b]: 5*
 [b]VP[/b]: 2
 
@@ -421,7 +421,7 @@ When Shriek feasts on a 0-cost Hero, each other player gains a Wound.
 [size=10][i][b]Sinister Six[/b][/i][/size]
 
 [i]Chameleon[/i] (1 copy)
-[b]Fight[/b]: Copy the effects of the Hero in the HQ space under Chameleon, including its Recruit Points and Attack.
+[b]Fight[/b]: Copy the effects of the Hero in the HQ space under Chameleon, including its Recruit and Attack.
 [b]Attack[/b]: 6
 [b]VP[/b]: 2
 
@@ -544,7 +544,7 @@ Overrun: Each player reveals the top card of their deck and if it costs 1 Cost o
 [i]Ghost Rider[/i]
 [b]Attack[/b]: 5
 [b]VP[/b]: 3
-[b]Fight[/b]: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit Points.
+[b]Fight[/b]: You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.
 Overrun: Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings.
 
 
@@ -648,7 +648,7 @@ X-Treme Attack.
 [b]VP[/b]: 4
 X-Treme Attack.
 [b]Ambush[/b]: Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).
-[b]Fight[/b]: You get +1 Recruit Point for each Bystander you kidnapped this turn.
+[b]Fight[/b]: You get +1 Recruit for each Bystander you kidnapped this turn.
 
 [i]Beast[/i]
 [b]Attack[/b]: 5+
@@ -711,7 +711,7 @@ Captain Atlas gets +1 Attack for each Shard on the Mastermind.
 [i]Mind Gem[/i] (1 copy)
 [b]Ambush[/b]: Mind Gem gains a Shard for each Scheme Twist in the KO pile and/or stacked next to the Scheme.
 [b]Fight[/b]: Put this into your discard pile as an Artifact.
-Artifact - Once per turn, you get +2 Recruit Points.
+Artifact - Once per turn, you get +2 Recruit.
 [b]Attack[/b]: 6
 [b]VP[/b]: 0
 
@@ -764,7 +764,7 @@ Fight or Fail: If her Uru-Enchanted Weapons revealed any Bystanders, kidnap them
 [i]Dr. Strange[/i] (1 copy)
 Uru-Enchanted Weapon
 [b]Ambush[/b]: Reveal the top three cards of the Adversary Deck. Put the Adversary you revealed with the highest printed VP on top of that deck. Put the rest on the bottom of that deck in random order.
-Fight or Fail: You get +2 Recruit Points.
+Fight or Fail: You get +2 Recruit.
 [b]Attack[/b]: 5*
 [b]VP[/b]: 4
 
