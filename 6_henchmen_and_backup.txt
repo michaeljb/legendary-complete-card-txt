@@ -1,133 +1,135 @@
+[size=16][b]Henchmen and Backup Adversaries[/b][/size]
+
 == Legendary ==
 
-[b]Doombot Legion[/b] (Dr. Doom always leads)
-Fight: Look at the top two cards of your deck. KO one of them and put the other back.
-Attack: 3
-VP: 1
+[size=10][i][b]Doombot Legion[/b][/i][/size]
+[b]Fight[/b]: Look at the top two cards of your deck. KO one of them and put the other back.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Hand Ninjas[/b]
-Fight: You get +1 Recruit Point.
-Attack: 3
-VP: 1
+[size=10][i][b]Hand Ninjas[/b][/i][/size]
+[b]Fight[/b]: You get +1 Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Savage Land Mutates[/b]
-Fight: When you draw a new hand of cards at the end of this turn, draw an extra card.
-Attack: 3
-VP: 1
+[size=10][i][b]Savage Land Mutates[/b][/i][/size]
+[b]Fight[/b]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Sentinel[/b]
-Fight: KO one of your Heroes.
-Attack: 3
-VP: 1
+[size=10][i][b]Sentinel[/b][/i][/size]
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
 
 == Dark City ==
 
-[b]Maggia Goons[/b]
-Bribe
-Fight: KO one of your Heroes.
-Attack: 4*
-VP: 1
+[size=10][i][b]Maggia Goons[/b][/i][/size]
+[b]Bribe[/b]
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 4*
+[b]VP[/b]: 1
 
-[b]Phalanx[/b]
-Fight: Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
-Attack: 3
-VP: 1
+[size=10][i][b]Phalanx[/b][/i][/size]
+[b]Fight[/b]: Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
 
 == Villains ==
 
-[b]Asgardian Warriors[/b] (Odin always leads)
-Fight: Draw a card.
-Attack: 3
-VP: 1
+[size=10][i][b]Asgardian Warriors[/b][/i][/size]
+[b]Fight[/b]: Draw a card.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Cops[/b]
-Fight: Gain a New Recruit.
-Attack: 3
-VP: 1
+[size=10][i][b]Cops[/b][/i][/size]
+[b]Fight[/b]: Gain a New Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Multiple Man[/b]
-Fight: KO one of your Allies for each other Multiple Man in your Victory Pile.
-Attack: 3
-VP: 1
+[size=10][i][b]Multiple Man[/b][/i][/size]
+[b]Fight[/b]: KO one of your Allies for each other Multiple Man in your Victory Pile.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]S.H.I.E.L.D. Assault Squad[/b]
-Fight: Discard the top card of your deck. Then KO an Ally from your discard pile.
-Attack: 3
-VP: 1
+[size=10][i][b]S.H.I.E.L.D. Assault Squad[/b][/i][/size]
+[b]Fight[/b]: Discard the top card of your deck. Then KO an Ally from your discard pile.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
 
 == Secret Wars Volume 1 ==
 
-[b]Ghost Racers[/b]
+[size=10][i][b]Ghost Racers[/b][/i][/size]
 Ambush: Rise of the Living Dead
-Fight: Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
-Attack: 3
-VP: 1
+[b]Fight[/b]: Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]M.O.D.O.K.s[/b]
-Fight: KO a Hero from your discard pile or the HQ. If that Hero has a Recruit icon, you get +1 Recruit.
-Attack: 3
-VP: 1
+[size=10][i][b]M.O.D.O.K.s[/b][/i][/size]
+[b]Fight[/b]: KO a Hero from your discard pile or the HQ. If that Hero has a Recruit icon, you get +1 Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Thor Corps[/b]
-Fight: Gain this as a Hero.
-Attack: 3
+[size=10][i][b]Thor Corps[/b][/i][/size]
+[b]Fight[/b]: Gain this as a Hero.
+[b]Attack[/b]: 3
 -----
 Team: Avengers
 Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-2+ Recruit Points
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit Point.
+2+ Recruit
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit.
 
 
 == Secret Wars Volume 2 ==
 
-[b]Khonshu Guardians[/b]
+[size=10][i][b]Khonshu Guardians[/b][/i][/size]
 While in the Sewers, Rooftops or Bridge, this is in "wolf form" and gets +2 Attack.
-Fight: KO one of your Heroes.
-Attack: 3
-VP: 1
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Magma Men[/b]
-Fight: KO one of your Heroes.
-[b]Fateful Resurrection[/b]
-Attack: 3
-VP: 1
+[size=10][i][b]Magma Men[/b][/i][/size]
+[b]Fight[/b]: KO one of your Heroes.
+[size=10][i][b]Fateful Resurrection[/b][/i][/size]
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Spider-Infected[/b] (Spider-Queen always leads)
+[size=10][i][b]Spider-Infected[/b][/i][/size]
 Ambush: This captures a Bystander.
-Fight: The next Hero you gain this turn has Wall-Crawl.
-Attack: 3
-VP: 1
+[b]Fight[/b]: The next Hero you gain this turn has Wall-Crawl.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
 
 == Civil War ==
 
-[b]Mandroid[/b]
+[size=10][i][b]Mandroid[/b][/i][/size]
 This gets +1 Attack for each other Mandroid in your Victory Pile.
-Fight: KO one of your Heroes.
-Attack: 2+
-VP: 1
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 2+
+[b]VP[/b]: 1
 
-[b]Cape-Killers[/b]
+[size=10][i][b]Cape-Killers[/b][/i][/size]
 S.H.I.E.L.D. Clearance
-Fight: KO a card from your discard pile.
-Attack: 3*
-VP: 1
+[b]Fight[/b]: KO a card from your discard pile.
+[b]Attack[/b]: 3*
+[b]VP[/b]: 1
 
 
 == 3D ==
 
-[b]Circus of Crime[/b] (10 copies)
-Fight: Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.
-Attack: 3
-VP: 1
+[size=10][i][b]Circus of Crime[/b] (10 copies)[/i][/size]
+[b]Fight[/b]: Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
-[b]Spider Slayer[/b] (10 copies)
-Fight: Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
-Attack: 3
-VP: 1
+[size=10][i][b]Spider Slayer[/b] (10 copies)[/i][/size]
+[b]Fight[/b]: Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
 
 
 
