@@ -1,5 +1,6 @@
-== Legendary Secret Wars Volume 1 Ambitions ==
-SWv1 Ambitions
+[size=16][b]Ambitions[/b][/size]
+
+== Secret Wars Volume 1 ==
 
 [b]Pure Evil[/b]
 [i]Starting Ambition[/i]
@@ -124,8 +125,7 @@ Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BG
 [i]Attack:[/i] 4
 
 
-== Legendary Secret Wars Volume 2 Ambitions ==
-SWv2 Ambitions
+== Secret Wars Volume 2 ==
 
 [b]Puzzle Trap[/b]
 Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card.
