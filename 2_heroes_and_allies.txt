@@ -3705,5 +3705,48 @@ Cost: 7
 
 
 
+== Deadpool ==
+
+[size=10][i][b]Deadpool[/b][/i][/size]
+Mercs for Money
+
+[i]Nighttime is the Right Time[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+If it's between 8 p.m. and midnight, you get +2 Attack. Otherwise, you get +2 Recruit.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Screw it, just take both!
+Cost: 3
+[size=8][i]"...for Pillow Fights and Gun Fights! Wait, which one is this again?"[/i][/size]
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Running Commentary[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 1/2+ Attack
+You get +1/2 Attack for each other card with flavor text you played this turn. Now maybe you'll stop telling me to shut up.
+Cost: 5
+[size=8][i]You also get another +13 Attack, but this doesn't count because it's flavor text.[/i][/size]
+
+[i]Rare TBA[/i] (1 copy)
+
+
+[size=10][i][b]Solo[/b][/i][/size]
+Mercs for Money
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Uncommon TBA[/i] (3 copies)
+
+[i]Cut in Half[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 1/2 Attack
+Choose a Villalin. Cut its Attack in half this turn.
+Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
+[size=8][i]So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
