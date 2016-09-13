@@ -94,6 +94,7 @@ Cost: 8
 2 Recruit
 A Villain of your choice captures a Bystander.
 Cost: 3
+[size=8][i]"Hey, Abomination makes a pretty good babysitter."[/i][/size]
 
 [i]Oddball[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -122,12 +123,14 @@ X-Men
 1 Recruit
 Draw a card.
 Cost: 3
+[size=8][i]A natural telepath, Emma knows what you're thinking before you do.[/i][/size]
 
 [i]Shadowed Thoughts[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2+ Attack
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may play the top card of the Villain Deck. If you do, you get +2 Attack.
 Cost: 4
+[size=8][i]Emma's days as a Villain are behind here...aren't they?[/i][/size]
 
 [i]Psychic Link[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -141,6 +144,8 @@ Cost: 5
 5 Attack
 Whenever you defeat a Villain or Mastermind this turn, you get +3 Recruit.
 Cost: 7
+[size=8][i]A secondary mutation allows Emma Frost to transform into pure diamond.[/i][/size]
+
 
 
 [size=10][i][b]Gambit[/b][/i][/size]
@@ -179,12 +184,14 @@ Avengers
 1 Attack
 Draw a card.
 Cost: 3
+[size=8][i]Against robots, Hawkeye's first shot is a warning shot. In the face.[/i][/size]
 
 [i]Team Player[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2+ Attack
 Avengers: You get +1 Attack.
 Cost: 4
+[size=8][i]"You line 'em up, and I'll knock 'em down..."[/i][/size]
 
 [i]Covering Fire[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -207,6 +214,7 @@ Avengers
 2+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 3
+[size=8][i]Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced...[/i][/size]
 
 [i]Unstoppable Hulk[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -219,12 +227,14 @@ Cost: 4
 4 Attack
 Each player gains a Wound.
 Cost: 5
+[size=8][i]Hulk's rages tear everything apart: Enemies. Friends. Pants.[/i][/size]
 
 [i]Hulk Smash![/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 5+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +5 Attack.
 Cost: 8
+[size=8][i]"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!"[/i][/size]
 
 
 [size=10][i][b]Iron Man[/b][/i][/size]
@@ -241,6 +251,7 @@ Cost: 3
 2+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 3
+[size=8][i]Repulsor ray technology has many peaceful applications. This is not one of them.[/i][/size]
 
 [i]Arc Reactor[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -268,6 +279,7 @@ Cost: 4
 2+ Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 3
+[size=8][i]Fury always budgets one extra prototype for his personal collection.[/i][/size]
 
 [i]Legendary Commander[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -289,6 +301,7 @@ X-Men
 1+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 4
+[size=8][i]When Rogue steals super strength, enemies get super scared.[/i][/size]
 
 [i]Energy Drain[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -343,6 +356,7 @@ X-Men
 2 Recruit
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 3
+[size=8][i]Two little raindrops. Then two billion.[/i][/size]
 
 [i]Lightning Bolt[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -372,6 +386,7 @@ Avengers
 2+ Recruit
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Recruit.
 Cost: 3
+[size=8][i]"Whosoever holds the hammer, if he be worthy, shall possess the power of Thor."[/i][/size]
 
 [i]Surge of Power[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -385,6 +400,7 @@ Cost: 4
 3+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 6
+[size=8][i]Lightning never strikes twice. Thor never needs to.[/i][/size]
 
 [i]God of Thunder[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -392,6 +408,7 @@ Cost: 6
 0+ Attack
 You can use Recruit as Attack this turn.
 Cost: 8
+[size=8][i]They call him the God of Thunder. His enemies better start praying.[/i][/size]
 
 
 [size=10][i][b]Wolverine[/b][/i][/size]
@@ -408,12 +425,14 @@ Cost: 3
 1 Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 2
+[size=8][i]The only thing scarier than Wolverine tracking you is Wolverine finding you.[/i][/size]
 
 [i]Frenzied Slashing[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw two cards.
 Cost: 5
+[size=8][i]Some villains get torn apart by guilt. Others get torn apart by Wolverine.[/i][/size]
 
 [i]Berserker Rage[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -474,6 +493,7 @@ Cost: 2
 3+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 5
+[size=8][i]Bishop absorbs energy, channeling it back into devestating blasts.[/i][/size]
 
 [i]Firepower From the Future[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -549,6 +569,7 @@ X-Force
 3 Attack
 You gain a Wound.
 Cost: 1
+[size=8][i]When enemies get charged by a huge steel titan, that tends to occupy their attention.[/i][/size]
 
 [i]Invulnerability[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -561,6 +582,7 @@ Cost: 3
 4+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 6
+[size=8][i]No one expects an enormous metal brawler to take the stealthy approach.[/i][/size]
 
 [i]Russian Heavy Tank[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -614,6 +636,7 @@ Cost: 1
 0+ Attack
 [b]Versatile 2[/b]
 Cost: 3
+[size=8][i]With Domino's mutant probability powers, every day is the luckiest day of her life.[/i][/size]
 
 [i]Specialized Ammunition[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -646,6 +669,7 @@ Cost: 1
 Draw a card.
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit.
 Cost: 2
+[size=8][i]Zen is the absence of motion. Ninjitsu, the absence of stillness.[/i][/size]
 
 [i]Sai Blades[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -682,12 +706,14 @@ Cost: 4
 0+ Attack
 [b]Versatile 3[/b]
 Cost: 5
+[size=8][i]When Forge can't find the turret remote, he just takes a couple of spoons and builds a new one.[/i][/size]
 
 [i]B.F.G.[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 5 Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Defeat the Mastermind once for free.
 Cost: 7
+[size=8][i]That's a BIG FREAKING GUN!!!![/i][/size]
 
 
 [size=10][i][b]Ghost Rider[/b][/i][/size]
@@ -704,6 +730,7 @@ Cost: 5
 2+ Recruit
 Marvel Knights: You get +2 Recruit.
 Cost: 3
+[size=8][i]Most motorcycles don't drive up walls. Most don't drive into your nightmares.[/i][/size]
 
 [i]Infernal Chains[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -786,6 +813,7 @@ X-Men
 2 Attack
 X-Men: Rescue a Bystander.
 Cost: 3
+[size=8][i]Amid violent chaos, a soundless voice leads to safety.[/i][/size]
 
 [i]Read Your Thoughts[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -815,18 +843,21 @@ X-Men
 2 Recruit
 [b]Teleport[/b]
 Cost: 3
+[size=8][i]"Now you see me..." BAMF!"[/i][/size]
 
 [i]Blend Into Shadows[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 [b]Teleport[/b]
 Cost: 4
+[size=8][i]Sometimes it is best to hide now and fight later.[/i][/size]
 
 [i]Swashbuckler[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 3+ Attack
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 5
+[size=8][i]Chivalry wears blue fur.[/i][/size]
 
 [i]Along for the Ride[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -845,12 +876,14 @@ X-Men
 You may put a Hero from the HQ on the bottom of the Hero Deck.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
 Cost: 3
+[size=8][i]"What do they call you? Wheels?"[/i][/size]
 
 [i]Psionic Astral Form[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 1+ Attack
 X-Men: You get +2 Attack.
 Cost: 2
+[size=8][i]In a plane of pure mental energy, Xavier's body is as powerful as his mind.[/i][/size]
 
 [i]Telepathic Probe[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -873,6 +906,7 @@ Marvel Knights
 Reveal the top card of your deck. If it costs 0, KO it.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 2
+[size=8][i]The Punisher always knows which cops are corrupt.[/i][/size]
 
 [i]Hail of Bullets[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -903,6 +937,7 @@ X-Force
 Draw a card.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 2
+[size=8][i]To avoid injury, it's best to keep a distance from Wolverine of at least 5,000 miles.[/i][/size]
 
 [i]Sudden Ambush[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1080,6 +1115,7 @@ Spider Friends
 [b]Wall-Crawl[/b]
 You get another +1 Recruit usable only to recruit the Hero in the HQ Space under the Bank.
 Cost: 4
+[size=8][i]Bad luck comes to all who cross Black Cat's path.[/i][/size]
 
 [i]Pickpocket[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1111,6 +1147,7 @@ Marvel Knights
 [b]Wall-Crawl[/b]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Recruit.
 Cost: 3
+[size=8][i]Criminals feel the cold light of the moon on their sins...but they never think to look up.[/i][/size]
 
 [i]Lunar Communion[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -1124,6 +1161,7 @@ Cost: 3
 3 Attack
 Reveal the top card of your deck. If it's [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] or [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], draw it.
 Cost: 5
+[size=8][i]Villains face the crescent moon's judgment. Then they get the crescent moon's judgment in their face.[/i][/size]
 
 [i]Golden Ankh of Khonshu[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -1149,6 +1187,7 @@ Cost: 2
 [b]Wall-Crawl[/b]
 Draw a card.
 Cost: 4
+[size=8][i]Predators who underestimate Scarlet Spider quickly find themselves the prey.[/i][/size]
 
 [i]Leap From Above[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1156,12 +1195,14 @@ Cost: 4
 [b]Wall-Crawl[/b]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 6
+[size=8][i]A life of chaos lends Scarlet Spider an unpredictability that opponents can't escape.[/i][/size]
 
 [i]Sting of the Spider[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 5 Attack
 Whenever you put a card on top of your deck this turn, you may draw that card.
 Cost: 7
+[size=8][i]Many people are allergic...to getting punched in the face by a truck.[/i][/size]
 
 
 [size=10][i][b]Spider-Woman[/b][/i][/size]
@@ -1179,6 +1220,7 @@ Cost: 4
 3 Recruit
 To play this card, you must put a card from your hand on top of your deck.
 Cost: 2
+[size=8][i]Et tu, Brute?[/i][/size]
 
 [i]Venom Blast[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1186,12 +1228,14 @@ Cost: 2
 [b]Wall-Crawl[/b]
 Reveal the top card of your deck. If that card has a Recruit icon, draw it.
 Cost: 6
+[size=8][i]For prison psychologists, arachnophobia is a surprisingly common diagnosis.[/i][/size]
 
 [i]Arachno-Pheromones[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Recruit a Hero from the HQ for free.
 Spider Friends: Put that Hero on top of your deck.
 Cost: 7
+[size=8][i]They'll follow her anywhere.[/i][/size]
 
 
 [size=10][i][b]Symbiote Spider-Man[/b][/i][/size]
@@ -2002,6 +2046,7 @@ Cost: 3
 2+ Attack
 You get +1 Attack for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero in the HQ.
 Cost: 5
+[size=8][i]Kitty goes through a lot of toasters.[/i][/size]
 
 [i]Untouchable[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -2018,6 +2063,7 @@ Illuminati
 2+ Attack
 You get +1 Attack if you reveal four cards with no rules text.
 Cost: 3
+[size=8][i]Black Bolt's voice is so destructive that even a whisper can destroy an entire city.[/i][/size]
 
 [i]Speak No Words[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2047,12 +2093,14 @@ Illuminati
 1 Recruit
 Draw a card.
 Cost: 3
+[size=8][i]King T'Challa is a doctor of physics, a master diplomat, and a genius inventor. But sometimes he just likes kicking bad guys in the face.[/i][/size]
 
 [i]Multifaceted Genius[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2+ Attack
 You get +1 Attack for each other multicolored card you played this turn.
 Cost: 4
+[size=8][i]Some people excel at one specific thing. Black Panther excels at almost everything.[/i][/size]
 
 [i]Stalk the Urban Jungle[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -2070,17 +2118,19 @@ Cost: 7
 [size=10][i][b]Captain Marvel[/b][/i][/size]
 Avengers
 
-[i]Supersonic Flight[/i] (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-1 Attack
-Draw a card.
-Cost: 3
-
 [i]Absorb Energies[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Recruit
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: For each other [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero you have played this turn, you get +1 Recruit.
 Cost: 3
+[size=8][i]Carol Danvers soaks up energy to empower her physical strength and photonic blasts.[/i][/size]
+
+[i]Supersonic Flight[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1 Attack
+Draw a card.
+Cost: 3
+[size=8][i]Once a captain in the Air Force, Carol Danvers has re-emerged from Ms. Marvel to Captain Marvel.[/i][/size]
 
 [i]Marvelous Strength[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2093,22 +2143,24 @@ Cost: 5
 5+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +6 Attack.
 Cost: 7
+[size=8][i]You've heard of the power of the sun, right?[/i][/size]
 
 
 [size=10][i][b]Dr. Strange[/b][/i][/size]
 Illuminati
-
-[i]Trust Me, I'm a Doctor [/i] (5 copies)
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-1+ Recruit
-Illuminati: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.
-Cost: 2
 
 [i]Cloak of Levitation[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Reveal the top card of your deck. Draw it or [b]Teleport[/b] it.
 Cost: 4
+[size=8][i]"By the Hoary Hosts of Hoggoth!"[/i][/size]
+
+[i]Trust Me, I'm a Doctor [/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1+ Recruit
+Illuminati: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.
+Cost: 2
 
 [i]Fight the Future[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2143,6 +2195,7 @@ Cost: 4
 4+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 6
+[size=8][i]If Mjolnir deems her worthy, who would dare argue?[/i][/size]
 
 [i]Living Thunderstorm[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2150,6 +2203,7 @@ Cost: 6
 0+ Attack
 One per turn, if you made at least 6 Recruit this turn, you get +6 Attack.
 Cost: 8
+[size=8][i]Very few can wield Mjolnir. Even fewer can withstand a hit from it.[/i][/size]
 
 
 [size=10][i][b]Magik[/b][/i][/size]
@@ -2160,6 +2214,7 @@ X-Men
 Gain a Sidekick.
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Gain another Sidekick.
 Cost: 2
+[size=8][i]It's easy to gather a group when you can summon them through sorcerous portals.[/i][/size]
 
 [i]Travel through Limbo[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2167,6 +2222,7 @@ Cost: 2
 [b]Teleport[/b]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 3
+[size=8][i]Any distance is two steps away when those two steps are through a hell dimension.[/i][/size]
 
 [i]Dimensional Portal[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2191,12 +2247,14 @@ Cabal
 2 Recruit
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Defeat a Henchman Villain for free.
 Cost: 3
+[size=8][i]As a gifted inventor, Maximus often creates devices to enhance his telepathic abilities.[/i][/size]
 
 [i]Enslave the Will[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2 Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Whenever you defeat a Villain this turn, you gain a Sidekick.
 Cost: 4
+[size=8][i]Someday, Maximus will use his mind control powers to amass an army large enough to overthrow his brother, Black Bolt.[/i][/size]
 
 [i]Pieces on a Chessboard[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2226,6 +2284,7 @@ Cost: 3
 2+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2, usable only against Villains on the Bridge or the Mastermind.
 Cost: 4
+[size=8][i]Namor is lord of two-thirds of the Earth: all the watery bits.[/i][/size]
 
 [i]Feed the Sharks[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2254,6 +2313,7 @@ Cost: 3
 2+ Attack
 If you don't recruit any heroes this turn, you get +2 Attack.
 Cost: 5
+[size=8][i]In this parallel dimension, all the Heroes are dead, and now the world has been carved up by Villains.[/i][/size]
 
 [i]Rage Out[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2290,6 +2350,7 @@ Cost: 4
 3 Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +3 Recruit.
 Cost: 5
+[size=8][i]Proxima rose through the ranks of Thanos' army with brutal effectiveness.[/i][/size]
 
 [i]Supernova Spear[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2307,12 +2368,14 @@ Illuminati
 1+ Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 2
+[size=8][i]Stark Technology is improving exponentially.[/i][/size]
 
 [i]Optimized Technology[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Attack
 Draw a card.
 Cost: 5
+[size=8][i]Tony Stark uses his new psionically-controlled Endo-Sym armor to back up his claims of "Superiority."[/i][/size]
 
 [i]Superior to Others[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2396,6 +2459,7 @@ Spider Friends
 1+ Attack
 [b]Spectrum[/b]: You get +1 Recruit and +1 Attack.
 Cost: 2
+[size=8][i]His weapons are as versatile as Venom himself.[/i][/size]
 
 [i]Government Payroll[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2412,6 +2476,7 @@ Cost: 3
 [b]Wall-Crawl[/b]
 [b]Patrol the Sewers[/b]: If it's empty, draw a card.
 Cost: 6
+[size=8][i]Flash Thompson combines elite military training with Venom symbiote.[/i][/size]
 
 [i]Shapeshifting Symbiote[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2427,18 +2492,21 @@ Cost: 7
 [size=10][i][b]Arkon the Magnificent[/b][/i][/size]
 (Unaffiliated)
 
-[i]Quiver of Thunderbolts[/i] (5 copies)
-[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-2 Attack
-[b]Spectrum[/b]: Draw a card.
-Cost: 3
-
 [i]All-Terrain Barbarian[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2+ Recruit
 [b]Wall-Crawl[/b]
 [b]Patrol the Sewers[/b]: If it's empty, you get +1 Recruit.
 Cost: 3
+[size=8][i]Even beneath the surface, Arkon conquers them all.[/i][/size]
+
+[i]Quiver of Thunderbolts[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+[b]Spectrum[/b]: Draw a card.
+Cost: 3
+[size=8][i][/i][/size]
+[size=8][i]A Quiver of Thunderbolts is quite unorthodox but totally awesome.[/i][/size]
 
 [i]Warlord of Open Spaces[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2463,6 +2531,7 @@ Illuminati
 2 Attack
 Reveal the top card of your deck. If it's [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], draw it.
 Cost: 3
+[size=8][i]If you can balance yourself upside-down, you will turn your foes upside-down with a balanced attack.[/i][/size]
 
 [i]Upside-down Thinking[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2482,6 +2551,7 @@ Cost: 6
 4 Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw three cards.
 Cost: 8
+[size=8][i]If I calculate the precise rotational torque, I find I'm really thrashing you with considerable force.[/i][/size]
 
 
 [size=10][i][b]Black Swan[/b][/i][/size]
@@ -2498,6 +2568,7 @@ Cost: 3
 2 Recruit
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, draw a card.
 Cost: 5
+[size=8][i]Black Swan foretold the Incursions that destroyed the old universe.[/i][/size]
 
 [i]Dark Foretelling[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2521,18 +2592,21 @@ Avengers
 1+ Recruit
 [b]Spectrum[/b]: you get +2 Recruit.
 Cost: 2
+[size=8][i]When you gotta go, you gotta go.[/i][/size]
 
 [i]Patriotic Chomp[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2+ Attack
 [b]Spectrum[/b]: You get +2 Attack.
 Cost: 4
+[size=8][i]The Captain and The Devil must journey through a sea of angry Hulks in the Battleworld region known as "Greenland."[/i][/size]
 
 [i] Feeding Grounds[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Attack
 [b]Patrol the Streets[/b]: If it's empty, you may KO a card from your hand or discard pile.
 Cost: 6
+[size=8][i]Captain America and Devil Dinosaur...Unlikely brothers in arms.[/i][/size]
 
 [i]Dino-Roar of Triumph[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2544,17 +2618,18 @@ Cost: 8
 [size=10][i][b]Captain Britain[/b][/i][/size]
 Illuminati
 
-[i]Transatlantic Savior[/i] (5 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-0+ Recruit
-You get +1 Recruit for each different team icon among your heroes.
-Cost: 3
-
 [i]Combined Strength[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 0+ Attack
 You get +1 Attack for each different team icon among your heroes.
 Cost: 4
+
+[i]Transatlantic Savior[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Recruit
+You get +1 Recruit for each different team icon among your heroes.
+Cost: 3
+[size=8][i]It's wise to respect 400 years of British history...Especially when it's punching you in the face.[/i][/size]
 
 [i]Raise the Union Jack[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -2576,6 +2651,7 @@ Cabal
 2 Attack
 KO a Bystander from the Bystander Deck. If it's a Special Bystander, you may use its Rescue effect.
 Cost: 3
+[size=8][i]A sculptor with a scalpel...A rather enormous scalpel.[/i][/size]
 
 [i]Let None Escape You[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2583,6 +2659,7 @@ Cost: 3
 0+ Attack
 [b]Patrol the Escape Pile[/b]: If there are none Bystanders in it, you get +2 Attack. Otherwise, you get +2 Recruit.
 Cost: 2
+[size=8][i]Thanos' most trusted general...And his most cruel.[/i][/size]
 
 [i]Rictus Grin[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2605,6 +2682,7 @@ Marvel Knights
 1 Recruit
 [b]Patrol the Streets[/b]: If it's empty, draw a card.
 Cost: 2
+[size=8][i]This mashup cleans the trash up.[/i][/size]
 
 [i]You're a Slow Learner[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2625,16 +2703,11 @@ Cost: 3
 [b]Patrol every city space[/b]:
 For each space that's empty, you get +1 Attack.
 Cost: 7
+[size=8][i]It's quiet. Too quiet.[/i][/size]
 
 
 [size=10][i][b]Elsa Bloodstone[/b][/i][/size]
 S.H.I.E.L.D.
-
-[i]Monster Hunter[/i] (5 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-2 Attack
-[b]Patrol the Sewers[/b]: If it's empty, rescue a Bystander.
-Cost: 3
 
 [i]Bloodstone Pendant[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2642,39 +2715,50 @@ Cost: 3
 [b]Spectrum[/b]: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.
 Cost: 3
 
-[i]Find the S.H.I.E.L.D. Wall[/i] (3 copies)
+[i]Monster Hunter[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[b]Patrol the Sewers[/b]: If it's empty, rescue a Bystander.
+Cost: 3
+[size=8][i]Elsa knows a lot of lore about various dark creatures, but most of it boils down to where to stab them.[/i][/size]
+
+[i]Defend the S.H.I.E.L.D. Wall[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 0+ Attack
 [b]Wall-Crawl[/b]
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
 Cost: 6
+[size=8][i]As commander of the wall, Elsa must hold back the Deadlands Hordes.[/i][/size]
 
 [i]Prodigy of Ulysses Bloodstone[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 6+ Attack
 [b]Spectrum[/b]: You get +3 Attack.
 Cost: 8
+[size=8][i]Elsa's father threw her at monsters before she could walk, training her relentlessly to become the perfect weapon.[/i][/size]
 
 
 [size=10][i][b]Phoenix Force Cyclops [/b][/i][/size]
 X-Men
-
-[i]Reincarnate[/i] (5 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-KO this card. Gain a hero from the S.H.I.E.L.D. Office stack or HQ that costs 4 or less and put it into your hand.
-Cost: 3
 
 [i]Burn Out[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Attack
 You may KO this card. If you do, you gain +2 Attack.
 Cost: 4
+[size=8][i]Like Jean Grey before him, Cyclops became the vessel for the godlike Phoenix entity.[/i][/size]
+
+[i]Reincarnate[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+KO this card. Gain a hero from the S.H.I.E.L.D. Office stack or HQ that costs 4 or less and put it into your hand.
+Cost: 3
 
 [i]Rise from the Ashes[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 3 Attack
 Gain a Hero that was KO'd this turn.
 Cost: 6
+[size=8][i]The Phoenix is a cosmic force of great life or limitless destruction.[/i][/size]
 
 [i]Destruction is Creation[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2691,6 +2775,7 @@ X-Men
 2 Attack
 When a card effect causes you to discard this card, [b]Teleport[/b] it instead. If it is not your turn, set it aside and add it to your hand at the end of this turn.
 Cost: 3
+[size=8][i]Hit-and-run tactics.[/i][/size]
 
 [i]Heir to Legends[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2698,6 +2783,7 @@ Cost: 3
 2 Attack
 To play this card, you must discard a card from your hand.
 Cost: 5
+[size=8][i]The alternate-reality daughter of Cyclops and Emma Frost, Ruby, combines both their powers.[/i][/size]
 
 [i]Form of Solid Ruby[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2705,6 +2791,7 @@ Cost: 5
 4 Attack
 X-Men: Whenever you defeat a villain or mastermind this turn, you get +2 Recruit.
 Cost: 6
+[size=8][i]While Emma turned into solid diamond, Ruby turns into - well, you can probably guess.[/i][/size]
 
 [i]Extinction Blast[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2751,6 +2838,7 @@ Spider Friends
 2 Attack
 [b]Spectrum[/b]: Reveal the top card of your deck. If it costs 2 or less, draw it.
 Cost: 2
+[size=8][i]Cindy Moon was bitten by the same radioactive spider as Peter Parker.[/i][/size]
 
 [i]Cascading Maneuver[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2799,6 +2887,7 @@ Cost: 6
 5 Attack
 X-Men: You may gain an X-Men hero from the HQ or the KO pile to your hand.
 Cost: 7
+[size=8][i]Every year, Colossus leads a team of X-Men into the Inferno to rescue his sister, Magik.[/i][/size]
 
 
 [size=10][i][b]Spider-Gwen[/b][/i][/size]
@@ -2877,6 +2966,7 @@ Cost: 3
 2+ Attack
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn that costs 1 or more.
 Cost: 4
+[size=8][i]WWII demonstrated the need for the paramilitary organizations that eventually became S.H.I.E.L.D.[/i][/size]
 
 [i]Spy Network[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -2896,23 +2986,26 @@ Cost: 7
 [size=10][i][b]Captain America (Falcon)[/b][/i][/size]
 Avengers
 
-[i]Winged Salvation[/i] (5 copies)
-[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-2+ Attack
-[b]Savior[/b]: You get +2 Attack.
-Cost: 7
-
 [i]Aerial Catch[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 Recruit
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Rescue a Bystander.
 Cost: 3
+[size=8][i]People saved by his midair rescues call him an Angel, but that name's already taken.[/i][/size]
+
+[i]Winged Salvation[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Savior[/b]: You get +2 Attack.
+Cost: 4
+[size=8][i]"Saving people doesn't distract from the mission. It is the mission."[/i][/size]
 
 [i]Flying Shield Block[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 4 Attack
 Once per turn, if a player would gain a Wound, you may reveal this card and rescue a Bystander instead.
 Cost: 6
+[size=8][i][/i][/size]
 
 [i]Star-Spangled Hero[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -2926,6 +3019,13 @@ Cost: 7
 [size=10][i][b]Captain America 1941[/b][/i][/size]
 Avengers
 
+[i]Devoted Patriot[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b]
+Cost: 3
+[size=8][i]"With luck, HYDRA will be a distant memory by 1942."[/i][/size]
+
 [i]Storm the Beachhead[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 0+ Attack
@@ -2933,33 +3033,23 @@ You get +1 Attack for each Hero class you have.
 [b]Man Out of Time[/b].
 Cost: 5
 
-[i]Devoted Patriot[/i] (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b]
-Cost: 3
-
 [i]Liberate the Prisoners[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Attack
 Avengers: Rescue a Bystander
 Cost: 6
+[size=8][i]"The one you save today saves you tomorrow."[/i][/size]
 
 [i]Punch Evil in the Face[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 5 Attack
 [b]Savior[/b]: [b]Man Out of Time[/b]
 Cost: 8
+[size=8][i]75 years later, Cap is still finding villainous faces calling out to be punched.[/i][/size]
 
 
 [size=10][i][b]Steve Rogers, Director of S.H.I.E.L.D.[/b][/i][/size]
 S.H.I.E.L.D.
-
-[i]Reassign to Civilian Duty[/i] (5 copies)
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-2 Attack
-S.H.I.E.L.D., S.H.I.E.L.D., S.H.I.E.L.D.: You may KO a S.H.I.E.L.D. Hero that you played this turn. If you do, rescue a Bystander.
-Cost: 5
 
 [i]International Strike Force[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2967,11 +3057,19 @@ You get +1 Recruit for each Hero Class you have.
 [b]Savior[/b]: You get +1 Attack for each Hero Class you have.
 Cost: 3
 
+[i]Reassign to Civilian Duty[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+S.H.I.E.L.D., S.H.I.E.L.D., S.H.I.E.L.D.: You may KO a S.H.I.E.L.D. Hero that you played this turn. If you do, rescue a Bystander.
+Cost: 5
+[size=8][i]This ain't no desk job.[/i][/size]
+
 [i]Shadow of Wars Past[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 [b]Savior[/b]: [b]Man Out of Time[/b]
 Cost: 4
+[size=8][i]Captain America often sees history repeat itself.[/i][/size]
 
 [i]Save the World[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2984,18 +3082,20 @@ Cost: 8
 [size=10][i][b]Winter Soldier[/b][/i][/size]
 (Unaffiliated)
 
+[i]Bionic Arm[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b].
+Cost: 3
+[size=8][i]Bucky's bionic arm was one of the many "gifts" given to him by the KGB.[/i][/size]
+
 [i]Sniper Nest[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 1 Recruit
 Draw a card.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b]
 Cost: 4
-
-[i]Bionic Arm[/i] (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-2 Attack
-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b].
-Cost: 3
+[size=8][i]Bucky has had 75 years of cryogenic sleep to practice staying still.[/i][/size]
 
 [i]KGB Training[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
