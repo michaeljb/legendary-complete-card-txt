@@ -969,12 +969,14 @@ Fantastic Four
 2+ Recruit
 You may KO a Wound from your hand or discard pile. If you do, you get +1 Recruit.
 Cost: 3
+[size=8][i]The Fantastic Four has access to all sorst of communications; Johnny prefers his own methods.[/i][/size]
 
 [i]Hothead[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 4 Attack
 You gain a Wound.
 Cost: 4
+[size=8][i]"I like to know my limits. So I can break them."[/i][/size]
 
 [i]Flame On![/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -997,18 +999,21 @@ Fantastic Four
 2 Recruit
 [b]Focus 2 Recruit ->[/b] You may KO a card from your hand or discard pile.
 Cost: 4
+[size=8][i]"Now you see it...Now you don't!"[/i][/size]
 
 [i]Four of a Kind[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Attack
 If you played any other cards that cost 4 this turn, you get +2 Attack.
 Cost: 4
+[size=8][i]A family that plays together stays together.[/i][/size]
 
 [i]Unseen Rescue[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 [b]Focus 2 Recruit ->[/b] Rescue a Bystander. You may only use this ability up to four times this turn.
 Cost: 4
+[size=8][i]"If seeing is believing, you are not going to believe this."[/i][/size]
 
 [i]Invisible Barrier[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1025,17 +1030,20 @@ Fantastic Four
 2 Recruit
 [b]Focus 2 Recruit ->[/b] When you draw a new hand of cards at the end of this turn, draw an extra card.
 Cost: 3
+[size=8][i]"I consider the laws of physics more like guidelines."[/i][/size]
 
 [i]Unstable Molecules[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 Draw two cards.
 Cost: 5
+[size=8][i]Reed Richards has an idea for a new costume material, but it's a stretch.[/i][/size]
 
 [i]One Gigantic Hand[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 1+ Attack
 Fantastic Four: You get +1 Attack for each card in your hand.
 Cost: 5
+[size=8][i]"Most of my career is thinking. Then there's this."[/i][/size]
 
 [i]Ultimate Nullifier[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -1053,12 +1061,14 @@ Cost: 7
 2 Recruit
 [b]Focus 6 Recruit ->[/b] Defeat a Villain of 5 Attack or 6 Attack.
 Cost: 4
+[size=8][i]"Master? Galactus had been my master! You - are but - a flea!"[/i][/size]
 
 [i]Warp Speed[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Recruit
 [b]Focus 2 Recruit ->[/b] Draw a card.
 Cost: 3
+[size=8][i]"Engage!"[/i][/size]
 
 [i]The Power Cosmic[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1066,11 +1076,13 @@ Cost: 3
 0+ Attack
 [b]Focus 9 Recruit ->[/b] You get +9 Attack.
 Cost: 6
+[size=8][i]As a Herald, Surfer selected many planets for the Devourer of Worlds, until Earth taught him compassion.[/i][/size]
 
 [i]Energy Surge[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 Double the Recruit you have.
 Cost: 7
+[size=8][i]Finding extra power is not a problem for the Silver Surfer. His power is immeasurable.[/i][/size]
 
 
 [size=10][i][b]Thing[/b][/i][/size]
@@ -1081,6 +1093,7 @@ Fantastic Four
 2+ Recruit
 Fantastic Four: You get +2 Recruit.
 Cost: 3
+[size=8][i]Yancy Street is Thing's turf. Trespass at your own risk.[/i][/size]
 
 [i]Knuckle Sandwich[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -1088,6 +1101,7 @@ Cost: 3
 0+ Attack
 [b]Focus 3 Recruit ->[/b] You get +2 Attack.
 Cost: 5
+[size=8][i]Recipe prep time: 3 seconds. Serves: 20[/i][/size]
 
 [i]Crime Stopper[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -1101,6 +1115,7 @@ Cost: 6
 5+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack for each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
 Cost: 8
+[size=8][i]Thing doesn't wear a watch, but he's happy to tell you what time it is.[/i][/size]
 
 
 
