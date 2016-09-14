@@ -1877,6 +1877,7 @@ Foes of Asgard
 [b]Thrown Artifact[/b]
 When you throw this, you get +2 Recruit.
 Cost: 3
+[size=8][i]When Absorbing Man seized the Mace, he was reborn as Greithoth, body and soul.[/i][/size]
 
 [i]Absorb Metal[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1939,6 +1940,7 @@ Cost: 3
 2 Attack
 Whenever you defeat an Adversary on the Bridge this turn, you may KO one of your cards or a card from your discard pile. If you do, gain a New Recruit.
 Cost: 4
+[size=8][i]"It's feeding time!"[/i][/size]
 
 [i]Cudgel of the Deep[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1989,12 +1991,14 @@ HYDRA
 2 Recruit
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: gain a Madame HYDRA.
 Cost: 3
+[size=8][i]The daughter of the Red Skull will fulfill his final dream.[/i][/size]
 
 [i]Ancient Oath of HYDRA[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 1 Attack
 You may discard a HYDRA Ally. If you do, draw two cards.
 Cost: 5
+[size=8][i]Skadi hails HYDRA. Immortal HYDRA. Whenever she cuts off a limb, two more take its place.[/i][/size]
 
 [i]Hammer of the Serpent[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -2017,6 +2021,7 @@ Foes of Asgard
 Gain two New Recruits.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Gain a third New Recruit.
 Cost: 3
+[size=8][i]It's easy to look up to a leader like Skirn. About 50 feet up.[/i][/size]
 
 [i]Underhanded Dealings[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
