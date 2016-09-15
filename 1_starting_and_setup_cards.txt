@@ -162,6 +162,7 @@ Avengers
 Draw a card.
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Speedball's cat meows forth the same kinetic force fields.[/i][/size]
 
 [size=10][i][b]Lockheed[/b][/i][/size] (2 copies)
 Avengers
@@ -169,6 +170,7 @@ Avengers
 2+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack. Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Kitty Pryde's dragon has a wicked sense of humor.[/i][/size]
 
 [size=10][i][b]Lockjaw[/b][/i][/size] (2 copies)
 Avengers
@@ -177,6 +179,7 @@ Avengers
 [b]Phasing[/b]
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Black Bolt's ally transports the Inhumans all over the galaxy.[/i][/size]
 
 [size=10][i][b]Ms. Lion[/b][/i][/size] (2 copies)
 Avengers
@@ -185,12 +188,14 @@ Rescue a Bystander.
 Draw a card.
 Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Aunt May's dog is definitely not a lion.[/i][/size]
 
 [size=10][i][b]Redwing[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Look at the top three cards of your deck. Draw one. Put the rest back in any order. Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Falcon, the superhero, can see through Redwing's eyes.[/i][/size]
 
 [size=10][i][b]Throg[/b][/i][/size] (2 copies)
 Avengers
@@ -199,12 +204,14 @@ Avengers
 0+ Attack
 Once this turn, if you made at least 6 Recruit, you get +2 Attack. Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Thor's hammer yielded a sliver which became the mighty hammer Frogjolnir.[/i][/size]
 
 [size=10][i][b]Zabu[/b][/i][/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 KO a card from your hand or discard pile. Put this on the bottom of the Sidekick Stack.
 Cost: 2
+[size=8][i]Ka-Zar of the Savage Land saved Zabu's life from the beastly Maa-Gor.[/i][/size]
 
 
 
