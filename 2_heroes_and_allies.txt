@@ -1283,7 +1283,7 @@ Cost: 2
 
 
 
-== Villains Allies ==
+== Villains ==
 
 [size=10][i][b]Bullseye[/b][/i][/size]
 Crime Syndicate
@@ -1293,6 +1293,7 @@ Crime Syndicate
 2 Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 3
+[size=8][i]"And for my next trick..."[/i][/size]
 
 [i]Fulfill The Contract[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -1328,12 +1329,14 @@ Cost: 3
 2 Attack
 Draw a card.
 Cost: 5
+[size=8][i]"It worked! Hahahahaha!"[/i][/size]
 
 [i]Eighth Time's a Charm[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 4+ Attack
 If this is the eighth card you played this turn, you get +2 Attack.
 Cost: 6
+[size=8][i]If at first you don't succeed...[/i][/size]
 
 [i]Octo-Pulverize[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -1350,6 +1353,7 @@ Sinister Six
 [b]Dodge[/b]
 Reveal the top card of your deck. You may KO it.
 Cost: 2
+[size=8][i]"I'm not really all that shocked to see you go"[/i][/size]
 
 [i]Shocking Robbery[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1364,6 +1368,7 @@ Cost: 3
 2+ Attack
 You get +1 Attack for each card you discarded this turn.
 Cost: 5
+[size=8][i]Unlimited Power![/i][/size]
 
 [i]Anti-Matter[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1452,6 +1457,7 @@ Cost: 4
 4 Attack
 To play this card,  you must discard a card from your hand.
 Cost: 5
+[size=8][i]Move it or lose it.[/i][/size]
 
 [i]Unstoppable Force[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -1473,6 +1479,7 @@ Cost: 3
 2 Recruit
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Gain a New Recruit.
 Cost: 3
+[size=8][i]"Anyone else want to punch Daredevil in the face?"[/i][/size]
 
 [i]Import Illegal Weapons[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -1495,6 +1502,7 @@ Sinister Six
 [b]Dodge[/b]
 Sinister Six: You get +2 Recruit.
 Cost: 2
+[size=8][i]Sometimes it's not best to go it alone.[/i][/size]
 
 [i]Corner the Prey[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1513,6 +1521,7 @@ Cost: 5
 0+ Recruit
 You get + Attack equal to the Cost of the highest-cost Ally in the Lair.
 Cost: 8
+[size=8][i]No one's gonna ever keep him down.[/i][/size]
 
 
 [size=10][i][b]Loki[/b][/i][/size]
@@ -1565,6 +1574,7 @@ Cost: 4
 3 Attack
 If you discarded any cards this turn, draw a card.
 Cost: 5
+[size=8][i]One person's trash is another person's high velocity projectile weapon.[/i][/size]
 
 [i]Master of Magnetism[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -1582,6 +1592,7 @@ Sinister Six
 [b]Dodge[/b]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 2
+[size=8][i]Mysterio is at his best when the mist rolls in.[/i][/size]
 
 [i]Shifting Decoy[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1613,6 +1624,7 @@ Brotherhood
 2+ Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 4
+[size=8][i]Mystique is definitely a dual threat.[/i][/size]
 
 [i]Show Your True Colors[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1700,12 +1712,14 @@ Sinister Six
 2+ Attack
 You may KO a Bystander from your Victory Pile. If you do, you get +2 Attack.
 Cost: 4
+[size=8][i]Feeding Time![/i][/size]
 
 [i]Symbiote Takeover[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Kidnap a Bystander.
 Cost: 3
+[size=8][i]"Where do you think you're going?"[/i][/size]
 
 [i]Horrify the Populace[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -1867,7 +1881,7 @@ Cost: 8
 
 
 
-== Fear Itself Allies ==
+== Fear Itself ==
 
 [size=10][i][b]Greithoth, Breaker of Wills[/b][/i][/size]
 Foes of Asgard
@@ -3142,6 +3156,7 @@ Avengers
 0+ Recruit
 You get +1 Recruit for each Hero Class you have.
 Cost: 2
+[size=8][i]The essence of America is not law, but justice.[/i][/size]
 
 [i]Inspire a Nation/Inspire a Man[/i] (5 copies)
 [b]Divided[/b]
@@ -3228,12 +3243,14 @@ Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Look at the top two cards of your deck. Draw one and put the other back.
 Cost: 2
+[size=8][i]In the Civil War, Danny Rand secretly donned Daredevil's costume and his mission.[/i][/size]
 
 [i]Roundhouse Side Kick[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 Choose a number, then reveal the top card of your deck. If that card is that cost, gain a Sidekick.
 Cost: 4
+[size=8][i]Iron Fist skill in the Daredevil uniform.[/i][/size]
 
 [i]Hidden Identity/Revealed Identity[/i] (3 copies)
 [b]Divided[/b]
@@ -3284,6 +3301,7 @@ Cost: 4
 0+ Attack
 You get +1 Attack for each card in the HQ with an Attack icon.
 Cost: 6
+[size=8][i]He likes to get a bird's eye view.[/i][/size]
 
 [i]Fly in a Friend[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -3294,13 +3312,6 @@ Cost: 7
 
 [size=10][i][b]Goliath[/b][/i][/size]
 Avengers
-
-[i]Growth Industry[/i] (5 copies)
-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-2 Attack
-[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card
-Cost: 5*
 
 [i]Brilliant Biochemist/Massive Warrior[/i] (5 copies)
 [b]Divided[/b]
@@ -3315,6 +3326,14 @@ Cost: 4*
 2 Attack
 [b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 Cost: 4*
+
+[i]Growth Industry[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card
+Cost: 5*
+[size=8][i]Science keeps Goliath at the height of his power.[/i][/size]
 
 [i]Being Big is Best[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3339,6 +3358,7 @@ Avengers
 2 Attack
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Whenever you defeat a Villain this turn, rescue a Bystander.
 Cost: 4
+[size=8][i]Nothing attracts fans like a Greek demigod of legend.[/i][/size]
 
 [i]Manly Dullard/Boy Genius[/i] (5 copies)
 [b]Divided[/b]
@@ -3358,6 +3378,7 @@ Cost: 3
 3 Recruit
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, KO it.
 Cost: 5
+[size=8][i]His strength is exceeded only by his ego.[/i][/size]
 
 [i]Son of Zeus[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3405,6 +3426,7 @@ Cost: 6
 [b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +4 Attack.
 Cost: 8*
+[size=8][i]Hulkling can shift into any form...but he prefers the big green classic.[/i][/size]
 
 
 [size=10][i][b]Luke Cage[/b][/i][/size]
@@ -3451,6 +3473,7 @@ Avengers
 0+ Attack
 You get +1 Attack for each Hero Name among your non-S.H.I.E.L.D. Heroes.
 Cost: 3
+[size=8][i]If Cap and Iron Man's Avengers destroy each other, the Young Avengers will be ready.[/i][/size]
 
 [i]New Generation of Heroes[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3469,6 +3492,7 @@ Cost: 5
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 3 Recruit
 Cost: 5
+[size=8][i]Using Clint's original bow, Kate Bishop is bestowed the Hawkeye mantle.[/i][/size]
 
 [i]Lead the Young Avengers[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3486,6 +3510,7 @@ Avengers
 1 Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 2 or less, draw it.
 Cost: 2
+[size=8][i]"I'll fight for the good guys! Wait, which side is that?"[/i][/size]
 
 [i]Spider-Man Unmasked[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -3493,6 +3518,7 @@ Cost: 2
 Gain a Sidekick.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Put that Sidekick on top of your deck.
 Cost: 2
+[size=8][i]Obeying Iron Man, Spider-Man showed his face to the whole country...and lived to regret it.[/i][/size]
 
 [i]Protect My Family/Hot Bowl of Soup[/i] (3 copies)
 [b]Divided[/b]
@@ -3523,6 +3549,7 @@ New Warriors
 2+ Attack
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: If there are any Bystanders in the city or KO pile, you get +2 Attack.
 Cost: 4
+[size=8][i]The more people Speedball can bounce from, the faster he goes.[/i][/size]
 
 [i]Reckless Rescue Attempt[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -3560,6 +3587,7 @@ Avengers
 Draw a card.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 2*
+[size=8][i]"What's smaller than a micron? Let's find out...."[/i][/size]
 
 [i]Crush Ants/Crush File Sizes[/i] (5 copies)
 [b]Divided[/b]
@@ -3583,6 +3611,7 @@ Cost: 5*
 [b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack for each Villain in your Victory Pile that has a printed Attack 3 or less.
 Cost: 6*
+[size=8][i]Ant-Man's daughter grew up pretty fast.[/i][/size]
 
 [i]Trample the Tiny[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3693,6 +3722,7 @@ Avengers
 [b]Phasing[/b]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
 Cost: 3
+[size=8][i]You can't always touch the Vision, but he can always reach you.[/i][/size]
 
 [i]Through Solid Objects[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3741,6 +3771,7 @@ Cost: 4
 [b]Phasing[/b]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit.
 Cost: 2
+[size=8][i]Wiccan inherited his magic from his mother Scarlet Witch...and perhaps her madness.[/i][/size]
 
 [i]Supersonic Spells/Supersonic Speed[/i] (3 copies)
 [b]Divided[/b]
