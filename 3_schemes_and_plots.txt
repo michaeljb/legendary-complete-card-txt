@@ -185,7 +185,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [b]Twist[/b]: Put a Bystander from next to this Plot into the Overrun Pile.
 [b]Good Wins[/b]: When there are 8 Bystanders in the Overrun Pile.
 
-[size=10][i][b]Infiltrate the Lair With Spies[/b][/i][/size]
+[size=10][i][b]Infiltrate the Lair with Spies[/b][/i][/size]
 [b]Setup[/b]: 8 Twists, Stack 21 Bystanders next to this Plot as "Infiltrating Spies."
 [b]Twist[/b]: Put all Bystanders from the Lair into the Overrun pile. Then put a Bystander from next to this Plot into each Lair space under the Bridge, Streets, and Sewers.
 [b]Special Rules[/b]: When you recruit an Ally, kidnap any Bystander in that Lair space. When an Ally leaves the Lair in any other way, put any Bystander from that Lair space into the Overrun Pile.
@@ -197,7 +197,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [b]Special Rules[/b]: Assault Squads get +1 Attack for each War Machine Technology next to the Plot.
 [b]Good Wins[/b]: When there are 3 Assault Squads in the Overrun Pile.
 
-[size=10][i][b]Resurrect Heroes With Norn Stones[/b][/i][/size]
+[size=10][i][b]Resurrect Heroes with Norn Stones[/b][/i][/size]
 [b]Setup[/b]: 8 Twists.
 [b]Twists 1-6[/b]: An Adversary from the current player's Victory Pile enters the Bridge. Then play the top card of the Adversary Deck.
 [b]Twists 7-8[/b]: Each player puts an Adversary from their Victory Pile into the Overrun Pile.
