@@ -1422,4 +1422,17 @@ Size-Changing: Tech
 [b]VP[/b]: 3
 
 
+== Deadpool ==
+
+[size=10][i][b]Deadpool's "Friends"[/b][/i][/size]
+
+[i]Sluggo[/i]
+[b]Revenge for Deadpool's "Friends"[/b]
+[b]Fight[/b]: [b]Excessive Violence:[/b] Gain the Hero from the HQ with the lowest cost [i](or tied for lowest)[/i].
+[b]Escape:[/b]: Each player gains a Wound.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 4
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
