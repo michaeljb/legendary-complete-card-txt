@@ -3870,8 +3870,6 @@ If it's between 8 p.m. and midnight, you get +2 Attack. Otherwise, you get +2 Re
 Cost: 3
 [size=8][i]"...for Pillow Fights and Gun Fights! Wait, which one is this again?"[/i][/size]
 
-[i]Common TBA[/i] (5 copies)
-
 [i]Running Commentary[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 1/2+ Attack
@@ -3897,21 +3895,9 @@ Mercs for Money
 Cost: 3
 [size=8][i]And they say cartoons are too violent these days.[/i][/size]
 
-[i]Common TBA[/i] (5 copies)
-
-[i]Uncommon TBA[/i] (3 copies)
-
-[i]Rare TBA[/i] (1 copy)
-
 
 [size=10][i][b]Solo[/b][/i][/size]
 Mercs for Money
-
-[i]Common TBA[/i] (5 copies)
-
-[i]Common TBA[/i] (5 copies)
-
-[i]Uncommon TBA[/i] (3 copies)
 
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -3924,18 +3910,12 @@ Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
 [size=10][i][b]Stingray[/b][/i][/size]
 Mercs for Money
 
-[i]Common TBA[/i] (5 copies)
-
-[i]Common TBA[/i] (5 copies)
-
 [i]Sting of the Stingray's Sting[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 3 Recruit
 [b]Excessive Violence:[/b] You may KO one of your cards or a card from your discard pile.
 Cost: 5
 [size=8][i]Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
-
-[i]Rare TBA[/i] (1 copy)
 
 
 
