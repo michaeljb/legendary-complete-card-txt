@@ -3879,6 +3879,28 @@ You get +1/2 Attack for each other card with flavor text you played this turn. N
 Cost: 5
 [size=8][i]You also get another +13 Attack, but this doesn't count because it's flavor text.[/i][/size]
 
+[i]Deadpool Rage![/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+5 Attack
+[b]Excessive Violence:[/b] Take another turn after this one. But don't use this ability more than once per game - trilogies are stupid.
+Cost: 7
+[size=8][i]Hey Wolverine! I've had a breakthrough![/i][/size]
+
+
+[size=10][i][b]Slapstick[/b][/i][/size]
+Mercs for Money
+
+[i]Saturday Morning Harpoons[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 1/2 Attack
+[b]Excessive Violence:[/b] Rescue a Bystander.
+Cost: 3
+[size=8][i]And they say cartoons are too violent these days.[/i][/size]
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Uncommon TBA[/i] (3 copies)
+
 [i]Rare TBA[/i] (1 copy)
 
 
@@ -3897,6 +3919,23 @@ Mercs for Money
 Choose a Villalin. Cut its Attack in half this turn.
 Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
 [size=8][i]So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
+
+
+[size=10][i][b]Stingray[/b][/i][/size]
+Mercs for Money
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Common TBA[/i] (5 copies)
+
+[i]Sting of the Stingray's Sting[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Recruit
+[b]Excessive Violence:[/b] You may KO one of your cards or a card from your discard pile.
+Cost: 5
+[size=8][i]Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
+
+[i]Rare TBA[/i] (1 copy)
 
 
 
