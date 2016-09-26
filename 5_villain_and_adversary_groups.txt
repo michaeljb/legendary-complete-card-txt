@@ -1426,12 +1426,26 @@ Size-Changing: Tech
 
 [size=10][i][b]Deadpool's "Friends"[/b][/i][/size]
 
+[i]Blind Al and Deuce[/i]
+[b]Revenge for Deadpool's "Friends"[/b]
+To fight Blind Al, you also gotta drop a Deuce [i](discard a card with a "2" printed anywhere on it)[/i]. Deuce is her dog, obviously.
+[b]Escape:[/b]: Everybody drop a Deuce.
+[b]Attack[/b]: 2+
+[b]VP[/b]: 3
+
 [i]Sluggo[/i]
 [b]Revenge for Deadpool's "Friends"[/b]
 [b]Fight[/b]: [b]Excessive Violence:[/b] Gain the Hero from the HQ with the lowest cost [i](or tied for lowest)[/i].
 [b]Escape:[/b]: Each player gains a Wound.
 [b]Attack[/b]: 5+
 [b]VP[/b]: 4
+
+[i]Weasel[/i]
+[b]Revenge for Deadpool's "Friends"[/b]
+[b]Ambush[/b]: Each player simultaneously passes a card from their hand to the player on their left.
+[b]Fight:[/b]: Same effect.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 3
 
 
 
