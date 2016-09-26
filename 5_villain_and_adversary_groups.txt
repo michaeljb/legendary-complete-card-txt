@@ -958,7 +958,7 @@ You get +1 Attack for each color of Hero you have
 [i]Colossus of Future Past[/i]
 [b]Fight[/b]: [i]Colossus changes the future:[/i] Don't play a Villain card at the beginning of next turn.
 [b]Attack[/b]: 5
-[b][b[/b]][b[/b]][b[/b]][b[/b]]VP[/b]: 3
+[b]VP[/b]: 3
 
 [i]Kate Pryde of Future Past[/i]
 [b]Fight[/b]: You get +1 Recruit. Then, [i]Kate Pryde alters the future:[/i] At the beginning of the next player's turn, that player gets +1 Recruit.
@@ -1163,7 +1163,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [i]'92 Professor X[/i] (1 copy)
 [b]Escape[/b]: '92 Professor X ascends to become a new Mastermind. He gains the ability, "[b]Master Strike:[/b] Stack the two heroes from the HQ with the highest cost next to '92 Professor X. He gets +1 Attack for each Hero stacked there. Players can recruit the top card of the stack."
 [b]Attack[/b]: 8+
-[b][b[/b]]VP[/b]: 6
+[b]VP[/b]: 6
 
 [i]'92 Wolverine[/i]
 [b]Fight[/b]: Gain this as a Hero.
@@ -1183,7 +1183,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 Abomination
 [b]Fight[/b]: You get +1 for each Hero Class you have.
 [b]Attack[/b]: 6+
-[b][b[/b]]VP[/b]: 5
+[b]VP[/b]: 5
 
 [i]Doughboy[/i]
 Abomination
@@ -1429,21 +1429,21 @@ Size-Changing: Tech
 [i]Blind Al and Deuce[/i]
 [b]Revenge for Deadpool's "Friends"[/b]
 To fight Blind Al, you also gotta drop a Deuce [i](discard a card with a "2" printed anywhere on it)[/i]. Deuce is her dog, obviously.
-[b]Escape:[/b]: Everybody drop a Deuce.
+[b]Escape[/b]: Everybody drop a Deuce.
 [b]Attack[/b]: 2+
 [b]VP[/b]: 3
 
 [i]Sluggo[/i]
 [b]Revenge for Deadpool's "Friends"[/b]
 [b]Fight[/b]: [b]Excessive Violence:[/b] Gain the Hero from the HQ with the lowest cost [i](or tied for lowest)[/i].
-[b]Escape:[/b]: Each player gains a Wound.
+[b]Escape[/b]: Each player gains a Wound.
 [b]Attack[/b]: 5+
 [b]VP[/b]: 4
 
 [i]Weasel[/i]
 [b]Revenge for Deadpool's "Friends"[/b]
 [b]Ambush[/b]: Each player simultaneously passes a card from their hand to the player on their left.
-[b]Fight:[/b]: Same effect.
+[b]Fight[/b]: Same effect.
 [b]Attack[/b]: 4+
 [b]VP[/b]: 3
 
