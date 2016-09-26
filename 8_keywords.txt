@@ -150,5 +150,11 @@ This keyword represents pro-registration S.H.I.E.L.D. forces that can be only de
 * If you fight with Excessive Violence, then draw or play more cards with Excessive Violence abilities later in the turn, it will be too late to use those abilities.
 * Some bad guys also have Excessive Violence abilities that let you do something awesome. If you spend one more attack point than you need to fight them, you can do that awesome thing!
 
+[b]Revenge[/b]
+* For Villain groups that have the Revenge ability, each Villain gets +1 Attack for every Villain of that group in your Victory Pile.
+* Revenge is player specific. It will change based on the damage each player has caused to a Villain group. If you've KO'd 2 members of the Deadpool's 'Friends' Villain group then every other member of that group, that enters or is already in the city, will get +2 Attack during your turns. If another player has yet to KO'd a member of that group then the group doesn't gain any Attack. The more damage YOU do, the more that group hates YOU.
+* Revenge is not limited to just Villains either. Masterminds can also hold a grudge. Big surprise there.
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
