@@ -755,5 +755,14 @@ VP: 6
 [b]Fight[/b]: Put all Heroes from the HQ on the bottom of the Hero Deck in random order.
 
 
+== Deadpool ==
+
+[size=10][i][b]Evil Deadpool[/b][/i][/size]
+[b]Revenge for Mastermind Tactics[/b]
+[b]Always Leads[/b]: Evil Deadpool Corpse
+[b]Master Strike[/b]: Without talking, each player simultaneously discards a card. Whoever discards the lowest-costing card [i](or tied for lowest)[/i] gains a Wound.
+Attack: 11+
+VP: 6
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
