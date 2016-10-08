@@ -443,6 +443,12 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 == Deadpool ==
 
+[size=10][i][b]Deadpool Wants a Chimichanga[/b][/i][/size]
+[b]Setup:[/b] 6 Twists. 12 total Bystanders in the Villain Deck. All Bystanders represent "Chimichangas." [i](They're Bystanders too.)[/i] 3-5 players: Add a Villain Group.
+[b]Nobody Eats Just One Chimichanga![/b] Whenever you play a Chimichanga from the Villain Deck, play another card from the Villain Deck.
+[b]Twist:[/b] Put each Chimichanga from the city into the Escape Pile. Then, each player shuffles a Chimichanga from their Victory Pile back into the Villain Deck. Any player who cannot do so gains a Wound.
+[b]Evil Wins:[/b] When 6 Chimichangas are in the Escape Pile.
+
 [size=10][i][b]Deadpool Writes a Scheme[/b][/i][/size]
 [b]Setup:[/b] Hey, writing these doesn't seem so tough. Use the best Hero in the game: Deadpool! Add 6 Twists of Lemon, shake vigorously, and I'll make it up as I go.
 [b]Twist 1:[/b] Everybody draw 1 card. Wait, are these supposed to be bad?

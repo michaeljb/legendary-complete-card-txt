@@ -3858,6 +3858,16 @@ Cost: 7
 
 == Deadpool ==
 
+[size=10][i][b]Bob, Agent of HYDRA[/b][/i][/size]
+HYDRA
+
+[i]How do I Get Out of Here??[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Look at the top card of another player's deck. Ask them a yes or no question about it. If they guess right, then they draw that card. If not, then you draw a card.
+Cost: 6
+
+
 [size=10][i][b]Deadpool[/b][/i][/size]
 Mercs for Money
 
@@ -3888,6 +3898,13 @@ Cost: 7
 [size=10][i][b]Slapstick[/b][/i][/size]
 Mercs for Money
 
+[i]Napoleon Complex[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Recruit
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: If any other players are taller than you, draw a card. If any other players are shorter than you, you get +1 Recruit. If both, get both!
+Cost: 3
+[size=8][i]For an ultra-vioelnt, goofball, living cartoon, Slapstick has some serious issues.[/i][/size]
+
 [i]Saturday Morning Harpoons[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 1/2 Attack
@@ -3898,6 +3915,13 @@ Cost: 3
 
 [size=10][i][b]Solo[/b][/i][/size]
 Mercs for Money
+
+[i]Guns on My Guns[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 1/2 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Does the top card of your deck have a gun in the art? If so, draw that gun!
+Cost: 5
+[size=8][i]Who can make me a gun that shoots our little guns?[/i][/size]
 
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
