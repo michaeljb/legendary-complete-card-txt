@@ -1440,6 +1440,13 @@ To fight Blind Al, you also gotta drop a Deuce [i](discard a card with a "2" pri
 [b]Attack:[/b] 5+
 [b]VP:[/b] 4
 
+[i]Taskmaster[/i]
+[b]Ambush:[/b] Taskmaster captures a Bystander.
+During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost Hero you played this turn.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 4
+[size=8][i]Flavor: They call it Photographic Reflexes: I can copy any fighting move I've ever seen. And I've seen Howard the Duck."[/i][/size]
+
 [i]Weasel[/i]
 [b]Revenge for Deadpool's "Friends"[/b]
 [b]Ambush:[/b] Each player simultaneously passes a card from their hand to the player on their left.
@@ -1449,6 +1456,27 @@ To fight Blind Al, you also gotta drop a Deuce [i](discard a card with a "2" pri
 
 
 [size=10][i][b]Evil Deadpool Corpse[/b][/i][/size]
+
+[i]D.E.A.D.P.O.O.L.[/i]
+[b]Revenge for Evil Deadpool Corpse[/b]
+[b]Fight:[/b] Excessive Violence: KO one of your Heroes. Remind them that if they were better at hero-ing, these accidents wouldn't happen.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 3
+[size=8][i]Flavor: Destructive Engine of Assassination Despite Panpygoptosis Obsessed with Opponent Liquidation.[/i][/size]
+
+[i]The Deadpool Kid[/i]
+[b]Revenge for Evil Deadpool Corpse[/b]
+[b]Escape:[/b] Old West Shootout. Each player reveals the top card of their deck. KO the card with the highest cost (or tied for highest.)
+[b]Attack:[/b] 5+
+[b]VP:[/b] 4
+[size=8][i]Flavor: If you're going to lose an 8-coster, distract the other players and cheat, varmint![/i][/size]
+
+[i]Ultimate Deadpool[/i]
+[b]Revenge for Evil Deadpool Corpse[/b]
+[b]Fight:[/b] Excessive Violence: Draw a card for each "Ultimate" in the HQ. You know, those totally kickass cards that cost 7 or more.
+[b]Escape:[/b] KO all Ultimates from the HQ.
+[b]Attack:[/b] 5+
+[b]VP:[/b] 4
 
 [i]Wolverinepool[/i]
 [b]Revenge for Evil Deadpool Corpse[/b]
