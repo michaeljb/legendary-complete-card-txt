@@ -764,5 +764,36 @@ VP: 6
 Attack: 11+
 VP: 6
 
+[i]Evil Even Oddball[/i]
+[b]Fight:[/b] Each other player reveals their hand. Whoever has the fewest cards with odd-numbered costs (or tied for fewest) gains a Wound.
+
+[i]Hyper-Insane Healing Factor[/i]
+[b]Fight:[/b] If this is not the final Tactic, you get +6 Recruit and shuffle this Tactic back into the other Tactics.
+
+[i]Of Course it's Corpse[/i]
+[b]Fight:[/b] The other player with the fewest Evil Deadpool Corpse Villains in their Victory Pile (or tied for fewest) gains a Wound.
+
+[i]Stitched from Dead (Pool) Parts[/i]
+[b]Fight:[/b] Each other player discards the top card of their deck. Whoever discards the lowest-costing card (or tied for lowest) gains a Wound.
+
+
+[size=10][i][b]Macho Gomez[/b][/i][/size]
+[b]Revenge for Deadpool's "Friends"[/b]
+[b]Always Leads:[/b] Deadpool's "Friends"
+[b]Master Strike:[/b] Put this Strike in front of you as a "Bounty on Your Head." Then, each player gains a Wound for each Bounty on them. Any number of times during your turn, you may pay 1 Recruit to move a Bounty from you to the player on your left.
+Attack: 9+
+VP: 6
+
+[i]Bounty Payout[/i]
+[b]Fight:[/b] You get +1 Recruit for each "Bounty on Your Head" on other players.
+
+[i]Interstellar Assassin[/i]
+[b]Fight:[/b] Each other player with at least one "Bounty on Your Head" discards down to 4 cards.
+
+[i]Renegotiate the Contract[/i]
+[b]Fight:[/b] Redistribute the "Bounty on Your Head" cards among any number of players.
+
+[i]Super Macho Man[/i]
+[b]Fight:[/b] Rescue a Bystander for each "Bounty on Your Head" on other players.
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
