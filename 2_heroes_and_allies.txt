@@ -3861,15 +3861,41 @@ Cost: 7
 [size=10][i][b]Bob, Agent of HYDRA[/b][/i][/size]
 HYDRA
 
+[i]Bullets Flying, Bob Hiding[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Excessive Violence[/b]: Draw a card.
+2 1/2 Recruit
+Cost: 3
+[size=8][i]Flavor: "When I'm involved in excessive violence, I'm usually the victim!"[/i][/size]
+
+[i]HYDRA Half-Wit[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Reveal the top card of your deck. If it's HYDRA or S.H.I.E.L.D., draw it.
+1 1/2 Attack
+Cost: 2
+[size=8][i]Flavor: "At first I thought HYDRA was a facial moisturizer."[/i][/size]
+
 [i]How do I Get Out of Here??[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 4 Attack
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Look at the top card of another player's deck. Ask them a yes or no question about it. If they guess right, then they draw that card. If not, then you draw a card.
 Cost: 6
 
+[i]Epic Middle Manager[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Excessive Violence[/b]: KO up to two HYDRA and/or S.H.I.E.L.D. Heroes from your discard pile. Draw a card for each Hero KO'd this way.
+5 Attack
+Cost: 8
+
 
 [size=10][i][b]Deadpool[/b][/i][/size]
 Mercs for Money
+
+[i]It'll Grow Back[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+If you have a Wound in your hand or discard pile, KO it at you get +1 Attack. Otherwise, gain a Wound. These days, getting wounded mostly just pisses me off.
+2 1/2+ Attack
+Cost: 4
 
 [i]Nighttime is the Right Time[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3878,21 +3904,21 @@ Mercs for Money
 If it's between 8 p.m. and midnight, you get +2 Attack. Otherwise, you get +2 Recruit.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Screw it, just take both!
 Cost: 3
-[size=8][i]"...for Pillow Fights and Gun Fights! Wait, which one is this again?"[/i][/size]
+[size=8][i]Flavor: "...for Pillow Fights and Gun Fights! Wait, which one is this again?"[/i][/size]
 
 [i]Running Commentary[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 1/2+ Attack
 You get +1/2 Attack for each other card with flavor text you played this turn. Now maybe you'll stop telling me to shut up.
 Cost: 5
-[size=8][i]You also get another +13 Attack, but this doesn't count because it's flavor text.[/i][/size]
+[size=8][i]Flavor: You also get another +13 Attack, but this doesn't count because it's flavor text.[/i][/size]
 
 [i]Deadpool Rage![/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 5 Attack
 [b]Excessive Violence:[/b] Take another turn after this one. But don't use this ability more than once per game - trilogies are stupid.
 Cost: 7
-[size=8][i]Hey Wolverine! I've had a breakthrough![/i][/size]
+[size=8][i]Flavor: Hey Wolverine! I've had a breakthrough![/i][/size]
 
 
 [size=10][i][b]Slapstick[/b][/i][/size]
@@ -3903,44 +3929,93 @@ Mercs for Money
 2+ Recruit
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: If any other players are taller than you, draw a card. If any other players are shorter than you, you get +1 Recruit. If both, get both!
 Cost: 3
-[size=8][i]For an ultra-vioelnt, goofball, living cartoon, Slapstick has some serious issues.[/i][/size]
+[size=8][i]Flavor: For an ultra-violent, goofball, living cartoon, Slapstick has some serious issues.[/i][/size]
 
 [i]Saturday Morning Harpoons[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 1/2 Attack
 [b]Excessive Violence:[/b] Rescue a Bystander.
 Cost: 3
-[size=8][i]And they say cartoons are too violent these days.[/i][/size]
+[size=8][i]Flavor: And they say cartoons are too violent these days.[/i][/size]
+
+[i]Surprise Chainsaw[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Excessive Violence[/b]: When you have a new hand of cards at the end of this turn, draw an extra card.
+4 1/2 Attack
+Cost: 6
+[size=8][i]Flavor: This card's a little hacky.[/i][/size]
+
+[i]Electroplasmic Insanity[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Excessive Violence[/b]: Recruit a Hero from the HQ for free. Then, you may shuffle your discard pile into your deck.
+5 Attack
+Cost: 8
 
 
 [size=10][i][b]Solo[/b][/i][/size]
 Mercs for Money
+
+[i]Half-Cocked[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 1/2 Recruit
+1 1/2 Attack
+Cost: 3
+[size=8][i]Flavor: Two halves make a bullet whole. Also, you're a bulletwhole.[/i][/size]
+
+[i]Merc's Gotta Get Paid[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Excessive Violence: You get +1 Recruit.
+0+ Recruit
+2 1/2 Attack
+Cost: 3
+[size=8][i]Flavor: Mercenary - (noun) - one who converts carnage into cash.[/i][/size]
 
 [i]Guns on My Guns[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 3 1/2 Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Does the top card of your deck have a gun in the art? If so, draw that gun!
 Cost: 5
-[size=8][i]Who can make me a gun that shoots our little guns?[/i][/size]
+[size=8][i]Flavor: Who can make me a gun that shoots our little guns?[/i][/size]
 
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 1/2 Attack
 Choose a Villalin. Cut its Attack in half this turn.
 Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
-[size=8][i]So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
+[size=8][i]Flavor: So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
 
 
 [size=10][i][b]Stingray[/b][/i][/size]
 Mercs for Money
+
+[i]Deck Chairs on the Titanic[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+You may move a Villain to an adjacent city space. If another Villain is already there, swap them.
+1 1/2 Attack
+Cost: 4
+
+[i]Superpowered Swimsuit[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +2 Attack, usable only against Villains in the Sewers or Bridge or the Mastermind.
+1/2+ Attack
+Cost: 3
+[size=8][i]Flavor: Breathing underwater is the best superpower, if you don't count any other superpowers.[/i][/size]
 
 [i]Sting of the Stingray's Sting[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 3 Recruit
 [b]Excessive Violence:[/b] You may KO one of your cards or a card from your discard pile.
 Cost: 5
-[size=8][i]Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
+[size=8][i]Flavor: Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
 
+[i]PhD in Oceanography[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You may KO a card from your hand or discard pile.
+Mercs for Money: You get 1/2 Attack for each Hero in the KO pile.
+4+ Attack
+Cost: 8
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
