@@ -443,6 +443,11 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 == Deadpool ==
 
+[size=10][i][b]Deadpool Kills the Marvel Universe[/b][/i][/size]
+[b]Setup:[/b] Use Deadpool as one of the Heroes. 2 players: Use 4 Heroes total. 1-3 players: 6 Twists. 4-5 Players: 5 Twists.
+[b]Twist:[/b] Reveal cards from the Hero Deck until you reveal a Deadpool card. KO all the cards you revealed.
+[b]Evil Wins:[/b] When the Hero Deck runs out.
+
 [size=10][i][b]Deadpool Wants a Chimichanga[/b][/i][/size]
 [b]Setup:[/b] 6 Twists. 12 total Bystanders in the Villain Deck. All Bystanders represent "Chimichangas." [i](They're Bystanders too.)[/i] 3-5 players: Add a Villain Group.
 [b]Nobody Eats Just One Chimichanga![/b] Whenever you play a Chimichanga from the Villain Deck, play another card from the Villain Deck.
@@ -458,6 +463,10 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Twist 5:[/b] Each player gains 5 Wounds. Is that a good number?
 [b]Twist 6:[/b] Deadpool wins 6 times! Wow, I'm way better at this game than you.
 
-
+[size=10][i][b]Everybody Hates Deadpool[/b][/i][/size]
+[b]Setup:[/b] 6 Twists. Use at least 1 Mercs for Money Hero.
+[b]Special Rules:[/b] All Villains have Revenge for their own Villain Groups. (If they already have Revenge, double it.)
+[b]Twist:[/b] Everyone reveals their hand. Whoever reveals the fewest Mercs for Money cards (or tied for fewest) gains a Wound.
+[b]Evil Wins:[/b] When 3 Villains per player have escaped.
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
