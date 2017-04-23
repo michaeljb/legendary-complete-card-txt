@@ -284,5 +284,11 @@ Cost: 0
 [b]Healing[/b]: You may play a card from the Villain Deck. If you do, KO this Wound.
 
 
+== Noir ==
+
+[size=10][i][b]Detective Wolverine[/b][/i][/size] (first-print-run promo for the Noir small-box expansion)
+When you rescue this Bystander, [b]Investigate[/b] the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
