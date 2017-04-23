@@ -796,4 +796,49 @@ VP: 6
 [i]Super Macho Man[/i]
 [b]Fight:[/b] Rescue a Bystander for each "Bounty on Your Head" on other players.
 
+
+== Noir ==
+
+[size=10][i][b]Charles Xavier[/b][/i][/size]
+Charles Xavier gets +1 Attack for each Bystander in the HQ and city.
+[b]Always Leads[/b]: X-Men Noir
+[b]Master Strike[/b]: Four Heroes in the HQ capture [b]Hidden Witnesses[/b].
+Attack: 8*
+VP: 6
+
+[i]X-Con Men[/i]
+[b]Fight[/b]: Each other player reveals an X-Men Hero or gains a Wound.
+
+[i]Commit to the Asylum[/i]
+[b]Fight[/b]: Each other player [b]Investigates[/b] their deck for a card with an Attack icon and KOs it. Players reveal all the cards they investigated.
+
+[i]Master Manipulator[/i]
+[b]Fight[/b]: [b]Investigate[/b] the Hero Deck for an X-Men card and put it into your discard pile.
+
+[i]Corrupt Weak Minds[/i]
+[b]Fight[/b]: Each other player puts a random Bystander from their Victory Pile onto a Hero in the HQ as a [b]Hidden Witness[/b].
+
+
+
+[size=10][i][b]The Goblin, Underworld Boss[/b][/i][/size]
+[b]Start of Game[/b]: The Goblin captures 2 [b]Hidden Witnesses[/b].
+[b]Always Leads[/b]: Goblin's Freak Show
+[b]Master Strike[/b]: Two random Bystanders from each player's Victory Pile become [b]Hidden Witnesses[/b] held by The Goblin. Any player who didn't have two Bystanders gains a Wound instead.
+Attack: 10*
+VP: 6
+
+[i]Sinister Dreams[/i]
+[b]Fight[/b]: Each other player reveals a Sinister Six or Spider-Friends Hero or gains a Wound.
+
+[i]Blackmail the Judges[/i]
+[b]Fight[/b]: For each Goblin's Freak Show Villain in the city, The Goblin captures 2 [b]Hidden Witnesses[/b].
+
+[i]Carnival of Carnage[/i]
+[b]Fight[/b]: For each Goblin's Freak Show Villain in the city, each other player discards a card.
+
+[i]Blind Loyalty[/i]
+[b]Fight[/b]: [b]Investigate[/b] the Villain Deck for a Goblin's Freak Show Villain and put it into your Victory Pile.
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
