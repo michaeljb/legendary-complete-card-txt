@@ -469,4 +469,32 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Twist:[/b] Everyone reveals their hand. Whoever reveals the fewest Mercs for Money cards (or tied for fewest) gains a Wound.
 [b]Evil Wins:[/b] When 3 Villains per player have escaped.
 
+
+
+== Noir ==
+
+[size=10][i][b]Find the Split Personality Killer[/b][/i][/size]
+[b]Setup[/b]: 8 Twists.
+[b]Twist 1-5[/b]: Shuffle 3 Bystanders from the Bystander Stack and the top card of the Hero Deck face down next to this Scheme as a deck of "Murder Suspects."
+[b]Special Rules[/b]: Whenever you defeat a Villain, you may pay 1 Attack extra to [b]Investigate[/b] the Murder Suspects for a Bystander and rescue it.
+[b]Twist 6[/b]: Each player writes down their guess for which Hero Name is the Split Personality Killer. Reveal the entire Murder Suspects Deck (or tied for most) is the Split Personality Killer. Each player who guessed right wins. All other players lose.
+
+[size=10][i][b]Silence the Witnesses[/b][/i][/size]
+[b]Setup[/b]: 6 Twists.
+[b]Twist[/b]: This Scheme captures 3 [b]Hidden Witnesses[/b]. If it already had any [b]Hidden Witnesses[/b], put those into the Escape Pile.
+[b]Evil Wins[/b]: When 6 Bystanders are in the Escape Pile.
+
+[size=10][i][b]Five Families of Crime[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add two extra Villain Groups. Split the Villain Deck into 5 shuffled decks, one above each city space.
+[b]Special Rules[/b]: Each Villain Deck uses its own city of one city space. Each turn, you choose which Villain Deck plays a card.
+[b]Twist[/b]: Play two cards from a Villain Deck.
+[b]Evil Wins[/b]: When 8 Villains escape or all Villain Decks run out.
+
+[size=10][i][b]Hidden Heart of Darkness[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Shuffle the Mastermind Tactics into the Villain Deck as Villains.
+[b]Special Rules[/b]: If there are no Tactics in the city, you can win the game by fighting the Mastermind card.
+[b]Twist[/b]: Each player shuffles a Tactic from their victory pile into the Villain Deck. Any player who did so draws two cards. Then, [b]Investigate[/b] the Villain Deck for a Tactic and that Tactic enters the city. Reveal all the cards you [b]Investigated[/b].
+[b]Evil Wins[/b]: When 2 Tactics escape.
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
