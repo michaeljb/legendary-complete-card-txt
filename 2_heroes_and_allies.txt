@@ -4018,4 +4018,165 @@ Mercs for Money: You get 1/2 Attack for each Hero in the KO pile.
 Cost: 8
 
 
+
+== Noir ==
+
+[size=10][i][b]Angel Noir[/b][/i][/size]
+X-Men
+
+[i]Impetuous Dive[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack.
+2+ Attack
+Cost: 3
+[size=8][i]Flavor: "Legends tell of a Cape of Mercury that enables a man to fly. Until I find it, I'll just jump and hope for the best."[/i][/size]
+
+[i]Multitalented[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Choose a Hero Class. [b]Investigate[/b] for a card of that Hero Class.
+1 Recruit
+1 Attack
+Cost: 4
+[size=8][i]Flavor: Specialties include: Medicine, Prisons, Detective Work, Advertising, and Everything Else.[/i][/size]
+
+
+[i]Identical Twin Brother[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+You get the printed Recruit and Attack of a Hero in the HQ. Then put that Hero on the bottom of the Hero Deck.
+0+ Recruit
+0+ Attack
+Cost: 5
+
+[i]Missing Person Case[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Investigate[/b] the Hero Deck for any card and put that card in your hand.
+3 Attack
+Cost: 8
+
+
+[size=10][i][b]Daredevil Noir[/b][/i][/size]
+Marvel Knights
+
+[i]Balancing Act[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+The next Hero you recruit this turn goes on top of your deck.
+1 Recruit
+1 Attack
+Cost: 3
+[size=8][i]Flavor: A body balanced on a single muscle. A city balanced on a single man.[/i][/size]
+
+[i]Listen for Heartbeats[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Choose a number 1 or more. [b]Investigate[/b] for a card of that cost.
+2 Attack
+Cost: 4
+[size=8][i]Flavor: "Hearing hearts a block away is easy. The tough part is discerning whose is whose."[/i][/size]
+
+[i]Discover the Bodies[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Investigate[/b] for a card that costs 0. KO that card.
+3 Recruit
+Cost: 5
+[size=8][i]Flavor: "By the time I found them, they were already dead."[/i][/size]
+
+[i]Hitting Rock Bottom[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Discard a card from the top or bottom of your deck. If it costs 0, you get +1 Attack and repeat this process. If your deck runs out, stop.
+3+ Attack
+Cost: 7
+
+
+[size=10][i][b]Iron Man Noir[/b][/i][/size]
+Avengers
+
+[i]Steam-Powered Arsenal[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+To play this, you must put another card from your hand on top of your deck.
+3 Attack
+Cost: 3
+[size=8][i]Flavor: "Water is the key to creation ... and destruction."[/i][/size]
+
+[i]Mechanized Plate-Mail[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Investigate[/b] for a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card.
+2 Recruit
+Cost: 4
+[size=8][i]Flavor: "The best way to test a new invention is to let HYDRA shoot it with automatic weapons."[/i][/size]
+
+[i]Learn from Enemies[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may use the "Fight" ability of a Villain worth 1 VP in your Victory Pile.
+3 Attack
+Cost: 6
+
+[i]Adventurers Assemble![/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Whenever you [b]Investigate[/b] this turn, look a three cards instead of two.
+Choose Recruit or Attack. [b]Investigate[/b] for a card with that icon.
+4 Attack
+Cost: 7
+
+
+[size=10][i][b]Luke Cage Noir[/b][/i][/size]
+Marvel Knights
+
+[i]Private Investigations[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Investigate[/b] for a card that costs 4 or more.
+2 Attack
+Cost: 4
+[size=8][i]Flavor: He doesn't stop until he clears his name ... or dies trying.[/i][/size]
+
+[i]Follow the Leads[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +1 Recruit for each other card you played this turn that costs 4 or more.
+2+ Recruit
+Cost: 4
+[size=8][i]Flavor: The deeper he digs, the bigger the conspiracy becomes.[/i][/size]
+
+Unbreakable Cage
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Once per turn, if a player would gain a Wound, you may reveal this card and [b]Investigate[/b] for any card instead.
+4 Attack
+Cost: 6
+
+Weight of the World (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +2 Attack for each other card you played this turn that costs 4 or more.
+5+ Attack
+Cost: 8
+
+
+[size=10][i][b]Spider-Man Noir[/b][/i][/size]
+Spider Friends
+
+[i]Gumshoe's Revolver[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Investigate[/b] for a card that costs 2 or less.
+1 Attack
+Cost: 2
+[size=8][i]Flavor: Stealth goes a long way, but some mysteries can only be unraveled with cold steel.[/i][/size]
+
+[i]Webs of Darkness[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get 2+ Attack.
+1+ Attack
+Cost: 2
+[size=8][i]Flavor: Spiders from a cursed totem gave Peter Parker dark powers to match his shadowed mission.[/i][/size]
+
+[i]Solve the Crime[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Investigate[/b] the Bystander Stack for a Bystander and rescue it.
+2 Attack
+Cost: 2
+[size=8][i]Flavor: "Who murdered Uncle Ben?"[/i][/size]
+
+[i]Spider-Totem's Chosen[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Spider Friends: [b]Investigate[/b] each player's deck for a card that costs 2 or less, play a copy of that card, then put it into their discard pile.
+1 Attack
+Cost: 2
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
