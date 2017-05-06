@@ -121,7 +121,7 @@ VP: 1
 S.H.I.E.L.D.
 2 Recruit
 Cost: 3
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 == Villains ==
@@ -133,7 +133,7 @@ HYDRA
 [b]Dodge[/b]
 To play this card, you must discard a card from your hand.
 Cost: 3
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 
@@ -225,14 +225,14 @@ Cost: 2
 S.H.I.E.L.D.
 1 Recruit
 Cost: 0
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]S.H.I.E.L.D. Trooper[/b][/i][/size] (4 copies in starting deck)
 S.H.I.E.L.D.
 1 Attack
 Cost: 0
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 == Villains ==
@@ -241,14 +241,14 @@ Cost: 0
 HYDRA
 1 Recruit
 Cost: 0
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]HYDRA Soldier[/b][/i][/size] (4 copies in starting deck)
 HYDRA
 1 Attack
 Cost: 0
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 

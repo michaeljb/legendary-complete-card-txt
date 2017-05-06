@@ -4,7 +4,7 @@
 
 [size=10][i][b]Black Widow[/b][/i][/size]
 Avengers
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Dangerous Rescue[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -89,7 +89,7 @@ Cost: 8
 
 [size=10][i][b]Deadpool[/b][/i][/size]
 (Unaffiliated)
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Here, Hold This for a Second[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -270,7 +270,7 @@ Cost: 7
 
 [size=10][i][b]Nick Fury[/b][/i][/size]
 S.H.I.E.L.D.
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Battlefield Promotion[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -490,7 +490,7 @@ Cost: 3
 Draw a card.
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
 Cost: 2
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Concussive Blast[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -505,12 +505,12 @@ Cost: 5
 Discard the top four cards of your deck. You get + Attack equal to those cards' printed Attack.
 X-Men: KO any number of those cards.
 Cost: 7
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Blade[/b][/i][/size]
 Marvel Knights
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Night Hunter[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -552,7 +552,7 @@ Cost: 3
 2+ Attack
 You get +2 Attack only when fighting Masterminds.
 Cost: 4
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Rapid Response Force[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -560,14 +560,14 @@ Cost: 4
 [b]Teleport[/b]
 X-Force: You get +1 Attack for each other X-Force Hero you played this turn.
 Cost: 6
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Army of One[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 5+ Attack
 KO any number of cards from your hand. You get +1 Attack for each card KO'd this way.
 Cost: 8
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Colossus[/b][/i][/size]
@@ -630,7 +630,7 @@ Cost: 8
 
 [size=10][i][b]Domino[/b][/i][/size]
 X-Force
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Lucky Break[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -703,14 +703,14 @@ X-Force
 2 Attack
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Any Villain you fight in the Sewers this turn gets -2 Attack.
 Cost: 3
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Reboot[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2 Recruit
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may discard a card. If you do, draw two cards.
 Cost: 4
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Overdrive[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -726,7 +726,7 @@ Cost: 5
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Defeat the Mastermind once for free.
 Cost: 7
 [size=8][i]That's a BIG FREAKING GUN!!!![/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Ghost Rider[/b][/i][/size]
@@ -913,7 +913,7 @@ Cost: 8
 
 [size=10][i][b]Punisher[/b][/i][/size]
 Marvel Knights
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Boom Goes the Dynamite[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -1076,7 +1076,7 @@ Cost: 7
 [b]Focus 6 Recruit ->[/b] Defeat a Villain of 5 Attack or 6 Attack.
 Cost: 4
 [size=8][i]"Master? Galactus had been my master! You - are but - a flea!"[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Warp Speed[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1153,7 +1153,7 @@ Cost: 4
 [b]Wall-Crawl[/b]
 Reveal the top card of any player's deck. You get + Attack equal to that card's printed Recruit plus its printed Attack.
 Cost: 1
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Jinx[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -1329,7 +1329,7 @@ Cost: 6
 5+ Attack
 You get +5 Attack for each Commander Tactic in your Victory Pile.
 Cost: 7
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Dr. Octopus[/b][/i][/size]
@@ -1526,7 +1526,7 @@ Cost: 2
 2 Attack
 Choose an Adversary. If there are no empty city spaces adjacent to that Adversary, it gets -1 Attack this turn.
 Cost: 4
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Hunt Down[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -1643,7 +1643,7 @@ Brotherhood
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +3 Attack.
 Cost: 4
 [size=8][i]Mystique is definitely a dual threat.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Show Your True Colors[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1807,7 +1807,7 @@ Cost: 3
 A Villain of your choice gets no Attack from Shards this turn.
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: The Mastermind gets no Attack from Shards this turn.
 Cost: 5
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Godslayer Blade[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1846,7 +1846,7 @@ Cost: 8
 
 [size=10][i][b]Rocket Raccoon[/b][/i][/size]
 Guardians of the Galaxy
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Gritty Scavenger[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -1881,7 +1881,7 @@ Guardians of the Galaxy
 [b]Artifact -[/b]
 Once per turn, gain a Shard.
 Cost: 4
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Legendary Outlaw[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1900,7 +1900,7 @@ Cost: 6
 [b]Artifact -[/b]
 Once per turn, gain a Shard for each [b]Artifact[/b] you control.
 Cost: 8
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 
@@ -2078,7 +2078,7 @@ Cost: 2
 4 Attack
 Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Ally or discards a card. For each card discarded this way, you draw a card.
 Cost: 7
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 
@@ -2165,7 +2165,7 @@ Cost: 4
 4 Attack
 Whenever you defeat a Villain on the Rooftops or Streets this turn, you may KO one of your cards or a card from your discard pile.
 Cost: 6
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]King of Wakanda[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2196,7 +2196,7 @@ Cost: 3
 3+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: For each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero you have played this turn, you get +1 Attack.
 Cost: 5
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Cosmic Energies[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2520,7 +2520,7 @@ Spider Friends
 [b]Spectrum[/b]: You get +1 Recruit and +1 Attack.
 Cost: 2
 [size=8][i]His weapons are as versatile as Venom himself.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Government Payroll[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2727,7 +2727,7 @@ Cost: 2
 3+ Attack
 Cabal: KO a Bystander from the Bystander Stack. Then, you get +1 Attack for every four Bystanders in the KO Pile.
 Cost: 6
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Atom-Splitting Glaive[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2745,7 +2745,7 @@ Marvel Knights
 [b]Patrol the Streets[/b]: If it's empty, draw a card.
 Cost: 2
 [size=8][i]This mashup cleans the trash up.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]You're a Slow Learner[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -2767,7 +2767,7 @@ Cost: 3
 For each space that's empty, you get +1 Attack.
 Cost: 7
 [size=8][i]It's quiet. Too quiet.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Elsa Bloodstone[/b][/i][/size]
@@ -2785,7 +2785,7 @@ Cost: 3
 [b]Patrol the Sewers[/b]: If it's empty, rescue a Bystander.
 Cost: 3
 [size=8][i]Elsa knows a lot of lore about various dark creatures, but most of it boils down to where to stab them.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Defend the S.H.I.E.L.D. Wall[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -2794,7 +2794,7 @@ Cost: 3
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
 Cost: 6
 [size=8][i]As commander of the wall, Elsa must hold back the Deadlands Hordes.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Prodigy of Ulysses Bloodstone[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3026,7 +3026,7 @@ S.H.I.E.L.D.
 1 Attack
 S.H.I.E.L.D., S.H.I.E.L.D., S.H.I.E.L.D., S.H.I.E.L.D.: [b]Woman Out of Time[/b]
 Cost: 3
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Paramilitary Ops[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3034,7 +3034,7 @@ Cost: 3
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn that costs 1 or more.
 Cost: 4
 [size=8][i]WWII demonstrated the need for the paramilitary organizations that eventually became S.H.I.E.L.D.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Spy Network[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -3118,7 +3118,7 @@ Cost: 8
 
 [size=10][i][b]Steve Rogers, Director of S.H.I.E.L.D.[/b][/i][/size]
 S.H.I.E.L.D.
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]International Strike Force[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -3165,14 +3165,14 @@ Draw a card.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Man Out of Time[/b]
 Cost: 4
 [size=8][i]Bucky has had 75 years of cryogenic sleep to practice staying still.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]KGB Training[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3+ Attack
 If you played at least 7 other cards this turn you get +2 Attack.
 Cost: 5
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]2>4[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3456,7 +3456,7 @@ Cost: 4
 [b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Play this card as a copy of another Hero you played this turn. This card is both [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and the class and color you copy.
 Cost: 6
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Enormous Shapeshifter[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -3465,7 +3465,7 @@ Cost: 6
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +4 Attack.
 Cost: 8*
 [size=8][i]Hulkling can shift into any form...but he prefers the big green classic.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Luke Cage[/b][/i][/size]
@@ -3658,7 +3658,7 @@ Cost: 6*
 [b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat each Villain that has 4 Attack or less.
 Cost: 8*
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Storm & Black Panther[/b][/i][/size]
@@ -3705,7 +3705,7 @@ Cost: 5
 3 Attack
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
 Cost: 5
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]King & Queen of Wakanda[/i] (1 copy)
 Storm & Black Panther
@@ -3738,7 +3738,7 @@ Cost: 2
 Look at the top card of your deck. Discard it or put it back.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO the card you discarded this way.
 Cost: 3
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Can't Surprise a Cat[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -3795,7 +3795,7 @@ Cost: 6*
 [b]Phasing[/b]
 When you play this, you may swap a card from your hand with the top two cards of your deck.
 Cost: 7
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Wiccan[/b][/i][/size]
@@ -3910,7 +3910,7 @@ HYDRA
 2 1/2 Recruit
 Cost: 3
 [size=8][i]Flavor: "When I'm involved in excessive violence, I'm usually the victim!"[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]HYDRA Half-Wit[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3918,7 +3918,7 @@ Reveal the top card of your deck. If it's HYDRA or S.H.I.E.L.D., draw it.
 1 1/2 Attack
 Cost: 2
 [size=8][i]Flavor: "At first I thought HYDRA was a facial moisturizer."[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]How do I Get Out of Here??[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -3931,7 +3931,7 @@ Cost: 6
 [b]Excessive Violence[/b]: KO up to two HYDRA and/or S.H.I.E.L.D. Heroes from your discard pile. Draw a card for each Hero KO'd this way.
 5 Attack
 Cost: 8
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Deadpool[/b][/i][/size]
@@ -4007,7 +4007,7 @@ Mercs for Money
 1 1/2 Attack
 Cost: 3
 [size=8][i]Flavor: Two halves make a bullet whole. Also, you're a bulletwhole.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Merc's Gotta Get Paid[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -4023,7 +4023,7 @@ Cost: 3
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Does the top card of your deck have a gun in the art? If so, draw that gun!
 Cost: 5
 [size=8][i]Flavor: Who can make me a gun that shoots our little guns?[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -4031,7 +4031,7 @@ Cost: 5
 Choose a Villalin. Cut its Attack in half this turn.
 Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
 [size=8][i]Flavor: So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Stingray[/b][/i][/size]
@@ -4120,7 +4120,7 @@ Choose a number 1 or more. [b]Investigate[/b] for a card of that cost.
 2 Attack
 Cost: 4
 [size=8][i]Flavor: "Hearing hearts a block away is easy. The tough part is discerning whose is whose."[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Discover the Bodies[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -4145,7 +4145,7 @@ To play this, you must put another card from your hand on top of your deck.
 3 Attack
 Cost: 3
 [size=8][i]Flavor: "Water is the key to creation ... and destruction."[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Mechanized Plate-Mail[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -4153,7 +4153,7 @@ Cost: 3
 2 Recruit
 Cost: 4
 [size=8][i]Flavor: "The best way to test a new invention is to let HYDRA shoot it with automatic weapons."[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Learn from Enemies[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -4167,7 +4167,7 @@ Whenever you [b]Investigate[/b] this turn, look a three cards instead of two.
 Choose Recruit or Attack. [b]Investigate[/b] for a card with that icon.
 4 Attack
 Cost: 7
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Luke Cage Noir[/b][/i][/size]
@@ -4209,7 +4209,7 @@ Spider Friends
 1 Attack
 Cost: 2
 [size=8][i]Flavor: Stealth goes a long way, but some mysteries can only be unraveled with cold steel.[/i][/size]
-[size=8][i]Art contains a Gun[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Webs of Darkness[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
