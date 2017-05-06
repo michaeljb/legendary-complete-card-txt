@@ -107,7 +107,7 @@ VP: 1
 
 
 [size=10][i][b]Stan Lee[/b][/i][/size] (? copies)
-When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back inany order.
+When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back in any order.
 VP: 1
 
 

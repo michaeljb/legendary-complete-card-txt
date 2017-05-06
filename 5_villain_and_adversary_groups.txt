@@ -1491,7 +1491,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 [size=10][i][b]Goblin's Freak Show[/b][/i][/size]
 
-[i]Vulture, Carinval Cannibal[/i]
+[i]Vulture, Carnival Cannibal[/i]
 [b]Ambush[/b]: The Vulture captures 2 [b]Hidden Witnesses[/b].
 [b]Fight[/b]: Each other player KOs a Bystander from their Victory Pile or gains a Wound.
 [b]Escape[/b]: Each player gains a Wound.

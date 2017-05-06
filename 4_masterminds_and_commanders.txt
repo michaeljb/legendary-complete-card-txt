@@ -668,7 +668,7 @@ VP: 6
 [b]Fight[/b]: Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space that Authoritarian Iron Man is fortifying.
 
 [i]Recall to Service[/i]
-[b]Fight[/b]: The Villcain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying.
+[b]Fight[/b]: The Villain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying.
 
 
 [size=10][i][b]Baron Helmut Zemo[/b][/i][/size]
@@ -706,7 +706,7 @@ VP: 6
 [i]Declare Martial Law[/i]
 [b]Fight[/b]: Put a S.H.I.E.L.D. Officer into each empty city space as 3 Attack Villains. When you fight them, gain them as Heroes.
 
-[i]Evacuation Code Epislon[/i]
+[i]Evacuation Code Epsilon[/i]
 [b]Fight[/b]: Each other player reveals their hand and discards a S.H.I.E.L.D. card.
 
 [i]Rapid Response Team[/i]
