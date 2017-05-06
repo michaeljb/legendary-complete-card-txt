@@ -477,7 +477,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Setup[/b]: 8 Twists.
 [b]Twist 1-5[/b]: Shuffle 3 Bystanders from the Bystander Stack and the top card of the Hero Deck face down next to this Scheme as a deck of "Murder Suspects."
 [b]Special Rules[/b]: Whenever you defeat a Villain, you may pay 1 Attack extra to [b]Investigate[/b] the Murder Suspects for a Bystander and rescue it.
-[b]Twist 6[/b]: Each player writes down their guess for which Hero Name is the Split Personality Killer. Reveal the entire Murder Suspects Deck (or tied for most) is the Split Personality Killer. Each player who guessed right wins. All other players lose.
+[b]Twist 6[/b]: Each player writes down their guess for which Hero Name is the Split Personality Killer. Reveal the entire Murder Suspect Deck. The Hero Name with the most cards in the Murder Suspect Deck (or tied for most) is the Split Personality Killer. Each player who guessed right wins. All other players lose.
 
 [size=10][i][b]Silence the Witnesses[/b][/i][/size]
 [b]Setup[/b]: 6 Twists.
