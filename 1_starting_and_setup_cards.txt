@@ -112,7 +112,7 @@ Reveal the top card of the Hero Deck. You get +Attack equal to its printed Attac
 0+ Attack
 Cost: 3
 
-[size=10][i][b]Magik[/b][/i][/size] (promo)
+[size=10][i][b]Magik[/b][/i][/size] (first print run promo)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -385,7 +385,7 @@ Cost: 0
 
 == Noir ==
 
-[size=10][i][b]Detective Wolverine[/b][/i][/size] (first-print-run promo for the Noir small-box expansion)
+[size=10][i][b]Detective Wolverine[/b][/i][/size] (first print run promo)
 When you rescue this Bystander, [b]Investigate[/b] the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
 
 
