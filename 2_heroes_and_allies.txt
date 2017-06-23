@@ -1145,7 +1145,6 @@ Spider Friends
 [b]Wall-Crawl[/b]
 You get another +1 Recruit usable only to recruit the Hero in the HQ Space under the Bank.
 Cost: 4
-[size=8][i]Bad luck comes to all who cross Black Cat's path.[/i][/size]
 
 [i]Pickpocket[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1160,6 +1159,7 @@ Cost: 1
 3 Attack
 Each player reveals the top card of their deck. Choose any number of those cards to be discarded.
 Cost: 5
+[size=8][i]Bad luck comes to all who cross Black Cat's path.[/i][/size]
 
 [i]Cat Burglar[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -1413,7 +1413,7 @@ Cost: 4
 [i]Irresistible Bribe[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Recruit
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You can spend any combination of Recruit and Attack to fight this Commander this turn.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Choose an Adversary. You can spend any combination of Recruit and Attack to fight that Adversary this turn.
 Cost: 6
 
 [i]Unending Anguish[/i] (1 copy)
@@ -1584,7 +1584,7 @@ Cost: 3
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2+ Recruit
 [b]Dodge[/b]
-Choose a player. That player reveals a Brotherhood Ally or gains a Bindings. If a Bindings is gained this way, you get +1 Recruit.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player. That player reveals a Brotherhood Ally or gains a Bindings. If a Bindings is gained this way, you get +1 Recruit.
 Cost: 4
 
 [i]Weapons From Scrap Metal[/i] (3 copies)
@@ -2684,13 +2684,13 @@ Illuminati
 0+ Attack
 You get +1 Attack for each different team icon among your heroes.
 Cost: 4
+[size=8][i]It's wise to respect 400 years of British history...Especially when it's punching you in the face.[/i][/size]
 
 [i]Transatlantic Savior[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 0+ Recruit
 You get +1 Recruit for each different team icon among your heroes.
 Cost: 3
-[size=8][i]It's wise to respect 400 years of British history...Especially when it's punching you in the face.[/i][/size]
 
 [i]Raise the Union Jack[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -4005,7 +4005,7 @@ Mercs for Money
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 1 1/2 Recruit
 1 1/2 Attack
-Cost: 3
+Cost: 2
 [size=8][i]Flavor: Two halves make a bullet whole. Also, you're a bulletwhole.[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
