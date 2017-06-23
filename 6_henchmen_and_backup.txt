@@ -119,6 +119,36 @@ S.H.I.E.L.D. Clearance
 [b]VP[/b]: 1
 
 
+== X-Men ==
+
+[size=10][i][b]The Brood[/b][/i][/size]
+This Villain gets +1 Attack for each Bystander in the KO pile.
+[b]Fight[/b]: KO one of your Heroes. Then KO a Bystander from the Bystander Stack.
+[b]Attack[/b]: 1+
+[b]VP[/b]: 1
+
+[size=10][i][b]Hellfire Cult[/b][/i][/size]
+[b]Fight[/b]: Reveal the top card of your deck. If it costs 0, KO it. Otherwise, you get +1 Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]Sapien League[/b][/i][/size]
+[b]Fight[/b]: KO one of your Heroes. Then, reveal the top card of the Villain Deck. If it's a Henchman Villain, play it.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]Shi'ar Death Commandos[/b][/i][/size]
+[b]Ambush[/b]: The Villain captures a Human Shield.
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 2*
+[b]VP[/b]: 1
+
+[size=10][i][b]Shi'ar Patrol Craft[/b][/i][/size]
+[b]Fight[/b]: The next Hero you recruit this turn has [b]Soaring Flight[/b].
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+
 == 3D ==
 
 [size=10][i][b]Circus of Crime[/b] (10 copies)[/i][/size]
