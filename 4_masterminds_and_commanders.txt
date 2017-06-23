@@ -840,5 +840,174 @@ VP: 6
 [b]Fight[/b]: [b]Investigate[/b] the Villain Deck for a Goblin's Freak Show Villain and put it into your Victory Pile.
 
 
+== X-Men ==
+
+[size=10][i][b]Arcade[/b][/i][/size]
+[b]Start of Game[/b]: Arcard captures 5 Human Shields.
+[b]Always Leads[/b]: Murderworld
+[b]Master Strike[/b]: Arcade captures a random Bystander from each player's Victory Pile as a Human Shield. Each player who didn't have a Bystander gains a Wound instead.
+Attack: 3*
+VP: 5
+
+[size=10][i][b]Epic Arcade[/b][/i][/size]
+[b]Start of Game[/b]: Arcard captures 8 Human Shields. Play a random Horror.
+[b]Always Leads[/b]: Murderworld
+[b]Master Strike[/b]: Arcade captures two random Bystanders from each player's Victory Pile as a Human Shield. Each player who didn't have two Bystanders gains a Wound instead.
+Attack: 4*
+VP: 5
+
+[i]I Love a Parade![/i]
+[b]Fight[/b]: Arcade captures two Human Shields. Play an extra card from the Villain Deck next turn.
+
+[i]I Need an Audience[/i]
+[b]Fight[/b]: Arcade captures Human Shields equal to the number of Villains in the city.
+
+[i]Roulette Wheel of Death[/i]
+[b]Fight[/b]: Arcade captures a random Bystander as a Human Shield from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.
+
+[i]Welcome to my Theme Park![/i]
+[b]Fight[/b]: Arcade and each Murderworld Villain in the city capture two Human Shields.
+
+
+
+[size=10][i][b]Dark Phoenix[/b][/i][/size]
+[b]Always Leads[/b]: Hellfire Club
+[b]Master Strike[/b]: KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck.
+Dark Phoenix Wins: When the Hero Deck is empty.
+13 Attack
+VP: 7
+
+[size=10][i][b]Epic Dark Phoenix[/b][/i][/size]
+[b]Always Leads[/b]: Hellfire Club
+[b]Master Strike[/b]: KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck. Then, each player plays a Hellfire Club card from their victory Pile. Next, play a random Horror.
+Dark Phoenix Wins: When the Hero Deck is empty.
+15 Attack
+VP: 7
+
+[i]Burn the World to Ashes[/i]
+[b]Fight[/b]: Each other player discards each card from their hand that has the same name as any card in the KO pile.
+
+[i]Consume an Entire Galaxy[/i]
+[b]Fight[/b]: Each other player chooses a card from their discard pile that costs 1 or more and KOs it.
+
+[i]Fiery Reincarnation[/i]
+[b]Fight[/b]: Gain a Hero from the KO pile that costs 7 or more.
+
+[i]Worship Me as a God[/i]
+[b]Fight[/b]: Each other player gains two 0-cost cards from the KO pile.
+
+
+
+[size=10][i][b]Deathbird[/b][/i][/size]
+Deathbird gets +1 Attack for each Shi'ar Villain in teh city and Escape Pile.
+[b]Always Leads[/b]: Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
+[b]Master Strike[/b]: If there are already any Shi'ar Villains in the city, each player gains a Wound. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 7 Attack worth 5 VP.
+Attack: 8+
+VP: 6
+
+[size=10][i][b]Epic Deathbird[/b][/i][/size]
+Deathbird gets +2 Attack for each Shi'ar Villain in teh city and Escape Pile.
+[b]Always Leads[/b]: Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
+[b]Master Strike[/b]: If there are already any Shi'ar Villains in the city, play a random Horror. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 9 Attack worth 6 VP.
+Attack: 8+
+VP: 6
+
+[i]Shi'ar Elite Bodyguards[/i]
+[b]Fight[/b]: Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is "[b]Escape[/b]: Shuffle this card back into Deathbird's Mastermind Tactics as another Tactic."
+
+[i]Shi'ar Extermination Legion[/i]
+[b]Fight[/b]: Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: "[b]Escape[/b]: Each player discards two cards."
+
+[i]Shi'ar Hovertake Battalion[/i]
+[b]Fight[/b]: Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: "[b]Escape[/b]: Each player gains a Wound."
+
+[i]Shi'ar Master Spies[/i]
+[b]Fight[/b]: Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is "[b]Escape[/b]: This card becomes a Scheme Twist that takes effect immediately."
+
+
+
+[size=10][i][b]Mojo[/b][/i][/size]
+[b]Start of Game[/b]: Mojo captures 3 Human Shields. All Bystanders in Victory Piles are worth 3 VP.
+[b]Always Leads[/b]: Mojoverse
+[b]Master Strike[/b]: Mojo captures a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
+Attack: 6*
+VP: 5
+
+[size=10][i][b]Epic Mojo[/b][/i][/size]
+[b]Start of Game[/b]: Mojo captures 6 Human Shields. Play a random Horror.
+All Bystanders in Victory Piles are worth 4 VP.
+[b]Always Leads[/b]: Mojoverse
+[b]Master Strike[/b]: Mojo and each Mojoverse Villain capture a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
+Attack: 7*
+VP: 5
+
+[i]Brain-Melting TV Marathon[/i]
+[b]Fight[/b]: Each other player without a Mojo Tactic in their Victory Pile gains a Wound.
+
+[i]Mojo Branding Opportunity[/i]
+[b]Fight[/b]: Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a HUman Shield.
+
+[i]???? TV Viewers[/i]
+[b]Fight[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as Human Shields.
+
+[i]????[/i]
+[b]Fight[/b]: You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a Human Shield.
+
+
+
+[size=10][i][b]Onslaught[/b][/i][/size]
+Each player's hand size is 1 less.
+[b]Always Leads[/b]: Dark Descendants
+[b]Master Strike[/b]: KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses one of their non-grey Heroes. Onslaught Dominates those Heroes.
+Attack: 10+
+VP: 7
+
+[size=10][i][b]Epic Onslaught[/b][/i][/size]
+Each player's hand size is 1 less.
+[b]Always Leads[/b]: Dark Descendants
+[b]Master Strike[/b]: KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses two of their non-grey Heroes. Onslaught Dominates those Heroes. Then play a random Horror.
+Attack: 12+
+VP: 7
+
+[i]Godlike Psionic Entity[/i]
+[b]Fight[/b]: Onslaught Dominates all five Heroes from the HQ.
+
+[i]Sins of X-Men Past[/i]
+[b]Fight[/b]: Each other player reveals the top six cards of their deck and chooses an X-Men Hero revealed this way. Onslaught Dominates those Heroes. Put the rest back in random order.
+
+[i]Xavier and Magneto Combined[/i]
+[b]Fight[/b]: Reveal the top three cards of the Hero Deck. Onslaught Dominates all the X-Men and Brotherhood Heroes you revealed. Put the rest back in random order.
+
+[i]???? Control[/i]
+[b]Fight[/b]: Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes.
+
+
+
+[size=10][i][b]Shadow King[/b][/i][/size]
+[b]Always Leads[/b]: Shadow-X
+[b]Master Strike[/b]: KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.
+Attack: 7+
+VP: 6
+
+[size=10][i][b]Epic Shadow King[/b][/i][/size]
+[b]Start of Game[/b]: Play two random Horrors.
+[b]Always Leads[/b]: Shadow-X
+[b]Master Strike[/b]: KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.
+Attack: 9+
+VP: 6
+
+[i]Fiend of the Astral Plane[/i]
+[b]Fight[/b]: Each other player reveals their hand and shuffles two cards with Recruit icons from their hand back into their deck.
+
+[i]Poison their Minds[/i]
+[b]Fight[/b]: Each other player reveals their hand and chooses one of their non-grey Heroes. Shadow King Dominates those Heroes.
+
+[i]Psychic Seduction[/i]
+[b]Fight[/b]: Shadow King Dominates each Hero that costs 5 or less from the HQ.
+
+[i]???? Betrayal[/i]
+[b]Fight[/b]: If the "Betrayal of the Shadow" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck.
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
