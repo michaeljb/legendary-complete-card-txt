@@ -1059,7 +1059,7 @@ You can't fight Doop if there is a Villain in an adjacent city space.
 [b]VP:[/b] 2
 
 
-[size=10][i][b]K'unlun[/b][/i][/size]
+[size=10][i][b]K'un-lun[/b][/i][/size]
 
 [i]Laughing Skull[/i]
 [i]5th Circle of Kung-Fu[/i]

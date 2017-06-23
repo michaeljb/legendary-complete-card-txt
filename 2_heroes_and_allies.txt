@@ -3249,7 +3249,7 @@ Cost: 4
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Attack
 [b]Phasing[/b]
-Recruit: You get +1 Attack.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 4
 
 [i]Darkness/Light[/i] (3 copies)

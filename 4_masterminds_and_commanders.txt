@@ -455,7 +455,7 @@ VP: 6
 
 You can't fight Nimrod unless you made at least 6 Recruit this turn.
 [b]Always Leads[/b]: Sentinel Territories
-[b]Master Strike[/b]: Each player who does reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit or Attack, then discard all their cards with that icon.
+[b]Master Strike[/b]: Each player who does not reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit or Attack, then discard all their cards with that icon.
 Attack: 6*
 VP: 6
 
