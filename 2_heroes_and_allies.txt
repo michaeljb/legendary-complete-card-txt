@@ -4233,4 +4233,515 @@ Cost: 2
 
 
 
+== X-Men ==
+
+[size=10][i][b]Aurora & Northstar[/b][/i][/size]
+X-Men
+
+[i]Northern Lights[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]Lightshow[/b]: Draw a card.
+2 Attack
+Cost: 3
+
+[i]Blazing Flare/Blazing Fists[/i] (5 copies)
+[b]Divided[/b]
+[i]Blazing Flare (Aurora)[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: You get +2 Recruit.
+2+ Recruit
+Cost: 4
+------------
+[i]Blazing Fists (Northstar)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+2+ Attack
+Cost: 4
+
+[i]Twin Blast[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]Lightshow[/b]: You get +3 Attack
+2+ Attack
+Cost: 5
+
+[i]Mach 10[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+All Heroes you recruit this turn have [b]Soaring Flight[/b].
+[b]Lightshow[/b]: You get +2 Attack for each [b]Lightshow[/b] card you played this turn.
+4 Recruit
+0+ Attack
+Cost: 7
+
+
+[size=10][i][b]Banshee[/b][/i][/size]
+X-Men
+
+[i]Sonar Detection[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Piercing Energy[/b]
+[b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Piercing.
+Cost: 2
+
+[i]Speed of Sound[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]Piercing Energy[/b]
+2 Piercing
+Cost: 3
+
+[i]Sonic Blastwave[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You may have this card produce Piercing instead of Recruit.
+3 Recruit
+0+ Piercing
+Cost: 5
+
+[i]Bone-Shattering Howl[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may use Attack as if it were Piercing this turn.
+4 Piercing
+Cost: 8
+
+
+[size=10][i][b]Beast[/b][/i][/size]
+X-Men
+
+[i]Captivating Conundrum[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]X-Gene[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
+1 Attack
+Cost: 2
+
+[i]Furry Fury[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+[b]X-Gene[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Berserk[/b]
+2+ Attack
+Cost: 4
+
+[i]Calculated Rage[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Look at the top card of your deck. Discard it or put it back.
+[b]Berserk[/b]
+3+ Attack
+Cost: 5
+
+[i]Recursive Pummeling[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+[b]X-Gene[/b] X-Men: You may return a 0-cost, 3-cost, and 4-cost card from your discard pile to your hand.
+3+ Attack
+Cost: 8
+
+
+[size=10][i][b]Cannonball[/b][/i][/size]
+X-Men
+
+[i]Kinetic Blast Field[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack
+1+ Attack
+Cost: 3
+
+[i]Carry to the Air[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: The next Hero you recruit this turn has [b]Soaring Flight[/b].
+2 Recruit
+Cost: 4
+
+[i]Natural Leader[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Return a S.H.I.E.L.D. Hero from your discard pile to your hand.
+3 Attack
+Cost: 6
+
+[i]Human Cannon[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+If you played at least 6 other cards this turn, you get +2 Attack.
+Attack: 4+
+Cost: 8
+
+
+[size=10][i][b]Colossus & Wolverine[/b][/i][/size]
+X-Men
+
+[i]Reliable/Unpredictable[/i] (5 copies)
+[b]Divided[/b]
+[i]Reliable (Colossus)[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
+Cost: 3
+------------
+[i]Unpredictable (Wolverine)[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Berserk[/b], [b]Berserk[/b]
+1+ Attack
+Cost: 3
+
+[i]Fastball Special[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Berserk[/b]
+2+ Attack
+Cost: 4
+
+[i]Insane Disregard for Danger[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+If you have a Wound in your hand or discard pile, KO it. Otherwise, gain a Wound.
+4+ Attack
+Cost: 6
+
+[i]Uncanny X-Men[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b]
+Then, draw a card for each X-Men card you [b]Berserked[/b].
+3+ Attack
+Cost: 7
+
+
+[size=10][i][b]Dazzler[/b][/i][/size]
+X-Men
+
+[i]Convert Sound to Light[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+[b]Lightshow[/b]: You get +1 Piercing for each [b]Lightshow[/b] card you played this turn.
+1 Recruit
+0+ Piercing
+Cost: 3
+
+[i]Dazzling Glamour[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: You get +2 Attack.
+2+ Attack
+Cost: 4
+
+[i]City-Wide Mega Concert[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: When you draw a new hand of cards at the end of this turn, draw two extra cards.
+3 Attack
+Cost: 5
+[size=8][i]Flavor: Performing is her passion, fighting aliens is more of a nights-and-weekends thing.[/i][/size]
+
+[i]Inspire the World[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: Put a Hero from the HQ on top of your deck.
+5 Attack
+Cost: 7
+
+
+[size=10][i][b]Havok[/b][/i][/size]
+X-Men
+
+[i]Blinding Burst[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: You get +3 Attack usable only against the Mastermind.
+2 Recruit
+Cost: 3
+
+[i]Unleash Havok[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+To play this card, you must discard a card from your hand.
+[b]Berserk[/b], [b]Berserk[/b]
+2+ Attack
+Cost: 4
+
+[i]Concussive Plasma[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] card in your discard pile.
+2+ Attack
+Cost: 5
+
+[i]Radiation Focus Array[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get the total printed Attack of all the [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] cards in your discard pile.
+3+ Attack
+Cost: 7
+
+
+[size=10][i][b]Jubilee[/b][/i][/size]
+X-Men
+
+[i]Light a Spark[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Lightshow[/b]: You get +1 Recruit for each [b]Lightshow[/b] card you played this turn.
+0+ Recruit
+Cost: 2
+
+[i]Blasting Fireworks[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Lightshow[/b]: You get +1 Attack for each [b]Lightshow[/b] card you played this turn.
+1+ Attack
+Cost: 4
+
+[i]Unexpected Explosion[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: Look at the top card of your deck. If it costs 0, KO it.
+3 Attack
+Cost: 5
+
+[i]Prismatic Cascade[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: You get +1 Recruit and +1 Attack for each [b]Lightshow[/b] card you played this turn.
+0+ Recruit
+5+ Attack
+Cost: 7
+
+
+[size=10][i][b]Kitty Pryde[/b][/i][/size]
+X-Men
+
+[i]Intangible Qualities[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Put a card from the HQ on the bottom of the Hero deck. If that card had a Recruit icon, get +2 Recruit. If that card had an Attack icon, you get +2 Attack. (If both, get both.)
+0+ Recruit
+0+ Attack
+Cost: 3
+
+[i]Going through a Phase[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]X-Gene[/b] X-men: Draw a card.
+1 Recruit
+1 Attack
+Cost: 4
+
+[i]Ghost in the Machine[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each different cost among the Heroes in the HQ.
+0+ Attack
+Cost: 6
+
+[i]Lockheed, Kitty's Dragon[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+Put a card from the HQ on the bottom of the Hero Deck. You get +Attack equal to its cost.
+0+ Attack
+Cost: 8
+
+
+[size=10][i][b]Legion[/b][/i][/size]
+X-Men
+
+[i]Bend Steel/Bend Light[/i] (5 copies)
+[b]Divided[/b]
+[i]Bend Steel[/i]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+1+ Attack
+Cost: 2
+------------
+[i]Bend Light[/i]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Lightshow[/b]: You get +2 Recruit.
+1+ Recruit
+Cost: 2
+
+[i]Split Personality/Split Eardrums[/i] (5 copies)
+[b]Divided[/b]
+[i]Split Personality[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+Cost: 3
+------------
+[i]Split Eardrums[/i]
+[b]Piercing Energy[/b]
+2 Piercing
+Cost: 3
+
+[i]Channel Time/Channel Fire[/i] (3 copies)
+[b]Divided[/b]
+[i]Channel Time[/i]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Draw two cards.
+Cost: 5
+------------
+[i]Channel Fire[/i]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each different Hero Class in your discard pile.
+0+ Attack
+Cost: 5
+
+[i]Maelstrom of Clashing Powers[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+Reveal the top three cards of the Hero Deck. You get their total printed Attack. Put them on the bottom of the Hero Deck.
+3+ Attack
+Cost: 8
+
+
+[size=10][i][b]Longshot[/b][/i][/size]
+X-Men
+
+[i]Fortune Favors the Bold[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+To play this card, you must put a card from your hand on top of your deck.
+3 Attack
+Cost: 3
+
+[i]Flurry of Blades[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Berserk[/b]
+2+ Attack
+Cost: 4
+[size=8][i]Flavor: Longshot is supernaturally lucky. His enemies? Not so much.[/i][/size]
+
+[i]Make My Own Luck[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Look at the top card of your deck. Discard it or put it back.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO the card you discarded this way.
+3 Attack
+Cost: 6
+
+[i]Escape from Mojo World[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Reveal the top card of the Villain Deck. If it's a Villain, you may put it on the bottom of that Deck.
+X-Men: You get +Attack equal to the printed Victory Points of the card you revealed.
+5+ Attack
+Cost: 7
+
+
+[size=10][i][b]Psylocke[/b][/i][/size]
+X-Men
+
+[i]Psychic Knife[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Piercing Energy[/b]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Piercing.
+0+ Piercing
+Cost: 2
+
+[i]Precognition[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top card of the Hero Deck. You may recruit it this turn. If you do, draw a card.
+2 Recruit
+Cost: 3
+
+[i]Butterfly Effect[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+[b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Piercing.
+2+ Piercing
+Cost: 5
+[size=8][i]Flavor: The focused totality of her powers.[/i][/size]
+
+[i]Telepathic Ninjutsu[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+Reveal the top card of the Hero Deck. The player of your choice puts it in their hand.
+3 Piercing
+Cost: 7
+
+
+[size=10][i][b]Phoenix[/b][/i][/size]
+X-Men
+
+[i]Life & Death Incarnate[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+KO this card.
+You may KO a card from your hand or discard pile.
+3 Recruit
+Cost: 3
+
+[i]Obliterating Fire[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]Piercing Energy[/b]
+KO this card.
+4 Piercing
+Cost: 4
+
+[i]Reincarnating Phoenix[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw two cards.
+You may put a Hero that was KO'd this turn into your discard pile.
+Cost: 6
+
+[i]Driven Mad by Power[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b]
+KO all the cards you [b]Berserked[/b]. If this card makes at least 13 Attack, then the Phoenix Force becomes corrupted by power and devours the Earth. You win, Evil wins, and all other players lose.
+6+ Attack
+Cost: 9
+
+
+[size=10][i][b]Polaris[/b][/i][/size]
+X-Men
+
+[i]Ride the Magnetic Waves[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+2 Recruit
+Cost: 3
+
+[i]Electromagnetic Pulse[/i] (5 copies)
+[b]Piercing Energy[/b]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
+2 Piercing
+Cost: 4
+
+[i]Subtle Attunement[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Look at the top two cards of your deck. You may KO one of them. Put the rest back in any order.
+2 Attack
+Cost: 6
+
+[i]Reverse Polarity[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Soaring Flight[/b]
+[b]X-Gene[/b] X-Men: You can use Recruit as Attack this turn, and vice versa.
+4 Recruit
+Cost: 8
+
+
+[size=10][i][b]X-23[/b][/i][/size]
+X-Men
+
+[i]Adamantium Footclaws[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+2 Attack
+Cost: 3
+[size=8][i]Flavor: Cloned from Wolverine's DNA, X-23 has extra Adamantium foot claws and almost as much savagery.[/i][/size]
+
+[i]Healing Factor Genome[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+You may KO a Wound from your hand or discard pile.
+2+ Attack
+Cost: 4
+
+[i]Bioengineered Assassin[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Berserk[/b]
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+2+ Attack
+Cost: 6
+
+[i]Heir to Wolverine[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Berserk[/b], [b]Berserk[/b]
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Count the [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] cards in your discard pile. [b]Berserk[/b] that many times.
+3+ Attack
+Cost: 7
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
