@@ -84,6 +84,99 @@ When you rescue this Bystander, reveal the top three cards of the Hero Deck. The
 VP: 1
 
 
+== X-Men ==
+
+[size=10][i][b]Cypher[/b][/i][/size]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+Look at the top two cards of your deck. Draw one and discard the other.
+Cost: 2
+
+[size=10][i][b]Heartless Computer Scientist[/b][/i][/size]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+When you rescue this Bystander,
+gain it as a Hero.
+------------
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+2 Recruit
+Cost: 3
+
+[size=10][i][b]Karma[/b][/i][/size]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+Reveal the top card of the Hero Deck. You get +Attack equal to its printed Attack.
+0+ Attack
+Cost: 3
+
+[size=10][i][b]Magik[/b][/i][/size] (promo)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+Teleport (Instead of playing this card, you may set it aside. At the end of the turn, add it to your hand as an extra card.)
+2 Attack
+Cost: 4
+
+[size=10][i][b]Magma[/b][/i][/size]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+Chose one: Draw a card or you get +2 Attack.
+0+ Attack
+Cost: 3
+
+[size=10][i][b]Martial Arts Master[/b][/i][/size]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+When you rescue this Bystander, gain it as a Hero.
+------------
+Draw a card.
+1 Attack
+Cost: 3
+
+[size=10][i][b]Mirage[/b][/i][/size]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+Draw a card.
+1 Recruit
+Cost: 3
+
+[size=10][i][b]Sunspot[/b][/i][/size]
+X-Men
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+2+ Attack.
+Cost: 3
+
+[size=10][i][b]Warlock[/b][/i][/size]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
+2 Attack
+Cost: 3
+
+[size=10][i][b]Wolfsbane[/b][/i][/size]
+X-Men
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+--- New Mutants
+When you rescue this Bystander, gain it as a Hero.
+------------
+[b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b]
+0+ Attack
+Cost: 3
+
+
 == 3D ==
 
 [size=10][i][b]Bulldozer Driver[/b][/i][/size] (? copies)
