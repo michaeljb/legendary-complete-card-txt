@@ -1564,5 +1564,271 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 [b]VP[/b]: 2
 
 
+== X-Men ==
+
+[size=10][i][b]Dark Descendants[/b][/i][/size]
+
+[i]Fatale[/i]
+[b]Fight[/b]: KO one of your Heroes.
+[b]Escape[/b]: The Mastermind Dominates the top card of the Hero Deck.
+[b]Attack[/b]: 5
+[b]VP:[/b] 3
+
+[i]Havok, Brainwashed[/i]
+[b]Fight[/b]: Gain this as a Hero.
+[b]Escape[/b]: Havok becomes a Hero Dominated by the Mastermind.
+[b]Attack[/b]: 6
+---------
+X-Men
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack.
+2+ Attack
+
+[i]Nemesis[/i] (1 copy)
+[b]Ambush:[/b] Each player reveals their hand and chooses one of their non-grey Heroes. Nemesis Dominates those Heroes.
+[b]Attack[/b]: 5
+[b]VP:[/b] 5
+
+[i]Psychic Subjugation[/i] (1 copy)
+[b]Trap![/b]
+[b]By End of Turn:[/b] Recruit the left-most and right-most Heroes in the HQ.
+[b]Or Suffer:[/b] Each of those Heroes you didn't recruit enters the city as a Villain with Attack equal to that Hero's cost. When you fight one, you gain it.
+[b]VP:[/b] 3
+
+[i]Random[/i]
+[b]Ambush:[/b] Random Dominates the top card of the Hero Deck. Then, each player reveals their hand and chooses one of their Heroes with that same cost. Random Dominates those Heroes.
+[b]Attack[/b]: 4+
+[b]VP:[/b] 3
+
+
+[size=10][i][b]Hellfire Club[/b][/i][/size]
+
+[i]Corrupt the Phoenix Force[/i] (1 copy)
+[b]Trap![/b]
+[b]By End of Turn:[/b] Have no Hellfire Villains in the city.
+[b]Or Suffer:[/b] This Trap becomes a 6 Attack "Phoenix Force" Token Villain taht enters the city and Dominates all the Heroes in the HQ that cost 6 or less.
+
+[i]Emma Frost (White Queen)[/i]
+[b]Ambush:[/b] Each player chooses an X-Men Hero from their discard pile. Emma Frost Dominates those Heroes.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 4
+
+[i]Harry Leland (Black Bishop)[/i]
+[b]Ambush:[/b] Heroes cost 1 more to recruit this turn.
+[b]Escape[/b]: Same effect.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+[size=8][i]Flavor: Increasing his opponents' mass to 20,000 pounds puts a real weight on their shoulders.[/i][/size]
+
+[i]Mastermind (Jason Wyngarde)[/i] (1 copy)
+[b]Ambush:[/b] The Villain ascends to become a new Mastermind. He gains the ability "Master Strike: Each player simultaneously reveals a non-grey Hero. Mastermind dominates the revealed Hero with the highest cost (and tied for highest.)
+[b]Attack:[/b] 8+
+[b]VP:[/b] 6
+
+[i]Sebastian Shaw (Black King)[/i]
+Sebastian Shaw has +1 Attack for each card you've played from your hand this turn.
+[b]Escape[/b]: Each player gains a Wound.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 4
+
+
+[size=10][i][b]Mojoverse[/b][/i][/size]
+
+[i]Mindwarping TV Broadcast[/i] (1 copy)
+[b]Trap![/b]
+[b]Ambush:[/b] A Villain captures a Bystander.
+[b]By End of Turn:[/b] Have no Bystanders in each city captured by Villains.
+[b]Or Suffer:[/b] After you draw your new hand at end of turn, each player discards down to four cards each. ????
+
+[i]Minor Domo[/i]
+[b]Ambush:[/b] Minor Domo captures 2 [b]Human Shields[/b].
+[b]Escape:[/b] Each player simultaneously reveals a card from their hand. Whoever revealed the lowest cost card (or tied for lowest) ????.
+2* Attack
+[b]VP:[/b] 2
+
+[i]Major Domo[/i]
+[b]Ambush:[/b] Major Domo captures a [b]Human Shield[/b].
+[b]Escape:[/b] Each player simultaneously reveals a card from their hand. Whoever reveals the highest-costing card (or tied for highest) gains a Wound.
+4* Attack
+[b]VP:[/b] 3
+
+[i]Spiral[/i] (1 copy)
+[b]Ambush:[/b] Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards their hand. Each player who discarded their hand this way draws 5 cards.
+[b]Escape:[/b] Same effect.
+6 Attack
+[b]VP:[/b] 4
+
+[i]Warwolves[/i]
+[b]Ambush:[/b] These Warwolves capture a [b]Human Shield[/b].
+[b]Fight:[/b] KO one of your Heroes.
+3* Attack
+[b]VP:[/b] 2
+
+
+[size=10][i][b]Murderworld[/b][/i][/size]
+
+[i]Animatronic Killer Clowns[/i]
+[b]Trap![/b]
+[b]By End of Turn:[/b] Recruit two Heroes.
+[b]Or Suffer:[/b] This Trap enters the city as a 3 Attack "Animatronic Killer Clown" Token Villain that captures a [b]Human Shield[/b].
+
+[i]Guillotine Rollercoaster[/i] (1 copy)
+[b]Trap![/b]
+[b]By End of Turn:[/b] Have at least four different costs of Heroes in the HQ.
+[b]Or Suffer:[/b] After you draw your new hand at the end of this turn, each palyer reveals their hand and discards each card with the same cost as the cards in the HQ.
+[b]VP:[/b] 3
+
+[i]Miss Locke[/i]
+[b]Ambush:[/b] Miss Locke captures 2 [b]Human Shields[/b]. Then reveal the top card of the Villain Deck. If it's a Trap or Master Strike, play it.
+[b]Attack[/b]: 2*
+[b]VP:[/b] 2
+
+[i]Monstrous Pinball Machine[/i] (1 copy)
+[b]Trap![/b]
+[b]By End of Turn:[/b] Pay any amount of Recruit. Then you must reveal the top card of the Hero Deck. If you paid enough, recruit that Hero and put this Trap in your Victory Pile.
+[b]Or Suffer:[/b] KO that Hero. Play two extra cards from the Villain Deck next turn.
+[b]VP:[/b] 3
+
+[i]Sulfuric Acid Water Slide[/i]
+[b]Trap![/b]
+[b]Ambush:[/b] Play another card from the Villain Deck.
+[b]By End of Turn:[/b] Have no Villains in the Sewers.
+[b]Or Suffer:[/b] Each player gains a Wound.
+[b]VP:[/b] 2
+
+
+[size=10][i][b]Shadow-X[/b][/i][/size]
+
+[i]Betrayal of the Shadow[/i] (1 copy)
+[b]By End of Turn:[/b] You may pay 6 Recruit.
+[b]Or Suffer:[/b] Each player reveals their hand. Then, each player chooses a Shadow-X card from their hand or discard pile to enter the city as a Villain.
+
+[i]Dark Angel[/i]
+[b]Fight:[/b] Gain this as a Hero.
+[b]Attack:[/b] 4
+---------
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: The next Hero you recruit from the HQ has Soaring Flight.
+2 Attack
+
+[i]Dark Beast[/i] (1 copy)
+[b]Fight:[/b] Gain this as a Hero.
+[b]Attack:[/b] 5
+---------
+[b]X-Gene[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
+2 Attack
+
+[i]Dark Cyclops[/i] (1 copy)
+[b]Ambush:[/b] Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or discards a card.
+[b]Fight:[/b] Gain this as a Hero.
+[b]Attack:[/b] 7
+---------
+[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Return a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from your discard pile to your hand.
+3 Attack
+
+[i]Dark Iceman[/i]
+[b]Fight:[/b] Gain this as a Hero.
+[b]Attack:[/b] 5
+---------
+[b]X-Gene[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Draw a card.
+2 Attack
+
+[i]Dark Marvel Girl[/i] (1 copy)
+[b]Ambush:[/b] Dark Marvel Girl Dominates each X-Men Hero that costs 4 or less from the HQ.
+[b]Fight:[/b] Gain this as a Hero.
+[b]Attack:[/b] 4+
+---------
+[b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Rescue a Bystander.
+2 Attack
+
+
+[size=10][i][b]Shi'ar Imperial Guard[/b][/i][/size]
+
+[i]Blackthorn[/i]
+[b]Fight:[/b] If you fought Blackthorn in the Sewers or Streets, each other player gains a Wound.
+[b]Escape:[/b] Each player gains a Wound.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+[i]Gladiator[/i] (1 copy)
+[b]Ambush:[/b] Each player discards an X-Men Hero or gains a Wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 7
+[b]VP:[/b] 5
+
+[i]Oracle[/i]
+[b]Ambush:[/b] Each player discards the top four cards of their deck and chooses one of those cards that costs 1 to 4. Oracle Dominates those Heroes.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 4
+
+[i]Shi'ar Trial by Combat[/i] (1 copy)
+[b]Trap![/b]
+[b]Ambush:[/b] If the Bridge is empty, reveal the top card of the Villain Deck. If it's a Villain, put it on the Bridge.
+[b]By End of Turn:[/b] Have no Villains on the Bridge.
+[b]Or Suffer:[/b] After you draw a new hand at end of turn, each player KOs a non-grey Hero from their discard pile.
+[b]VP:[/b] 2
+
+[i]Smasher[/i]
+[b]Ambush:[/b] Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or discards a card.
+[b]Fight:[/b] KO a card from your discard pile.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+
+[size=10][i][b]Sisterhood of Mutants[/b][/i][/size]
+
+[i]Lady Deathstrike[/i]
+[b]Fight:[/b] KO one of your Heroes.
+[b]Escape:[/b] Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Attack[/b]: 6
+[b]VP:[/b] 4
+
+[i]Lady Mastermind[/i] (1 copy)
+[b]Ambush:[/b] This Villain ascends to become a new Mastermind. She gains the ability "Master Strike: Each player simultaneously reveals a non-grey Hero. Lady Mastermind Dominates the revealed Hero with the lowest cost (and tied for lowest.)
+[b]Attack[/b]: 7+
+[b]VP:[/b] 5
+
+[i]Resurrect Madelyne Pryor[/i] (1 copy)
+[b]Trap![/b]
+[b]By End of Turn:[/b] You may pay 3 Recruit. If you do, shuffle this Trap back into the Villain Deck, then play a card from the Villain Deck.
+[b]Or Suffer:[/b] This Trap becomes a Scheme Twist that takes effect immediately.
+
+[i]Selene[/i]
+[b]Ambush:[/b] Selene Dominates all of the 0-cost Heroes from the KO pile.
+[b]Fight:[/b] KO all the Heroes Dominated by Selene.
+[b]Escape:[/b] Put one Hero Dominated by Selene into each player's discard pile.
+[b]Attack[/b]: 3+
+[b]VP:[/b] 3
+
+[i]Typhoid Mary[/i]
+[b]Ambush:[/b] Each player reveals their hand and chooses a 3-cost Hero from it. Typhoid Mary Dominates those Heroes.
+[b]Attack[/b]: 3+
+[b]VP:[/b] 3
+
+
+[size=10][i][b]Token Villains[/b][/i][/size]
+
+[i]Animatronic Killer Clown[/i] (2 copies)
+Villain --- Murderworld
+[b]Ambush:[/b] Animatronic Killer Clown captures a Human Shield.
+[b]Attack:[/b] 4
+[b]VP:[/b] 2
+
+[i]Master Plan[/i] (1 copy)
+Mastermind
+[b]Master Strike:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Attack:[/b] 9
+[b]VP:[/b] 5
+
+[i]Phoenix Force[/i] (1 copy)
+Villain --- Hellfire Club
+[b]Ambush:[/b] Phoenix Force Dominates all of the Heroes in the HQ that cost 6 or less.
+[b]Attack:[/b] 6
+[b]VP:[/b] 3
+
+[i]Shi'ar Battlecruiser[/i] (5 copies)
+Villain --- Shi'ar Imperial Guard
+[b]Attack:[/b] 7
+[b]VP:[/b] 5
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
