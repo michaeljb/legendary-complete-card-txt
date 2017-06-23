@@ -170,5 +170,69 @@ This card becomes a Master Strike that takes effect immediately. Then, this card
 
 
 
+[size=16][b]Horrors[/b][/size]
+
+== X-Men ==
+
+[b]The Apprentice Rises[/b]
+[b]Ambush:[/b] Add a random new Mastermind to the game with one Tactic.
+
+[b]Army of Evil[/b]
+Each non-Henchman Villain has +1 Attack.
+
+[b]The Blood Thickens[/b]
+[b]Ambush:[/b] Shuffle an additional Master Strike into the Villain Deck. Then, play another card from the Villain Deck.
+
+[b]Empire of Oppression[/b]
+Each players hand size is one less. (This applies when they draw a new hand.)
+
+[b]Endless Hatred[/b]
+Whenever you complete a Scheme Twist, also play the Mastermind's Master Strike ability
+
+[b]Enraged Mastermind[/b]
+The Mastermind has +2 Attack.
+
+[b]Fight to the End[/b]
+After you defeat the Mastermind's four Tactics, you must still fight the Mastermind a fifth time to put the Mastermind card in your Victory Pile and win.
+
+[b]Growing Thread[/b]
+The Mastermind has +1 Attack for each Mastermind Tactic among all players' Victory Piles.
+
+[b]Legions upon Legions[/b]
+Whenever you play a Henchman Villain from the Villain Deck, play another card from the Villain Deck.
+
+[b]Manical Mastermind[/b]
+The Mastermind has +1 Attack.
+
+[b]Misery upon Misery[/b]
+Whenever you play a Bystander from the Villain Deck, play another card from the Villain Deck.
+
+[b]Opening Salvo[/b]
+[b]Ambush:[/b] Each player gains a Wound.
+
+[b]Pain upon Pain[/b]
+Whenever you complete a Master Strike, play another card from the Villain Deck.
+
+[b]The Plot Thickens[/b]
+[b]Ambush:[/b] Shuffle an additional Scheme Twist into the Villain Deck.
+
+[b]Plots upon Plots[/b]
+Whenever you complete a Scheme Twist, play another card from the Villain Deck.
+
+[b]Psychic Infection[/b]
+[b]Ambush:[/b] Put this into your discard pile. If this is in your hand at the start of your turn, the player on your left gains this card, then each player discards a card.
+
+[b]Shadow of the Disciple[/b]
+This Horror Ascends to become a new 9-Attack "Master Plan" Token Mastermind worth 5 VP. It gains the ability "Master Strike: Each player reveals a Tech Hero or gains a Wound."
+
+[b]Surprise Assault[/b]
+[b]Ambush:[/b] Play two cards from the Villain Deck.
+
+[b]Viral Infection[/b]
+[b]Ambush:[/b] Put this into your discard pile. If this is in your hand at the start of your turn, the player on your left gains this card and the player on your right gains a Wound.
+
+[b]Tyrant Mastermind[/b]
+The Mastermind as +3 Attack.
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
