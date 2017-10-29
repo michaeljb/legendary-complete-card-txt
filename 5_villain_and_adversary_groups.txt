@@ -1062,25 +1062,25 @@ You can't fight Doop if there is a Villain in an adjacent city space.
 [size=10][i][b]K'un-lun[/b][/i][/size]
 
 [i]Laughing Skull[/i]
-[i]5th Circle of Kung-Fu[/i]
+[b]5th Circle of Kung-Fu[/b]
 [b]Escape:[/b] Each player reveals a Hero that costs 5 or more, or they discard a card.
 [b]Attack:[/b] 5+
 [b]VP:[/b] 5
 
 [i]Rand K'ai[/i]
-[i]6th Circle of Kung-Fu[/i]
+[b]6th Circle of Kung-Fu[/b]
 [b]Escape:[/b] Each player reveals a Hero that costs 6 or more, or they gain a wound.
 [b]Attack:[/b] 6+
 [b]VP:[/b] 6
 
 [i]Razor Fist[/i]
-[i]3rd Circle of Kung-Fu[/i]
+[b]3rd Circle of Kung-Fu[/b]
 [b]Fight:[/b] For each of your Heroes that costs 3, KO one of your Heroes.
 [b]Attack:[/b] 3+
 [b]VP:[/b] 3
 
 [i]Red Sai[/i]
-[i]4th Circle of Kung-Fu[/i]
+[b]4th Circle of Kung-Fu[/b]
 [b]Fight:[/b] Draw a card for each of your Heroes that costs 4.
 [b]Attack:[/b] 4+
 [b]VP:[/b] 4
@@ -1528,7 +1528,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 [size=10][i][b]X-Men Noir[/b][/i][/size]
 
-[i]Henry "Iceman" Drake[/i] (1 copy)
+[i]Bobby "Iceman" Drake[/i] (1 copy)
 [b]Fight[/b]: [b]Investigate[/b] for a card with a Recruit icon.
 [b]Attack[/b]: 4
 [b]VP[/b]: 2
@@ -1829,6 +1829,66 @@ Villain --- Hellfire Club
 Villain --- Shi'ar Imperial Guard
 [b]Attack:[/b] 7
 [b]VP:[/b] 5
+
+
+
+== Spider-Man Homecoming ==
+
+[size=10][i][b]Salvagers[/b][/i][/size]
+
+[i]Hybrid Alien Tech[/i]
+[b]Striker[/b]
+[b]Fight[/b]: KO one of your 0-cost Heroes.
+[b]Escape[/b]: The current player reveals a Ranged Hero or gains a 0-cost Hero from the KO pile.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 4
+
+[i]Shocker #1[/i]
+[b]Striker[/b]
+[b]Escape[/b]: Each player reveals an Instinct Hero or discards a card.
+[b]Attack[/b]: 3+
+[b]VP[/b]: 3
+
+[i]Shocker #2[/i]
+[b]Ambush[/b]: Each player reveals their hand and discards all cards with the same card name as a card in the HQ.
+[b]Escape[/b]: [i](After the normal HQ KO for this escaping)[/i] Same effect.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+[i]Tinkerer[/i]
+[b]Fight[/b]: You get +1 Recruit for each Tech Hero in the HQ.
+[b]Escape[/b]: Each player reveals a Tech Hero or gains a Wound.
+[b]Attack[/b]: 4
+[b]VP[/b]: 2
+
+
+[size=10][i][b]Vulture Tech[/b][/i][/size]
+
+[i]Chitauri Weapon Assault[/i]
+[b]Striker[/b]
+[b]Fight[/b]: KO one of your Heroes with a Recruit icon.
+[b]Escape[/b]: Each player discards a card with a Recruit icon.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 4
+
+[i]High Tech Helmet[/i]
+[b]Striker[/b]
+[b]Fight[/b]: Danger Sense 3
+[b]Attack[/b]: 3+
+[b]VP[/b]: 3
+
+[i]Razor Talons[/i]
+[b]Striker[/b]
+[b]Fight[/b]: The next Hero you gain this turn has Wall Crawl.
+[b]VP[/b]: 2
+[b]Attack[/b]: 2+
+
+[i]Turbine Powered[/i]
+[b]Striker[/b]
+[b]Ambush[/b]: Turbine Powered captures a Bystander. Then move this Villain to the Rooftops. If there's already a Villain there, swap them.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 5
+
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
