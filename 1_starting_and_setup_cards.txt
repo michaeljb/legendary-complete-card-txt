@@ -84,6 +84,12 @@ When you rescue this Bystander, reveal the top three cards of the Hero Deck. The
 VP: 1
 
 
+== Noir ==
+
+[size=10][i][b]Detective Wolverine[/b][/i][/size] (first print run promo)
+When you rescue this Bystander, [b]Investigate[/b] the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
+
+
 == X-Men ==
 
 [size=10][i][b]Cypher[/b][/i][/size]
@@ -202,6 +208,13 @@ VP: 1
 [size=10][i][b]Stan Lee[/b][/i][/size] (? copies)
 When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back in any order.
 VP: 1
+
+
+== Spider-Man Homecoming ==
+
+[size=10][i][b]Damage Control[/b][/i][/size] (first print run promo)
+When you rescue this Bystander, reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
+[b]VP[/b]: 1
 
 
 
@@ -382,11 +395,6 @@ Cost: 0
 [size=10][i][b]Subdermal Tracker[/b][/i][/size] (2 copies)
 [b]Healing[/b]: You may play a card from the Villain Deck. If you do, KO this Wound.
 
-
-== Noir ==
-
-[size=10][i][b]Detective Wolverine[/b][/i][/size] (first print run promo)
-When you rescue this Bystander, [b]Investigate[/b] the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
 
 
 
