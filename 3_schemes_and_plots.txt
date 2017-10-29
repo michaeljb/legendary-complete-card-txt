@@ -515,7 +515,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [size=10][i][b]The Dark Phoenix Saga[/b][/i][/size]
 [b]Setup[/b]: 10 Twists. Include Hellfire Club as one of the Villain Groups. Add 14 Jean Grey Hero cards to the Villain Deck.
 [b]Special Rules[/b]: Jean Grey cards in the Villain Deck are Villains with attack equal to their cost, "Ambush: Play another Villain card" and "Fight: Gain this as a Hero."
-[b]Twist[/b]: Shuffle all Jean Grey cards fro the KO pile and from all players' hands and discard piles into the Villain Deck.
+[b]Twist[/b]: Shuffle all Jean Grey cards from the KO pile and from all players' hands and discard piles into the Villain Deck.
 [b]Evil Wins[/b]: When 5 Jean Grey cards have escaped.
 
 [size=10][i][b]Horror of Horrors[/b][/i][/size]
@@ -543,6 +543,36 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Setup[/b]: 8 Twists.
 [b]Twist[/b]: Trap! By End of Turn: You may pay 2 Recruit. If you do, shuffle this Twist back into the Villain Deck, then play a card from the Villain Deck. Or Suffer: Stack this Twist next to the scheme as an "Airborne Neurotoxin."
 [b]Evil Wins[/b]: When there are 5 Airborne Neurotoxins.
+
+
+
+
+== Spider-Man Homecoming ==
+
+[size=10][i][b]Distract the Hero[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Use at least one Spider Friends Hero.
+[b]Twist[/b]: If you get any Victory Points this turn, put this Twist on the bottom of the Villain Deck. Otherwise, stack this Twist next to the Scheme as a Villainous Interruption.
+[b]Evil Wins[/b]: When there have been 5 Villainous Interruptions.
+
+[size=10][i][b]Explosion at the Washington Monument[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Shuffle 18 Bystanders and 14 Wounds, then deal them evenly into eight decks. Put these decks in a row, as Floors of the Washington Monument.
+[b]Special Rules[/b]: Whenever you fight a Villain, you may reveal any face-down card from any Floor. If it's a Bystander, rescue it. If it's a Wound, put it back face-up.
+[b]Twist[/b]: KO the topmost Floor of the Washington Monument. You gain one of the Wounds KO'd this way.
+[b]Evil Wins[/b]: When 10 Bystanders are in the KO pile and/or Escape Pile, or all Floors are KO'd.
+
+[size=10][i][b]Ferry Disaster[/b][/i][/size]
+[b]Setup[/b]: 9 Twists. Put the Bystander Stack above the Sewers as the "Ferry."
+[b]Twist 1-4[/b]: If there's a Villain in the city space below the Ferry, KO 2 Bystanders from the Ferry. Whether you KO'd or not, the Ferry moves one space left.
+[b]Twist 5-8[/b]: Same effect, but it moves right.
+[b]Twist 9[/b]: KO half the Bystanders from the Bystander deck, rounding up.
+[b]Evil Wins[/b]: When 7 Bystanders are in the KO pile and/or Escape Pile.
+
+[size=10][i][b]Scavenge Alien Weaponry[/b][/i][/size]
+[b]Setup[/b]: 7 Twists. Add an extra Henchmen Group of 10 cards as Smugglers.
+[b]Special Rules[/b]: Smugglers have Striker.
+[b]Twist[/b]: Play two cards from the Villain Deck.
+[b]Evil Wins[/b]: When 3 Villains per player have escaped or the Villain Deck runs out.
+
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
