@@ -941,17 +941,17 @@ All Bystanders in Victory Piles are worth 4 VP.
 Attack: 7*
 VP: 5
 
+[i]Billions of TV Viewers[/i]
+[b]Fight[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as Human Shields.
+
 [i]Brain-Melting TV Marathon[/i]
 [b]Fight[/b]: Each other player without a Mojo Tactic in their Victory Pile gains a Wound.
 
+[i]Cross-Dimensional Marketing[/i]
+[b]Fight[/b]: You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a Human Shield.
+
 [i]Mojo Branding Opportunity[/i]
 [b]Fight[/b]: Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a HUman Shield.
-
-[i]???? TV Viewers[/i]
-[b]Fight[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as Human Shields.
-
-[i]????[/i]
-[b]Fight[/b]: You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a Human Shield.
 
 
 
@@ -978,7 +978,7 @@ VP: 7
 [i]Xavier and Magneto Combined[/i]
 [b]Fight[/b]: Reveal the top three cards of the Hero Deck. Onslaught Dominates all the X-Men and Brotherhood Heroes you revealed. Put the rest back in random order.
 
-[i]???? Control[/i]
+[i]Worldwide Mental Control[/i]
 [b]Fight[/b]: Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes.
 
 
@@ -1005,8 +1005,67 @@ VP: 6
 [i]Psychic Seduction[/i]
 [b]Fight[/b]: Shadow King Dominates each Hero that costs 5 or less from the HQ.
 
-[i]???? Betrayal[/i]
+[i]Telepathic Betrayal[/i]
 [b]Fight[/b]: If the "Betrayal of the Shadow" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck.
+
+
+== Spider-Man Homecoming ==
+
+[size=10][i][b]Adrian Toomes[/b][/i][/size]
+[b]Double Striker[/b]
+[b]Always Leads[/b]: Salvagers
+[b]Master Strike[/b]: Starting from the Sewers, each Villain in the city uses its "Escape" ability.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 6
+
+[size=10][i][b]Epic Adrian Toomes[/b][/i][/size]
+[b]Triple Striker[/b]
+[b]Always Leads[/b]: Salvagers
+[b]Master Strike[/b]: Starting from the Sewers, each Villain in the city uses its "Ambush" ability, then its "Escape" ability.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 6
+
+[i]Don't Interfere[/i]
+[b]Fight[/b]: [b]Danger Sense 4[/b]. If this revealed any Bystanders, rescue them.
+
+[i]More Harm than Good[/i]
+[b]Fight[/b]: Each other player discards a Spider Friends Hero or gains a Wound.
+[size=8][i]Flavor: "Don't mess with me. Because I will kill you and everyone you care about."[/i][/size]
+
+[i]Take Everything[/i]
+[b]Fight[/b]: You may put a card from your discard pile on top of your deck.
+[size=8][i]Flavor: "The world's changed. Time we change with it."[/i][/size]
+
+[i]The World's Changed[/i]
+[b]Fight[/b]: [b]Danger Sense 3[/b]. Put all Henchmen Villains revealed this way into your Victory Pile, then do their "Fight" abilities.
+
+
+
+[b]Vulture[/b]
+[b]Striker[/b]
+[b]Always Leads[/b]: Vulture Tech
+[b]Master Strike[/b]: Put a Wound from the Wound Stack below each HQ space as a "Winged Assault." Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space.
+[b]Attack[/b]: 8+
+[b]VP[/b]: 6
+
+[b]Epic Vulture[/b]
+[b]Striker[/b]
+[b]Always Leads[/b]: Vulture Tech
+[b]Master Strike[/b]: Put a Wound from the Wound Stack or KO pile below each HQ space as a "Winged Assault." Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space, putting it on top of their deck.
+[b]Attack[/b]: 10+
+[b]VP[/b]: 6
+
+[i]Bird of Prey[/i]
+[b]Fight[/b]: Each other player discards a Spider Friends Hero or discards two cards.
+
+[i]Lurking Shadow[/i]
+[b]Fight[/b]: [b]Danger Sense 2[/b]. If the Rooftops are empty, a Villain you revealed enters the Rooftops.
+
+[i]Mid Air Heist[/i]
+[b]Fight[/b]: You get +5 Recruit usable only to recruit [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes.
+
+[i]Winged Assault[/i]
+[b]Fight[/b]: Put two "Winged Assault" Wounds from under the HQ into each other player's discard pile.
 
 
 
