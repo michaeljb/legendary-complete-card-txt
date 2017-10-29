@@ -4747,4 +4747,168 @@ Cost: 7
 
 
 
+== Spider-Man Homecoming ==
+
+[size=10][i][b]Happy Hogan[/b][/i][/size]
+(Unaffiliated)
+
+[i]Head of Security[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+KO all Wounds you gained this turn.
+2 Recruit
+Cost: 3
+
+[i]Watchful Eye[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 2[/b]. If this revealed any Master Strikes, KO those Strikes, then you may KO a card from your hand or discard pile.
+2+ Attack
+Cost: 4
+
+[i]Loyal Friend[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+[b]Striker[/b]
+0+ Attack
+Cost: 5
+[size=8][i]Flavor: "Don't I look happy to you?"[/i][/size]
+
+[i]Asset Management[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Double Striker[/b]
+0+ Attack
+Cost: 5
+[size=8][i]Flavor: Many people don't understand why Iron Man would need a bodyguard. They haven't met Happy.[/i][/size]
+
+
+
+[size=10][i][b]High-Tech Spider-Man[/b][/i][/size]
+Spider Friends
+
+[i]Advanced Targeting System[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Draw a card.
+Cost: 2
+
+[i]Recon Drone Connection[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Wall-Crawl
+[b]Danger Sense 3[/b]
+0+ Attack
+Cost: 2
+
+[i]Spider-Grip[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Wall-Crawl
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Choose two Villains in adjacent city spaces. Each of them gets -1 Attack this turn.
+2 Attack
+Cost: 2
+
+[i]Friendly Neighborhood ...[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Wall-Crawl
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+You get +3 Attack usable only against the Mastermind or Villains on the Rooftops or Streets.
+0+ Attack
+Cost: 2
+
+
+[size=10][i][b]Peter's Allies[/b][/i][/size]
+Spider Friends
+
+[i]Michelle[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You may choose a Villain or Mastermind. You can fight it using only Recruit this turn.
+2 Recruit
+Cost: 3
+
+[i]Ned[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit
+1+ Recruit
+Cost: 2
+
+[i]Liz[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Whenever you [COLOR=#CC0000][b]Coordinate[/b][/COLOR] a card to another player, you may reveal this to draw two cards instead of one.
+4 Recruit
+Cost: 6
+
+[i]May Parker[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+Spider Friends: Each Villain gets -2 Attack this turn. The next time you fight the Mastermind this turn, it gets -2 Attack.
+5 Recruit
+Cost: 7
+
+
+[size=10][i][b]Peter Parker, Homecoming[/b][/i][/size]
+Spider Friends
+
+[i]Avenger in Training[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Wall-Crawl
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Villain, you may fight it.
+2+ Attack
+Cost: 2
+
+[i]Heightened Senses[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Danger Sense 2[/b]
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+Cost: 2
+
+[i]Homemade Web-Shooters[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Wall-Crawl
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Bystander, rescue it.
+2+ Attack
+Cost: 2
+
+[i]Something is Happening[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Wall-Crawl
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+[b]Danger Sense 4[/b]
+If this revealed any Scheme Twists, you may shuffle the Villain Deck.
+0+ Attack
+Cost: 2
+
+
+[size=10][i][b]Tony Stark[/b][/i][/size]
+Avengers
+
+[i]Genius, Billionaire ...[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+1 Recruit
+1 Attack
+Cost: 2
+[size=8][i]Flavor: "Just don't do anything I would do. And definitely don't do anything I wouldn't do. There's a little grey area in there, and that's where you operate."[/i][/size]
+
+[i]Stay Out of Trouble[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Danger Sense 2[/b]
+2+ Attack
+Cost: 4
+[size=8][i]Flavor: I know you want to save the world, but you're not ready yet.[/i][/size]
+
+[i]Little Grey Area[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Avengers: [b]Danger Sense 1[/b]. If this revealed a Villain, then Villains from that same Villain Group get -1 Attack this turn.
+3+ Attack
+Cost: 5
+
+[i]As Usual, I Did All the Work[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
+If another player accepts this [COLOR=#CC0000][b]Coordinate[/b][/COLOR], then at the end of this turn, move all cards that entered that player's Victory Pile this turn into your Victory Pile.
+5 Attack
+Cost: 7
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
