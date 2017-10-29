@@ -217,6 +217,34 @@ signature teamwork.
 
 [b]Token Cards[/b]: Sometimes game play will cause additional Villains or Masterminds to be added during play. For example, a Master Strike may cause a special Villain to enter the city. Token cards represent these special characters that would otherwise be represented by the card that drew them out. Tokens are all identified by a Token icon in the upper right of the card. These new cards are optional so have fun with them!
 
+== Spider-Man Homecoming ==
+
+[b]Danger Sense[/b]: This keyword represents Spider-Man using his famous "Spider-Sense" superpower to detect danger and evade it. It also covers Tony Stark, Happy Hogan, and Vulture watching for threats and rapidly reacting to them.
+* Some cards say things like "Danger Sense 2." This means "Reveal the top 2 cards of the Villain Deck. You get +1 for each Villain you revealed. Put all the cards back on top in any order."
+* Cards can say Danger Sense 1, 2, 3, or even 4, revealing that many cards.
+* Several Danger Sense cards also say they have additional effects when they reveal particular kinds of cards.
+* Sometimes you can use one Danger Sense card to put a particular card on top of the Villain Deck, and then use a different Danger Sense card to benefit from that card being on top of that deck.
+* Danger Sense can also be a good way to delay nasty Scheme Twists, Master Strikes, and powerful Villains. But you won't be able to avoid them forever!
+
+[b]Striker[/b]: This keyword represents Villains and Masterminds that get more confident and powerful as the Mastermind smashes Heroes. It means "This gets +1 Attack for each Master Strike in the KO pile and/or stacked next to the Mastermind."
+* A couple of Hero cards also have the Striker ability and give you +Attack the same way.
+* A couple of cards say "Double Striker," meaning they get +2 Attack per Strike, or even "Triple Striker" meaning +3 Attack per Strike.
+By default, most Master Strikes go to the KO pile when they occur. However, some Masterminds specifically put their Master Strikes in unusual places. Striker also counts all face-up Master Strike cards in any of these unusual places. For example, for these Masterminds:
+* Galactus - Count Master Strikes in the city.
+* Macho Gomez - Count Master Strikes in front of all players.
+* Deathbird - Count Master Strikes in the city, Escape Pile, and all players' Victory Piles.
+* Mysterio - Count Master Strikes in all players' Victory Piles. Don't count Master Strikes shuffled into his Tactics, since they're not face up.
+
+[b]Coordinate[/b]: This keyword represents how Tony Stark and May Parker act as mentors to Spider-Man in the movie, helping him reach his full potential and become a true hero.
+Coordinating allows you to let another player "borrow" one of your cards. It is a critical way to help other players defeat tough enemies. During another player's turn, you can Coordinate with them like this:
+* Discard a Coordinate card from your hand and then draw a new card to replace it.
+* That player can now play a copy of the card you coordinated with them. (A copy counts as playing the exact same card including its Attack, Recruit, special abilities, and Hero Class symbol.)
+You can only Coordinate one card to each player on their turn. However, multiple players can each Coordinate one card to the player whose turn it is, in order to give that player a huge advantage.
+* If you are playing a solo game, once per turn, you may discard a card with Coordinate to draw a card.
+* Coordinate is printed on cards in red text to make it easier to notice during other players' turns.
+* When you offer to Coordinate a card to another player, that player can decline. If so, you don't discard that card and that player doesn't play a copy of it.
+* If you are playing with the Final Showdown, you can't Coordinate during that Showdown.
+
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
