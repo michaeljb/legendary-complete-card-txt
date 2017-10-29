@@ -1413,7 +1413,8 @@ Cost: 4
 [i]Irresistible Bribe[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Recruit
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Choose an Adversary. You can spend any combination of Recruit and Attack to fight that Adversary this turn.
+Choose an Adversary. You can spend any combination of Recruit and Attack to fight that Adversary this turn.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You can also spend any combination of Recruit and Attack to fight the Commander this turn.
 Cost: 6
 
 [i]Unending Anguish[/i] (1 copy)
@@ -1536,7 +1537,7 @@ Cost: 5
 
 [i]He's the Best Around[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-0+ Recruit
+0+ Attack
 You get + Attack equal to the Cost of the highest-cost Ally in the Lair.
 Cost: 8
 [size=8][i]No one's gonna ever keep him down.[/i][/size]
@@ -2777,7 +2778,7 @@ S.H.I.E.L.D.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2+ Recruit
 [b]Spectrum[/b]: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.
-Cost: 3
+Cost: 5
 
 [i]Monster Hunter[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -3449,13 +3450,13 @@ Cost: 4*
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 [b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-Cost: 4
+Cost: 4*
 
 [i]Impersonate[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 [b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Play this card as a copy of another Hero you played this turn. This card is both [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and the class and color you copy.
-Cost: 6
+Cost: 6*
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]Enormous Shapeshifter[/i] (1 copy)
@@ -4000,6 +4001,7 @@ Cost: 8
 
 [size=10][i][b]Solo[/b][/i][/size]
 Mercs for Money
+[size=8][i]Art contains a gun[/i][/size]
 
 [i]Half-Cocked[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -4007,7 +4009,6 @@ Mercs for Money
 1 1/2 Attack
 Cost: 2
 [size=8][i]Flavor: Two halves make a bullet whole. Also, you're a bulletwhole.[/i][/size]
-[size=8][i]Art contains a gun[/i][/size]
 
 [i]Merc's Gotta Get Paid[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -4023,15 +4024,14 @@ Cost: 3
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Does the top card of your deck have a gun in the art? If so, draw that gun!
 Cost: 5
 [size=8][i]Flavor: Who can make me a gun that shoots our little guns?[/i][/size]
-[size=8][i]Art contains a gun[/i][/size]
 
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 1/2 Attack
 Choose a Villalin. Cut its Attack in half this turn.
 Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
+Cost: 7
 [size=8][i]Flavor: So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
-[size=8][i]Art contains a gun[/i][/size]
 
 
 [size=10][i][b]Stingray[/b][/i][/size]
@@ -4079,6 +4079,7 @@ X-Men
 2+ Attack
 Cost: 3
 [size=8][i]Flavor: "Legends tell of a Cape of Mercury that enables a man to fly. Until I find it, I'll just jump and hope for the best."[/i][/size]
+[size=8][i]Art contains a gun, or at least muzzle flashes and bullet trajectory[/i][/size]
 
 [i]Multitalented[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -4180,7 +4181,7 @@ Marvel Knights
 Cost: 4
 [size=8][i]Flavor: He doesn't stop until he clears his name ... or dies trying.[/i][/size]
 
-[i]Follow the Leads[/i] (5 copies)
+[i]Follow Big Leads[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 You get +1 Recruit for each other card you played this turn that costs 4 or more.
 2+ Recruit
@@ -4558,6 +4559,7 @@ Cost: 2
 Cost: 3
 ------------
 [i]Split Eardrums[/i]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [b]Piercing Energy[/b]
 2 Piercing
 Cost: 3
@@ -4615,39 +4617,6 @@ X-Men: You get +Attack equal to the printed Victory Points of the card you revea
 Cost: 7
 
 
-[size=10][i][b]Psylocke[/b][/i][/size]
-X-Men
-
-[i]Psychic Knife[/i] (5 copies)
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Draw a card.
-[b]Piercing Energy[/b]
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Piercing.
-0+ Piercing
-Cost: 2
-
-[i]Precognition[/i] (5 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-Reveal the top card of the Hero Deck. You may recruit it this turn. If you do, draw a card.
-2 Recruit
-Cost: 3
-
-[i]Butterfly Effect[/i] (3 copies)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Piercing Energy[/b]
-[b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Piercing.
-2+ Piercing
-Cost: 5
-[size=8][i]Flavor: The focused totality of her powers.[/i][/size]
-
-[i]Telepathic Ninjutsu[/i] (1 copy)
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[b]Piercing Energy[/b]
-Reveal the top card of the Hero Deck. The player of your choice puts it in their hand.
-3 Piercing
-Cost: 7
-
-
 [size=10][i][b]Phoenix[/b][/i][/size]
 X-Men
 
@@ -4691,6 +4660,7 @@ X-Men
 Cost: 3
 
 [i]Electromagnetic Pulse[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [b]Piercing Energy[/b]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
 2 Piercing
@@ -4709,6 +4679,39 @@ Cost: 6
 [b]X-Gene[/b] X-Men: You can use Recruit as Attack this turn, and vice versa.
 4 Recruit
 Cost: 8
+
+
+[size=10][i][b]Psylocke[/b][/i][/size]
+X-Men
+
+[i]Psychic Knife[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Piercing Energy[/b]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Piercing.
+0+ Piercing
+Cost: 2
+
+[i]Precognition[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top card of the Hero Deck. You may recruit it this turn. If you do, draw a card.
+2 Recruit
+Cost: 3
+
+[i]Butterfly Effect[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+[b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Piercing.
+2+ Piercing
+Cost: 5
+[size=8][i]Flavor: The focused totality of her powers.[/i][/size]
+
+[i]Telepathic Ninjutsu[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Piercing Energy[/b]
+Reveal the top card of the Hero Deck. The player of your choice puts it in their hand.
+3 Piercing
+Cost: 7
 
 
 [size=10][i][b]X-23[/b][/i][/size]
