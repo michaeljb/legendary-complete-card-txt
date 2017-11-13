@@ -1249,7 +1249,7 @@ To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
 
 [i]Penance[/i] (2 copies)
 Penance gets +1 Attack for each Villain in your Victory Pile.
-[b]Attack:[/b] 2
+[b]Attack:[/b] 2+
 [b]VP:[/b] 3
 
 [i]Venom[/i] (2 copies)
