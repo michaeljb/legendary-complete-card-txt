@@ -335,26 +335,26 @@ Bribe
 
 [size=10][i][b]Heralds of Galactus[/b][/i][/size]
 
-[i]Firelord[/i]
+[i]Firelord[/i] (2 copies)
 Cosmic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [b]Fight:[/b] Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
 [b]Escape:[/b] Same effect.
 [b]Attack:[/b] 9*
 [b]VP:[/b] 4
 
-[i]Morg[/i]
+[i]Morg[/i] (2 copies)
 Cosmic Threat: [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 [b]Ambush:[/b] Put each non-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero from the HQ on the bottom of the Hero Deck.
 [b]Attack:[/b] 12*
 [b]VP:[/b] 6
 
-[i]Stardust[/i]
+[i]Stardust[/i] (2 copies)
 Cosmic Threat: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 [b]Fight:[/b] Choose one of your [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card.
 [b]Attack:[/b] 10*
 [b]VP:[/b] 5
 
-[i]Terrax the Tamer[/i]
+[i]Terrax the Tamer[/i] (2 copies)
 Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [b]Ambush:[/b] For each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero in the HQ, Terrax captures a Bystander.
 [b]Attack:[/b] 11*
@@ -363,25 +363,25 @@ Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 
 [size=10][i][b]Subterranea[/b][/i][/size]
 
-[i]Giganto[/i]
+[i]Giganto[/i] (2 copies)
 [b]Fight:[/b] When you draw a new hand of cards at the end of this turn, draw two extra cards.
 Burrow
 [b]Attack:[/b] 7
 [b]VP:[/b] 4
 
-[i]Megataur[/i]
+[i]Megataur[/i] (2 copies)
 [b]Ambush:[/b] Megataur captures two Bystanders.
 Burrow
 [b]Attack:[/b] 6
 [b]VP:[/b] 4
 
-[i]Moloids[/i]
+[i]Moloids[/i] (2 copies)
 [b]Fight:[/b] KO one of your Heroes.
 Burrow
 [b]Attack:[/b] 3
 [b]VP:[/b] 2
 
-[i]Ra'ktar the Molan King[/i]
+[i]Ra'ktar the Molan King[/i] (2 copies)
 [b]Ambush:[/b] Any Villain in the Streets moves to the Bridge, pushing any Villain already there to escape.
 Burrow
 [b]Attack:[/b] 4
@@ -458,7 +458,7 @@ Sandman's Attack is twice the number of Villains in the city.
 
 [size=10][i][b]Avengers[/b][/i][/size]
 
-[i]Ant-Man[/i]
+[i]Ant-Man[/i] (2 copies)
 [b]Attack:[/b] 3*
 [b]VP:[/b] 2
 Elusive 4
@@ -491,7 +491,7 @@ Overrun: Demolish each player.
 [b]Fight:[/b] Same effect.
 Overrun: Demolish each player.
 
-[i]Wasp[/i]
+[i]Wasp[/i] (2 copies)
 [b]Attack:[/b] 1*
 [b]VP:[/b] 4
 Elusive 7
@@ -499,25 +499,25 @@ Elusive 7
 
 [size=10][i][b]Defenders[/b][/i][/size]
 
-[i]Daredevil[/i]
+[i]Daredevil[/i] (2 copies)
 [b]Attack:[/b] 5
 [b]VP:[/b] 3
 [b]Fight:[/b] The next Ally you recruit this turn goes on top of your deck.
 Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, discards it.
 
-[i]Iron Fist[/i]
+[i]Iron Fist[/i] (2 copies)
 [b]Attack:[/b] 3*
 [b]VP:[/b] 2
 To fight Iron Fist, you must also reveal three Allies with different costs.
 
-[i]Namor, The Sub-Mariner[/i]
+[i]Namor, The Sub-Mariner[/i] (2 copies)
 [b]Attack:[/b] 6
 [b]VP:[/b] 4
 [b]Ambush:[/b] If any other Defenders Adversaries are in the city, each player gains a Bindings.
 [b]Fight:[/b] Same Effect.
 Overrun: Same Effects.
 
-[i]Luke Cage[/i]
+[i]Luke Cage[/i] (2 copies)
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
 [b]Fight:[/b] Each player reveals the top three cards of their deck. You choose which players discard them and which players put them back on top in the order of their choice.
@@ -525,23 +525,23 @@ Overrun: Same Effects.
 
 [size=10][i][b]Marvel Knights[/b][/i][/size]
 
-[i]Black Panther[/i]
+[i]Black Panther[/i] (2 copies)
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
 [b]Fight:[/b] Each player draws a card.
 
-[i]Elektra[/i]
+[i]Elektra[/i] (2 copies)
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
 [b]Fight:[/b] KO one of your Allies. Then KO a Bindings from your hand or discard pile.
 
-[i]Punisher[/i]
+[i]Punisher[/i] (2 copies)
 [b]Attack:[/b] 6
 [b]VP:[/b] 4
 [b]Fight:[/b] Reveal the top card of your deck. If it costs 0 Cost, KO it.
 Overrun: Each player reveals the top card of their deck and if it costs 1 Cost or more, KOs it.
 
-[i]Ghost Rider[/i]
+[i]Ghost Rider[/i] (2 copies)
 [b]Attack:[/b] 5
 [b]VP:[/b] 3
 [b]Fight:[/b] You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.
@@ -550,24 +550,24 @@ Overrun: Each player may KO an Adversary from their Victory Pile. Any player who
 
 [size=10][i][b]Spider Friends[/b][/i][/size]
 
-[i]Black Cat[/i]
+[i]Black Cat[/i] (2 copies)
 [b]Attack:[/b] 2*
 [b]VP:[/b] 2
 Elusive 6.
 [b]Fight:[/b] Each player reveals the top card of their deck. Choose any number of those cards to be discarded.
 
-[i]Firestar[/i]
+[i]Firestar[/i] (2 copies)
 [b]Attack:[/b] 5
 [b]VP:[/b] 3
 [b]Fight:[/b] Reveal the top card of your deck. If it has a Recruit icon, KO it.
 Overrun: Each player reveals the top card of their deck, and if it has an Attack icon, KO it.
 
-[i]Moon Knight[/i]
+[i]Moon Knight[/i] (2 copies)
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
 [b]Fight:[/b] KO one of your Allies. Then, if you fought Moon Knight on the Rooftops, KO another of your Allies.
 
-[i]Spider-Man[/i]
+[i]Spider-Man[/i] (2 copies)
 [b]Attack:[/b] 2
 [b]VP:[/b] 3
 [b]Fight:[/b] Reveal the top card of the Adversary Deck. If that card is worth 2 Victory Points or less, play it. If you play a card from the Adversary Deck this way, put Spider-Man back on top of the Adversary Deck.
@@ -576,24 +576,24 @@ Overrun: Each player gains a Bindings.
 
 [size=10][i][b]Uncanny Avengers[/b][/i][/size]
 
-[i]Havok[/i]
+[i]Havok[/i] (2 copies)
 [b]Attack:[/b] 4+
 [b]VP:[/b] 2
 X-Treme Attack.
 [b]Ambush:[/b] Each player who does not reveal a Ranged Ally discards two cards, then draws a card.
 
-[i]Rogue[/i]
+[i]Rogue[/i] (2 copies)
 [b]Attack:[/b] 4+
 [b]VP:[/b] 2
 X-Treme Attack.
 [b]Fight:[/b] Each other player discards the top card of their deck. Play a copy of one of those Allies.
 
-[i]Scarlet Witch[/i]
+[i]Scarlet Witch[/i] (2 copies)
 [b]Attack:[/b] 5
 [b]VP:[/b] 3
 [b]Fight:[/b] Reveal the top three cards of your deck. Put any that have odd-numbered costs into your hand and discard the rest. (0 is even.)
 
-[i]Wolverine[/i]
+[i]Wolverine[/i] (2 copies)
 [b]Attack:[/b] 7+
 [b]VP:[/b] 5
 X-Treme Attack.
@@ -603,25 +603,25 @@ Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR]
 
 [size=10][i][b]Uncanny X-Men[/b][/i][/size]
 
-[i]Colossus[/i]
+[i]Colossus[/i] (2 copies)
 [b]Attack:[/b] 5+
 [b]VP:[/b] 3
 X-Treme Attack.
 [b]Fight:[/b] You may KO a Bindings from your hand or discard pile. If you don't, each other player gains a Bindings.
 
-[i]Nightcrawler[/i]
+[i]Nightcrawler[/i] (2 copies)
 [b]Attack:[/b] 4+
 [b]VP:[/b] 2
 X-Treme Attack.
 [b]Fight:[/b] Choose an Ally you played this turn. When you draw a new hand of cards at the end of this turn, add that Ally to your new hand as an extra card.
 
-[i]Shadowcat[/i]
+[i]Shadowcat[/i] (2 copies)
 [b]Attack:[/b] 2*+
 [b]VP:[/b] 2
 X-Treme Attack.
 Elusive 5
 
-[i]Storm[/i]
+[i]Storm[/i] (2 copies)
 [b]Attack:[/b] 4+
 [b]VP:[/b] 2
 X-Treme Attack.
@@ -631,13 +631,13 @@ X-Treme Attack.
 
 [size=10][i][b]X-Men First Class[/b][/i][/size]
 
-[i]Angel[/i]
+[i]Angel[/i] (2 copies)
 [b]Attack:[/b] 4+
 [b]VP:[/b] 2
 X-Treme Attack.
 [b]Fight:[/b] Draws two cards, then discard a card.
 
-[i]Iceman[/i]
+[i]Iceman[/i] (2 copies)
 [b]Attack:[/b] 5+
 [b]VP:[/b] 3
 X-Treme Attack.
@@ -650,7 +650,7 @@ X-Treme Attack.
 [b]Ambush:[/b] Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).
 [b]Fight:[/b] You get +1 Recruit for each Bystander you kidnapped this turn.
 
-[i]Beast[/i]
+[i]Beast[/i] (2 copies)
 [b]Attack:[/b] 5+
 [b]VP:[/b] 3
 X-Treme Attack.
@@ -1491,14 +1491,14 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 [size=10][i][b]Goblin's Freak Show[/b][/i][/size]
 
-[i]Vulture, Carnival Cannibal[/i]
+[i]Vulture, Carnival Cannibal[/i] (2 copies)
 [b]Ambush[/b]: The Vulture captures 2 [b]Hidden Witnesses[/b].
 [b]Fight[/b]: Each other player KOs a Bystander from their Victory Pile or gains a Wound.
 [b]Escape[/b]: Each player gains a Wound.
 [b]Attack[/b]: 5*
 [b]VP[/b]: 3
 
-[i]The Chameleon[/i]
+[i]The Chameleon[/i] (2 copies)
 [b]Ambush[/b]: Chameleon captures a [b]Hidden Witness[/b].
 [b]Fight[/b]: Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space where the Chameleon was.
 [b]Attack[/b]: 4*
@@ -1533,7 +1533,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 [b]Attack[/b]: 4
 [b]VP[/b]: 2
 
-[i]Comrade Rasputin, Steel Wall[/i]
+[i]Comrade Rasputin, Steel Wall[/i] (2 copies)
 [b]Fight[/b]: [b]Investigate[/b] for a Hero that costs 0 and KO it.
 [b]Attack[/b]: 5
 [b]VP[/b]: 3
@@ -1568,13 +1568,13 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 [size=10][i][b]Dark Descendants[/b][/i][/size]
 
-[i]Fatale[/i]
+[i]Fatale[/i] (2 copies)
 [b]Fight[/b]: KO one of your Heroes.
 [b]Escape[/b]: The Mastermind Dominates the top card of the Hero Deck.
 [b]Attack[/b]: 5
 [b]VP:[/b] 3
 
-[i]Havok, Brainwashed[/i]
+[i]Havok, Brainwashed[/i] (2 copies)
 [b]Fight[/b]: Gain this as a Hero.
 [b]Escape[/b]: Havok becomes a Hero Dominated by the Mastermind.
 [b]Attack[/b]: 6
@@ -1595,7 +1595,7 @@ X-Men
 [b]Or Suffer:[/b] Each of those Heroes you didn't recruit enters the city as a Villain with Attack equal to that Hero's cost. When you fight one, you gain it.
 [b]VP:[/b] 3
 
-[i]Random[/i]
+[i]Random[/i] (2 copies)
 [b]Ambush:[/b] Random Dominates the top card of the Hero Deck. Then, each player reveals their hand and chooses one of their Heroes with that same cost. Random Dominates those Heroes.
 [b]Attack[/b]: 4+
 [b]VP:[/b] 3
@@ -1608,12 +1608,12 @@ X-Men
 [b]By End of Turn:[/b] Have no Hellfire Villains in the city.
 [b]Or Suffer:[/b] This Trap becomes a 6 Attack "Phoenix Force" Token Villain taht enters the city and Dominates all the Heroes in the HQ that cost 6 or less.
 
-[i]Emma Frost (White Queen)[/i]
+[i]Emma Frost (White Queen)[/i] (2 copies)
 [b]Ambush:[/b] Each player chooses an X-Men Hero from their discard pile. Emma Frost Dominates those Heroes.
 [b]Attack:[/b] 4+
 [b]VP:[/b] 4
 
-[i]Harry Leland (Black Bishop)[/i]
+[i]Harry Leland (Black Bishop)[/i] (2 copies)
 [b]Ambush:[/b] Heroes cost 1 more to recruit this turn.
 [b]Escape[/b]: Same effect.
 [b]Attack:[/b] 5
@@ -1625,7 +1625,7 @@ X-Men
 [b]Attack:[/b] 8+
 [b]VP:[/b] 6
 
-[i]Sebastian Shaw (Black King)[/i]
+[i]Sebastian Shaw (Black King)[/i] (2 copies)
 Sebastian Shaw has +1 Attack for each card you've played from your hand this turn.
 [b]Escape[/b]: Each player gains a Wound.
 [b]Attack:[/b] 3+
@@ -1640,13 +1640,13 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]By End of Turn:[/b] Have no Bystanders in each city captured by Villains.
 [b]Or Suffer:[/b] After you draw your new hand at end of turn, each player discards down to four cards each. ????
 
-[i]Minor Domo[/i]
+[i]Minor Domo[/i] (2 copies)
 [b]Ambush:[/b] Minor Domo captures 2 [b]Human Shields[/b].
 [b]Escape:[/b] Each player simultaneously reveals a card from their hand. Whoever revealed the lowest cost card (or tied for lowest) ????.
 2* Attack
 [b]VP:[/b] 2
 
-[i]Major Domo[/i]
+[i]Major Domo[/i] (2 copies)
 [b]Ambush:[/b] Major Domo captures a [b]Human Shield[/b].
 [b]Escape:[/b] Each player simultaneously reveals a card from their hand. Whoever reveals the highest-costing card (or tied for highest) gains a Wound.
 4* Attack
@@ -1658,7 +1658,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 6 Attack
 [b]VP:[/b] 4
 
-[i]Warwolves[/i]
+[i]Warwolves[/i] (2 copies)
 [b]Ambush:[/b] These Warwolves capture a [b]Human Shield[/b].
 [b]Fight:[/b] KO one of your Heroes.
 3* Attack
@@ -1667,7 +1667,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 
 [size=10][i][b]Murderworld[/b][/i][/size]
 
-[i]Animatronic Killer Clowns[/i]
+[i]Animatronic Killer Clowns[/i] (2 copies)
 [b]Trap![/b]
 [b]By End of Turn:[/b] Recruit two Heroes.
 [b]Or Suffer:[/b] This Trap enters the city as a 3 Attack "Animatronic Killer Clown" Token Villain that captures a [b]Human Shield[/b].
@@ -1678,7 +1678,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Or Suffer:[/b] After you draw your new hand at the end of this turn, each palyer reveals their hand and discards each card with the same cost as the cards in the HQ.
 [b]VP:[/b] 3
 
-[i]Miss Locke[/i]
+[i]Miss Locke[/i] (2 copies)
 [b]Ambush:[/b] Miss Locke captures 2 [b]Human Shields[/b]. Then reveal the top card of the Villain Deck. If it's a Trap or Master Strike, play it.
 [b]Attack[/b]: 2*
 [b]VP:[/b] 2
@@ -1689,7 +1689,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Or Suffer:[/b] KO that Hero. Play two extra cards from the Villain Deck next turn.
 [b]VP:[/b] 3
 
-[i]Sulfuric Acid Water Slide[/i]
+[i]Sulfuric Acid Water Slide[/i] (2 copies)
 [b]Trap![/b]
 [b]Ambush:[/b] Play another card from the Villain Deck.
 [b]By End of Turn:[/b] Have no Villains in the Sewers.
@@ -1703,7 +1703,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]By End of Turn:[/b] You may pay 6 Recruit.
 [b]Or Suffer:[/b] Each player reveals their hand. Then, each player chooses a Shadow-X card from their hand or discard pile to enter the city as a Villain.
 
-[i]Dark Angel[/i]
+[i]Dark Angel[/i] (2 copies)
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 4
 ---------
@@ -1725,7 +1725,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Return a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from your discard pile to your hand.
 3 Attack
 
-[i]Dark Iceman[/i]
+[i]Dark Iceman[/i] (2 copies)
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 5
 ---------
@@ -1743,7 +1743,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 
 [size=10][i][b]Shi'ar Imperial Guard[/b][/i][/size]
 
-[i]Blackthorn[/i]
+[i]Blackthorn[/i] (2 copies)
 [b]Fight:[/b] If you fought Blackthorn in the Sewers or Streets, each other player gains a Wound.
 [b]Escape:[/b] Each player gains a Wound.
 [b]Attack:[/b] 5
@@ -1755,7 +1755,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Attack:[/b] 7
 [b]VP:[/b] 5
 
-[i]Oracle[/i]
+[i]Oracle[/i] (2 copies)
 [b]Ambush:[/b] Each player discards the top four cards of their deck and chooses one of those cards that costs 1 to 4. Oracle Dominates those Heroes.
 [b]Attack:[/b] 4+
 [b]VP:[/b] 4
@@ -1767,7 +1767,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Or Suffer:[/b] After you draw a new hand at end of turn, each player KOs a non-grey Hero from their discard pile.
 [b]VP:[/b] 2
 
-[i]Smasher[/i]
+[i]Smasher[/i] (2 copies)
 [b]Ambush:[/b] Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or discards a card.
 [b]Fight:[/b] KO a card from your discard pile.
 [b]Attack:[/b] 5
@@ -1776,7 +1776,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 
 [size=10][i][b]Sisterhood of Mutants[/b][/i][/size]
 
-[i]Lady Deathstrike[/i]
+[i]Lady Deathstrike[/i] (2 copies)
 [b]Fight:[/b] KO one of your Heroes.
 [b]Escape:[/b] Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
 [b]Attack[/b]: 6
@@ -1792,14 +1792,14 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]By End of Turn:[/b] You may pay 3 Recruit. If you do, shuffle this Trap back into the Villain Deck, then play a card from the Villain Deck.
 [b]Or Suffer:[/b] This Trap becomes a Scheme Twist that takes effect immediately.
 
-[i]Selene[/i]
+[i]Selene[/i] (2 copies)
 [b]Ambush:[/b] Selene Dominates all of the 0-cost Heroes from the KO pile.
 [b]Fight:[/b] KO all the Heroes Dominated by Selene.
 [b]Escape:[/b] Put one Hero Dominated by Selene into each player's discard pile.
 [b]Attack[/b]: 3+
 [b]VP:[/b] 3
 
-[i]Typhoid Mary[/i]
+[i]Typhoid Mary[/i] (2 copies)
 [b]Ambush:[/b] Each player reveals their hand and chooses a 3-cost Hero from it. Typhoid Mary Dominates those Heroes.
 [b]Attack[/b]: 3+
 [b]VP:[/b] 3
@@ -1836,26 +1836,26 @@ Villain --- Shi'ar Imperial Guard
 
 [size=10][i][b]Salvagers[/b][/i][/size]
 
-[i]Hybrid Alien Tech[/i]
+[i]Hybrid Alien Tech[/i] (2 copies)
 [b]Striker[/b]
 [b]Fight[/b]: KO one of your 0-cost Heroes.
 [b]Escape[/b]: The current player reveals a Ranged Hero or gains a 0-cost Hero from the KO pile.
 [b]Attack[/b]: 4+
 [b]VP[/b]: 4
 
-[i]Shocker #1[/i]
+[i]Shocker #1[/i] (2 copies)
 [b]Striker[/b]
 [b]Escape[/b]: Each player reveals an Instinct Hero or discards a card.
 [b]Attack[/b]: 3+
 [b]VP[/b]: 3
 
-[i]Shocker #2[/i]
+[i]Shocker #2[/i] (2 copies)
 [b]Ambush[/b]: Each player reveals their hand and discards all cards with the same card name as a card in the HQ.
 [b]Escape[/b]: [i](After the normal HQ KO for this escaping)[/i] Same effect.
 [b]Attack[/b]: 5
 [b]VP[/b]: 3
 
-[i]Tinkerer[/i]
+[i]Tinkerer[/i] (2 copies)
 [b]Fight[/b]: You get +1 Recruit for each Tech Hero in the HQ.
 [b]Escape[/b]: Each player reveals a Tech Hero or gains a Wound.
 [b]Attack[/b]: 4
@@ -1864,26 +1864,26 @@ Villain --- Shi'ar Imperial Guard
 
 [size=10][i][b]Vulture Tech[/b][/i][/size]
 
-[i]Chitauri Weapon Assault[/i]
+[i]Chitauri Weapon Assault[/i] (2 copies)
 [b]Striker[/b]
 [b]Fight[/b]: KO one of your Heroes with a Recruit icon.
 [b]Escape[/b]: Each player discards a card with a Recruit icon.
 [b]Attack[/b]: 4+
 [b]VP[/b]: 4
 
-[i]High Tech Helmet[/i]
+[i]High Tech Helmet[/i] (2 copies)
 [b]Striker[/b]
 [b]Fight[/b]: Danger Sense 3
 [b]Attack[/b]: 3+
 [b]VP[/b]: 3
 
-[i]Razor Talons[/i]
+[i]Razor Talons[/i] (2 copies)
 [b]Striker[/b]
 [b]Fight[/b]: The next Hero you gain this turn has Wall Crawl.
 [b]VP[/b]: 2
 [b]Attack[/b]: 2+
 
-[i]Turbine Powered[/i]
+[i]Turbine Powered[/i] (2 copies)
 [b]Striker[/b]
 [b]Ambush[/b]: Turbine Powered captures a Bystander. Then move this Villain to the Rooftops. If there's already a Villain there, swap them.
 [b]Attack[/b]: 5+
