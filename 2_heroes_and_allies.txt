@@ -4912,4 +4912,180 @@ Cost: 7
 
 
 
+== Champions ==
+
+[size=10][i][b]Gwenpool[/b][/i][/size]
+Champions
+
+[i]Come On, Nobody Reads Card Names[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Versatile 1[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Instead, [b]Versatile 3[/b].
+Cost: 2
+[size=8][i]And don't even get me started on flavor text.[/i][/size]
+
+[i]I'll Rescue You If I Feel Like It[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+Reveal the top card of the Bystander Deck. If it's a Special Bystander, rescue it. Otherwise, put it on the bottom of that deck.
+Cost: 3
+
+[i]I Heard Keywords Are Powerful[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
+[b]Cheering Crowds[/b]
+Cost: 6*
+
+[i]I'm the Best at Board Games[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+5 Attack
+[b]Demolish[/b] each other player. For each player that discards a card this way, draw a card.
+Cost: 7
+
+
+[size=10][i][b]Ms. Marvel[/b][/i][/size]
+Champions
+
+[i]Long Arm of the Law[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Rescue a Bystander.
+Cost: 3*
+
+[i]Big Impact[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Versatile 2[/b]
+Cost: 4*
+
+[i]Need to Stretch My Legs[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Champions: You may KO a card from your hand or discard pile.
+[b]Cheering Crowds[/b]
+Cost: 6*
+
+[i]Rising Hope[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Versatile 4[/b]
+[b]Cheering Crowds[/b]
+Cost: 9*
+
+
+[size=10][i][b]Nova[/b][/i][/size]
+Champions
+
+[i]Space Cop[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Versatile 1[/b]
+Champions: Rescue a Bystander.
+Cost: 2
+[size=8][i]Solar systems are variable. Saving people is the constant.[/i][/size]
+
+[i]Interstellar Hero[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Versatile 2[/b]
+[b]Cheering Crowds[/b]
+Cost: 4
+[size=8][i]"The best part about being Nova-famous is I can take off my helmet and nobody knows it's me."[/i][/size]
+
+[i]Holographic Projection[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+2+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: [b]Versatile 3[/b]
+Cost: 5
+[size=8][i]The Nova Force can be channeled to virtually any purpose.[/i][/size]
+
+[i]Growing Nova Force[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+For each other card you played this turn with a Recruit icon, you get +1 Recruit. For each other card you played this turn with an Attack icon, you get +1 Attack.
+Cost: 9*
+
+
+[size=10][i][b]Totally Awesome Hulk[/b][/i][/size]
+Champions
+
+[i]Beloved Behemoth[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: The first time you defeat a Villain this turn, rescue a Bystander.
+Cost: 4*
+
+[i]Incredible Mind, Awesome Body[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 Recruit
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Cheering Crowds[/b]
+Cost: 4*
+
+[i]Growing Pains[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+If you have a Wound in your hand or discard pile, KO it and you get +2 Attack. Otherwise, gain a Wound.
+Cost: 5*
+
+[i]Smartest Man in the World[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+You get +1 Attack for each extra card you drew this turn.
+Cost: 9*
+
+
+[size=10][i][b]Viv Vision[/b][/i][/size]
+Champions
+
+[i]Walking Wi-Fi[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Recruit
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Whenever you recruit a Hero from the HQ this turn, rescue a Bystander.
+Cost: 3
+
+[i]Expanding Neural Network[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+Cost: 4*
+
+[i]Crowdsourcing[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Versatile 3[/b]
+[b]Cheering Crowds[/b]
+Cost: 6
+
+[i]Alter Molecular Density[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5 Recruit
+0+ Attack
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Whenever you recruit a Hero this turn, you get +2 Attack.
+Cost: 9*
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
