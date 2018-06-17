@@ -4924,7 +4924,7 @@ Champions
 [b]Versatile 1[/b]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Instead, [b]Versatile 3[/b].
 Cost: 2
-[size=8][i]And don't even get me started on flavor text.[/i][/size]
+[size=8][i]Flavor: And don't even get me started on flavor text.[/i][/size]
 
 [i]I'll Rescue You If I Feel Like It[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -4993,7 +4993,7 @@ Champions
 [b]Versatile 1[/b]
 Champions: Rescue a Bystander.
 Cost: 2
-[size=8][i]Solar systems are variable. Saving people is the constant.[/i][/size]
+[size=8][i]Flavor: Solar systems are variable. Saving people is the constant.[/i][/size]
 
 [i]Interstellar Hero[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -5002,7 +5002,7 @@ Cost: 2
 [b]Versatile 2[/b]
 [b]Cheering Crowds[/b]
 Cost: 4
-[size=8][i]"The best part about being Nova-famous is I can take off my helmet and nobody knows it's me."[/i][/size]
+[size=8][i]Flavor: "The best part about being Nova-famous is I can take off my helmet and nobody knows it's me."[/i][/size]
 
 [i]Holographic Projection[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -5010,7 +5010,7 @@ Cost: 4
 2+ Attack
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: [b]Versatile 3[/b]
 Cost: 5
-[size=8][i]The Nova Force can be channeled to virtually any purpose.[/i][/size]
+[size=8][i]Flavor: The Nova Force can be channeled to virtually any purpose.[/i][/size]
 
 [i]Growing Nova Force[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
