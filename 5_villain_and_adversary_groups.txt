@@ -1605,6 +1605,7 @@ X-Men
 [b]Trap![/b]
 [b]By End of Turn:[/b] Have no Hellfire Villains in the city.
 [b]Or Suffer:[/b] This Trap becomes a 6 Attack "Phoenix Force" Token Villain taht enters the city and Dominates all the Heroes in the HQ that cost 6 or less.
+[b]VP:[/b] 3
 
 [i]Emma Frost (White Queen)[/i] (2 copies)
 [b]Ambush:[/b] Each player chooses an X-Men Hero from their discard pile. Emma Frost Dominates those Heroes.
@@ -1637,6 +1638,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Ambush:[/b] A Villain captures a Bystander.
 [b]By End of Turn:[/b] Have no Bystanders in each city captured by Villains.
 [b]Or Suffer:[/b] After you draw your new hand at end of turn, each player discards down to four cards each. ????
+[b]VP:[/b] 3
 
 [i]Minor Domo[/i] (2 copies)
 [b]Ambush:[/b] Minor Domo captures 2 [b]Human Shields[/b].
@@ -1669,6 +1671,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Trap![/b]
 [b]By End of Turn:[/b] Recruit two Heroes.
 [b]Or Suffer:[/b] This Trap enters the city as a 3 Attack "Animatronic Killer Clown" Token Villain that captures a [b]Human Shield[/b].
+[b]VP:[/b] 2
 
 [i]Guillotine Rollercoaster[/i] (1 copy)
 [b]Trap![/b]
@@ -1789,6 +1792,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Trap![/b]
 [b]By End of Turn:[/b] You may pay 3 Recruit. If you do, shuffle this Trap back into the Villain Deck, then play a card from the Villain Deck.
 [b]Or Suffer:[/b] This Trap becomes a Scheme Twist that takes effect immediately.
+[b]VP:[/b] 0
 
 [i]Selene[/i] (2 copies)
 [b]Ambush:[/b] Selene Dominates all of the 0-cost Heroes from the KO pile.
