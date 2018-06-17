@@ -298,7 +298,7 @@ VP: 6
 [i]Eye of Agamotto[/i]
 [b]Fight[/b]: Reveal cards from the Ally Deck equal to the number of players. Put one of those cards into each player's discard pile.
 
-[i]Windows of Watoomb[/i]
+[i]Winds of Watoomb[/i]
 [b]Fight[/b]: After you draw a new hand of cards at the end of this turn, each player simultaneously passes a non-grey Ally from their hand to the hand of the player on their left.
 
 
