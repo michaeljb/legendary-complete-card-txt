@@ -1892,5 +1892,82 @@ Villain --- Shi'ar Imperial Guard
 [b]VP[/b]: 5
 
 
+== Champions ==
+
+[size=10][i][b]Monsters Unleashed[/b][/i][/size]
+
+[i]Goom[/i] (1 copy)
+[b]Ambush:[/b] Goom captures a Bystander.
+[b]Fight:[/b] KO one of your Heroes.
+[b]VP:[/b] 4
+[b]Attack:[/b] 6
+
+[i]Groot from Planet X[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Fight:[/b] Two Bystanders from the Bystander Stack enter the city as 3 Attack "Splintered Half-Groot" Villains. When you fight one, rescue it as a Bystander.
+[b]Attack:[/b] 6*
+[b]VP:[/b] 2
+
+[i]Monsteroso[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Fight:[/b] When you draw a new hand of cards at the end of this turn, draw an extra card.
+[b]Attack:[/b] 5*
+[b]VP:[/b] 2
+
+[i]Orrgo[/i] (1 copy)
+You can't fight Orrgo unless you have already defeated another Villain this turn.
+[b]Attack:[/b] 2*
+[b]VP:[/b] 2
+
+[i]Sporr[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Fight:[/b] A Hero in the HQ gains [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Recruit this turn.
+[b]Attack:[/b] 7*
+[b]VP:[/b] 3
+
+[i]Tim Boo Ba[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Fight:[/b] All Heroes currently in the HQ cost 1 less this turn.
+[b]Attack:[/b] 12*
+[b]VP:[/b] 5
+
+[i]Trull the Unhuman[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Ambush:[/b] Trull captures a Bystander. Then [b]Demolish[/b] each player.
+[b]Attack:[/b] 8*
+[b]VP:[/b] 4
+[size=8][i]Flavor: Why yes, that is an alien entity possessing the world's most terrifying steam shovel.[/i][/size]
+
+[i]Zzutak[/i] (1 copy)
+[b]Size-Changing[/b]: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Escape:[/b] [b]Demolish[/b] each player.
+[b]Attack:[/b] 9*
+[b]VP:[/b] 5
+
+
+[size=10][i][b]Wrecking Crew[/b][/i][/size]
+
+[i]Bulldozer[/i] (2 copies)
+[b]Ambush:[/b] Bulldozer moves an extra space forward. If this pushes any Villains forward, [b]Demolish[/b] each player.
+[b]Attack:[/b] 4
+[b]VP:[/b] 2
+
+[i]Piledriver[/i] (2 copies)
+[b]Fight:[/b] KO one of your Heroes.
+[b]Escape:[/b] [b]Demolish[/b] each player.
+[b]Attack:[/b] 6
+[b]VP:[/b] 4
+
+[i]Thunderball[/i] (2 copies)
+[b]Fight:[/b] If you fight THunderball in the Sewers or Bank, [b]Demolish[/b] each other player.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+[i]The Wrecker[/i] (2 copies)
+[b]Ambush:[/b] For each Wrecking Crew Villain in the city, (including this one), [b]Demolish[/b] each player.
+[b]Attack:[/b] 7
+[b]VP:[/b] 5
+
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
