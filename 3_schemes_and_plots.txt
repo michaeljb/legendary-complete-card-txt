@@ -575,4 +575,31 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
+== Champions ==
+
+[size=10][i][b]Clash of the Monsters Unleashed[/b][/i][/size]
+[b]Setup[/b]: 10 Twists. 6 Wounds per player in the Wound Stack. Shuffle 8 Monsters Unleashed Villains into a face-down "Monster Pit" deck.
+[b]Twist 3-10[/b]: Each player chooses a Villain from their Victory Pile as their "Gladiator." Then the top card of the Monster Pit enteres the city. Each player whose Gladiator has a lower printed Attack than that Monster gains a Wound.
+[b]Evil Wins[/b]: When the Wound Stack or Monster Pit Deck runs out.
+
+[size=10][i][b]Divide and Conquer[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. 7 Heroes. Sort the Hero Deck by Hero Class. [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] (If a card has multiple Classes, break ties at random.) Put these 5 smaller, shuffled Hero Decks beneath the 5 HQ Spaces.
+[b]Special Rules[/b]: Whenever an HQ Space is empty, fill it with the top card of the Hero Deck below that space.
+[b]Twist 1-3[/b]: KO all Heroes in the HQ.
+[b]Twist 4-8[/b]: KO one of the Hero Decks.
+[b]Evil Wins[/b]: When all Hero Decks are gone.
+
+[size=10][i][b]Hypnotize Every Human[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. Add another Henchman Villain Group. No Bystanders in the Villain Deck.
+[b]Twist 1-6[/b]: Put a Bystander from the Bystander Stack above each city space as a facedown 2 Attack "Hypno-Thrall" Villain. They don't move. When you fight one, rescue it as a Bystander. You can't fight a Villain in a city space that has any Hypno-Thralls above it.
+[b]Twist 7-8[/b]: Each player puts a Villain from their Victory Pile into the Escape pile.
+[b]Evil Wins[/b]: When 8 Villains are in the Escape pile.
+
+[size=10][i][b]Steal All Oxygen on Earth[/b][/i][/size]
+[b]Setup[/b]: 8 Twists. The "Oxygen Level" starts at 8.
+[b]Twist[/b]: Stack this Twist next to the Scheme. The Oxygen Level decreases by 1. Then KO each Hero from the HQ whose cose is greater than the Oxygen Level.
+[b]Evil Wins[/b]: When 20 non-grey Heroes are KO'd.
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
