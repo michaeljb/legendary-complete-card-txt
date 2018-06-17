@@ -1561,7 +1561,7 @@ Cost: 4
 [i]Father of Lies[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Attack
-Look at the top two cards of another player's deck. Without revealed those cards, call one of them "Good" and one "Bad." That player puts one of those cards into their discard pile and the other into your discard pile.
+Look at the top two cards of another player's deck. Without revealing those cards, call one of them "Good" and one "Bad." That player puts one of those cards into their discard pile and the other into your discard pile.
 Cost: 5
 
 [i]God of Mischief[/i] (1 copy)
@@ -2017,7 +2017,7 @@ Cost: 6
 [i]Break the World[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 6 Attack
-KO two cards from your hand and/or discard pile. For each Bindings KO this way, [b]Demolish[/b] each other player.
+KO up to two cards from your hand and/or discard pile. For each Bindings you KO this way, [b]demolish[/b] each other player.
 Cost: 8
 
 
