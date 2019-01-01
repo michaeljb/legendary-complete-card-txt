@@ -5088,6 +5088,616 @@ Cost: 9*
 
 
 
+== World War Hulk ==
+
+
+[size=10][i][b]Amadeus Cho[/b][/i][/size]
+Champions
+
+[i]Extrapolate[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Recruit
+[b]Outwit[/b]: Draw a card.
+Cost: 2
+[size=8][i]Cho's coyote pup Kirby helps him solve the most complex equation of all: Love[/i][/size]
+
+[i]Gamma-Draining Nanites[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+Then, if you drew two cards this turn, Transform this into Like Totally Smart Hulk.
+Cost: 3
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Like Totally Smart Hulk[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Outwit:[/b] You get +2 Attack.
+Cost: 5
+[size=8][i]This hulk breaks encryption just as well as he breaks skulls.[/i][/size]
+
+[i]Renegade Genius[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each different cost of Hero you have.
+[b]Outwit[/b]: Draw a card.
+Cost: 6
+
+[i]Visualize The Variables[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4 Attack
+Whenever you use an [b]Outwit[/b] ability this turn, you may use it an extra time.
+[b]Outwit[/b]: Look at the top card of your deck. KO it or put it back.
+Cost: 8
+
+
+
+[size=10][i][b]Bruce Banner[/b][/i][/size]
+Avengers
+
+[i]Solve The Impossible[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 Attack
+[b]Outwit[/b]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+Cost: 2
+
+[i]Gamma Bomb Disaster[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Outwit[/b]: [b]Transform[/b] this into Savage Hulk Unleashed.
+Cost: 4
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Savage Hulk Unleashed[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Smash 4[/b]
+Cost 5
+[size=8][i]After all, he doesn't shout "Hulk gently tap."[/i][/size]
+
+[i]Dangerous Testing[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, KO it.
+Cost: 6
+[size=8][i]You can't make a scientific breakthrough without breaking through a few scientists.[/i][/size]
+
+[i]Gamma Ray Experiment[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4 Attack
+[b]Outwit[/b]: Look at the top three cards of your deck. Draw one of them, KO one, and put one back.
+Cost: 7
+
+
+
+[size=10][i][b]Caiera[/b][/i][/size]
+Warbound
+
+[i]Shadow Queen[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1 Attack
+[b]Outwit[/b]: Draw a card.
+Cost: 2
+[size=8][i]She reaches into the very soul of Sakaar, pulling strength to rival the Hulk himself.[/i][/size]
+
+[i]Shadowforged Blade[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Smash 2[/b]
+Cost: 4
+[size=8][i]This sword can cut the Hulk. Imagine what it can do to you.[/i][/size]
+
+[i]Focus The Old Power[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[b]Outwit[/b]: You may a card from your hand or discard pile.
+Cost: 6
+[size=8][i]Her deeds earned the respect of all Sakaar.[/i][/size]
+
+[i]Dutiful Protector[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Double the Recruit you have.
+If there are at least 3 Heroes per player in the KO pile, [b]Transform[/b] this into Vengeful Destructor.
+Cost: 7
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Vengeful Destructor[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Double the Attack you have.
+Cost: 7
+[size=8][i]The Red King betrayed her, causing the plague of Cytoplasm Spikes that destroyed her people.[/i][/size]
+
+
+
+[size=10][i][b]Gladiator Hulk[/b][/i][/size]
+Warbound
+
+[i]Don't Make Me Angry[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+Draw a card.
+[b]Smash 2[/b]
+Cost: 3
+[size=8][i]Or honestly, go ahead. You're going to get smashed either way.[/i][/size]
+
+[i]Seize The Throne[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Smash 3[/b]
+Then, if you discarded at least two cards this turn, [b]Transform[/b] this into Hulk Is King and put it on top of your deck.
+Cost: 4
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Hulk Is King[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Attack
+When a card effect causes you to discard this card, you may return this card to your hand.
+Cost:5
+
+[i]The Green Scar[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Hulk Rampage.[/b]
+If any players gained a Wound this way, you get [b]Wounded Fury.[/b]
+Cost: 5
+
+[i]Double-Fisted Smashing[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+You get double Attack from each Smash this turn.
+[b]Smash 3[/b]
+Cost: 8
+
+
+
+[size=10][i][b]Hiroim[/b][/i][/size]
+Warbound
+
+[i]Seek Redemption[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: The first time you defeat a Villain this turn, rescue a Bystander.
+Cost: 3
+
+[i]Save From The Rubble[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1 Recruit
+Draw a card.
+If there are at least two Bystanders in your Victory Pile, [b]Transform[/b] this into Hiroim Redeemed.
+Cost: 4
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Hiroim Redeemed[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+1+ Attack
+You get +1 Attack for every two Bystanders in your Victory Pile.
+Cost: 5
+[size=8][i]His hard-won realization: A prophecy doesn't make you important. Your actions do.[/i][/size]
+
+[i]Mystic Shadow Priest[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+Warbound: You may KO a 0-cost card from any player's discard pile. If you KO a Wound this way, rescue a Bystander.
+Cost: 6
+
+[i]Blade Of The People[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+Choose one: Rescue three Bystanders, or defeat any Villain or Mastermind whose Attack is less than the number of Bystanders in your Victory Pile.
+Cost: 7
+
+
+
+[size=10][i][b]Hulkbuster Iron Man[/b][/i][/size]
+Avengers
+
+[i]Pound For Pound[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +2 Attack.
+Cost: 2
+[size=8][i]In the end, what matters isn't the iron, it's the man.[/i][/size]
+
+[i]Attune Techtonic Transducer[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Outwit[/b]: [b]Smash 2[/b]
+Cost: 4
+[size=8][i]Sometimes being smart means figuring out a better way to smash something.[/i][/size]
+
+[i]Build The Suit[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Recruit
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Transform[/b] this into Ultra-Massive Armor
+Cost: 5
+[size=8][i]Tony Stark has specialized suits for many occasions. This one is specialized for may concussions.[/i][/size]
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Ultrama-Massive Armor[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
+Draw two cards.
+[b]Smash 2[/b]
+Cost: 6
+[size=8][i]With typical arrogance, Iron Man believes he can out Hulk the Hulk[/i][/size]
+
+[i]Final Battle[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5+ Attack
+You get +2 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] and/or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+Cost: 8
+
+
+
+[size=10][i][b]Joe Fixit, Grey Hulk[/b][/i][/size]
+Crime Syndicate
+
+[i]Carefully Considered Smashing[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
+0+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Smash 2[/b]
+Cost: 3
+
+[i]Threaten And Bribe[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Recruit
+Choose a Villain. You can spend any combination of Recruit and Attack to fight it this turn.
+Cost: 4
+
+[i]Ambitious Enforcer[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Attack
+When you defeat a Villain this turn that has 6 Attack or more, [b]Transform[/b] this into Underworld Boss and put it on top of your deck.
+Cost: 6
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Underworld Boss[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Attack
+Choose a Villain in your Victory Pile, You get + Attack equal to it's printed VP.
+Cost: 6
+[size=8][i]"Once I was the strongest there is. Now I'm everything there is."[/i][/size]
+
+[i]Hulk Ruins This Town[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4 Attack
+You can spend any combination of Recruit and Attack to fight the Mastermind this turn.
+Cost: 7
+
+
+
+[size=10][i][b]Korg[/b][/i][/size]
+Warbound
+
+[i]Nothing Beats Rock[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+Draw a card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Smash 2.[/b] If you [b]Smash[/b] a Wound this way, KO it.
+Cost: 2
+
+[i]Move Mountains[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Attack
+[b]Outwit[/b]: Draw a card.
+Cost: 4
+[size=8][i]Nobody expects to be outwitted by a pile of rocks.[/i][/size]
+
+[i]Forged By Fire[/i] (3 copies)
+2 Recruit
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Transform[/b] this into Lord of Granite.
+Cost: 3
+[size=8][i]After a while, it gets hard to tell if you're being hit by fist-sized rocks or rock-sized fists.[/i][/size]
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Lord of Granite[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Attack
+Draw a card.
+[b]Smash 3[/b]
+Cost: 5
+[size=8][i]Korg was forced to slay his own brother Margus, whose will was broken by the Red King's Obedience Discs.[/i][/size]
+
+[i]Kronan Tactician[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+Put all cards from the HQ on the bottom of the Hero Deck in random order. You get their total printed Attack.
+Cost: 8
+
+
+
+[size=10][i][b]Miek, The Unhived[/b][/i][/size]
+Warbound
+
+[i]This Bug Smashes You[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Smash 1[/b]
+Cost: 3
+
+[i]Devouring Frenzy[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Recruit
+Look at the top card of your deck. Put it back on the top or bottom.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may [b]Feast.[/b]
+Cost: 4
+
+[i]Endless Appetite[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Attack
+Whenever a card is KO'd from your deck this turn, you may draw a card.
+Cost: 5
+[size=8][i]If he's not supposed to eat people, why are they so delicious?[/i][/size]
+
+[i]Metamorphosis[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+5 Recruit
+You may [b]Feast.[/b] Then, if a card with an Attack icon was KO'd from your deck this turn, [b]Transform[/b] this into Hive King Miek.
+Cost: 7
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Hive King Miek[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+6 Attack
+Look at the top three cards of your deck and put them back in any order. Then you may [b]Feast[/b].
+Cost: 8
+
+
+
+[size=10][i][b]Namora[/b][/i][/size]
+Champions
+
+[i]Crushing Tsunami[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Attack
+Draw a card.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: [b]Smash 3[/b]
+Cost: 3
+[size=8]There's more than one way to smash a problem.[i][/i][/size]
+
+[i]Heart Of The Ocean[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Attack
+You get +1 Attack, usable only against Villains in the Sewers or Bridge or the Mastermind.
+Cost: 4
+
+[i]Herculean Effort[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3 Recruit
+When you defeat a Villain in the Sewers or Bridge, [b]Transform[/b] this into Master of Depths and put it on top of your deck.
+Cost: 5
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Master of Depths[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Smash 3[/b]
+If you [b]Smash[/b] a 0-cost Hero this way, KO it.
+Cost: 6
+
+[i]Turning The Tide[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+5 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: If the Bridge is empty, you may move a Villain there from another city space. A Villain moved this way gets -3 Attack this turn.
+Cost: 7
+
+
+
+[size=10][i][b]No-Name, Brood Queen[/b][/i][/size]
+Warbound
+
+[i]Surprise Attack[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1 Attack
+If this is the first card you played this turn, draw a card.
+Cost: 2
+[size=8][i]When you block her teeth, tail, claws, wings, and tentacle, that's when she gets you with her other tentacle.[/i][/size]
+
+[i]Appetite For Destruction[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+Look at the top card of your deck. Discard it or put it back.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may [b]Feast.[/b]
+Cost: 4
+
+[i]Bursting With Life[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
+You may [b]Feast.[/b] Then, if a non-grey Hero was KO'd from you deck this turn, [b]Transform[/b] this into Torrent of Broodlings.
+Cost: 3
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Torrent of Broodlings[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+Draw a card.
+Cost: 5
+[size=8][i]A whole new generation of hunger.[/i][/size]
+
+[i]World Spanning Hunger[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+4+ Attack
+Look at the top card of your deck. Then [b]Feast[/b] up to three times. You get +2 Attack for each non-grey Hero that was KO'd from you deck this turn.
+Cost: 8
+
+
+
+[size=10][i][b]Rick Jones[/b][/i][/size]
+S.H.I.E.L.D.
+
+[i]Hacktivist[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it's a S.H.I.E.L.D., draw it.
+Cost: 3
+[size=8][i]Rick jones has impressive skills even before life transformed him into a variety of superheroes.[/i][/size]
+
+[i]Seek The Nega-Bands[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Recruit
+Reveal the top card of your deck. If it costs 3 or more, [b]Transform[/b] this into Captain Marvel.
+Cost: 4
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Captain Marvel[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+Reveal the top card of your deck. If it costs 3 or more, draw it.
+Cost: 5
+[size=8][i]An alien Kree, Mar-Vell channels psionic energy into massive strength and psychic illusions.[/i][/size]
+
+[i]Irradiated Blood[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Attack
+If you have at least 5 Villains in your Victory Pile, [b]Transform[/b] this into A-Bomb and put it on top of your deck.
+Cost: 5
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]A-Bomb[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Smash 5[/b]
+Cost: 6
+[size=8][i]A beast of few words.[/i][/size]
+
+[i]Caught In Kree-Skrull War[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4 Attack
+If you defeat two Villains this turn, [b]Transform[/b] this into The Destiny Force and put it on top of your deck.
+Cost: 7
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]The Destiny Force[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+Count the number of different printed VP values in your Victory Pile. Draw that many cards.
+Cost: 9
+
+
+
+[size=10][i][b]Sentry[/b][/i][/size]
+Avengers
+
+[i]Agoraphobia[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Transform[/b] this into Golden Guardian of Good and put it in your discard pile.
+Cost: 2
+[size=8][i]If half the time you went out, you transformed into a terrifying demon, you'd have social anxiety too.[/i][/size]
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Golden Guardian of Good[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+You may [b]Transform[/b] this into Agoraphobia and put it in your discard pile. If you do, you get +4 Attack.
+Cost: 6
+
+[i]Rival Personalities[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+Attack
+You get +1 Attack for each card that [b]Transformed[/b] this turn.
+Cost: 4
+
+[i]Mournful Sentinel[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Recruit
+Reveal the top card of your deck. If it costs 1 or more, [b]Transform[/b] this into The Void Unchained and put it on top of your deck.
+Cost: 3
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]The Void Unchained[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+Reveal the top card of your deck. If it costs 0, then [b]Feast[/b]. Otherwise, [b]Transform[/b] this into Mournful Sentinel and put it in your discard pile.
+Cost: 5
+
+[i]Vast Unstable Power[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Attack
+Reveal the top five cards of the Hero Deck, gain their total printed Attack, and put them on the bottom of that deck. If this card makes 12 Attack or more, then [b]Transform[/b] this card into The Void Mastermind and add it to the game at the start of the next turn with one random Tactic.
+Cost: 8
+
+
+
+[size=10][i][b]She-Hulk[/b][/i][/size]
+Avengers
+
+[i]Hurl Legal Objections[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Recruit
+Once this turn, if you made at least 6 Recruit this turn, [b]Transform[/b] this into Hurl Trucks.
+Cost: 3
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Hurl Trucks[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Smash 2[/b]
+[b]Smash 2[/b]
+Cost: 6
+[size=8][i]Some courtroom opponents are afraid to make objections.[/i][/size]
+
+[i]Window Of Opportunity[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Outwit[/b]: Draw a card.
+Cost: 4
+[size=8][i]Her law firm's monthly budget includes a lot of windows.[/i][/size]
+
+[i]Radioactive Riot[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Attack
+Once this turn, if you made at least 6 Recruit this turn, you may KO a card from your hand or discard pile.
+Cost: 6
+
+[i]Jade Giantess[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+4 Recruit
+0+ Attack
+For every 2 Recruit you made this turn, Reveal the top card of the Hero Deck, put it on the bottom of that deck, and you get that card's printed Attack.
+Cost: 8
+
+
+
+[size=10][i][b]Skaar, Son Of Hulk[/b][/i][/size]
+Avengers
+
+[i]Anger Management[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+1+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Smash 3[/b]
+Cost: 3
+[size=8][i]Sometimes the best way to control your anger is to obliterate the thing that made you mad.[/i][/size]
+
+[i]Scarred Past[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Wounded Fury.[/b]
+Cost: 3
+[size=8][i]Getting hurt makes Skaar stronger. Growing up without parents gave him a lot to work with.[/i][/size]
+
+[i]Mood Swings[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Recruit
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may gain a Wound. If you do, [b]Transform[/b] this into Raging Savage.
+Cost: 5
+[size=8][i]Skaar's moods swing wildly, from extremely angry to absolutely furious.[/i][/size]
+
+[COLOR=#FF0000]Transformed[/COLOR]
+[i]Raging Savage[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3+ Attack
+[b]Wounded Fury[/b]
+Cost: 6
+[size=8][i]The only time Skaar isn't feeling pain is when he's making someone else feel pain.[/i][/size]
+
+[i]Planetary-Level Revenge[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+4+ Attack
+[b]Wounded Fury[/b]
+Then, you may KO any number of Wounds from your hand and/or discard pile, then draw that many cards.
+Cost: 8
+
+
+
 == Marvel Studios Phase 1 ==
 
 
