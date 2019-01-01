@@ -183,6 +183,28 @@ When you rescue this Bystander, gain it as a Hero.
 Cost: 3
 
 
+== World War Hulk ==
+
+[size=10][i][b]Actor[/b][/i][/size] (1 copy)
+When you rescue this Bystander, choose a Hero in the HQ that costs 4 or less. You get its printed Recruit and Attack.
+VP: 1
+
+
+[size=10][i][b]Animal Trainer[/b][/i][/size] (1 copy)
+When you rescue this Bystander, each [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and/or [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero currently in the HQ costs 1 less this turn.
+VP: 1
+
+
+[size=10][i][b]Tourist Couple[/b][/i][/size] (1 copy)
+When you rescue this Bystander, you get +1 Recruit if the Rooftops are empty and +1 Recruit if the Bridge is empty.
+VP: 1
+
+
+[size=10][i][b]Triage Nurse[/b][/i][/size] (1 copy)
+When you rescue this Bystander, look at the top three cards of your deck. KO one, discard one, and put one back.
+VP: 1
+
+
 == 3D ==
 
 [size=10][i][b]Bulldozer Driver[/b][/i][/size] (? copies)
@@ -217,10 +239,32 @@ When you rescue this Bystander, reveal the top two cards of your deck. Put any t
 [b]VP[/b]: 1
 
 
+== Marvel Studios Phase 1 ==
+
+[size=10][i][b]Bystander[/b][/i][/size] (30 copies)
+VP: 1
+
+[size=10][i][b]Happy Hogan[/b][/i][/size] (3 copies)
+When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.
+VP: 1
+
+[size=10][i][b]Jane Foster[/b][/i][/size] (3 copies)
+When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.
+VP: 1
+
+[size=10][i][b]Peggy Carter[/b][/i][/size] (3 copies)
+When you rescue this Bystander, draw a card.
+VP: 1
+
+[size=10][i][b]Pepper Potts[/b][/i][/size] (3 copies)
+When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.
+VP: 1
+
+
 
 [size=16][b]Setup Cards[/b][/size]
 
-== Legendary ==
+== Legendary == and also == Marvel Studios Phase 1 ==
 
 [size=10][i][b]S.H.I.E.L.D. Officer[/b][/i][/size]
 [i]Maria Hill[/i] (30 copies)
@@ -325,7 +369,7 @@ Cost: 2
 
 [size=16][b]Starting Deck Cards[/b][/size]
 
-== Legendary ==
+== Legendary == and also == Marvel Studios Phase 1 ==
 
 [size=10][i][b]S.H.I.E.L.D. Agent[/b][/i][/size] (8 copies in starting deck)
 S.H.I.E.L.D.
@@ -360,7 +404,7 @@ Cost: 0
 
 [size=16][b]Wounds and Bindings[/b][/size]
 
-== Legendary ==
+== Legendary == and also == Marvel Studios Phase 1 ==
 
 [size=10][i][b]Wound[/b][/i][/size] (30 copies)
 [b]Healing[/b]: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.

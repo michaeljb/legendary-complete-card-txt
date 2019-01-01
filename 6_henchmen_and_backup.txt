@@ -163,4 +163,47 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 
 
+== World War Hulk ==
+
+[size=10][i][b]Cytoplasm Spikes[/b][/i][/size]
+[b]Fight[/b]: [b]Feast[/b]. If Cytoplasm Spikes feasts on a non-grey Hero, you get +2 Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]Death's Heads[/b][/i][/size]
+[b]Fight[/b]: If you [b]Outwit[/b] these Death's Heads, KO one of your cards that costs 0.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+
+[size=10][i][b]Sakaaran Hivelings[/b][/i][/size]
+[b]Fight[/b]: Look at the top card of your deck. Put it back on the top or bottom. Then [b]Feast[/b].
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+
+
+== Marvel Studios Phase 1 ==
+
+[size=10][i][b]Hammer Drone Army[/b][/i][/size]
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]HYDRA Pilots[/b][/i][/size]
+[b]Fight[/b]: You get +1 Recruit.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]HYDRA Spies[/b][/i][/size]
+[b]Fight[/b]: When you draw a new hand of cards at the end of this turn, draw an extra card.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+[size=10][i][b]Ten Rings Fanatics[/b][/i][/size]
+[b]Fight[/b]: Look at the top two cards of your deck. KO one of them and put the other back.
+[b]Attack[/b]: 3
+[b]VP[/b]: 1
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

@@ -843,14 +843,14 @@ VP: 6
 == X-Men ==
 
 [size=10][i][b]Arcade[/b][/i][/size]
-[b]Start of Game[/b]: Arcard captures 5 Human Shields.
+[b]Start of Game[/b]: Arcade captures 5 Human Shields.
 [b]Always Leads[/b]: Murderworld
 [b]Master Strike[/b]: Arcade captures a random Bystander from each player's Victory Pile as a Human Shield. Each player who didn't have a Bystander gains a Wound instead.
 Attack: 3*
 VP: 5
 
 [size=10][i][b]Epic Arcade[/b][/i][/size]
-[b]Start of Game[/b]: Arcard captures 8 Human Shields. Play a random Horror.
+[b]Start of Game[/b]: Arcade captures 8 Human Shields. Play a random Horror.
 [b]Always Leads[/b]: Murderworld
 [b]Master Strike[/b]: Arcade captures two random Bystanders from each player's Victory Pile as a Human Shield. Each player who didn't have two Bystanders gains a Wound instead.
 Attack: 4*
@@ -899,14 +899,14 @@ VP: 7
 
 
 [size=10][i][b]Deathbird[/b][/i][/size]
-Deathbird gets +1 Attack for each Shi'ar Villain in teh city and Escape Pile.
+Deathbird gets +1 Attack for each Shi'ar Villain in the city and Escape Pile.
 [b]Always Leads[/b]: Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
 [b]Master Strike[/b]: If there are already any Shi'ar Villains in the city, each player gains a Wound. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 7 Attack worth 5 VP.
 Attack: 8+
 VP: 6
 
 [size=10][i][b]Epic Deathbird[/b][/i][/size]
-Deathbird gets +2 Attack for each Shi'ar Villain in teh city and Escape Pile.
+Deathbird gets +2 Attack for each Shi'ar Villain in the city and Escape Pile.
 [b]Always Leads[/b]: Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
 [b]Master Strike[/b]: If there are already any Shi'ar Villains in the city, play a random Horror. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 9 Attack worth 6 VP.
 Attack: 8+
@@ -1124,6 +1124,317 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 [i]Jester of a Twisted Opera[/i]
 [b]Fight[/b]: Each other player may KO a card from their discard pile that costs 1 or more. [b]Demolish[/b] each of those players who does not.
 
+
+== World War Hulk ==
+
+[size=10][i][b]General Ross[/b][/i][/size]
+
+[b]Start of Game:[/b] Stack 8 Bystanders next to General Ross as "Helicopter" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight General Ross while he has any Helicopters.
+[b]Always Leads[/b]: Code Red
+[b]Master Strike[/b]:  General Ross Transforms, then [b]Cross-Dimensional Hulk Rampage[/b].
+[b]Attack[/b]: 6*
+[b]VP[/b]: 6
+
+[size=10][i][b]Red Hulk [COLOR=#FF0000](Mastermind, Transformed)[/COLOR][/b][/i][/size]
+
+[b]Wounded Fury[/b]
+You can't fight Helicopters, and they don't stop you from fighting Red Hulk.
+[b]Master Strike:[/b] Red Hulk [b]Transforms[/b], then stack a random Bystander from each player's Victory Pile next to this as a Helicopter. Each player who didn't have a Bystander gains a Wound instead.
+[b]Attack[/b]: 9+
+[b]VP[/b]: 6
+
+[i]Bust You Down to Private[/i]
+[b]Fight[/b]: Each other player puts a non-grey Hero from their hand on the bottom of the Hero Deck, then puts a 0-cost Hero from the KO pile into their hand.
+This Mastermind [b]Transforms[/b].
+
+[i]Call Out the Army[/i]
+[b]Fight[/b]: Put 3 Bystanders from the Bystander Stack next to this Mastermind as "Helicopters."
+This Mastermind [b]Transforms[/b].
+
+[i]Personal Arsenal[/i]
+[b]Fight[/b]: For each Master Strike in the KO pile, put a Bystander from the Bystander Stack next to the Mastermind as a "Helicopter."
+This Mastermind [b]Transforms[/b].
+
+[i]Urban Warfare[/i]
+[b]Fight[/b]: Put a random Bystander next to the Mastermind as a "Helicopter" from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.
+This Mastermind [b]Transforms[/b].
+
+
+[size=10][i][b]Illuminati, Secret Society[/b][/i][/size]
+
+This Mastermind gets +4 Attack unless you [b]Outwit[/b] them.
+[b]Always Leads[/b]: Illuminati.
+[b]Master Strike[/b]: Each player reveals their hand and discards two cards that each cost between 1 and 4. The Illuminati [b]Transform[/b].
+[b]Attack[/b]: 11+
+[b]VP[/b]: 7
+
+[size=10][i][b]Illuminati, Open Warfare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR][/b][/i][/size]
+
+Whenever a card effect causes a player to draw any number of cards, that player must then also discard a card.
+[b]Master Strike[/b]: Each player reveals their hand and discards two cards that each cost between 5 and 8. The Illuminati [b]Transform[/b].
+[b]Attack[/b]: 13
+[b]VP[/b]: 7
+
+[i]Black Bolt's Omni-Shout[/i]
+[b]Fight[/b]: Each other player reveals their hand and discards two cards with no rules text.
+The Illuminati [b]Transform[/b].
+
+[i]Dr. Strange's Orb of Agamotto[/i]
+[b]Fight[/b]: Each other player reveals their hand and discards a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] or [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero.
+The Illuminati [b]Transform[/b].
+
+[i]Hulkbuster's Hammer Fist[/i]
+[b]Fight[/b]: Each other player reveals their hand and KOs a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero from their hand or discard pile.
+The Illuminati [b]Transform[/b].
+
+[i]Zom's Manacles of Living Bondage[/i]
+[b]Fight[/b]: Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.
+The Illuminati [b]Transform[/b].
+
+
+[size=10][i][b]King Hulk, Sakaarson[/b][/i][/size]
+
+King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape Pile.
+[b]Always Leads[/b]: Warbound.
+[b]Master Strike[/b]: Each player KO's a Warbound Villain from their Victory Pile or gains a Wound. King Hulk [b]Transforms[/b].
+[b]Attack[/b]: 9+
+[b]VP[/b]: 6
+
+[size=10][i][b]King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR][/b][/i][/size]
+
+[b]Wounded Fury[/b]
+[b]Master Strike[/b]: Each player reveals their hand, then KO's a card from their hand or discard pile that has the same card name as a card in the HQ. King Hulk [b]Transforms[/b].
+[b]Attack[/b]: 10+
+[b]VP[/b]: 6
+
+[i]Fury of the Green Scar[/i]
+[b]Fight[/b]: Each other player reveals their hand and discards a Hero that isn't grey and isn't [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].
+King Hulk [b]Transforms[/b].
+
+[i]Oath of the Warbound[/i]
+[b]Fight[/b]: The Villain in the Escape Pile with the highest printed Attack enters the Sewers.
+King Hulk [b]Transforms[/b].
+
+[i]Revenge From the Stars[/i]
+[b]Fight[/b]: After you put this in your Victory Pile, [b]Cross-Dimensional Hulk Rampage[/b].
+King Hulk [b]Transforms[/b].
+
+[i]Rule By the Strongest[/i]
+[b]Fight[/b]: You get +1 Recruit for each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes.
+King Hulk [b]Transforms[/b].
+
+
+[size=10][i][b]M.O.D.O.K.[/b][/i][/size]
+All cards' [b]Outwit[/b] abilities require four different costs instead of three.
+[b]Always Leads[/b]: Intelligencia.
+[b]Master Strike[/b]: Each player who can't [b]Outwit[/b] M.O.D.O.K. gains a Wound, then M.O.D.O.K. [b]Transforms[/b].
+[b]Attack[/b]: 9
+[b]VP[/b]: 6
+
+[size=10][i][b]M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR][/b][/i][/size]
+You can only fight M.O.D.O.K with Recruit, not Attack.
+[b]Master Strike[/b]: Each player who can't [b]Outwit[/b] M.O.D.O.K. KO's a non-grey Hero from their discard pile. M.O.D.O.K. [b]Transforms[/b].
+[b]Attack[/b]: 8*
+[b]VP[/b]: 6
+
+[i]Brain Scramble[/i]
+[b]Fight[/b]: Each other player discards their hand, then draws as many cards as they discarded.
+M.O.D.O.K. [b]Transforms[/b].
+
+[i]Designed Only For...K.O.ING[/i]
+[b]Fight[/b]: Reveal the top three cards of your deck. KO one of them, draw one, and discard one.
+M.O.D.O.K. [b]Transforms[/b].
+
+[i]Don't Get a Big head About It[/i]
+[b]Fight[/b]: Draw a card for each Intelligencia Villain in your Victory Pile.
+M.O.D.O.K. [b]Transforms[/b].
+
+[i]Redundancy Algorithim[/i]
+[b]Fight[/b]: Each other player reveals their hand and discards two cards that hand the same cost.
+M.O.D.O.K. [b]Transforms[/b].
+
+
+[size=10][i][b]The Red King[/b][/i][/size]
+You can't fight the Red King while any Villains are in the city.
+[b]Always Leads[/b]: Sakaar Imperial Guard.
+[b]Master Strike[/b]: The Red King [b]Transforms[/b], then each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card or gains a Wound.
+[b]Attack[/b]: 7*
+[b]VP[/b]: 6
+
+[size=10][i][b]The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR][/b][/i][/size]
+[b]Master Strike[/b]: The Red King Transforms, then play another card from the Villain Deck.
+[b]Attack[/b]: 10
+[b]VP[/b]: 6
+
+[i]Haughty Spite[/i]
+[b]Fight[/b]: Each other player without a Red King Tactic in their Victory Pile gains a Wound.
+The Red King [b]Transforms[/b].
+
+[i]Royal Bodyguard[/i]
+[b]Fight[/b]: Reveal cards from the Villain Deck until you reveal a Sakaar Imperial Guard. If you find one, play it. Either way, shuffle all the other revealed cards back into the Villain Deck.
+The Red King [b]Transforms[/b].
+
+[i]Treasury of Sakaar[/i]
+[b]Fight[/b]: You get +1 Recruit for each Sakaar Imperial Guard and Red King Tactic in your Victory Pile, including this one.
+The Red King [b]Transforms[/b].
+
+[i]Vast Armies of Sakaar[/i]
+[b]Fight[/b]: If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order.
+The Red King [b]Transforms[/b].
+
+
+[size=10][i][b]The Sentry[/b][/i][/size]
+[b]Start of Game[/b]: Shuffle 2 Wounds into each player's deck before drawing starting hands.
+[b]Always Leads[/b]: Aspects of the Void.
+[b]Master Strike[/b]: The Sentry [b]Transforms[/b], then [b]Cross-Dimensional Void Rampage[/b].
+[b]Attack[/b]: 10
+[b]VP[/b]: 6
+
+[size=10][i][b]The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR][/b][/i][/size]
+[b]Wounded Fury[/b]
+[b]Master Strike[/b]: [b]Feast[/b] on each player. If this feasts on a player's grey Hero, that player gains a Wound.
+The Void [b]Transforms[/b].
+[b]Attack[/b]: 11+
+[b]VP[/b]: 6
+
+[i]Pacifying Light[/i]
+[b]Fight[/b]: Each other player reveals their hand and discard two cards with Recruit icons.
+This Mastermind [b]Transforms[/b].
+
+[i]Power of a Million Exploding Suns[/i]
+[b]Fight[/b]: Put all Heroes from the HQ on the bottom of the Hero Deck. Each other player reveals their hand and discards each card with the same card name as any of those cards.
+This Mastermind [b]Transforms[/b].
+
+[i]Reflexive Teleportation[/i]
+[b]Fight[/b]: Choose one of your Heroes that costs 5 or less. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as an extra card.
+This Mastermind [b]Transforms[/b].
+
+[i]Repressed Darkness[/i]
+[b]Fight[/b]: Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or plays an Aspects of the Void Villain from their Victory Pile as if playing it from the Villain Deck.
+This Mastermind [b]Transforms[/b].
+
+
+== Marvel Studios Phase 1 ==
+
+[size=10][i][b]Iron Monger[/b][/i][/size]
+
+[b]Bank Conqueror 4[/b]
+[b] Always Leads:[/b] Iron Foes
+[b]Master Strike:[/b] If there is a Villain in the Bank, each player gains a Wound. Otherwise, put this Master Strike into the Bank as a 6 Attack “StaneTech Weaponry” Villain worth 4VP.
+[b]Attack:[/b] 9+
+[b]VP:[/b] 5
+
+[i]Hostile Takeover[/i]
+[b]Fight:[/b] If there are no Villains in the bank, reveal the top card of the Villain Deck. If it’s a Villain, it enters the Bank.
+
+[i]Overloaded Arsenal [/i]
+[b]Fight:[/b] Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound. Then each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+
+[i]Sonic Stunner[/i]
+[b]Fight:[/b] Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards.
+
+[i]Unexpected Betrayal [/i]
+[b]Fight:[/b] If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.[/q]
+
+
+[size=10][i][b]Loki[/b][/i][/size]
+
+[b]Always Leads[/b]: Enemies of Asgard
+[b]Master Strike[/b]: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
+Attack: 10
+VP: 5
+
+[i]Cruel Ruler[/i]
+[b]Fight[/b]: Defeat a Villain in the City for free.
+
+[i]Maniacal Tyrant[/i]
+[b]Fight[/b]: KO up to four cards from your discard pile.
+
+[i]Vanishing Illusions[/i]
+[b]Fight[/b]: Each other player KOs a Villain from their Victory Pile.
+
+[i]Whispers and Lies[/i]
+[b]Fight[/b]: Each other player KOs two Bystanders from their Victory Pile.
+
+
+[size=10][i][b]Red Skull[/b][/i][/size]
+
+[b]Always Leads[/b]: HYDRA
+[b]Master Strike[/b]: Each player KOs a Hero from their hand.
+Attack: 7
+VP: 5
+
+[i]Endless Resources[/i]
+[b]Fight[/b]: You get +4 Recruit.
+
+[i]HYDRA Conspiracy[/i]
+[b]Fight[/b]: Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile.
+
+[i]Negablast Grenades[/i]
+[b]Fight[/b]: You get +3 Attack.
+
+[i]Ruthless Dictator[/i]
+[b]Fight[/b]: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
+
+
+== Ant-Man ==
+
+[size=10][i][b]Ultron[/b][/i][/size]
+
+[b]Always Leads:[/b] Ultron's Legacy
+[b]Master Strike:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a "Threat Analysis pile" next to Ultron. Ultron is [b]Empowered[/b] by each color in his Threat Analysis pile.
+Attack: 9+
+VP: 6
+
+[size=10][i][b]Epic Ultron[/b][/i][/size]
+
+[b]Always Leads:[/b] Ultron's Legacy
+[b]Master Strike:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a "Threat Analysis pile" next to Ultron. Ultron is [b]Triple Empowered[/b] by each color in his Threat Analysis pile.
+Attack: 10+
+VP: 6
+
+[i]Arrogant Blindspot[/i]
+[b]Fight:[/b] You may gain a Hero from Ultron's Threat Analysis pile.
+
+[i]Paralyzing Encephalo-Ray[/i]
+[b]Fight:[/b] Each other player reveals their hand and discards each card that has the same card name as any card in Ultron's Threat Analysis pile.
+
+[i]Predictive Analysis[/i]
+[b]Fight:[/b] Put the top three cards of the Hero Deck into Ultron's Threat Analysis pile.
+
+[i]Self-Repairing Legions[/i]
+[b]Fight:[/b] Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space.
+
+
+
+[size=10][i][b]Morgana Le Fay[/b][/i][/size]
+
+[b]Chivalrous Duel[/b]
+[b]Always Leads:[/b] Queen's Vengeance
+[b]Master Strike:[/b] Each player in turn reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a 0-cost Hero or Wound from the KO pile.
+Attack: 7*
+VP: 6
+
+
+[size=10][i][b]Epic Morgan Le Fay[/b][/i][/size]
+
+[b]Chivalrous Duel[/b]
+[b]Always Leads:[/b] Queen's Vengeance
+[b]Master Strike:[/b] Each player in turn gains a Wound, then gains a 0-cost Hero from the KO pile.
+Attack: 9*
+VP: 6
+
+[i]Reverse the Flow of Time[/i]
+[b]Fight:[/b] For the rest of the game, players take turns in the opposite order around the table.
+
+[i]Sorcerous Blasts[/i]
+[b]Fight:[/b] Each other player discards a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.
+
+[i]Stolen Tomes of Merlin[/i]
+[b]Fight:[/b] You get +4 Recruit usable only for recruiting [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and/or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Heroes.
+
+[i]Transmogrify[/i]
+[b]Fight:[/b] Each other player in turn KOs a non-grey Hero from their discard pile, then gains a card from the KO pile that has a lower cost.
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]

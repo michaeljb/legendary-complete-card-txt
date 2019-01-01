@@ -1179,7 +1179,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 
 [i]Captain Zolandia[/i] (2 copies)
 Abomination
-[b]Fight:[/b] You get +1 for each Hero Class you have.
+[b]Fight:[/b] You get +1 Recruit for each Hero Class you have.
 [b]Attack:[/b] 6+
 [b]VP:[/b] 5
 
@@ -1708,6 +1708,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 4
 ---------
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 [b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: The next Hero you recruit from the HQ has Soaring Flight.
 2 Attack
 
@@ -1715,6 +1716,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 5
 ---------
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 [b]X-Gene[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
 2 Attack
 
@@ -1723,6 +1725,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 7
 ---------
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Return a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from your discard pile to your hand.
 3 Attack
 
@@ -1730,6 +1733,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 5
 ---------
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [b]X-Gene[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Draw a card.
 2 Attack
 
@@ -1738,6 +1742,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 [b]Fight:[/b] Gain this as a Hero.
 [b]Attack:[/b] 4+
 ---------
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 [b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Rescue a Bystander.
 2 Attack
 
@@ -1967,6 +1972,476 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 [b]Ambush:[/b] For each Wrecking Crew Villain in the city, (including this one), [b]Demolish[/b] each player.
 [b]Attack:[/b] 7
 [b]VP:[/b] 5
+
+
+== World War Hulk ==
+
+[size=10][i][b]Aspects of the Void[/b][/i][/size]
+
+[i]Black Anti-Hurricane[/i] (2 copies)
+[b]Fight[/b]: Each player simultaneously puts a card from their discard pile into the discard pile of the player to their right.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 6
+[b]VP[/b]: 4
+
+[i]Demonform[/i] (1 copy)
+[b]Fight[/b]: [b]Feast[/b]. If Demonform feasts on a non-grey Hero, gain a Hero from the HQ of that cost or less.
+[b]Attack[/b]: 7
+[b]VP[/b]: 5
+
+[i]Infini-Tendrils[/i] (2 copy)
+[b]Wounded Fury
+Ambush[/b]: Infini-Tendrils captures a Bystander.
+[b]Attack[/b]: 6+
+[b]VP[/b]: 3
+
+[i]Psychotic Break[/i] (1 copy)
+[b]Trap!
+Ambush[/b]: Play another card from the Villain Deck.
+[b]By End of Turn[/b]: Defeat a Villain.
+[b]Or Suffer[/b]: [i](After you draw your new hand)[/i] Psychotic Break becomes a Master Strike that takes effect immediately.
+[b]VP[/b]: 2
+
+[i]Shadow Man[/i] (2 copies)
+[b]Fight[/b]: You get +2 Recruit.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+[size=8][i]Some briefly think the Shadow Man is the heroic Sentry. The thought doesn't last long.[/i][/size]
+
+[size=10][i][b]Code Red[/b][/i][/size]
+
+[i]Caught Red-Handed[/i] (1 copy)
+[b]Trap!
+By End of Turn[/b]: Recruit a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or recruit any two Heroes.
+[b]Or Suffer[/b]: [i](After you draw your new hand)[/i] Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]VP[/b]: 3
+
+[i]Crimson Dynamo[/i] (2 copies)
+[b]Fight[/b]: Choose a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero in the HQ. It costs 2 less this turn.
+[b]Attack[/b]: 4
+[b]VP[/b]: 2
+
+[i]Elektra, Red Blades[/i] (2 copies)
+[b]Fight[/b]: If you played a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero this turn, KO one of your Heroes.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+[i]Punisher, Red Dot Sniper[/i] (1 copy)
+[b]Fight[/b]: Reveal the top card of your deck. If it costs 0, KO it. If it's [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], draw it.
+[b]Attack[/b]: 6
+[b]VP[/b]: 4
+
+[i]Red She-Hulk[/i] (1 copy)
+[b]Wounded Fury
+Fight[/b]: Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 6+
+[b]VP[/b]: 5
+
+[i]Thundra[/i] (1 copy)
+Thundra gets +2 Attack if there are any number of [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes in the HQ.
+[b]Ambush[/b]: Put each non-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero from the HQ on the bottom of the Hero Deck.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 3
+
+
+[size=10][i][b]Illuminati[/b][/i][/size]
+
+[i]Black Bolt[/i] (2 copies)
+During your turn, any number of times, you may discard a card that has no rules text to give Black Bolt -2 Attack this turn.
+[b]Escape[/b]: Each player discards a card with no rules text.
+[b]Attack[/b]: 13*
+[b]VP[/b]: 5
+
+[i]Dr. Strange[/i] (2 copies)
+[b]Ambush[/b]: Each player who can't [b]Outwit[/b] Dr. Strange discards a card.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+[i]Dr. Strange, Possessed by Zom[/i] (1 copy)
+This Villain gets +1 Attack for each Bystander in the city.
+[b]Ambush[/b]: This Villain captures 3 Bystanders.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 3
+
+[i]Enchant the Hulk[/i] (1 copy)
+[b]Trap!
+By End of Turn[/b]: Discard two cards of the same Hero Class or recruit two cards of the same Hero Class. ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], but not grey)
+[b]Or Suffer[/b]: [i](After you draw your new hand)[/i] [b]Cross-Dimensional Hulk Rampage
+VP[/b]: 4
+
+[i] Hulkbuster Iron Man[/i] (2 copies)
+Hulkbuster Iron Man gets +3 Attack unless you [b]Outwit[/b] him.
+[b]Escape[/b]: [b]Cross-Dimensional Illuminati Rampage
+Attack[/b]: 6+
+[b]VP[/b]: 4
+
+
+[size=10][i][b]Intelligencia[/b][/i][/size]
+
+[i]Battle of Wits[/i] (2 copies)
+[b]Trap!
+By the End of the Turn[/b]: [b]Outwit[/b] this trap.
+[b]Or Suffer[/b]: [i](After you draw your new turn)[/i] Each player discards down to 4 cards.
+[b]VP[/b]: 3
+
+[i]Cosmic Hulk Robot[/i] (2 copies)
+[b]Wounded Fury
+Ambush[/b]: Each player who can't [b]Outwit[/b] Cosmic Hulk Robot gains a Wound.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 5+
+[b]VP[/b]: 4
+
+[i]Doc Samson[/i] (2 copies)
+Doc Samson has +4 Attack unless you [b]Outwit[/b] him.
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 3
+
+[i]The Leader, Gamma Fiend[/i] (2 copies)
+[b]Ambush[/b]: If you can't [b]Outwit[/b] the Leader, play the top card of the Villain Deck.
+[b]Fight[/b]: Same effect.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+
+[size=10][i][b]Sakaar Imperial Guard[/b][/i][/size]
+
+[i]Gladiators' Colosseum[/i] (1 copy)
+[b]Trap!
+By the End of the Turn[/b]: Only play cards from a single Team of your choice this turn (e.g. S.H.I.E.L.D., AVENGERS, X-MEN, WARBOUND, etc.)
+[b]Or Suffer[/b]: [i](After you draw your new hand)[/i] Each player reveals their hand, chooses a Team, and discards all cards that don't belong to that Team.
+[b]VP[/b]: 4
+
+[i]Great Devil Corker[/i] (2 copies)
+[b]Fight[/b]: Look at the top three cards of your deck. Put them back in any order. Then [b]Feast[/b].
+[b]Attack[/b]: 6
+[b]VP[/b]: 4
+
+[i]Headman Charr[/i] (2 copies)
+During your turn, Headman Charr gets +1 Attack for each Villain in your Victory Pile.
+[b]Escape[/b]: Each player gains a Wound.
+[b]Attack[/b]: 2+
+[b]VP[/b]: 2
+
+[i]Lieutenant Caiera[/i] (1 copy)
+[b]Fight[/b]: If you [b]Outwit[/b] Lieutenant Caiera draw two cards.
+[b]Attack[/b]: 7
+[b]VP[/b]: 5
+
+[i]Primus Vand[/i] (2 copies)
+Primus Vand gets +1 Attack for each Villain next to him.
+[b]Fight[/b]: KO one of your Heroes.
+[b]Attack[/b]: 3+
+[b]VP[/b]: 3
+
+
+[size=10][i][b]U-Foes[/b][/i][/size]
+
+[i]Ironclad[/i] (1 copy)
+[b]Fight[/b]: Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero of KO's a Hero that costs 1 or more from their discard pile.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 6
+[b]VP[/b]: 4
+
+[i]Vapor[/i] (2 copies)
+[b]Fight[/b]: Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 4
+[b]VP[/b]: 2
+
+[i]Vector[/i] (2 copies)
+[b]Fight[/b]: Each player who reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero draws a card.
+[b]Attack[/b]: 4
+[b]VP[/b]: 2
+
+[i]Unidentified Flying U-Foes[/i] (1 copy)
+[b]Trap!
+By End of Turn[/b]: Discard a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discard three cards.
+[b]Or Suffer[/b]: Play two extra cards from the Villain Deck next turn.
+[b]VP[/b]: 3
+
+[i]X-Ray[/i] (2 copies)
+[b]Fight[/b]: Each player who reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero may KO a card from their discard pile.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+
+[size=10][i][b]Warbound[/b][/i][/size]
+
+[i]Elloe Kaifi[/i] (1 copy)
+[b]Fight[/b]: Draw a card. Another player of your choice also draws a card.
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+[i]Hiroim[/i] (1 copy)
+[b]Fight[/b]: KO a card from the HQ. Each player reveals their hand and KO's a card with that same cost.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 7
+[b]VP[/b]: 5
+
+[i]Korg[/i] (1 copy)
+[b]Ambush[/b]: KO a Hero from the HQ. Each player reveals their hand and discards a card with that same cost.
+[b]Escape[/b]: Same effect.
+[b]Attack[/b]: 6
+[b]VP[/b]: 4
+
+[i]Miek The Unhived[/i] (2 copies)
+[b]Fight[/b]: Look at the top two cards of your deck. Put them back on the top and/or bottom. Then [b]Feast[/b].
+[b]Attack[/b]: 5
+[b]VP[/b]: 3
+
+[i]No-Name, Brood Queen[/i] )2 copies)
+[b]Wounded Fury
+Fight[/b]: [b]Feast[/b]. If this feasts on a non-grey Hero, draw two cards.
+[b]Attack[/b]: 4+
+[b]VP[/b]: 3
+
+[i]Warbound Rescue[/i] (1 copy)
+[b]Trap!
+By End of Turn[/b]: Put a Warbound Villain and Henchman Villain from your Victory Pile back into the city.
+[b]Or Suffer[/b]: Each player gains a Wound.
+[b]VP[/b]: 7
+
+
+== Marvel Studios Phase 1 ==
+
+[size=10][i][b]Chitauri[/b][/i][/size]
+
+[i]Chitauri Soldier[/i] (2 copies)
+[b]Rooftops Conqueror 2[/b]
+[b]Ambush:[/b] Chitauri Soldier captures a Bystander.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 2
+
+[i]Chitauri Commander[/i] (2 copies)
+[b]Rooftops Conqueror 2[/b]
+[b]Ambush:[/b] (After this enters the city) If the rooftops are empty, reveal the top card of the villain deck.  If it's a villain, that villain enters the rooftops.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 2
+
+[i]Chitauri Leviathan[/i] (2 copies)
+[b]Rooftops Conqueror 2[/b]
+[b]Fight:[/b] Each player with no Bystanders in their Victory Pile gains a wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 5+
+[b]VP:[/b] 4
+
+[i]Chitauri Chariot[/i] (2 copies)
+[b]Rooftops Conqueror 2[/b]
+[b]Ambush:[/b] (After this enters the city) If the rooftops are empty, move this Villain there.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 3
+
+
+[size=10][i][b]Enemies of Asgard[/b][/i][/size]
+
+[i]Destroyer[/i] (1 copy)
+[b]Fight:[/b] KO all your S.H.I.E.L.D. Heroes.
+[b]Escape:[/b] Each player KOs two of their Heroes.
+[b]Attack:[/b] 7
+[b]VP:[/b] 5
+
+[i]Enchantress[/i] (2 copies)
+[b]Fight:[/b] Draw three cards
+[b]Attack:[/b] 6
+[b]VP:[/b] 4
+
+[i]Frost Giant[/i] (3 copies)
+[b]Fight:[/b] Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 4
+[b]VP:[/b] 2
+
+[i]Ymir, Frost Giant King[/i] (2 copies)
+[b]Ambush:[/b] Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Fight:[/b] Choose a player. That player KOs any number of Wounds from their hand and discard pile.
+[b]Attack:[/b] 6
+[b]VP:[/b] 4
+
+
+[size=10][i][b]Gamma Hunters[/b][/i][/size]
+
+[i]Sonic Cannon[/i] (2 copies)
+[b]Ambush:[/b] Each Player discards two cards, then draws a card.
+[b]Escape:[/b] Same Effect
+[b]Attack:[/b] 4
+[b]VP:[/b] 2
+
+[i]Lt. Gen “Thunderbolt” Ross[/i] (2 copies)
+[b]Ambush:[/b]
+Each Player reveals their hand. Each player with any [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] cards must discard one of them or gain a wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+[i]Abomination, Raging Monster[/i] (2 copies)
+[b]Streets Conqueror 3[/b]
+[b]Ambush:[/b] (After this enters the city.) If the streets are empty, move another villain from any city space to the streets.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 4
+
+[i]Fighter Jet[/i] (2 copies)
+[b]Streets Conqueror 2[/b]
+[b]Fight:[/b] KO one of your heroes.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 2
+
+
+[size=10][i][b]HYDRA[/b][/i][/size]
+
+[i]Endless Armies of HYDRA[/i] (3 copies)
+[b]Fight:[/b] Play the top two cards of the Villain Deck.
+[b]Attack:[/b] 4
+[b]VP:[/b] 3
+
+[i]HYDRA Kidnappers[/i] (3 copies)
+[b]Fight:[/b] You may gain a S.H.I.E.L.D. Officer.
+[b]Attack:[/b] 3
+[b]VP:[/b] 1
+
+[i]Supreme HYDRA[/i] (1 copy)
+Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.
+[b]Attack:[/b] 6
+[b]VP:[/b] 3*
+
+[i]Viper[/i] (1 copy)
+[b]Fight:[/b] Each player without another HYDRA Villain in their Victory Pile gains a Wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+
+[size=10][i][b]Iron Foes[/b][/i][/size]
+
+[i]Hammer Drone Marine[/i] (2 copies)
+[b]Fight:[/b] Look at the top three cards of your deck. KO one of them and put the rest back in any order.
+[b]Attack:[/b] 4
+[b]VP:[/b] 2
+
+[i]Raza, Ten Rings Leader[/i] (2 copies)
+Raza gets +1 Attack for each Bystander he has.
+[b]Ambush:[/b] Raza captures a Bystander from the Bystander stack and a random Bystander from each player’s Victory Pile.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 3
+
+[i]Whiplash[/i] (2 copies)
+[b]Fight:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] hero or gains a wound.
+[b]Escape: [/b] Same effect.
+[b]Attack:[/b] 6
+[b]VP:[/b] 4
+
+[i]Justin Hammer[/i] (2 copies)
+[b] Bank Conqueror 2[/b]
+[b]Fight:[/b] You get +2 Recruit usable only to recruit heroes in the HQ space under the bank.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 2
+
+
+
+== Ant-Man ==
+
+[size=10][i][b]Ultron's Legacy[/b][/i][/size]
+
+[i]Ultron Roboticks[/i] (1 copy)
+[b]Microscopic Size-chaning:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Fight:[/b] KO one of your Heroes.
+[b]Attack:[/b] 3*
+[b]VP:[/b] 2
+
+[i]Original Ultron-1[/i] (1 copy)
+[b]Empowered[/b] by [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Fight:[/b] KO one of your Heroes.
+[b]Attack:[/b] 3+
+[b]VP:[/b] 2
+
+[i]Legions of Ultron[/i] (1 copy)
+[b]Empowered[/b] by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Fight:[/b] Draw a card.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 3
+
+[i]Alkhema[/i] (1 copy)
+[b]Empowered[/b] by [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[b]Fight:[/b] KO a card from your discard pile.
+[b]Attack:[/b] 4+
+[b]VP:[/b] 3
+
+[i]Ultron-Pym[/i] (1 copy)
+[b]Microscopic Size-Changing:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Fight:[/b] A Hero in the HQ with no [b]Size-Changing[/b] abilites gains [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] this turn.
+[b]Attack:[/b] 6*
+[b]VP:[/b] 3
+
+[i]Future Ultron Prime[/i] (1 copy)
+[b]Double Empowered[/b] by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Ambush:[/b] Put all non-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes from the HQ on the bottom of the Hero Deck.
+[b]Attack:[/b] 5+
+[b]VP:[/b] 5
+
+[i]Brutish Ultron-14[/i] (1 copy)
+[b]Empowered[/b] by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Fight:[/b] Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Escape:[/b] Same effect.
+[b]Attack:[/b] 5+
+[b]VP:[/b] 4
+
+[i]Crimson Cowl[/i] (1 copy)
+[b]Empowered[/b] by [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[b]Ambush:[/b] Crimson Cowl captures a Bystander.
+[b]Attack:[/b] 5+
+[b]VP:[/b] 4
+
+
+[size=10][i][b]Queen's Vengeance[/b][/i][/size]
+
+[i]Daystar[/i] (1 copy)
+[b]Microscopic Size-Changing:[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[b]Fight:[/b] Reveal the top card of your deck. You may KO it.
+[b]Attack:[/b] 5*
+[b]VP:[/b] 2
+
+[i]Blackbird[/i] (1 copy)
+[b]Chivalrous Duel[/b]
+[b]Fight:[/b] KO one of your Heroes.
+[b]Attack:[/b] 3*
+[b]VP:[/b] 3
+
+[i]Gigantus[/i] (1 copy)
+[b]Microscopic Size-Changing:[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[b]Fight:[/b] KO one of your Heroes.
+[b]Attack:[/b] 7*
+[b]VP:[/b] 4
+
+[i]Iron Kinght[/i] (1 copy)
+[b]Chivalrous Duel[/b]
+[b]Escape:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
+[b]Attack:[/b] 4*
+[b]VP:[/b] 4
+
+[i]Yoeman America[/i] (1 copy)
+[b]Chivalrous Duel[/b]
+[b]Fight:[/b] You get +1 Recruit for each color of Hero you have (including grey).
+[b]Attack:[/b] 5*
+[b]VP:[/b] 5
+
+[i]Star-Knight[/i] (1 copy)
+[b]Chivalrous Duel[/b]
+[b]Fight:[/b] KO a card from your discard pile.
+[b]Attack:[/b] 3*
+[b]VP:[/b] 3
+
+[i]Pixie[/i] (1 copy)
+[b]Microscopic Size-Changing:[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR].
+[b]Fight:[/b] Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or play another card from the Villain Deck.
+[b]Attack:[/b] 3*
+[b]VP:[/b] 2
+
+[i]Mordred the Evil[/i] (1 copy)
+[b]Fight:[/b] Choose a card in your discard pile. The player to your right gains it.
+[b]Escape:[/b] Each player simultaneously does that same effect.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
 
 
 

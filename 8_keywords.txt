@@ -211,7 +211,7 @@ signature teamwork.
 * A Villain can have face up Bystanders and face-down Human Shields at the same time. You'll need to pay to rescue the face-down Human Shields. Then you can fight the Villain, which will rescue the face-up Bystanders automatically.
 * Human Shields still count as Bystanders. Villains escaping with Human Shields still make players discard as normal.
 
-[b]Traps[/b]: The Legendary® X-Men set adds a completely new card type to Legendary®: Traps. Every Villain Group in the set contains at least one Trap.
+[b]Traps[/b]: The LegendaryÂ® X-Men set adds a completely new card type to LegendaryÂ®: Traps. Every Villain Group in the set contains at least one Trap.
 * When a Trap is played from the Villain Deck, it gives you a challenge to complete this turn to avoid the Trap. If you complete the challenge, put the Trap in your Victory Pile and get its VP. A Trap is not a Villain and doesn't enter the city.
 * If you fail to complete the challenge, then at the end of the turn you must KO the trap and suffer the listed consequences! (Do this after you draw a new hand).
 
@@ -265,6 +265,58 @@ You can only Coordinate one card to each player on their turn. However, multiple
 * [u]Note[/u]: For any Size-Changing card, it doesn't matter how many Heroes you played -- it only maters whether or not you played any Heroes of that Hero class.
 * After you've recruited a card, Size-Changing doesn't do anything else on that card.
 * If a Hero in the HQ already has "[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]" and it gains "[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]" from another special ability like the Sporr Villain, it just ends up with "[b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]." A card can't have Size-Changing for the same Hero Class twice.
+
+
+== World War Hulk ==
+
+[b]Transform[/b]: This keyword represents the themes of duality and transformation in Hulk stories.
+[u]Heroes[/u]:
+* Each Hero in this set has some special "Transformed" cards that go along with it. When you use these Heroes, [b]don't[/b] shuffle their "Transformed" cards into the Hero Deck. Instead, set them aside in a special Transformation Pile. You can't recruit cards from this pile. Instead, you transform other cards into them.
+* Some Hero cards like "Bruce Banner: Gamma Ray Experiments" say things like "...Transform this into Savage Hulk Unleashed."
+* When you play a Hero card that says it transforms into another card, you complete all effects on the card you played and get its normal Recruit and Attack.
+* Then remove the transforming card from the game (putting it in the Transformation Pile) and put the newly transformed card into your hand instead (from the Transformation Pile). You can play the new Transformed card immediately that same turn.
+* You still count as having played the transforming card you played and removed from the game, including effects like "You get +1 Attack for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card you played this turn." But if an effect asks you to reveal one of your cards, you can only reveal the new, transformed card, not the old card that you removed from the game.
+* Some transforming cards tell you to put the new card on top of your deck or in your discard pile instead.
+* You can look through the Transformation Pile at any time.
+* At the end of the game, store a Hero's Transformed cards with the rest of that Hero's cards. To start a game, you only need to bring out the Transformed cards for the Heroes you're using. Don't bring out all the Transformed cards in the entire game.
+* If you sleeve your cards, you can put the Transformed version of the card in the same sleeve, behind the Transforming card. When it's time to transform, you just pull the back card to the front of the sleeve. It's a little thicker in the sleeve, but it still shuffles well.
+
+[u]Masterminds[/u]: Each Mastermind in this set is a double-sided "Transforming Mastermind" that transforms back and forth between two forms during the game.
+* The side with the "Always Leads" ability starts face up.
+* When a Master Strike or Mastermind Tactic ability occurs, it will tell you to "Transform" the Mastermind, meaning flip it over to its other side. (Don't also do the Master Strike ability of the new side.)
+* A Mastermind only uses the abilities and Attack of its currently face up side. Ignore the special abilities and values on the currently face down side.
+
+[b]Outwit[/b]: This keyword represents how Bruce Banner, Amadeus Cho, the Illuminati, and the Intelligencia are among the smartest characters in the Marvel universe.
+* Some Heroes say things like "Outwit: Draw a card."
+* [b]You can use this Outwit ability only if you reveal Heroes with 3 different costs.[/b]
+* You can count the Outwit card itself. So you can reveal a 2-cost Hero in your hand, plus a 6-cost Outwit card and 0-cost S.H.I.E.L.D. Agent Hero you already played.
+* Some Villains and Masterminds also say they get stronger or harm you in special ways if you fail to Outwit them. For example: "[b]Ambush:[/b] If you can't Outwit the Leader, play the top card of the Villain Deck."
+* You can choose not to Outwit, even if you are able.
+
+[b]Smash[/b]: This keyword represents how when Hulks get angry, they SMASH hard, no matter what they have to toss aside.
+* Some Heroes say things like "Smash 3." This means [b]"You may discard another card from your hand. If you do, you get +3 Attack."[/b]
+
+[b]Wounded Fury[/b]: This keyword represents how wounding a Hulk often just makes it ANGRIER and STRONGER! It also includes Villains attacking with more furious bloodlust as they wound you.
+* When a Hero card says "Wounded Fury", it means [b]"You get +1 Attack for each Wound in your discard pile."[/b]
+* Likewise, when a Villain or Mastermind says "Wounded Fury", it means [b]"It gets +1 Attack for each Wound in your discard pile."[/b]
+
+[b]Cross-Dimensional Rampage[/b]: As different Hulks rampage across planets and dimensions, only another Hulk can stop them! This keyword debuted in Legendary: Secret Wars.
+* "Cross-Dimensional Hulk Rampage" means [b]"Each player reveals one of their Hulk Heroes or a Hulk card in their Victory Pile or gains a Wound."[/b]
+* You can reveal any card that includes the word "Hulk" in its card name, Hero name, Villain Group name, or Tactics for Hulk Masterminds. This includes any Red Hulk, She-Hulk, Red She-Hulk, Skaar, Son of Hulk, Joe Fixit Grey Hulk, Hulkling, Hulk Gang, Cosmic Hulk Robot, Hulkbuster, Enchain the Hulk, and so on.
+* You don't need to know the whole history of Marvel comics to judge who counts as a Hulk â€“ just rely on whether the card says Hulk in its name or not. There are only a few, very specific exceptions we have to make to stay true to the characters:
+** "Nul, Breaker of Worlds" from Fear Itself and "Maestro" (core set) count as Hulks for this.
+** "Weapon X" and "Old Man Logan" count as Wolverines for "Cross-Dimensional Wolverine Rampage" in other sets.
+* Some Heroes in this set can transform into Hulks, like Bruce Banner and Amadeus Cho. A puny "Bruce Banner" card doesn't say "Hulk" on it, so it can't stop a Hulk Rampage. But revealing the transformed Bruce Banner card named "Savage Hulk Unleashed" works.
+* When a Cross-Dimensional Hulk Rampage happens, you can choose to gain the Wound, even if you have a Hulk that you already played or could otherwise reveal. You might want the Wound if you have Wounded Fury cards.
+* There are also Cross-Dimensional Void Rampages, etc.
+
+
+== Marvel Studios Phase 1 ==
+
+
+[b]Conqueror[/b]
+Some Villain cards have a special ability called "Conqueror," representing their desire to conquer and hold a specific part of the city. For example, the Chitauri Soldier Villain has the ability "[b]Rooftops Conqueror 2.[/b]" This ability means This Villain gets [b]+2[/b] [Attack] while any Villain is in the rooftops." So the Chitauri Soldier gets this [Attack] bonus while it itself on the Rooftops, or when a completely different Villain is on the Rooftops. The Chitauri Soldier doesn't care if the Villain on the Rooftops has a Conqueror ability or not. Other Villains and the Iron Monger Mastermind have different Conqueror abilities, with different [Attack] bonus numbers and referring to different city spaces.
+
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
