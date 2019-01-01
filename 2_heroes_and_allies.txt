@@ -5088,4 +5088,374 @@ Cost: 9*
 
 
 
+== Marvel Studios Phase 1 ==
+
+
+[size=10][i][b]Black Widow[/b][/i][/size]
+Avengers
+
+[i]Dangerous Rescue[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, rescue a Bystander.
+Cost: 3
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Mission Accomplished[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Rescue a Bystander.
+Cost: 2
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Covert Operation[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each Bystander in your Victory pile.
+Cost: 4
+
+[i]Silent Sniper[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4 Attack
+Defeat a Villain or Mastermind that has a Bystander.
+Cost: 7
+[size=8][i]Art contains a gun[/i][/size]
+
+
+[size=10][i][b]Captain America[/b][/i][/size]
+Avengers
+
+[i]Avengers Assemble![/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Recruit
+You get +1 Recruit for each color of Hero you have.
+Cost: 3
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Perfect Teamwork[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+You get +1 Attack for each color of Hero you have.
+Cost: 4
+
+[i]Diving Block[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4 Attack
+If you would gain a Wound, you may reveal this card and draw a card instead.
+Cost: 6
+
+[i]A Day Unlike Any Other[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3+ Attack
+Avengers: You get +3 Attack for each other Avengers Hero you played this turn.
+Cost: 7
+
+
+[size=10][i][b]Hawkeye[/b][/i][/size]
+Avengers
+
+[i]Quick Draw[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1 Attack
+Draw a card.
+Cost: 3
+
+[i]Team Player[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+Avengers: You get +1 Attack.
+Cost: 4
+[size=8][i]"You line 'em up, and I'll knock 'em down..."[/i][/size]
+
+[i]Covering Fire[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Choose one: each other player draws a card or each other player discards a card.
+Cost: 5
+
+[i]Impossible Trick Shot[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5 Attack
+Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.
+Cost: 7
+
+
+[size=10][i][b]Hulk[/b][/i][/size]
+Avengers
+
+[i]Growing Anger[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+Cost: 3
+
+[i]Unstoppable Hulk[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
+You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.
+Cost: 4
+
+[i]Crazed Rampage[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+4 Attack
+Each player gains a Wound.
+Cost: 5
+
+[i]Hulk Smash![/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+5+ Attack
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +5 Attack.
+Cost: 8
+
+
+[size=10][i][b]Iron Man[/b][/i][/size]
+Avengers
+
+[i]Endless Invention[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw another card.
+Cost: 3
+
+[i]Repulsor Rays[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack.
+Cost: 3
+[size=8][i]Repulsor ray technology has many peaceful applications. This is not one of them.[/i][/size]
+
+[i]Arc Reactor[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero you played this turn.
+Cost: 5
+
+[i]Quantum Breakthrough[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw two cards.
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw two more cards.
+Cost: 7
+
+
+[size=10][i][b]Nick Fury[/b][/i][/size]
+S.H.I.E.L.D.
+
+[i]Battlefield Promotion[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You may KO a S.H.I.E.L.D. Hero from your hand or discard pile. If you do, you may gain a S.H.I.E.L.D. Officer to your hand.
+Cost: 4
+
+[i]High-Tech Weaponry[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +1 Attack.
+Cost: 3
+
+[i]Legendary Commander[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+1+ Attack
+You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
+Cost: 6
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Pure Fury[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Defeat any Villain or Mastermind whose Attack is less than the number of S.H.I.E.L.D. Heroes in the KO pile.
+Cost: 8
+[size=8][i]Art contains a gun[/i][/size]
+
+
+[size=10][i][b]Thor[/b][/i][/size]
+Avengers
+
+[i]Odinson[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Recruit
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Recruit.
+Cost: 3
+[size=8][i]Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.[/i][/size]
+
+[i]Surge of Power[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Recruit
+0+ Attack
+If you made 8 or more Recruit this turn, you get +3 Attack.
+Cost: 4
+
+[i]Call Lightning[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+3+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
+Cost: 6
+
+[i]God of Thunder[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+5 Recruit
+0+ Attack
+You can use Recruit as Attack this turn.
+Cost: 8
+
+
+
+== Ant-Man ==
+
+[size=10][i][b]Ant-Man[/b][/i][/size]
+Avengers
+
+[i]Ride the Ants[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 Attack
+[b]Size-changing:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a Card
+Cost: 4*
+[size=8][i]Some consider Hank Pym an antihero.[/i][/size]
+
+[i]Risky Science[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
+[b]Microscopic Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may discard a card. If you do, draw a card
+Cost: 5*
+
+[i]Giant Ego[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Size-changing:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+You get +1 Attack for each extra card you drew this turn
+Cost: 6*
+
+[i]Pym Particles[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5 Attack
+[b]Microscopic Size-changing:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+A hero in the HQ without [b]Size-changing[/b] abilities gain [b]Size-Chaning[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] this turn
+Cost: 9*
+
+[size=10][i][b]Wasp[/b][/i][/size]
+Avengers
+
+[i]Bio-Electric Sting[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1+ Attack
+[b]Microscopic Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Attack
+Cost: 3*
+[size=8][i]Nobody likes being stung by a bug. Especially when the sting is 30,000 volts.[/i][/size]
+
+[i]Tiny Winged Justice[/i] (5 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Recruit
+[b]Size-changing:[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR]:[/BGCOLOR] Draw a card
+Cost: 4*
+[size=8][i]Crushing victories arrive in small packages.[/i][/size]
+
+[i]Swarm Tactics[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[b]Size-changing:[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+You get +1 Attack for each card you recruited this turn
+Cost: 6*
+
+[i]Founding Avenger[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4+ Attack
+[b]Microscopic Size-chaning:[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Avengers: You get +1 Attack for each other Avengers card you played this turn
+Cost: 9*
+
+[size=10][i][b]Jocasta[/b][/i][/size]
+Avengers
+
+[i]Creation of Ultron[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get [b]Empowered[/b] by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Cost: 3
+[size=8][i]Former bride of Ultron. Programmed by Ant-Man with the memories of Wasp. Let's just say family reunions are complicated.[/i][/size]
+
+[i]Reprocess[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Recruit
+If your discard pile is empty, you get +2 Recruit. Otherwise, shuffle your discard pile into your deck
+Cost: 4
+
+[i]Holographic Image Inducer[/i] (3 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+[b]Size-changing:[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw two cards
+Cost: 6°
+[size=8][i]Holograms allow Jocasta to appear human, as she searches for her own humanity.[/i][/size]
+
+[i]Electromagnetic Eyebeams[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+5+ Attack
+If your discard pile is empty, you get +2 Attack. Otherwise shuffle your discard pile into your deck
+Cost: 7
+[size=8][i]Art contains a gun[/i][/size]
+
+
+[size=10][i][b]Wonder Man[/b][/i][/size]
+Avengers
+
+[i]One-Hit Wonder[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+Chose one: Draw a card, or you get [b]Empowered[/b] by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].
+Cost: 2
+[size=8][i]Arms dealer. Stunt man, Movie star. Master of Evil. Avenger. Maybe he'll star in his own biopic.[/i][/size]
+
+[i]Ionic Energy[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+You may put a card from the HQ on the bottom of the Hero Deck.
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get [b]Empowered[/b] by [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR].
+Cost: 4
+
+[i]Absorb Ambient Power[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+Put a card from the HQ on the bottom of the Hero Deck. If that card had a  Recruit icon, you get +3 Recruit. If that card had an Attack icon, you get +3 Attack. (if both, get both)
+Cost: 5
+
+[i]8th Wonder of the World[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+4+ Attack
+[b]Size-changing[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Choose any number of cards from the HQ. Put them on the bottom of the Hero Deck. Then you get [b]Empowered[/b] by [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] and [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Cost: 8*
+
+
+[size=10][i][b]Black Knight[/b][/i][/size]
+Avengers
+
+[i]Amulet of Avalon[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Attack
+You get [b]Empowered[/b] by the color of your choice
+Cost: 3
+[size=8][i]The amulet summons whatever boon he chooses. Sword of Light, Shield of Night, Mystical Armor, or Flying Steed.[/i][/size]
+
+[i]Defend the Weak[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Return a 0-cost card from your discard pile to your hand.
+Cost: 3
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Flying Steed[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+When a Master Strike is plaed, before it takes effect, you may discard this card. If you do, draw three extra cards at the end of this turn.
+Cost: 6
+
+[i]The Ebony Blade[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Attack
+You get + Attack equal to the printed Attack of a Villain in your Victory Pile. (Mastermind tactics aren't Villains)
+Cost: 7
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
