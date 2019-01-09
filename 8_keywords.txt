@@ -310,13 +310,51 @@ You can only Coordinate one card to each player on their turn. However, multiple
 * When a Cross-Dimensional Hulk Rampage happens, you can choose to gain the Wound, even if you have a Hulk that you already played or could otherwise reveal. You might want the Wound if you have Wounded Fury cards.
 * There are also Cross-Dimensional Void Rampages, etc.
 
-
 == Marvel Studios Phase 1 ==
-
 
 [b]Conqueror[/b]
 Some Villain cards have a special ability called "Conqueror," representing their desire to conquer and hold a specific part of the city. For example, the Chitauri Soldier Villain has the ability "[b]Rooftops Conqueror 2.[/b]" This ability means This Villain gets [b]+2[/b] [Attack] while any Villain is in the rooftops." So the Chitauri Soldier gets this [Attack] bonus while it itself on the Rooftops, or when a completely different Villain is on the Rooftops. The Chitauri Soldier doesn't care if the Villain on the Rooftops has a Conqueror ability or not. Other Villains and the Iron Monger Mastermind have different Conqueror abilities, with different [Attack] bonus numbers and referring to different city spaces.
 
+== Ant-Man ==
+
+[b]Size-Changing[/b]
+This keyword represents Heroes and Villains using superpowers to shrink, grow, or massively change their size. It's also used by characters that can change the size of a weapon, technology, or energy. It first debuted in [i]Legendary Civil War[/i] and also appeared in [i]Legendary Champions[/i].
+
+* Some Hero cards say things like "Size-Changing [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]." This means [b]"You can recruit this card for 2 Recruit less if you played any [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] cards this turn."[/b]
+* Likewise, some Villain cards say things like "Size-Changing [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]." This means [b]"You can fight this Villain for 2 Attack less if you played any [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] cards this turn."[/b]
+* Note: For a typical Size-Changing card, it doesn't matter how many Heroes of that Hero Class you played – it only matters if you played any Heroes of that Hero Class or not.
+* After you've recruited a card, Size-Changing doesn't do anything else on that card.
+
+[b]Microscopic Size-Changing[/b]
+Far beyond other Heroes that can stretch or grow, Ant-Man and Wasp can change their size to a whole new scale. They can shrink down smaller than an atom, to the quantum Microverse. Here, the very laws of physics can be broken and even reversed! This ability works like regular Size- Changing, but with a couple of twists.
+* Some Heroes and Villains in this set say things like "Microscopic Size-Changing [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]. "
+* This means [b]"You can recruit this card for 2 Recruit less for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card you played this turn, counting up to three [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] cards."[/b]
+* So if you played one [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero this turn, this card costs 2 less. If you played two [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes, it costs 4 less. If you played three or more [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes, it costs 6 less.
+* Playing a fourth [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card wouldn’t [b]reduce this cost any further since there are only three [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] icons listed in this particular Microscopic Size- Changing ability.
+* The second twist is that Microscopic Size- Changing can actually reduce a card’s Recruit cost to zero or even a negative number![/b] When you recruit a Microscopic Size-Changing Hero with a negative cost, [b]you actually gain that many Recruit points[/b]!
+* Some Villains also have Microscopic Size- Changing. It works the same way, letting you fight that Villain for 2 Attack less for each card of the correct color you played this turn, counting up to the number of icons shown in the Microscopic Size-Changing ability.
+* Likewise, if you fight a Villain with Microscopic Size-Changing and reduce its Attack value to a negative number, you actually gain that many Attack points when you fight it. You don’t even need to have any Attack points before you fight them.
+* For example, say you play five [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes, then fight a Villain with 3 Attack and "Microscopic Size-Changing [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]." The Villain's Attack decreases to -5, and you actually gain 5 Attack when you fight them! (The 5th [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero you played didn’t reduce the Attack, since the Microscopic Size- Changing ability only had 4 icons.)
+* Building the right deck and shrinking down to the crazy backwards physics of the Microverse can create some very powerful turns!
+
+[b]Empowered[/b]
+This keyword represents Heroes and Villains who
+draw power from ambient energy, technology, or
+superpowers around them.
+* Some Heroes say things like "You get [b]Empowered[/b] by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]." This means [b]"You get +1 Attack for each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card in the HQ."[/b]
+* Likewise, some Villains and Masterminds say things like "[b]Empowered[/b] by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]". This means [b]"This gets +1 Attack for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card in the HQ."[/b]
+* As cards enter and leave the HQ, an Empowered card can get stronger or weaker. You only check the Attack bonus at the moment you play your Empowered Hero or at the moment you fight the Empowered enemy.
+* One clever move is to recruit a Hero from the HQ at the right time, changing the colors in the HQ to weaken an Empowered enemy or try to strengthen an Empowered Hero in your hand.
+* Some cards are even "Double Empowered" or "Triple Empowered" meaning that they get +2 Attack or +3 Attack for each appropriate card in the HQ.
+* (A multicolored or divided card from other sets counts if either half is the correct color. For example, an "Empowered by [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] and [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" ability can get +1 Attack from a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] card or from a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card. However, a "[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" card in the HQ would only give +1 Attack, not +2 Attack.)
+
+[b]Chivalrous Duel[/b]
+This keyword represents how Morgan le Fay and the knights of her "Queen's Vengeance" hail from a realm of honorable single combat. You can't gang up on an enemy in a Chivalrous Duel – you have to pick just one Hero Name to duel the enemy.
+* [b]To fight an enemy with "Chivalrous Duel," you can only use Attack from a single Hero Name.[/b]
+* For example, to fight a 3 Attack Villain with Chivalrous Duel, you can spend 3 Attack from two different Black Knight hero cards. But you can't combine 2 Attack from Black Knight cards and 1 Attack from a Wasp card.
+* If a Hero like "S.H.I.E.L.D. Trooper" doesn't have a Hero Name listed, then its Hero Name is the same as its card name. So you can play three S.H.I.E.L.D. Troopers then fight a 3 Attack Villain with Chivalrous Duel. But you can't spend 2 Attack from Black Knight cards and 1 Attack from a S.H.I.E.L.D. Trooper to fight an enemy with Chivalrous Duel.
+* (You can't use Attack you get from anything that's not a Hero card, including Microscopic Size-Changing Villains, Mastermind Tactics, Shard tokens from other sets, etc. You can use Attack from Hero Artifacts in other sets with the right Hero Name, since those are Hero cards.)
+* In a setup with lots of Chivalrous Duels, like fighting Morgan le Fay or the Scheme "Pull Earth into Medieval Times," you will want to build your deck to concentrate your Attack cards into just one or two Hero Names!
 
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
