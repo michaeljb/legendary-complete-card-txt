@@ -97,6 +97,7 @@ Cost: 8
 A Villain of your choice captures a Bystander.
 Cost: 3
 [size=8][i]"Hey, Abomination makes a pretty good babysitter."[/i][/size]
+[size=8][i](Note: 3D alt art has no flavor text.)[/i][/size]
 
 [i]Oddball[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -217,6 +218,7 @@ Avengers
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 3
 [size=8][i]Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced...[/i][/size]
+[size=8][i]3D alt art flavor text: You won't like me when I'm angry.[/i][/size]
 
 [i]Unstoppable Hulk[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -2607,6 +2609,7 @@ Cost: 4
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2+ Attack
 For each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn, you get +1 Attack.
+For each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card you played this turn, you get +1 Attack.
 Cost: 6
 
 [i]Multi-Variable Smackulus[/i] (1 copy)
@@ -2828,7 +2831,7 @@ Gain a Hero that was KO'd this turn.
 Cost: 6
 [size=8][i]The Phoenix is a cosmic force of great life or limitless destruction.[/i][/size]
 
-[i]Destruction is Creation[/i] (1 copy)
+[i]Destruction Is Creation[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 4 Attack
 KO up to three cards from your hand. Draw that many cards.
@@ -2841,7 +2844,7 @@ X-Men
 [i]Guerrilla Warfare[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Attack
-When a card effect causes you to discard this card, [b]Teleport[/b] it instead. If it is not your turn, set it aside and add it to your hand at the end of this turn.
+When a card effect causes you to discard this card, if it is your turn, [b]Teleport[/b] it instead. If it is not your turn, set it aside and add it to your hand at the end of this turn.
 Cost: 3
 [size=8][i]Hit-and-run tactics.[/i][/size]
 
@@ -3753,7 +3756,7 @@ Cost: 5
 0+ Recruit
 0+ Attack
 Recruit a Hero from the HQ for free.
-Avengers: You get that Heroes printed Recruit and Attack.
+Avengers: You get that Hero's printed Recruit and Attack.
 Cost: 7
 
 
@@ -5046,7 +5049,7 @@ Cost: 4*
 If you have a Wound in your hand or discard pile, KO it and you get +2 Attack. Otherwise, gain a Wound.
 Cost: 5*
 
-[i]Smartest Man in the World[/i] (1 copy)
+[i]7th Smartest Man in the World[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 5+ Attack
 [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
@@ -5103,7 +5106,6 @@ Cost: 2
 
 [i]Gamma-Draining Nanites[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-3 Recruit
 Draw a card.
 Then, if you drew two cards this turn, Transform this into Like Totally Smart Hulk.
 Cost: 3
@@ -5190,7 +5192,7 @@ Cost: 4
 [i]Focus The Old Power[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Attack
-[b]Outwit[/b]: You may a card from your hand or discard pile.
+[b]Outwit[/b]: You may KO a card from your hand or discard pile.
 Cost: 6
 [size=8][i]Her deeds earned the respect of all Sakaar.[/i][/size]
 
@@ -5313,7 +5315,7 @@ Cost: 5
 [size=8][i]Tony Stark has specialized suits for many occasions. This one is specialized for may concussions.[/i][/size]
 
 [COLOR=#FF0000]Transformed[/COLOR]
-[i]Ultrama-Massive Armor[/i] (3 copies)
+[i]Ultra-Massive Armor[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 0+ Attack
 Draw two cards.
@@ -5605,6 +5607,7 @@ Cost: 3
 
 [COLOR=#FF0000]Transformed[/COLOR]
 [i]The Void Unchained[/i] (3 copies)
+(Unaffiliated)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Attack
 Reveal the top card of your deck. If it costs 0, then [b]Feast[/b]. Otherwise, [b]Transform[/b] this into Mournful Sentinel and put it in your discard pile.
