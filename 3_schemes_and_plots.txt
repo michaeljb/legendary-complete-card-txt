@@ -663,9 +663,9 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Evil Wins[/b]: When 8 Bystanders are carried away by escaping Villains.
 
 [size=10][i][b]Enslave Minds with the Chitauri Scepter[/b][/i][/size]
-[b]Setup[/b]: 8 Twists. 6 Heroes. Skrull Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
-[b]Special Rules[/b]: Heroes in the Villain Deck count as Skrull Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
-[b]Twist[/b]: The highest-cost Hero from the HQ moves into the Sewers as a Skrull Villain, as above.
+[b]Setup[/b]: 8 Twists. 6 Heroes. Chitauri Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
+[b]Special Rules[/b]: Heroes in the Villain Deck count as "Enslaved" Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
+[b]Twist[/b]: The highest-cost Hero from the HQ moves into the Sewers as an "Enslaved" Villain, as above.
 [b]Evil Wins[/b]: If 6 Heroes get into the Escaped Villains pile.
 
 [size=10][i][b]Invade Asgard[/b][/i][/size]
