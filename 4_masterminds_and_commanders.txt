@@ -82,6 +82,7 @@ VP: 5
 [b]Fight[/b]: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
 
 
+
 == Dark City ==
 
 [size=10][i][b]Apocalypse[/b][/i][/size]
@@ -190,6 +191,7 @@ VP: 6
 [b]Fight[/b]: Each other player reveals an X-Force Hero or gains a Wound.
 
 
+
 == Fantastic Four ==
 
 [size=10][i][b]Galactus[/b][/i][/size]
@@ -235,6 +237,7 @@ VP: 6
 [b]Fight[/b]: You get +6 Recruit usable only to recruit Heroes in the HQ space under the Streets.
 
 
+
 == Paint the Town Red ==
 
 [size=10][i][b]Carnage[/b][/i][/size]
@@ -278,6 +281,7 @@ VP: 6
 
 [i]Mists of Deception[/i]
 [b]Fight[/b]: If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order.
+
 
 
 == Villains ==
@@ -363,6 +367,7 @@ VP: 6
 [b]Fight[/b]: Each other player reveals a Brotherhood Ally or gains a Bindings.
 
 
+
 == Guardians of the Galaxy ==
 
 [size=10][i][b]Supreme Intelligence of the Kree[/b][/i][/size]
@@ -406,6 +411,7 @@ VP: 7
 [b]Fight[/b]: Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile.
 
 
+
 == Fear Itself ==
 
 [size=10][i][b]Uru-Enchanted Iron Man[/b][/i][/size]
@@ -426,6 +432,7 @@ VP: 6
 
 [i]Repulsor Coils[/i]
 [b]Fight[/b]: Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.
+
 
 
 == Secret Wars Volume 1 ==
@@ -512,6 +519,7 @@ VP: 6
 
 [i]Reign of Terror[/i]
 [b]Fight[/b]: Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, put all Heroes from the HQ that cost 6 or less on the bottom of the Hero Deck.
+
 
 
 == Secret Wars Volume 2 ==
@@ -604,6 +612,7 @@ VP: 6
 [b]Fight[/b]: Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile.
 
 
+
 == Captain America 75th Anniversary ==
 
 [size=10][i][b]Arnim Zola[/b][/i][/size]
@@ -646,6 +655,7 @@ Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron
 
 [i]Prisoners of War[/i]
 [b]Fight[/b]: Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander.
+
 
 
 == Civil War ==
@@ -755,6 +765,7 @@ VP: 6
 [b]Fight[/b]: Put all Heroes from the HQ on the bottom of the Hero Deck in random order.
 
 
+
 == Deadpool ==
 
 [size=10][i][b]Evil Deadpool[/b][/i][/size]
@@ -797,6 +808,7 @@ VP: 6
 [b]Fight:[/b] Rescue a Bystander for each "Bounty on Your Head" on other players.
 
 
+
 == Noir ==
 
 [size=10][i][b]Charles Xavier[/b][/i][/size]
@@ -819,7 +831,6 @@ VP: 6
 [b]Fight[/b]: Each other player puts a random Bystander from their Victory Pile onto a Hero in the HQ as a [b]Hidden Witness[/b].
 
 
-
 [size=10][i][b]The Goblin, Underworld Boss[/b][/i][/size]
 [b]Start of Game[/b]: The Goblin captures 2 [b]Hidden Witnesses[/b].
 [b]Always Leads[/b]: Goblin's Freak Show
@@ -838,6 +849,7 @@ VP: 6
 
 [i]Blind Loyalty[/i]
 [b]Fight[/b]: [b]Investigate[/b] the Villain Deck for a Goblin's Freak Show Villain and put it into your Victory Pile.
+
 
 
 == X-Men ==
@@ -869,7 +881,6 @@ VP: 5
 [b]Fight[/b]: Arcade and each Murderworld Villain in the city capture two Human Shields.
 
 
-
 [size=10][i][b]Dark Phoenix[/b][/i][/size]
 [b]Always Leads[/b]: Hellfire Club
 [b]Master Strike[/b]: KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck.
@@ -897,7 +908,6 @@ VP: 7
 [b]Fight[/b]: Each other player gains two 0-cost cards from the KO pile.
 
 
-
 [size=10][i][b]Deathbird[/b][/i][/size]
 Deathbird gets +1 Attack for each Shi'ar Villain in the city and Escape Pile.
 [b]Always Leads[/b]: Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
@@ -923,7 +933,6 @@ VP: 6
 
 [i]Shi'ar Master Spies[/i]
 [b]Fight[/b]: Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is "[b]Escape[/b]: This card becomes a Scheme Twist that takes effect immediately."
-
 
 
 [size=10][i][b]Mojo[/b][/i][/size]
@@ -954,7 +963,6 @@ VP: 5
 [b]Fight[/b]: Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a HUman Shield.
 
 
-
 [size=10][i][b]Onslaught[/b][/i][/size]
 Each player's hand size is 1 less.
 [b]Always Leads[/b]: Dark Descendants
@@ -982,7 +990,6 @@ VP: 7
 [b]Fight[/b]: Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes.
 
 
-
 [size=10][i][b]Shadow King[/b][/i][/size]
 [b]Always Leads[/b]: Shadow-X
 [b]Master Strike[/b]: KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.
@@ -1007,6 +1014,7 @@ VP: 6
 
 [i]Telepathic Betrayal[/i]
 [b]Fight[/b]: If the "Betrayal of the Shadow" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck.
+
 
 
 == Spider-Man Homecoming ==
@@ -1040,7 +1048,6 @@ VP: 6
 [b]Fight[/b]: [b]Danger Sense 3[/b]. Put all Henchmen Villains revealed this way into your Victory Pile, then do their "Fight" abilities.
 
 
-
 [b]Vulture[/b]
 [b]Striker[/b]
 [b]Always Leads[/b]: Vulture Tech
@@ -1066,6 +1073,7 @@ VP: 6
 
 [i]Winged Assault[/i]
 [b]Fight[/b]: Put two "Winged Assault" Wounds from under the HQ into each other player's discard pile.
+
 
 
 == Champions ==
@@ -1123,6 +1131,7 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 
 [i]Jester of a Twisted Opera[/i]
 [b]Fight[/b]: Each other player may KO a card from their discard pile that costs 1 or more. [b]Demolish[/b] each of those players who does not.
+
 
 
 == World War Hulk ==
@@ -1314,6 +1323,7 @@ This Mastermind [b]Transforms[/b].
 This Mastermind [b]Transforms[/b].
 
 
+
 == Marvel Studios Phase 1 ==
 
 [size=10][i][b]Iron Monger[/b][/i][/size]
@@ -1377,6 +1387,7 @@ VP: 5
 [b]Fight[/b]: Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.
 
 
+
 == Ant-Man ==
 
 [size=10][i][b]Ultron[/b][/i][/size]
@@ -1404,7 +1415,6 @@ VP: 6
 
 [i]Self-Repairing Legions[/i]
 [b]Fight:[/b] Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space.
-
 
 
 [size=10][i][b]Morgana Le Fay[/b][/i][/size]
