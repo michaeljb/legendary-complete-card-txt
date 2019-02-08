@@ -175,9 +175,10 @@ You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[
 [b]VP:[/b] 3
 
 
+
 == Dark City ==
 
-[size=10][i][b] Emissaries of Evil[/b][/i][/size]
+[size=10][i][b]Emissaries of Evil[/b][/i][/size]
 
 [i]Egghead[/i] (2 copies)
 [b]Ambush:[/b] Reveal the top card of the Villain Deck. If it's a Villain, play it.
@@ -329,6 +330,7 @@ Bribe
 [b]VP:[/b] 3
 
 
+
 == Fantastic Four ==
 
 [size=10][i][b]Heralds of Galactus[/b][/i][/size]
@@ -384,6 +386,7 @@ Burrow
 Burrow
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
+
 
 
 == Paint the Town Red ==
@@ -450,6 +453,7 @@ Sandman's Attack is twice the number of Villains in the city.
 [b]Escape:[/b] Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
+
 
 
 == Villains ==
@@ -661,6 +665,7 @@ X-Treme Attack. To Fight Cyclops, you must also discard a card.
 Overrun: Each player reveals a Brotherhood Ally or discards a card.
 
 
+
 == Guardians of the Galaxy ==
 
 [size=10][i][b]Kree Starforce[/b][/i][/size]
@@ -749,6 +754,7 @@ Artifact - When you play this Artifact, take another turn after this one. Use th
 [b]VP:[/b] 0
 
 
+
 == Fear Itself ==
 
 [size=10][i][b]The Mighty[/b][/i][/size]
@@ -804,6 +810,7 @@ Fight or Fail: Draw two cards.
 Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.
 [b]Attack:[/b] 5*
 [b]VP:[/b] 6
+
 
 
 == Secret Wars Volume 1 ==
@@ -931,7 +938,6 @@ You get +1 Attack for each color of Hero you have
 [i]Teleport[/i]
 2 Recruit
 
-
 [i]Ultimate Thor[/i] (2 copies)
 [b]Fight:[/b] Gain this as a Hero.
 [b]Escape:[/b] [b]Cross-Dimensional Thor Rampage[/b]
@@ -940,7 +946,6 @@ You get +1 Attack for each color of Hero you have
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +3 Attack.
 3+ Attack
-
 
 [i]Ultimate Wasp[/i] (2 copies)
 [b]Fight:[/b] Gain this as a Hero.
@@ -996,6 +1001,7 @@ You get +1 Attack for each color of Hero you have
 [b]Fight:[/b] Reveal the top card of your deck. If it costs 2 or less, KO it.
 [b]Attack:[/b] 4
 [b]VP:[/b] 2
+
 
 
 == Secret Wars Volume 2 ==
@@ -1149,7 +1155,6 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
 2 Attack
 
-
 [i]'92 Jubilee[/i] (3 copies)
 [b]Fight:[/b] Gain this as a Hero.
 4 Attack
@@ -1171,6 +1176,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw two cards.
 2 Attack
+
 
 
 == Captain America 75th Anniversary ==
@@ -1230,6 +1236,7 @@ To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
 [b]Escape:[/b] Same effect.
 [b]Attack:[/b] 5
 [b]VP:[/b] 3
+
 
 
 == Civil War ==
@@ -1420,6 +1427,7 @@ Size-Changing: Tech
 [b]VP:[/b] 3
 
 
+
 == Deadpool ==
 
 [size=10][i][b]Deadpool's "Friends"[/b][/i][/size]
@@ -1483,6 +1491,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 [b]Escape:[/b] Same effect. Then, shuffle me back into the Villain Deck so I can kick your ass again!
 [b]Attack:[/b]7+
 [b]VP:[/b] 6
+
 
 
 == Noir ==
@@ -1560,6 +1569,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 [b]Fight[/b]: KO a Hero from the HQ. [b]Investigate[/b] the Hero Deck for a card to put in that emptied HQ space.
 [b]Attack[/b]: 4
 [b]VP[/b]: 2
+
 
 
 == X-Men ==
@@ -1897,6 +1907,7 @@ Villain --- Shi'ar Imperial Guard
 [b]VP[/b]: 5
 
 
+
 == Champions ==
 
 [size=10][i][b]Monsters Unleashed[/b][/i][/size]
@@ -1972,6 +1983,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 [b]Ambush:[/b] For each Wrecking Crew Villain in the city, (including this one), [b]Demolish[/b] each player.
 [b]Attack:[/b] 7
 [b]VP:[/b] 5
+
 
 
 == World War Hulk ==
@@ -2202,6 +2214,7 @@ Fight[/b]: [b]Feast[/b]. If this feasts on a non-grey Hero, draw two cards.
 By End of Turn[/b]: Put a Warbound Villain and Henchman Villain from your Victory Pile back into the city.
 [b]Or Suffer[/b]: Each player gains a Wound.
 [b]VP[/b]: 7
+
 
 
 == Marvel Studios Phase 1 ==
