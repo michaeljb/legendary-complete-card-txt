@@ -150,7 +150,6 @@ Cost: 7
 [size=8][i]A secondary mutation allows Emma Frost to transform into pure diamond.[/i][/size]
 
 
-
 [size=10][i][b]Gambit[/b][/i][/size]
 X-Men
 
@@ -2570,7 +2569,6 @@ Cost: 3
 2 Attack
 [b]Spectrum[/b]: Draw a card.
 Cost: 3
-[size=8][i][/i][/size]
 [size=8][i]A Quiver of Thunderbolts is quite unorthodox but totally awesome.[/i][/size]
 
 [i]Warlord of Open Spaces[/i] (3 copies)
@@ -3078,7 +3076,6 @@ Cost: 4
 4 Attack
 Once per turn, if a player would gain a Wound, you may reveal this card and rescue a Bystander instead.
 Cost: 6
-[size=8][i][/i][/size]
 
 [i]Star-Spangled Hero[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
@@ -3713,8 +3710,8 @@ Cost: 5
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]King & Queen of Wakanda[/i] (1 copy)
-Storm & Black Panther
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Storm & Black Panther
 5 Attack
 Reveal any number of multi-class cards from your hand. Gain that many sidekicks.
 Cost: 7
@@ -4063,7 +4060,7 @@ Cost: 2
 Cost: 5
 [size=8][i]Flavor: Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
 
-[i]PhD in Oceanography[/i]
+[i]PhD in Oceanography (1 copy)[/i]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 You may KO a card from your hand or discard pile.
 Mercs for Money: You get 1/2 Attack for each Hero in the KO pile.
@@ -4092,7 +4089,6 @@ Choose a Hero Class. [b]Investigate[/b] for a card of that Hero Class.
 1 Attack
 Cost: 4
 [size=8][i]Flavor: Specialties include: Medicine, Prisons, Detective Work, Advertising, and Everything Else.[/i][/size]
-
 
 [i]Identical Twin Brother[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -4192,7 +4188,7 @@ You get +1 Recruit for each other card you played this turn that costs 4 or more
 Cost: 4
 [size=8][i]Flavor: The deeper he digs, the bigger the conspiracy becomes.[/i][/size]
 
-Unbreakable Cage
+Unbreakable Cage (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 Once per turn, if a player would gain a Wound, you may reveal this card and [b]Investigate[/b] for any card instead.
 4 Attack
@@ -4785,7 +4781,6 @@ Cost: 5
 [size=8][i]Flavor: Many people don't understand why Iron Man would need a bodyguard. They haven't met Happy.[/i][/size]
 
 
-
 [size=10][i][b]High-Tech Spider-Man[/b][/i][/size]
 Spider Friends
 
@@ -5133,7 +5128,6 @@ Whenever you use an [b]Outwit[/b] ability this turn, you may use it an extra tim
 Cost: 8
 
 
-
 [size=10][i][b]Bruce Banner[/b][/i][/size]
 Avengers
 
@@ -5169,7 +5163,6 @@ Cost: 6
 4 Attack
 [b]Outwit[/b]: Look at the top three cards of your deck. Draw one of them, KO one, and put one back.
 Cost: 7
-
 
 
 [size=10][i][b]Caiera[/b][/i][/size]
@@ -5208,7 +5201,6 @@ Cost: 7
 Double the Attack you have.
 Cost: 7
 [size=8][i]The Red King betrayed her, causing the plague of Cytoplasm Spikes that destroyed her people.[/i][/size]
-
 
 
 [size=10][i][b]Gladiator Hulk[/b][/i][/size]
@@ -5251,7 +5243,6 @@ You get double Attack from each Smash this turn.
 Cost: 8
 
 
-
 [size=10][i][b]Hiroim[/b][/i][/size]
 Warbound
 
@@ -5286,7 +5277,6 @@ Cost: 6
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Choose one: Rescue three Bystanders, or defeat any Villain or Mastermind whose Attack is less than the number of Bystanders in your Victory Pile.
 Cost: 7
-
 
 
 [size=10][i][b]Hulkbuster Iron Man[/b][/i][/size]
@@ -5330,7 +5320,6 @@ You get +2 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/B
 Cost: 8
 
 
-
 [size=10][i][b]Joe Fixit, Grey Hulk[/b][/i][/size]
 Crime Syndicate
 
@@ -5368,7 +5357,6 @@ You can spend any combination of Recruit and Attack to fight the Mastermind this
 Cost: 7
 
 
-
 [size=10][i][b]Korg[/b][/i][/size]
 Warbound
 
@@ -5387,8 +5375,9 @@ Cost: 4
 [size=8][i]Nobody expects to be outwitted by a pile of rocks.[/i][/size]
 
 [i]Forged By Fire[/i] (3 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Transform[/b] this into Lord of Granite.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Transform[/b] this into Lord of Granite.
 Cost: 3
 [size=8][i]After a while, it gets hard to tell if you're being hit by fist-sized rocks or rock-sized fists.[/i][/size]
 
@@ -5406,7 +5395,6 @@ Cost: 5
 0+ Attack
 Put all cards from the HQ on the bottom of the Hero Deck in random order. You get their total printed Attack.
 Cost: 8
-
 
 
 [size=10][i][b]Miek, The Unhived[/b][/i][/size]
@@ -5444,7 +5432,6 @@ Cost: 7
 6 Attack
 Look at the top three cards of your deck and put them back in any order. Then you may [b]Feast[/b].
 Cost: 8
-
 
 
 [size=10][i][b]Namora[/b][/i][/size]
@@ -5485,7 +5472,6 @@ Cost: 6
 Cost: 7
 
 
-
 [size=10][i][b]No-Name, Brood Queen[/b][/i][/size]
 Warbound
 
@@ -5522,7 +5508,6 @@ Cost: 5
 4+ Attack
 Look at the top card of your deck. Then [b]Feast[/b] up to three times. You get +2 Attack for each non-grey Hero that was KO'd from you deck this turn.
 Cost: 8
-
 
 
 [size=10][i][b]Rick Jones[/b][/i][/size]
@@ -5576,7 +5561,6 @@ Count the number of different printed VP values in your Victory Pile. Draw that 
 Cost: 9
 
 
-
 [size=10][i][b]Sentry[/b][/i][/size]
 Avengers
 
@@ -5607,8 +5591,8 @@ Cost: 3
 
 [COLOR=#FF0000]Transformed[/COLOR]
 [i]The Void Unchained[/i] (3 copies)
-(Unaffiliated)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+(Unaffiliated)
 3 Attack
 Reveal the top card of your deck. If it costs 0, then [b]Feast[/b]. Otherwise, [b]Transform[/b] this into Mournful Sentinel and put it in your discard pile.
 Cost: 5
@@ -5618,7 +5602,6 @@ Cost: 5
 0+ Attack
 Reveal the top five cards of the Hero Deck, gain their total printed Attack, and put them on the bottom of that deck. If this card makes 12 Attack or more, then [b]Transform[/b] this card into The Void Mastermind and add it to the game at the start of the next turn with one random Tactic.
 Cost: 8
-
 
 
 [size=10][i][b]She-Hulk[/b][/i][/size]
@@ -5658,7 +5641,6 @@ Cost: 6
 0+ Attack
 For every 2 Recruit you made this turn, Reveal the top card of the Hero Deck, put it on the bottom of that deck, and you get that card's printed Attack.
 Cost: 8
-
 
 
 [size=10][i][b]Skaar, Son Of Hulk[/b][/i][/size]
@@ -5945,6 +5927,7 @@ Cost: 6*
 A hero in the HQ without [b]Size-changing[/b] abilities gain [b]Size-Chaning[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] this turn
 Cost: 9*
 
+
 [size=10][i][b]Wasp[/b][/i][/size]
 Avengers
 
@@ -5977,6 +5960,7 @@ Cost: 6*
 [b]Microscopic Size-chaning:[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Avengers: You get +1 Attack for each other Avengers card you played this turn
 Cost: 9*
+
 
 [size=10][i][b]Jocasta[/b][/i][/size]
 Avengers
