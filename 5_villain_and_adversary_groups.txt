@@ -2022,6 +2022,7 @@ Ambush[/b]: Play another card from the Villain Deck.
 
 [size=10][i][b]Code Red[/b][/i][/size]
 
+
 [i]Caught Red-Handed[/i] (1 copy)
 [b]Trap!
 By End of Turn[/b]: Recruit a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or recruit any two Heroes.
