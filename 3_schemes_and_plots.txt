@@ -18,7 +18,7 @@
 [b]Twist[/b]: Play the top 2 cards of the Villain Deck.
 [b]Evil Wins[/b]: If 12 Villains escape.
 
-[size=10][i][b]Portals to Dark Dimension[/b][/i][/size]
+[size=10][i][b]Portals to the Dark Dimension[/b][/i][/size]
 [b]Setup[/b]: 7 Twists. Each Twist is a Dark Portal.
 [b]Twist 1[/b]: Put the Dark Portal above the Mastermind. The Mastermind gets +1 Attack.
 [b]Twists 2-6[/b]: Put the Dark Portal in the leftmost city space that doesn't yet have a Dark Portal. Villains in that city space get +1 Attack.
