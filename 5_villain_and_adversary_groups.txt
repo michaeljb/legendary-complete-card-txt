@@ -2020,8 +2020,8 @@ Ambush[/b]: Play another card from the Villain Deck.
 [b]VP[/b]: 3
 [size=8][i]Some briefly think the Shadow Man is the heroic Sentry. The thought doesn't last long.[/i][/size]
 
-[size=10][i][b]Code Red[/b][/i][/size]
 
+[size=10][i][b]Code Red[/b][/i][/size]
 
 [i]Caught Red-Handed[/i] (1 copy)
 [b]Trap!
