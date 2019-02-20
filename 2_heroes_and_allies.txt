@@ -1532,7 +1532,7 @@ Cost: 4
 
 [i]Hunt Down[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-2+ Recruit
+2+ Attack
 Choose an Adversary and a direction. Move that Adversary as many adjacent, empty spaces as you can in that direction. You get +1 Attack for each space it moved.
 Cost: 5
 
