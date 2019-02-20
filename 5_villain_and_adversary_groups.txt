@@ -1937,7 +1937,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 
 [i]Sporr[/i] (1 copy)
 [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Fight:[/b] A Hero in the HQ gains [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Recruit this turn.
+[b]Fight:[/b] A Hero in the HQ gains [b]Size-Changing[/b]: [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Recruit this turn.
 [b]Attack:[/b] 7*
 [b]VP:[/b] 3
 
@@ -2077,7 +2077,7 @@ This Villain gets +1 Attack for each Bystander in the city.
 [b]Attack[/b]: 5+
 [b]VP[/b]: 3
 
-[i]Enchant the Hulk[/i] (1 copy)
+[i]Enchain the Hulk[/i] (1 copy)
 [b]Trap!
 By End of Turn[/b]: Discard two cards of the same Hero Class or recruit two cards of the same Hero Class. ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], but not grey)
 [b]Or Suffer[/b]: [i](After you draw your new hand)[/i] [b]Cross-Dimensional Hulk Rampage
