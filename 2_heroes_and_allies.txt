@@ -5350,7 +5350,7 @@ Choose a Villain in your Victory Pile, You get + Attack equal to it's printed VP
 Cost: 6
 [size=8][i]"Once I was the strongest there is. Now I'm everything there is."[/i][/size]
 
-[i]Hulk Ruins This Town[/i] (1 copy)
+[i]Hulk Runs This Town[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 4 Attack
 You can spend any combination of Recruit and Attack to fight the Mastermind this turn.
