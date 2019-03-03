@@ -2427,7 +2427,7 @@ Raza gets +1 Attack for each Bystander he has.
 [b]Attack:[/b] 7*
 [b]VP:[/b] 4
 
-[i]Iron Kinght[/i] (1 copy)
+[i]Iron Knight[/i] (1 copy)
 [b]Chivalrous Duel[/b]
 [b]Escape:[/b] Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
 [b]Attack:[/b] 4*
