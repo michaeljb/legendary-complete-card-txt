@@ -657,7 +657,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Evil Wins[/b]: If 12 Villains escape.
 
 [size=10][i][b]Destroy the Cities of Earth![/b][/i][/size]
-[b]Setup[/b]: 8 Twists. 12 total Bystanders in the Villain Deck.
+[b]Setup[/b]: 8 Twists. 12 Bystanders in the Villain Deck.
 [b]Special Rules[/b]: Each Villain gets +1 Attack for each Bystander it has.
 [b]Twist[/b]: Any Villain in the Bank captures 2 Bystanders. Then play the top card of the Villain Deck.
 [b]Evil Wins[/b]: When 8 Bystanders are carried away by escaping Villains.
@@ -681,19 +681,19 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 [size=10][i][b]Replace Earth's Leaders with HYDRA[/b][/i][/size]
 [b]Setup[/b]: 5 Twists. 3 additional Twists next to this Scheme. 18 total Bystanders in the Villain Deck.
-[b]Special Rules[/b]: Bystanders in the Villain Deck count as Killbot Villains, with Attack equal to the number of Twists next to this Scheme.
+[b]Special Rules[/b]: Bystanders in the Villain Deck count as "Infiltrator" Villains, with Attack equal to the number of Twists next to this Scheme.
 [b]Twist[/b]: Put the Twist next to this Scheme.
-[b]Evil Wins[/b]: If 5 "Killbots" escape.
+[b]Evil Wins[/b]: If 5 "Infiltrators" escape.
 
 [size=10][i][b]Super Hero Civil War[/b][/i][/size]
-[b]Setup[/b]: For 2-3 players, use 8 Twists. For 4-5 players, use 5 Twists. If only 2 players, use only 4 Heroes in the Hero Deck.
+[b]Setup[/b]: 2: Use 4 Heroes in the Hero Deck. 2-3 players: 8 Twists. 4-5 players: 5 Twists.
 [b]Twist[/b]: KO all the Heroes in the HQ.
 [b]Evil Wins[/b]: If the Hero Deck runs out.
 
 [size=10][i][b]Unleash the Power of the Cosmic Cube[/b][/i][/size]
 [b]Setup[/b]: 8 Twists.
 [b]Twist[/b]: Put the Twist next to this Scheme.
-[b]Twist 5-6[/b]: Each player gains a Wound.
+[b]Twists 5-6[/b]: Each player gains a Wound.
 [b]Twist 7[/b]: Each player gains 3 Wounds.
 [b]Twist 8[/b]: Evil Wins!
 
