@@ -171,7 +171,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 [b]Setup[/b]: 8 Twists. Put the Thor Adversary next to this Plot.
 [b]Twist[/b]: If Thor is in the city, he overruns. Otherwise, Thor enters the Bridge from wherever he is, and Thor guards 3 Bystanders.
 [b]Special Rules[/b]: Whenever Thor overruns, stack a Plot Twist from the KO pile next to this Plot as a "Triumph of Asgard."
-[b]Good Wins[/b]: When there are 3 Triumphs of Asgard next to this plot.
+[b]Good Wins[/b]: When there are 3 Triumphs of Asgard next to this Plot.
 
 [size=10][i][b]Crush HYDRA[/b][/i][/size]
 [b]Setup[/b]: 8 Twists.
