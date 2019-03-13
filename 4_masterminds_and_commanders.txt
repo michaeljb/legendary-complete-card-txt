@@ -1447,4 +1447,62 @@ VP: 6
 [b]Fight:[/b] Each other player in turn KOs a non-grey Hero from their discard pile, then gains a card from the KO pile that has a lower cost.
 
 
+
+== Venom ==
+
+[size=10][i][b]Hybrid[/b][/i][/size]
+If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
+[b]Always Leads:[/b] Life Foundation
+[b]Master Strike:[/b] A Villain from the city [b]Symbiote Bonds[/b] with Hybrid, If Hybrid was already bonded, then each player gains a Wound instead.
+[b]Attack:[/b] 6
+[b]VP:[/b] 6
+
+[size=10][i][b]Epic Hybrid[/b][/i][/size]
+If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
+[b]Always Leads:[/b] Life Foundation
+[b]Master Strike:[/b] The highest Attack unbonded Villain from the city and/or Escape Pile [b]Symbiote Bonds[/b] with Hybrid. If no new bond could occur, then each player gains a Wound instead.
+[b]Attack:[/b] 8
+[b]VP:[/b] 6
+
+Alien Awakening
+[b]Fight:[/b] If this is not the final tactic, a Henchman Villain from any Victory Pile [b]Symbiote Bonds[/b] with Hybrid.
+
+Escaped Monstrosity
+[b]Fight:[/b] If this is not the final Tactic, a Villain from the city or Escape Pile [b]Symbiote Bonds[/b] with Hybrid.
+
+Life Foundation Research
+[b]Fight:[/b] You get +1 Recruit for each Life Foundation Villain in your Victory Pile.
+
+Symbiotic Call
+[b]Fight:[/b] If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed [b]Symbiote Bonds[/b] with Hybrid. Put the rest back in any order.
+
+
+[size=10][i][b]Poison Thanos[/b][/i][/size]
+Poison Thanos gets +1 Attack for each different cost among cards in his "Poisoned Souls" pile.
+[b]Always Leads:[/b] Poisons
+[b]Master Strike:[/b] Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a "Poisoned Souls: pile.
+[b]Attack:[/b] 12+
+[b]VP:[/b] 7
+
+[size=10][i][b]Epic Poison Thanos[/b][/i][/size]
+Poison Thanos gets +2 Attack for each different cost among cards in his "Poisoned Souls" pile.
+[b]Always Leads:[/b] Poisons
+[b]Master Strike:[/b] Each player reveals their hand and puts half (round up) of their non-grey Heroes net to Thanos in a "Poisoned Souls" pile. Each player that lost no Heroes this way gains a Wound.
+[b]Attack:[/b] 13+
+[b]VP:[/b] 7
+
+Desperate Rescue
+[b]Fight:[/b] You may gain a Hero from Poison Thanos' "Poisoned Souls" pile.
+
+Poisoned Loyalties
+[b]Fight:[/b] Each other player puts a Poisons card from their discard pile into Poison Thanos' "Poisoned Souls" pile.
+
+Searing Poisons
+[b]Fight:[/b] Each other player discards a Poisons card from their hand or gains a Wound.
+
+Soul Seize
+[b]Fight:[/b] Put all Heroes that cost 5 or more from the HQ into Poison Thanos' "Poisoned Souls" pile.
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
