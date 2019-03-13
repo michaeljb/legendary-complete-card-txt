@@ -2936,25 +2936,25 @@ X-Men
 [i]Invade the Inferno[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Recruit
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Once this turn, you may fight the top card of the bystander deck as if it were a 3 Attack Demon Villain with "Fight: KO one of your heroes."
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Once this turn, you may fight the top card of the Bystander Stack as if it were a 3 Attack Demon Villain with "Fight: KO one of your heroes."
 Cost: 3
 
 [i]Steel Interception[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
-If a player would gain a wound, you may discard this card instead. If you do, draw two cards.
+If a player would gain a Wound, you may discard this card instead. If you do, draw two cards.
 Cost: 4
 
 [i]Possessed by the Soulsword[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Colossus Rampage[/b]: You get +2 Attack if at least one other player didn't reveal a Colossus card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Colossus Rampage[/b]. You get +2 Attack if at least one other player didn't reveal a Colossus card.
 Cost: 6
 
-[i]Rescue my Family from Hell[/i] (1 copy)
+[i]Rescue My Family from Hell[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 5 Attack
-X-Men: You may gain an X-Men hero from the HQ or the KO pile to your hand.
+X-Men: You may gain an X-Men Hero from the HQ or the KO pile to your hand.
 Cost: 7
 [size=8][i]Every year, Colossus leads a team of X-Men into the Inferno to rescue his sister, Magik.[/i][/size]
 
