@@ -2936,25 +2936,25 @@ X-Men
 [i]Invade the Inferno[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Recruit
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Once this turn, you may fight the top card of the bystander deck as if it were a 3 Attack Demon Villain with "Fight: KO one of your heroes."
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Once this turn, you may fight the top card of the Bystander Stack as if it were a 3 Attack Demon Villain with "Fight: KO one of your heroes."
 Cost: 3
 
 [i]Steel Interception[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
-If a player would gain a wound, you may discard this card instead. If you do, draw two cards.
+If a player would gain a Wound, you may discard this card instead. If you do, draw two cards.
 Cost: 4
 
 [i]Possessed by the Soulsword[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Colossus Rampage[/b]: You get +2 Attack if at least one other player didn't reveal a Colossus card.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Colossus Rampage[/b]. You get +2 Attack if at least one other player didn't reveal a Colossus card.
 Cost: 6
 
-[i]Rescue my Family from Hell[/i] (1 copy)
+[i]Rescue My Family from Hell[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 5 Attack
-X-Men: You may gain an X-Men hero from the HQ or the KO pile to your hand.
+X-Men: You may gain an X-Men Hero from the HQ or the KO pile to your hand.
 Cost: 7
 [size=8][i]Every year, Colossus leads a team of X-Men into the Inferno to rescue his sister, Magik.[/i][/size]
 
@@ -5895,6 +5895,7 @@ Cost: 8
 
 == Ant-Man ==
 
+
 [size=10][i][b]Ant-Man[/b][/i][/size]
 Avengers
 
@@ -6052,6 +6053,177 @@ Cost: 6
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 0+ Attack
 You get + Attack equal to the printed Attack of a Villain in your Victory Pile. (Mastermind tactics aren't Villains).
+Cost: 7
+
+
+
+== Venom ==
+
+
+[size=10][i][b]Carnage[/b][/i][/size]
+Venomverse
+
+[i]Rending Claws[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+[b]Excessive Violence:[/b] Draw a card.
+Cost: 3
+[size=8][i]One good gaping wound deserves another.[/i][/size]
+
+[i]Carnivore[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+[b]Digest 4:[/b] Draw two cards.
+[b]Indigestion:[/b] You get +2 Recruit.
+Cost: 4
+[size=8][i]He'd be willing to eat a Groot salad too.[/i][/size]
+
+[i]Gruesome Feast[/i] (3 copies)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3 Attack
+[b]Excessive Violence:[/b]
+Reveal the top card of your deck. You may KO it.
+Cost: 6
+
+[i]Feast or Famine[/i] (1 copy)
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+6 Attack
+[b]Excessive Violence:[/b] Reveal the top card of your deck. If it costs 0, KO it and you may repeat this process.
+Cost: 8
+
+
+[size=10][i][b]Venom[/b][/i][/size]
+Venomverse
+
+[i]Devouring Drool[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Digest 3:[/b] You get +2 Attack.
+[b]Indigestion:[/b] You get +2 Recruit.
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Instead, you get both.
+Cost: 3
+
+[i]Razor Teeth[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Recruit
+2 Attack
+[b]Excessive Violence:[/b] You get +2 Recruit.
+Cost: 4
+[size=8][i]The face that launched a thousand nightmares.[/i][/size]
+
+[i]Symbiotic Adaptation[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Choose one:[/b]
+- You get +1 Recruit for each other card you played this turn with a Recruit icon.
+- Or you get +1 Attack for each other card you played this turn with an Attack icon.
+Cost: 6
+
+[i]Insatiable Hunger[/i] (1 copy)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Recruit
+0+ Attack
+[b]Digest 8:[/b] KO a card from your Victory Pile. You get +6 Attack.
+[b]Indigestion:[/b] KO a card from your hand or discard pile. You get +6 Recruit.
+Venomverse Venomverse: Instead, do both.
+Cost: 8
+
+
+[size=10][i][b]Venom Rocket[/b][/i][/size]
+Venomverse
+
+[i]Hungry for Action[/i] (5 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Attack
+[b]Digest 3:[/b] You may discard a card. If you do, draw a card.
+Cost: 3
+[size=8][i]And thirsty for vengeance.[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Spring the Trap[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
+If a Master Strike or Villain that has an Ambush ability was played this turn, you get +1 Attack.
+Cost: 4
+[size=8][i]No one expects a symbiote-bonded Rocket Raccoon.[/i][/size]
+
+[i]Serious Overkill[/i] (3 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Attack
+[b]Excessive Violence:[/b] You may KO a card from your hand or discard pile.
+Cost: 5
+
+[i]Ultimate Survivor[/i] (1 copy)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5 Attack
+When a Master Strike is played, before it takes effect, you may put Ultimate Survivor from your hand on top of your deck. If you do, you may put any card from the HQ into your hand.
+Cost: 7
+[size=8][i]Art contains a gun[/i][/size]
+
+
+[size=10][i][b]Venomized Dr. Strange[/b][/i][/size]
+Venomverse
+
+[i]Cauldron of the Cosmos[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1 Recruit
+[b]Digest 2:[/b] Draw a card.
+Cost: 2
+[size=8][i]Through it, he scried other symbiotes across the dimensions.[/i][/size]
+
+[i]See Future Timelines[/i] (5 copies)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, discard it and you get +2 Attack.
+Cost: 4
+
+[i]Complete the Grand Ritual[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+4+ Attack
+If you played a 4-cost card and a 2-cost card this turn, you get +2 Attack.
+Cost: 6
+
+[i]Crystal of Kadavus[/i] (1 copy)
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+4 Attack
+Reveal the top three cards of your deck. Draw on of them, discard one, and KO one.
+Venomverse Venomverse: Do this ability again.
+Cost: 8
+
+
+[size=10][i][b]Venompool[/b][/i][/size]
+Venomverse
+
+[i]Digest That Chimichanga[/i] (5 copies)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
+[b]Digest 2:[/b] You get +2 Attack.
+[b]Indigestion:[/b] "Rescue" a Bystander.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Instead, you get both.
+Cost: 2
+
+[i]Shenanigans[/i] (5 copies)
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw two cards. But you can't draw any more cards until the end of this turn.
+Cost: 3
+[size=8][i]"I mean some of those turns can just take forever."[/i][/size]
+[size=8][i]Art contains a gun[/i][/size]
+
+[i]Can I Get a Little Gratitude[/i] (3 copies)
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Attack
+Whenever you Rescue a Bystander this turn, do any "rescue" ability on it an extra time.
+[b]Excessive Violence:[/b] "Rescue" a Bystander.
+Cost: 5
+
+[i]Play to the Crowd[/i] (1 copy)
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+4+ Attack
+[b]Digest 7:[/b] You get +1 Attack for each two Bystanders in your Victory Pile.
+[b]Indigestion:[/b] "Rescue" two Bystanders.
+Venomverse Venomverse: Instead, do both (in order).
 Cost: 7
 
 

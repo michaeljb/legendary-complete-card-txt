@@ -546,7 +546,6 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-
 == Spider-Man Homecoming ==
 
 [size=10][i][b]Distract the Hero[/b][/i][/size]
@@ -599,6 +598,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Setup[/b]: 8 Twists. The "Oxygen Level" starts at 8.
 [b]Twist[/b]: Stack this Twist next to the Scheme. The Oxygen Level decreases by 1. Then KO each Hero from the HQ whose cost is greater than the Oxygen Level.
 [b]Evil Wins[/b]: When 20 non-grey Heroes are KO'd.
+
 
 
 == World War Hulk ==
@@ -698,6 +698,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Twist 8[/b]: Evil Wins!
 
 
+
 == Ant-Man ==
 
 [size=10][i][b]Age of Ultron[/b][/i][/size]
@@ -722,6 +723,33 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 [b]Special Rules:[/b] Heroes in the Villain Deck are "Micro-Sized Villains with Attack equal to their printed cost. They have [b]Size-Changing[/b] for their card color and no outher abilites while in the city. When you fight one, choose any player to gain it as a Hero.
 [b]Twist:[/b] Play two cards from the Villain Deck.
 [b]Evil Wins:[/b] When 3 Villains per player have escaped or the Villain Deck runs out.
+
+
+
+== Venom ==
+
+[size=10][i][b]Invasion of the Venom Symbiotes[/b][/i][/size]
+[b]Setup:[/b] 8 Twists. Add an extra Henchman Group.
+[b]Twist:[/b] This Twist enters the city as a 3 Attack "Symbiote" Villain worth 3VP with "[b]Ambush:[/b] This [b]Symbiote Bonds[/b] with another Villain in the city. Play another card from the Villain Deck."
+[b]Evil Wins:[/b] When the Escape Pile has 3 cards per player, or the Villain Deck runs out.
+
+[size=10][i][b]Maximum Carnage[/b][/i][/size]
+[b]Setup:[/b] 10 Twists. Wound Stack has 6 Wounds per player.
+[b]Twist:[/b] Stack this Twist next to the Scheme. If the Streets are empty, put a Bystander there as a "Possessed Psychotic" Villain. If the Streets weren't empty, each player gains a Wound.
+[b]Special Rules:[/b] "Possessed Psychotics" have Attack equal to the number of Twists next to the Scheme. When you fight one, rescue it as a Bystander.
+[b]Evil Wins:[/b] When there are 6 Bystanders in the Escape Pile or the Wound Stack runs out.
+
+[size=10][i][b]Paralyzing Venom[/b][/i][/size]
+[b]Setup:[/b] 6 Twists. All Bystanders are also "Biochemists."
+[b]Twist:[/b] Each player Kos a Biochemist from their Victory Pile or discards down to 4 cards in hand.
+[b]Twist 6:[/b] Evil Wins!
+
+[size=10][i][b]Symbiotic Absorption[/b][/i][/size]
+[b]Setup:[/b] 11 Twists. Set aside a second "Drained" Mastermind and its 4 Tactics, out of play. Add its "Always Leads" Villains as an extra Villain Group.
+[b]Twist 1-4:[/b] Shuffle one of the Drained Mastermind's Tactics into the main Mastermind's Tactics.
+[b]Twist 6, 8, 10:[/b] The Mastermind uses this Twist to copy the Master Strike ability of the Drained Mastermind.
+[b]Twist 11:[/b] Evil Wins!
+[b]Special Rules:[/b] If Tactics or Master Strikes mention the Drained Mastermind, use the main Mastermind instead.
 
 
 

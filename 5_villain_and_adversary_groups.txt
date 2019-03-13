@@ -2459,4 +2459,108 @@ Raza gets +1 Attack for each Bystander he has.
 
 
 
+== Venom ==
+
+[size=10][i][b]Life Foundation[/b][/i][/size]
+
+[i]Agony[/i] (1 copy)
+[b]Ambush:[/b] Reveal the top three cards of the Villain Deck. A Villain you revealed [b]Symbiote Bonds[/b] with Agony. Put the rest back in any order.
+[b]Escape:[/b] Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]  Hero or gains a Wound.
+[b]Attack:[/b] 3
+[b]VP:[/b] 3
+
+[i]Dr. Carlton Drake[/i] (1 copy)
+[b]Fight:[/b] Each [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero currently in the HQ costs 1 less this turn.
+[b]Attack:[/b] 5
+[b]VP:[/b] 3
+
+[i]Lasher[/i] (2 copies)
+[b]Ambush:[/b] A Henchman Villain from your Victory Pile [b]Symbiote Bonds[/b] with Lasher.
+[b]Attack:[/b] 2
+[b]VP:[/b] 2
+
+[i]Phage[/i] (1 copy)
+[b]Ambush:[/b] A Villain from the Escape Pile or your Victory Pile [b]Symbiote Bonds[/b] with Phage.
+[b]Attack:[/b] 3
+[b]VP:[/b] 3
+
+[i]Riot[/i] (2 copies)
+[b]Ambush:[/b] Reveal the top card of the Villain Deck. If it's a Villain, it [b]Symbiote Bonds[/b] with Riot.
+[b]Fight:[/b] KO one of your Heroes.
+[b]Attack:[/b] 2
+[b]VP:[/b] 2
+
+[i]Scream[/i] (1 copy)
+[b]Ambush:[/b] Reveal the top card of the Villain Deck. If it's a Henchman or Life Foundation Villain, it [b]Symbiote Bonds[/b] with Scream.
+[b]Attack:[/b] 4
+[b]VP:[/b] 4
+
+
+[size=10][i][b]Poisons[/b][/i][/size]
+
+[i]Poison Captain America[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with another Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 4
+-----------------
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+You get +1 Attack for each color of Hero you have. (including [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and grey)
+[b]Attack:[/b] 0+
+
+
+[i]Poison Dr. Octopus[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with a Villain in the Bank. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 3
+-----------------
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+Draw a card.
+[b]Attack:[/b] 1
+
+[i]Poison Hulk[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with a Henchman Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 5
+-----------------
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+[b]Attack:[/b] 2+
+
+
+[i]Poison Sabretooth[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with a Villain in the Streets. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 4
+-----------------
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Look at the top card of your deck. You may KO it.
+[b]Attack:[/b] 2
+
+[i]Poison Scarlet Witch[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with another Villain in the city with an odd-numbered Attack. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 3
+-----------------
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top card of your deck. If it has an odd-numbered cost, draw it. (0 is even.)
+[b]Attack:[/b] 2
+
+[i]Poison Spider-Man[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with another Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 2
+-----------------
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+Reveal the top card of your deck. If it costs 2 or less, draw it.
+[b]Attack:[/b] 2
+
+[i]Poison Storm[/i] (1 copy)
+[b]Fight:[/b] This [b]Symbiote Bonds[/b] with a Villain on the Rooftops or Bridge. If already bonded or unable to bond, gain this as a Hero instead.
+[b]Attack:[/b] 3
+-----------------
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +2 Attack usable only against the Mastermind.
+[b]Attack:[/b] 2+
+
+[i]Symbiotic Armor[/i] (1 copy)
+[b]Ambush:[/b] This Symbiote Bonds with the Mastermind. When you fight the Mastermind, defeat Symbiotic Armor and KO one of your Heroes instead of taking a Tactic.
+[b]Attack:[/b] 1
+[b]VP:[/b] 6
+
+
+
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
