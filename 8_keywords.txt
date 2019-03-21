@@ -394,5 +394,8 @@ This grisly keyword represents how the Venom and Carnage symbiotes get stronger 
 * If you have zero to three cards in your Victory Pile, then you use the Indigestion ability instead, getting +2 Recruit.
 * If you have enough cards in your Victory Pile to use the Digest ability, you cannot choose to use the Indigestion ability instead.
 
+[b]Indigestion[/b]
+See Deadpool.
+
 
 [url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
