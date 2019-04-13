@@ -6046,7 +6046,7 @@ Cost: 3
 [i]Flying Steed[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 3 Attack
-When a Master Strike is plaed, before it takes effect, you may discard this card. If you do, draw three extra cards at the end of this turn.
+When a Master Strike is played, before it takes effect, you may discard this card. If you do, draw three extra cards at the end of this turn.
 Cost: 6
 
 [i]The Ebony Blade[/i] (1 copy)
