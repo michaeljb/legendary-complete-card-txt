@@ -6188,7 +6188,7 @@ Cost: 6
 [i]Crystal of Kadavus[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 4 Attack
-Reveal the top three cards of your deck. Draw on of them, discard one, and KO one.
+Reveal the top three cards of your deck. Draw one of them, discard one, and KO one.
 Venomverse Venomverse: Do this ability again.
 Cost: 8
 
