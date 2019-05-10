@@ -855,30 +855,30 @@ VP: 6
 == X-Men ==
 
 [size=10][i][b]Arcade[/b][/i][/size]
-[b]Start of Game[/b]: Arcade captures 5 Human Shields.
+[b]Start of Game[/b]: Arcade captures 5 [b]Human Shields[/b].
 [b]Always Leads[/b]: Murderworld
-[b]Master Strike[/b]: Arcade captures a random Bystander from each player's Victory Pile as a Human Shield. Each player who didn't have a Bystander gains a Wound instead.
+[b]Master Strike[/b]: Arcade captures a random Bystander from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have a Bystander gains a Wound instead.
 Attack: 3*
 VP: 5
 
 [size=10][i][b]Epic Arcade[/b][/i][/size]
-[b]Start of Game[/b]: Arcade captures 8 Human Shields. Play a random Horror.
+[b]Start of Game[/b]: Arcade captures 8 [b]Human Shields[/b]. Play a random Horror.
 [b]Always Leads[/b]: Murderworld
-[b]Master Strike[/b]: Arcade captures two random Bystanders from each player's Victory Pile as a Human Shield. Each player who didn't have two Bystanders gains a Wound instead.
+[b]Master Strike[/b]: Arcade captures two random Bystanders from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have two Bystanders gains a Wound instead.
 Attack: 4*
 VP: 5
 
 [i]I Love a Parade![/i]
-[b]Fight[/b]: Arcade captures two Human Shields. Play an extra card from the Villain Deck next turn.
+[b]Fight[/b]: Arcade captures two [b]Human Shields[/b]. Play an extra card from the Villain Deck next turn.
 
 [i]I Need an Audience[/i]
-[b]Fight[/b]: Arcade captures Human Shields equal to the number of Villains in the city.
+[b]Fight[/b]: Arcade captures [b]Human Shields[/b] equal to the number of Villains in the city.
 
 [i]Roulette Wheel of Death[/i]
-[b]Fight[/b]: Arcade captures a random Bystander as a Human Shield from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.
+[b]Fight[/b]: Arcade captures a random Bystander as a [b]Human Shield[/b] from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.
 
 [i]Welcome to my Theme Park![/i]
-[b]Fight[/b]: Arcade and each Murderworld Villain in the city capture two Human Shields.
+[b]Fight[/b]: Arcade and each Murderworld Villain in the city capture two [b]Human Shields[/b].
 
 
 [size=10][i][b]Dark Phoenix[/b][/i][/size]
@@ -936,31 +936,30 @@ VP: 6
 
 
 [size=10][i][b]Mojo[/b][/i][/size]
-[b]Start of Game[/b]: Mojo captures 3 Human Shields. All Bystanders in Victory Piles are worth 3 VP.
+[b]Start of Game[/b]: Mojo captures 3 [b]Human Shields[/b]. All Bystanders in Victory Piles are worth 3 VP.
 [b]Always Leads[/b]: Mojoverse
-[b]Master Strike[/b]: Mojo captures a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
+[b]Master Strike[/b]: Mojo captures a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
 Attack: 6*
 VP: 5
 
 [size=10][i][b]Epic Mojo[/b][/i][/size]
-[b]Start of Game[/b]: Mojo captures 6 Human Shields. Play a random Horror.
-All Bystanders in Victory Piles are worth 4 VP.
+[b]Start of Game[/b]: Mojo captures 6 [b]Human Shields[/b]. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.
 [b]Always Leads[/b]: Mojoverse
-[b]Master Strike[/b]: Mojo and each Mojoverse Villain capture a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
+[b]Master Strike[/b]: Mojo and each Mojoverse Villain capture a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
 Attack: 7*
 VP: 5
 
 [i]Billions of TV Viewers[/i]
-[b]Fight[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as Human Shields.
+[b]Fight[/b]: Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as [b]Human Shields[/b].
 
 [i]Brain-Melting TV Marathon[/i]
 [b]Fight[/b]: Each other player without a Mojo Tactic in their Victory Pile gains a Wound.
 
 [i]Cross-Dimensional Marketing[/i]
-[b]Fight[/b]: You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a Human Shield.
+[b]Fight[/b]: You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a [b]Human Shield[/b].
 
 [i]Mojo Branding Opportunity[/i]
-[b]Fight[/b]: Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a HUman Shield.
+[b]Fight[/b]: Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a [b]Human Shield[/b].
 
 
 [size=10][i][b]Onslaught[/b][/i][/size]
