@@ -936,16 +936,16 @@ VP: 6
 
 
 [size=10][i][b]Mojo[/b][/i][/size]
-[b]Start of Game[/b]: Mojo captures 3 Human Shields. All Bystanders in Victory Piles are worth 3 VP.
+[b]Start of Game[/b]: Mojo captures 3 [b]Human Shields[/b]. All Bystanders in Victory Piles are worth 3 VP.
 [b]Always Leads[/b]: Mojoverse
-[b]Master Strike[/b]: Mojo captures a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
+[b]Master Strike[/b]: Mojo captures a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
 Attack: 6*
 VP: 5
 
 [size=10][i][b]Epic Mojo[/b][/i][/size]
-[b]Start of Game[/b]: Mojo captures 6 Human Shields. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.
+[b]Start of Game[/b]: Mojo captures 6 [b]Human Shields[/b]. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.
 [b]Always Leads[/b]: Mojoverse
-[b]Master Strike[/b]: Mojo and each Mojoverse Villain capture a Human Shield. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
+[b]Master Strike[/b]: Mojo and each Mojoverse Villain capture a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
 Attack: 7*
 VP: 5
 
