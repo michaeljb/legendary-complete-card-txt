@@ -42,5 +42,6 @@ Each post has sections for the cards from each different expansion. These sectio
 * World War Hulk
 * Marvel Studios Phase 1
 * Ant-Man
+* Venom
 
 (the card text posts in this thread are backed up at https://github.com/michaeljb/legendary-complete-card-txt)
