@@ -4,14 +4,14 @@
 
 [size=16]'''Bystanders'''[/size]
 
-== Legendary ==
+=== Legendary ===
 
 
 [size=10]'''''Bystander'''''[/size] (30 copies)
 VP: 1
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''News Reporter'''''[/size] (4 copies)
 When you rescue this Bystander, draw a card.
@@ -28,7 +28,7 @@ When you rescue this Bystander, you may KO one of your Heroes or a Hero from you
 VP: 1
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Bystander'''''[/size] (30 copies)
 VP: 1
@@ -54,14 +54,14 @@ When you kidnap this Bystander, kidnap another Bystander.
 VP: 1
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Banker'''''[/size] (3 copies)
 When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.
 VP: 1
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Alligator Trapper'''''[/size] (3 copies)
 When you rescue this Bystander, '''Patrol the Sewers:''' If it's empty, you get +2 Recruit.
@@ -78,7 +78,7 @@ When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Off
 VP: 1
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Aspiring Hero'''''[/size] (4 copies)
 When you rescue this Bystander, gain a Sidekick.
@@ -89,13 +89,13 @@ When you rescue this Bystander, reveal the top three cards of the Hero Deck. The
 VP: 1
 
 
-== Noir ==
+=== Noir ===
 
 [size=10]'''''Detective Wolverine'''''[/size] (first print run promo)
 When you rescue this Bystander, '''Investigate''' the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''Cypher'''''[/size]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -188,7 +188,7 @@ When you rescue this Bystander, gain it as a Hero.
 Cost: 3
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 [size=10]'''''Actor'''''[/size] (1 copy)
 When you rescue this Bystander, choose a Hero in the HQ that costs 4 or less. You get its printed Recruit and Attack.
@@ -210,7 +210,7 @@ When you rescue this Bystander, look at the top three cards of your deck. KO one
 VP: 1
 
 
-== 3D ==
+=== 3D ===
 
 [size=10]'''''Bulldozer Driver'''''[/size] (? copies)
 When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.
@@ -237,14 +237,14 @@ When you rescue this Bystander, say a Hero name. Then reveal the top three cards
 VP: 1
 
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 [size=10]'''''Damage Control'''''[/size] (first print run promo)
 When you rescue this Bystander, reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
 '''VP''': 1
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 [size=10]'''''Bystander'''''[/size] (30 copies)
 VP: 1
@@ -266,7 +266,7 @@ When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroe
 VP: 1
 
 
-== Dimensions ==
+=== Dimensions ===
 
 [size=10]'''''Bulldozer Driver'''''[/size] (1 copy)
 When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.
@@ -292,7 +292,7 @@ VP: 1*
 
 [size=16]'''Setup Cards'''[/size]
 
-== Legendary == and also == Marvel Studios Phase 1 ==
+=== Legendary === and also === Marvel Studios Phase 1 ===
 
 [size=10]'''''S.H.I.E.L.D. Officer'''''[/size]
 [i]Maria Hill[/i] (30 copies)
@@ -302,7 +302,7 @@ Cost: 3
 [size=8][i]Art contains a gun[/i][/size]
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Madame HYDRA'''''[/size]
 [i]Viper[/i] (15 copies)
@@ -317,7 +317,7 @@ Cost: 3
 
 [size=16]'''Sidekicks and New Recruits'''[/size]
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''New Recruit'''''[/size] (15 copies)
 1 Attack
@@ -325,7 +325,7 @@ Return this card to the New Recruit Stack. Draw a card. (You still get this New 
 Cost: 2
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Sidekick'''''[/size] (15 copies)
 You may return this card to the Sidekick Stack. If you do, draw two cards.
@@ -333,7 +333,7 @@ You may return this card to the Sidekick Stack. If you do, draw two cards.
 Cost: 2
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Hairball'''''[/size] (3 copies)
 Avengers
@@ -397,7 +397,7 @@ Cost: 2
 
 [size=16]'''Starting Deck Cards'''[/size]
 
-== Legendary == and also == Marvel Studios Phase 1 ==
+=== Legendary === and also === Marvel Studios Phase 1 ===
 
 [size=10]'''''S.H.I.E.L.D. Agent'''''[/size] (8 copies in starting deck)
 S.H.I.E.L.D.
@@ -413,7 +413,7 @@ Cost: 0
 [size=8][i]Art contains a gun[/i][/size]
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''HYDRA Operative'''''[/size] (8 copies in starting deck)
 HYDRA
@@ -432,19 +432,19 @@ Cost: 0
 
 [size=16]'''Wounds and Bindings'''[/size]
 
-== Legendary == and also == Marvel Studios Phase 1 ==
+=== Legendary === and also === Marvel Studios Phase 1 ===
 
 [size=10]'''''Wound'''''[/size] (30 copies)
 '''Healing''': If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Bindings'''''[/size] (30 copies)
 '''Betrayal''': If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Blinding Flash'''''[/size] (2 copies)
 '''Healing''': You may discard a card and have each other player discard a card. If you do, KO this Wound.
@@ -468,7 +468,7 @@ Cost: 0
 '''Healing''': You may play a card from the Villain Deck. If you do, KO this Wound.
 [size=16]'''Heroes and Allies'''[/size]
 
-== Legendary ==
+=== Legendary ===
 
 [size=10]'''''Black Widow'''''[/size]
 Avengers
@@ -915,7 +915,7 @@ Cost: 8
 
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''Angel'''''[/size]
 X-Men
@@ -1442,7 +1442,7 @@ Cost: 7
 
 
 
-== Fantastic Four ==
+=== Fantastic Four ===
 
 [size=10]'''''Human Torch'''''[/size]
 Fantastic Four
@@ -1603,7 +1603,7 @@ Cost: 8
 
 
 
-== Paint the Town Red ==
+=== Paint the Town Red ===
 
 [size=10]'''''Black Cat'''''[/size]
 Spider Friends
@@ -1768,7 +1768,7 @@ Cost: 2
 
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Bullseye'''''[/size]
 Crime Syndicate
@@ -2226,7 +2226,7 @@ Cost: 7
 
 
 
-== Guardians of the Galaxy ==
+=== Guardians of the Galaxy ===
 
 [size=10]'''''Drax the Destroyer'''''[/size]
 Guardians of the Galaxy
@@ -2374,7 +2374,7 @@ Cost: 8
 
 
 
-== Fear Itself ==
+=== Fear Itself ===
 
 [size=10]'''''Greithoth, Breaker of Wills'''''[/size]
 Foes of Asgard
@@ -2552,7 +2552,7 @@ Cost: 7
 
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Apocalyptic Kitty Pryde'''''[/size]
 X-Men
@@ -2979,7 +2979,7 @@ Cost: 2
 
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Agent Venom'''''[/size]
 Spider Friends
@@ -3486,7 +3486,7 @@ Cost: 7
 
 
 
-== Captain America 75th Anniversary ==
+=== Captain America 75th Anniversary ===
 
 [size=10]'''''Agent X-13'''''[/size]
 S.H.I.E.L.D.
@@ -3653,7 +3653,7 @@ Cost: 7
 
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Captain America, Secret Avenger'''''[/size]
 Avengers
@@ -4308,7 +4308,7 @@ Cost: 7
 
 
 
-== 3D ==
+=== 3D ===
 
 [size=10]'''''Howard the Duck'''''[/size]
 (Unaffiliated)
@@ -4369,7 +4369,7 @@ Cost: 7
 
 
 
-== Deadpool ==
+=== Deadpool ===
 
 [size=10]'''''Bob, Agent of HYDRA'''''[/size]
 HYDRA
@@ -4537,7 +4537,7 @@ Cost: 8
 
 
 
-== Noir ==
+=== Noir ===
 
 [size=10]'''''Angel Noir'''''[/size]
 X-Men
@@ -4702,7 +4702,7 @@ Cost: 2
 
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''Aurora & Northstar'''''[/size]
 X-Men
@@ -5215,7 +5215,7 @@ Cost: 7
 
 
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 [size=10]'''''Happy Hogan'''''[/size]
 (Unaffiliated)
@@ -5378,7 +5378,7 @@ Cost: 7
 
 
 
-== Champions ==
+=== Champions ===
 
 [size=10]'''''Gwenpool'''''[/size]
 Champions
@@ -5554,7 +5554,7 @@ Cost: 9*
 
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 
 [size=10]'''''Amadeus Cho'''''[/size]
@@ -6152,7 +6152,7 @@ Cost: 8
 
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 
 [size=10]'''''Black Widow'''''[/size]
@@ -6361,7 +6361,7 @@ Cost: 8
 
 
 
-== Ant-Man ==
+=== Ant-Man ===
 
 
 [size=10]'''''Ant-Man'''''[/size]
@@ -6525,7 +6525,7 @@ Cost: 7
 
 
 
-== Venom ==
+=== Venom ===
 
 
 [size=10]'''''Carnage'''''[/size]
@@ -6695,7 +6695,7 @@ Venomverse Venomverse: Instead, do both (in order).
 Cost: 7
 
 
-== Dimensions ==
+=== Dimensions ===
 
 [size=10]'''''Howard the Duck'''''[/size]
 (Unaffiliated)
@@ -6851,7 +6851,7 @@ You may choose a number from 1 to 5. A Hero in your hand gains '''Switcheroo''' 
 Cost: 8
 [size=16]'''Schemes and Plots'''[/size]
 
-== Legendary ==
+=== Legendary ===
 
 [size=10]'''''The Legacy Virus'''''[/size]
 '''Setup''': 8 Twists. Wound stack holds 6 Wounds per player.
@@ -6901,7 +6901,7 @@ Cost: 8
 
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''Capture Baby Hope'''''[/size]
 '''Setup''': 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
@@ -6952,7 +6952,7 @@ Cost: 8
 
 
 
-== Fantastic Four ==
+=== Fantastic Four ===
 
 [size=10]'''''Bathe the Earth in Cosmic Rays'''''[/size]
 '''Setup''': 6 Twists.
@@ -6977,7 +6977,7 @@ Cost: 8
 
 
 
-== Paint the Town Red ==
+=== Paint the Town Red ===
 
 [size=10]'''''The Clone Saga'''''[/size]
 '''Setup''': 8 Twists.
@@ -7005,7 +7005,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Build an Underground MegaVault Prison'''''[/size]
 '''Setup''': 8 Twists. The Bindings stack holds 5 Bindings per player.
@@ -7056,7 +7056,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 
 
-== Guardians of the Galaxy ==
+=== Guardians of the Galaxy ===
 
 [size=10]'''''Forge the Infinity Gauntlet'''''[/size]
 '''Setup''': 8 Twists. Always include the Infinity Gems Villain Group.
@@ -7083,7 +7083,7 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 
 
-== Fear Itself ==
+=== Fear Itself ===
 
 [size=10]'''''Fear Itself'''''[/size]
 '''Setup''': 10 Twists.
@@ -7107,7 +7107,7 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Build an Army of Annihilation'''''[/size]
 '''Setup''': 9 Twists. Put 10 extra Annihilation Wave Henchmen in that KO pile.
@@ -7160,7 +7160,7 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Deadlands Hordes Charge the Wall'''''[/size]
 '''Setup:''' 8 Twists. Add an extra Villain Group.
@@ -7212,7 +7212,7 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 
-== Captain America 75th Anniversary ==
+=== Captain America 75th Anniversary ===
 
 [size=10]'''''Brainwash the Military'''''[/size]
 '''Setup:''' 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
@@ -7247,7 +7247,7 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Avengers vs. X-Men'''''[/size]
 '''Setup:''' 9 Twists. Hero Deck has 3 Heroes of one Team and 3 Heroes of another Team. (Avengers, X-Men, Spider-Friends, Marvel Knights, etc.)
@@ -7292,7 +7292,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Deadpool ==
+=== Deadpool ===
 
 [size=10]'''''Deadpool Kills the Marvel Universe'''''[/size]
 '''Setup:''' Use Deadpool as one of the Heroes. 2 players: Use 4 Heroes total. 1-3 players: 6 Twists. 4-5 Players: 5 Twists.
@@ -7322,7 +7322,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Noir ==
+=== Noir ===
 
 [size=10]'''''Find the Split Personality Killer'''''[/size]
 '''Setup''': 8 Twists.
@@ -7349,7 +7349,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''Alien Brood Encounters'''''[/size]
 '''Setup''': 8 Twists. Add 10 Brood as extra Henchmen. No Bystanders in Villain Deck.
@@ -7397,7 +7397,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 [size=10]'''''Distract the Hero'''''[/size]
 '''Setup''': 8 Twists. Use at least one Spider Friends Hero.
@@ -7425,7 +7425,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Champions ==
+=== Champions ===
 
 [size=10]'''''Clash of the Monsters Unleashed'''''[/size]
 '''Setup''': 10 Twists. 6 Wounds per player in the Wound Stack. Shuffle 8 Monsters Unleashed Villains into a face-down "Monster Pit" deck.
@@ -7452,7 +7452,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 [size=10]'''''Break the Planet Asunder'''''[/size]
 '''Setup''': 9 Twists. 7 Heroes.
@@ -7500,7 +7500,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 [size=10]'''''Asgard Under Siege'''''[/size]
 '''Setup''': 8 Twists. Add an extra Henchman group to the Villain Deck.
@@ -7550,7 +7550,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Ant-Man ==
+=== Ant-Man ===
 
 [size=10]'''''Age of Ultron'''''[/size]
 '''Setup:''' 11 Twists. 4-5 Players: Add another Hero.
@@ -7577,7 +7577,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 
 
-== Venom ==
+=== Venom ===
 
 [size=10]'''''Invasion of the Venom Symbiotes'''''[/size]
 '''Setup:''' 8 Twists. Add an extra Henchman Group.
@@ -7603,7 +7603,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Special Rules:''' If Tactics or Master Strikes mention the Drained Mastermind, use the main Mastermind instead.
 [size=16]'''Masterminds and Commanders'''[/size]
 
-== Legendary ==
+=== Legendary ===
 
 [size=10]'''''Dr. Doom'''''[/size]
 
@@ -7686,7 +7686,7 @@ VP: 5
 
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''Apocalypse'''''[/size]
 
@@ -7795,7 +7795,7 @@ VP: 6
 
 
 
-== Fantastic Four ==
+=== Fantastic Four ===
 
 [size=10]'''''Galactus'''''[/size]
 
@@ -7841,7 +7841,7 @@ VP: 6
 
 
 
-== Paint the Town Red ==
+=== Paint the Town Red ===
 
 [size=10]'''''Carnage'''''[/size]
 
@@ -7887,7 +7887,7 @@ VP: 6
 
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Dr. Strange'''''[/size]
 
@@ -7971,7 +7971,7 @@ VP: 6
 
 
 
-== Guardians of the Galaxy ==
+=== Guardians of the Galaxy ===
 
 [size=10]'''''Supreme Intelligence of the Kree'''''[/size]
 
@@ -8015,7 +8015,7 @@ VP: 7
 
 
 
-== Fear Itself ==
+=== Fear Itself ===
 
 [size=10]'''''Uru-Enchanted Iron Man'''''[/size]
 
@@ -8038,7 +8038,7 @@ VP: 6
 
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Madelyne Pryor, Goblin Queen'''''[/size]
 
@@ -8125,7 +8125,7 @@ VP: 6
 
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Immortal Emperor Zheng-Zhu'''''[/size]
 
@@ -8216,7 +8216,7 @@ VP: 6
 
 
 
-== Captain America 75th Anniversary ==
+=== Captain America 75th Anniversary ===
 
 [size=10]'''''Arnim Zola'''''[/size]
 
@@ -8261,7 +8261,7 @@ Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron
 
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Authoritarian Iron Man'''''[/size]
 
@@ -8369,7 +8369,7 @@ VP: 6
 
 
 
-== Deadpool ==
+=== Deadpool ===
 
 [size=10]'''''Evil Deadpool'''''[/size]
 '''Revenge for Mastermind Tactics'''
@@ -8412,7 +8412,7 @@ VP: 6
 
 
 
-== Noir ==
+=== Noir ===
 
 [size=10]'''''Charles Xavier'''''[/size]
 Charles Xavier gets +1 Attack for each Bystander in the HQ and city.
@@ -8455,7 +8455,7 @@ VP: 6
 
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''Arcade'''''[/size]
 '''Start of Game''': Arcade captures 5 '''Human Shields'''.
@@ -8619,7 +8619,7 @@ VP: 6
 
 
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 [size=10]'''''Adrian Toomes'''''[/size]
 '''Double Striker'''
@@ -8678,7 +8678,7 @@ VP: 6
 
 
 
-== Champions ==
+=== Champions ===
 
 [size=10]'''''Fin Fang Foom'''''[/size]
 '''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -8736,7 +8736,7 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 [size=10]'''''General Ross'''''[/size]
 
@@ -8926,7 +8926,7 @@ This Mastermind '''Transforms'''.
 
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 [size=10]'''''Iron Monger'''''[/size]
 
@@ -8990,7 +8990,7 @@ VP: 5
 
 
 
-== Ant-Man ==
+=== Ant-Man ===
 
 [size=10]'''''Ultron'''''[/size]
 
@@ -9050,7 +9050,7 @@ VP: 6
 
 
 
-== Venom ==
+=== Venom ===
 
 [size=10]'''''Hybrid'''''[/size]
 If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
@@ -9107,7 +9107,7 @@ Soul Seize
 
 
 
-== Dimensions ==
+=== Dimensions ===
 
 [size=10]'''''J. Jonah Jameson'''''[/size]
 
@@ -9141,7 +9141,7 @@ That Menace Spider-Man!
 [size=16]'''Villains and Adversaries'''[/size]
 
 
-== Legendary ==
+=== Legendary ===
 
 [size=10]'''''Brotherhood'''''[/size]
 
@@ -9316,7 +9316,7 @@ You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[
 
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''Emissaries of Evil'''''[/size]
 
@@ -9471,7 +9471,7 @@ Bribe
 
 
 
-== Fantastic Four ==
+=== Fantastic Four ===
 
 [size=10]'''''Heralds of Galactus'''''[/size]
 
@@ -9529,7 +9529,7 @@ Burrow
 
 
 
-== Paint the Town Red ==
+=== Paint the Town Red ===
 
 [size=10]'''''Maximum Carnage'''''[/size]
 
@@ -9596,7 +9596,7 @@ Sandman's Attack is twice the number of Villains in the city.
 
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Avengers'''''[/size]
 
@@ -9806,7 +9806,7 @@ Overrun: Each player reveals a Brotherhood Ally or discards a card.
 
 
 
-== Guardians of the Galaxy ==
+=== Guardians of the Galaxy ===
 
 [size=10]'''''Kree Starforce'''''[/size]
 
@@ -9895,7 +9895,7 @@ Artifact - When you play this Artifact, take another turn after this one. Use th
 
 
 
-== Fear Itself ==
+=== Fear Itself ===
 
 [size=10]'''''The Mighty'''''[/size]
 
@@ -9953,7 +9953,7 @@ Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR]
 
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''The Deadlands'''''[/size]
 
@@ -10144,7 +10144,7 @@ You get +1 Attack for each color of Hero you have
 
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Deadpool's Secret Secret Wars'''''[/size]
 
@@ -10319,7 +10319,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 
 
 
-== Captain America 75th Anniversary ==
+=== Captain America 75th Anniversary ===
 
 [size=10]'''''Zola's Creations'''''[/size]
 
@@ -10379,7 +10379,7 @@ To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
 
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''CSA Special Marshals'''''[/size]
 
@@ -10568,7 +10568,7 @@ Size-Changing: Tech
 
 
 
-== Deadpool ==
+=== Deadpool ===
 
 [size=10]'''''Deadpool's "Friends'''''"[/size]
 
@@ -10634,7 +10634,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 
 
-== Noir ==
+=== Noir ===
 
 [size=10]'''''Goblin's Freak Show'''''[/size]
 
@@ -10712,7 +10712,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''Dark Descendants'''''[/size]
 
@@ -10989,7 +10989,7 @@ Villain --- Shi'ar Imperial Guard
 
 
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 [size=10]'''''Salvagers'''''[/size]
 
@@ -11048,7 +11048,7 @@ Villain --- Shi'ar Imperial Guard
 
 
 
-== Champions ==
+=== Champions ===
 
 [size=10]'''''Monsters Unleashed'''''[/size]
 
@@ -11126,7 +11126,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 [size=10]'''''Aspects of the Void'''''[/size]
 
@@ -11358,7 +11358,7 @@ By End of Turn''': Put a Warbound Villain and Henchman Villain from your Victory
 
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 [size=10]'''''Chitauri'''''[/size]
 
@@ -11493,7 +11493,7 @@ Raza gets +1 Attack for each Bystander he has.
 
 
 
-== Ant-Man ==
+=== Ant-Man ===
 
 [size=10]'''''Ultron's Legacy'''''[/size]
 
@@ -11599,7 +11599,7 @@ Raza gets +1 Attack for each Bystander he has.
 
 
 
-== Venom ==
+=== Venom ===
 
 [size=10]'''''Life Foundation'''''[/size]
 
@@ -11702,7 +11702,7 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 '''VP:''' 6
 [size=16]'''Henchmen and Backup Adversaries'''[/size]
 
-== Legendary ==
+=== Legendary ===
 
 [size=10]'''''Doombot Legion'''''[/size]
 '''Fight''': Look at the top two cards of your deck. KO one of them and put the other back.
@@ -11725,7 +11725,7 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 '''VP''': 1
 
 
-== Dark City ==
+=== Dark City ===
 
 [size=10]'''''Maggia Goons'''''[/size]
 '''Bribe'''
@@ -11739,7 +11739,7 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 '''VP''': 1
 
 
-== Villains ==
+=== Villains ===
 
 [size=10]'''''Asgardian Warriors'''''[/size]
 '''Fight''': Draw a card.
@@ -11762,7 +11762,7 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 '''VP''': 1
 
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 [size=10]'''''Ghost Racers'''''[/size]
 Ambush: Rise of the Living Dead
@@ -11785,7 +11785,7 @@ Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Recruit.
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 [size=10]'''''Khonshu Guardians'''''[/size]
 While in the Sewers, Rooftops or Bridge, this is in "wolf form" and gets +2 Attack.
@@ -11806,7 +11806,7 @@ Ambush: This captures a Bystander.
 '''VP''': 1
 
 
-== Civil War ==
+=== Civil War ===
 
 [size=10]'''''Mandroid'''''[/size]
 This gets +1 Attack for each other Mandroid in your Victory Pile.
@@ -11821,7 +11821,7 @@ S.H.I.E.L.D. Clearance
 '''VP''': 1
 
 
-== X-Men ==
+=== X-Men ===
 
 [size=10]'''''The Brood'''''[/size]
 This Villain gets +1 Attack for each Bystander in the KO pile.
@@ -11851,7 +11851,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 '''VP''': 1
 
 
-== 3D ==
+=== 3D ===
 
 [size=10]'''''Circus of Crime'''''[/size]
 '''Fight''': Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.
@@ -11865,7 +11865,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 [size=10]'''''Cytoplasm Spikes'''''[/size]
 '''Fight''': '''Feast'''. If Cytoplasm Spikes feasts on a non-grey Hero, you get +2 Recruit.
@@ -11884,7 +11884,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 [size=10]'''''Hammer Drone Army'''''[/size]
 '''Fight''': KO one of your Heroes.
@@ -11907,7 +11907,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 '''VP''': 1
 
 
-== Dimensions ==
+=== Dimensions ===
 
 
 [size=10]'''''Circus of Crime'''''[/size]
@@ -11921,7 +11921,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 '''VP: '''1
 [size=16]'''Ambitions'''[/size]
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 '''Pure Evil'''
 [i]Starting Ambition[/i]
@@ -12046,7 +12046,7 @@ Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BG
 [i]Attack:[/i] 4
 
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 '''Puzzle Trap'''
 Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card.
@@ -12093,7 +12093,7 @@ This card becomes a Master Strike that takes effect immediately. Then, this card
 
 [size=16]'''Horrors'''[/size]
 
-== X-Men ==
+=== X-Men ===
 
 '''The Apprentice Rises'''
 '''Ambush:''' Add a random new Mastermind to the game with one Tactic.
@@ -12156,7 +12156,7 @@ This Horror Ascends to become a new 9-Attack "Master Plan" Token Mastermind wort
 The Mastermind as +3 Attack.
 [size=16]'''Keywords'''[/size]
 
-== Dark City ==
+=== Dark City ===
 
 '''Teleport''': Instead of playing it, you may set aside a card with the keyword "Teleport". If you do, add it to your new hand at the end of your turn as an extra card.
 
@@ -12164,7 +12164,7 @@ The Mastermind as +3 Attack.
 
 '''Versatile''': When you play a card with the keyword "Versatile" you must first choose between Recruit and Fight. Once you have chosen, the card provides recruit or fight equal to the Versatile value. For example, Versatile 3 gives you +3 Recruit or +3 Attack.
 
-== Fantastic Four ==
+=== Fantastic Four ===
 
 '''Focus''': When you play a card with a Focus ability, you can pay the cost on the left side of the arrow to get the effect on right side of the arrow. You can use that Focus ability as many times as you want for the rest of the turn. You can even play more Heroes, recruit, fight, then use the Focus ability more.
 Note: You can use Focus abilities and still use the "Healing" ability on Wounds.
@@ -12175,7 +12175,7 @@ Note: You can use Focus abilities and still use the "Healing" ability on Wounds.
 
 Galactus' Cosmic Threat means "Once per turn, choose Strength, Instinct, Covert, Tech or Ranged. For each card of that color you reveal, this Enemy gets -3 Attack for one fight this turn." If you try to fight Galactus a second time in the same turn, he will return to his full attack and you cannot use his Cosmic Threat ability a second time that turn.
 
-== Paint the Town Red ==
+=== Paint the Town Red ===
 
 '''Wall-Crawl''': "When you recruit this Hero, you may put it on top of your deck."
 Remember: When you use Wall-Crawl to put a card on top of your deck, don't use any other abilities on that card until it gets drawn from your deck. If you "gain" a Hero through some special ability like Skrull Shapeshifters, you can't use Wall-Crawl because you didn't "recruit" that Hero.
@@ -12184,7 +12184,7 @@ Remember: When you use Wall-Crawl to put a card on top of your deck, don't use a
 Carnage's Master Strike starts with "Feast on each player." That means each player does the "Feast" effect.
 Note that Carnage's Master Strike is the only effect that feasts on every player. The "Maximum Carnage" Villains and Carnage's Mastermind Tactic each feast on only one player.
 
-== Villains ==
+=== Villains ===
 
 '''Demolish''': Reveal the top card of the Ally (Hero) Deck, note its cost, and put it on the bottom of the Ally Deck. Each player reveals their hand and discards a card with that cost.
 
@@ -12194,14 +12194,14 @@ Note that Carnage's Master Strike is the only effect that feasts on every player
 
 '''X-Treme Attack''': "This Adversary gets +1 Attack for each other Adversary in the city with X-Treme Attack."
 
-== Guardians of the Galaxy ==
+=== Guardians of the Galaxy ===
 
 '''Artifact''': When you gain a Hero Artifact, put it in your discard pile like any other Hero card. When you draw that Artifact later in the game, you may play it in front of you and use its effects, usually once one each of your turns. This means you "control" that Artifact. At the end of your turn, when you discard all the cards you played that turn, the Artifacts you control stay in.
 If a card effect during any player's turn asks you to "Reveal a Ranged Hero," you may reveal a Ranged Hero Artifact you control. Card effects that say "your Heroes" or "Heroes you have" include Hero Artifacts you control as well.
 However, you only "played" an Artifact on the turn you put it out, so it only activates Superpower Abilities on the turn you play the Artifact, not every turn of the game.
 If a card effect like Rogue, Chameleon, or Star-Lord would let you "copy" an Artifact card, then you can use that Artifact's "Once per turn" ability once, and there is no other effect.
 
-== Fear Itself ==
+=== Fear Itself ===
 
 '''Thrown Artifact''': These are Artifact cards that the player can "throw" at the perfect moment. To "throw" a Thrown Artifact, put it on the bottom of your deck and use its ability.
 You can throw as many Artifacts as you want in a turn. You can only throw during your turn.
@@ -12213,7 +12213,7 @@ Many of these enemies have a "'''Fight or Fail''':" effect. Do this effect if yo
 Once you start to fight an enemy, you can't play any more cards or throw any Artifacts until after that fight is complete. So remember to generate all the Attack points you can before you attack an enemy with Uru-Enchanted Weapons!
 Flipping cards for Uru-Enchanted Weapons cannot end the game. If you run out of cards in the Adversary Deck, shuffle the cards you've revealed so far and keep revealing. (If there are no cards left in the Adversary Deck there is no Attack bonus.)
 
-== Secret Wars Volume 1 ==
+=== Secret Wars Volume 1 ===
 
 '''Rise of the Living Dead''': "Each player checks the top card of their Victory Pile. If that card is a Villain with a 'Rise of the Living Dead' ability, that Villain reenters the city."
 (Mastermind Tactics never return this way.)
@@ -12223,7 +12223,7 @@ If you put a Villain with Bystanders into your Victory Pile, you choose the orde
 "Hulk" cards additionally include "Maestro" and "Nul, Breaker of Worlds."
 "Wolverine" cards additionally include any card with "Weapon X" or "Old Man Logan".
 
-== Secret Wars Volume 2 ==
+=== Secret Wars Volume 2 ===
 
 '''Spectrum''': Some cards have abilities like "Spectrum: Draw a card." You can use a card's Spectrum abilities only if you have at least 3 classes of Hero.
 Grey S.H.I.E.L.D. Heroes, HYDRA Allies, New Recruits and Sidekicks don't have classes, so they don't help.
@@ -12247,7 +12247,7 @@ If a Villain that has ascended to become a Mastermind resurrects this way, it st
 
 '''Charge''': "Ambush: Charge one space" means "(After this Villain enters the Sewers,) it charges forward an extra space, pushing other Villains forward."
 
-== Captain America 75th Anniversary ==
+=== Captain America 75th Anniversary ===
 
 '''Man/Woman Out of Time''': "After you use this card's abilities, set it aside. At the beginning of your next turn, play this card a second time then discard it."
 The card is discarded the second time you play it, so you play the card only twice total.
@@ -12262,7 +12262,7 @@ If a Hero card rescues a Bystander, that Bystander counts towards any Savior abi
 "Ultimate Abomination" means "This Mastermind gets +Attack equal to the total printed Attack of all the Heroes in the HQ."
 An Abomination Villain's Attack can go up and down as the Villain moves through the city.
 
-== Civil War ==
+=== Civil War ===
 
 '''Divided'''
 Matching the theme of division and duality, Civil War introduces "Divided Cards," which have two miniature cards printed on the same card.
@@ -12298,7 +12298,7 @@ This keyword represents pro-registration S.H.I.E.L.D. forces that can be only de
 * Likewise, if a Mastermind has "Double S.H.I.E.L.D. Clearance," then you must discard two S.H.I.E.L.D. Heroes each time you fight them.
 * If you are playing with HYDRA Heroes, you may discard them instead of S.H.I.E.L.D. Heroes.
 
-== Deadpool ==
+=== Deadpool ===
 
 '''Excessive Violence'''
 * Once per turn, you can spend one Attack point more than you need to fight a bad guy "using Excessive Violence." If you do, you get to use all the Excessive Violence abilities on Cards you've already played this turn.
@@ -12311,7 +12311,7 @@ This keyword represents pro-registration S.H.I.E.L.D. forces that can be only de
 * Revenge is player specific. It will change based on the damage each player has caused to a Villain group. If you've KO'd 2 members of the Deadpool's 'Friends' Villain group then every other member of that group, that enters or is already in the city, will get +2 Attack during your turns. If another player has yet to KO'd a member of that group then the group doesn't gain any Attack. The more damage YOU do, the more that group hates YOU.
 * Revenge is not limited to just Villains either. Masterminds can also hold a grudge. Big surprise there.
 
-== Noir ==
+=== Noir ===
 
 '''Investigate'''
 This keyword represents hard-bitten Noir detectives investigating mysteries and searching for evidence and allies.
@@ -12330,7 +12330,7 @@ This keyword represents Villains and Masterminds hiding behind layers of informa
 * If a special ability lets you "Defeat a Villain for free," you automatically rescue all the Hidden Witnesses on it without paying Recruit.
 * Masterminds and Schemes can have Hidden Witnesses on them too. They work the same way.
 
-== X-Men ==
+=== X-Men ===
 
 '''X-Gene''': This keyword represents X-Men combining unique mutant powers with their
 signature teamwork.
@@ -12373,7 +12373,7 @@ signature teamwork.
 
 '''Token Cards''': Sometimes game play will cause additional Villains or Masterminds to be added during play. For example, a Master Strike may cause a special Villain to enter the city. Token cards represent these special characters that would otherwise be represented by the card that drew them out. Tokens are all identified by a Token icon in the upper right of the card. These new cards are optional so have fun with them!
 
-== Spider-Man Homecoming ==
+=== Spider-Man Homecoming ===
 
 '''Danger Sense''': This keyword represents Spider-Man using his famous "Spider-Sense" superpower to detect danger and evade it. It also covers Tony Stark, Happy Hogan, and Vulture watching for threats and rapidly reacting to them.
 * Some cards say things like "Danger Sense 2." This means "Reveal the top 2 cards of the Villain Deck. You get +1 Attack for each Villain you revealed. Put all the cards back on top in any order."
@@ -12401,7 +12401,7 @@ You can only Coordinate one card to each player on their turn. However, multiple
 * When you offer to Coordinate a card to another player, that player can decline. If so, you don't discard that card and that player doesn't play a copy of it.
 * If you are playing with the Final Showdown, you can't Coordinate during that Showdown.
 
-== Champions ==
+=== Champions ===
 
 '''Cheering Crowds''': This keyword represents the Champions being inspired to redouble their efforts by adoring fans.
 * Several Hero cards say "Cheering Crowds." This means "You may play this card twice in a row if you return a Bystander from your Victory Pile to the bottom of the Bystander Stack."
@@ -12423,7 +12423,7 @@ You can only Coordinate one card to each player on their turn. However, multiple
 * If a Hero in the HQ already has "'''Size-Changing''': [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]" and it gains "'''Size-Changing''': [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]" from another special ability like the Sporr Villain, it just ends up with "'''Size-Changing''': [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]." A card can't have Size-Changing for the same Hero Class twice.
 
 
-== World War Hulk ==
+=== World War Hulk ===
 
 '''Transform''': This keyword represents the themes of duality and transformation in Hulk stories.
 [u]Heroes[/u]:
@@ -12466,12 +12466,12 @@ You can only Coordinate one card to each player on their turn. However, multiple
 * When a Cross-Dimensional Hulk Rampage happens, you can choose to gain the Wound, even if you have a Hulk that you already played or could otherwise reveal. You might want the Wound if you have Wounded Fury cards.
 * There are also Cross-Dimensional Void Rampages, etc.
 
-== Marvel Studios Phase 1 ==
+=== Marvel Studios Phase 1 ===
 
 '''Conqueror'''
 Some Villain cards have a special ability called "Conqueror," representing their desire to conquer and hold a specific part of the city. For example, the Chitauri Soldier Villain has the ability "'''Rooftops Conqueror 2.'''" This ability means This Villain gets '''+2''' [Attack] while any Villain is in the rooftops." So the Chitauri Soldier gets this [Attack] bonus while it itself on the Rooftops, or when a completely different Villain is on the Rooftops. The Chitauri Soldier doesn't care if the Villain on the Rooftops has a Conqueror ability or not. Other Villains and the Iron Monger Mastermind have different Conqueror abilities, with different [Attack] bonus numbers and referring to different city spaces.
 
-== Ant-Man ==
+=== Ant-Man ===
 
 '''Size-Changing'''
 This keyword represents Heroes and Villains using superpowers to shrink, grow, or massively change their size. It's also used by characters that can change the size of a weapon, technology, or energy. It first debuted in [i]Legendary Civil War[/i] and also appeared in [i]Legendary Champions[/i].
@@ -12512,7 +12512,7 @@ This keyword represents how Morgan le Fay and the knights of her "Queen's Vengea
 * (You can't use Attack you get from anything that's not a Hero card, including Microscopic Size-Changing Villains, Mastermind Tactics, Shard tokens from other sets, etc. You can use Attack from Hero Artifacts in other sets with the right Hero Name, since those are Hero cards.)
 * In a setup with lots of Chivalrous Duels, like fighting Morgan le Fay or the Scheme "Pull Earth into Medieval Times," you will want to build your deck to concentrate your Attack cards into just one or two Hero Names!
 
-== Venom ==
+=== Venom ===
 
 '''Symbiote Bonds'''
 This keyword represents how symbiotes like Hybrid, Riot, and Lasher bond with other characters, enhancing them with a dark shell. You must fight the combined strength of the host and symbiote to split them apart, then finish what remains in a second fight.
