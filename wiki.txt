@@ -5573,7 +5573,7 @@ Draw a card.
 Then, if you drew two cards this turn, Transform this into Like Totally Smart Hulk.
 Cost: 3
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Like Totally Smart Hulk'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
@@ -5611,7 +5611,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png
 '''Outwit''': '''Transform''' this into Savage Hulk Unleashed.
 Cost: 4
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Savage Hulk Unleashed'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
@@ -5663,7 +5663,7 @@ Double the Recruit you have.
 If there are at least 3 Heroes per player in the KO pile, '''Transform''' this into Vengeful Destructor.
 Cost: 7
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Vengeful Destructor'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Double the Attack you have.
@@ -5689,7 +5689,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png
 Then, if you discarded at least two cards this turn, '''Transform''' this into Hulk Is King and put it on top of your deck.
 Cost: 4
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Hulk Is King'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
@@ -5727,7 +5727,7 @@ Draw a card.
 If there are at least two Bystanders in your Victory Pile, '''Transform''' this into Hiroim Redeemed.
 Cost: 4
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Hiroim Redeemed'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
@@ -5772,7 +5772,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mb
 Cost: 5
 [size=8]''Tony Stark has specialized suits for many occasions. This one is specialized for may concussions.''[/size]
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Ultra-Massive Armor'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
 0+ Attack
@@ -5810,7 +5810,7 @@ https://cf.geekdo-static.com/mbs/mb_26286_0.png
 When you defeat a Villain this turn that has 6 Attack or more, '''Transform''' this into Underworld Boss and put it on top of your deck.
 Cost: 6
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Underworld Boss'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26284_0.png
 0+ Attack
@@ -5849,7 +5849,7 @@ https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Transform''' this into Lord 
 Cost: 3
 [size=8]''After a while, it gets hard to tell if you're being hit by fist-sized rocks or rock-sized fists.''[/size]
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Lord of Granite'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
 0+ Attack
@@ -5894,7 +5894,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png
 You may '''Feast.''' Then, if a card with an Attack icon was KO'd from your deck this turn, '''Transform''' this into Hive King Miek.
 Cost: 7
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Hive King Miek'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6 Attack
@@ -5925,7 +5925,7 @@ https://cf.geekdo-static.com/mbs/mb_26285_0.png
 When you defeat a Villain in the Sewers or Bridge, '''Transform''' this into Master of Depths and put it on top of your deck.
 Cost: 5
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Master of Depths'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
@@ -5963,7 +5963,7 @@ https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You may '''Feast.''' Then, if a non-grey Hero was KO'd from you deck this turn, '''Transform''' this into Torrent of Broodlings.
 Cost: 3
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Torrent of Broodlings'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
 2 Attack
@@ -5994,7 +5994,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png
 Reveal the top card of your deck. If it costs 3 or more, '''Transform''' this into Captain Marvel.
 Cost: 4
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Captain Marvel'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26285_0.png
 2 Attack
@@ -6008,7 +6008,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png
 If you have at least 5 Villains in your Victory Pile, '''Transform''' this into A-Bomb and put it on top of your deck.
 Cost: 5
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''A-Bomb'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
@@ -6022,7 +6022,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png
 If you defeat two Villains this turn, '''Transform''' this into The Destiny Force and put it on top of your deck.
 Cost: 7
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''The Destiny Force'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26285_0.png
 Count the number of different printed VP values in your Victory Pile. Draw that many cards.
@@ -6038,7 +6038,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png
 Cost: 2
 [size=8]''If half the time you went out, you transformed into a terrifying demon, you'd have social anxiety too.''[/size]
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Golden Guardian of Good'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
@@ -6057,7 +6057,7 @@ https://cf.geekdo-static.com/mbs/mb_26285_0.png
 Reveal the top card of your deck. If it costs 1 or more, '''Transform''' this into The Void Unchained and put it on top of your deck.
 Cost: 3
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''The Void Unchained'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
 (Unaffiliated)
@@ -6081,7 +6081,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png
 Once this turn, if you made at least 6 Recruit this turn, '''Transform''' this into Hurl Trucks.
 Cost: 3
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Hurl Trucks'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
@@ -6135,7 +6135,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png: You may gain a Wound. If you do
 Cost: 5
 [size=8]''Skaar's moods swing wildly, from extremely angry to absolutely furious.''[/size]
 
-[COLOR=#FF0000]Transformed[/COLOR]
+Transformed
 ''Raging Savage'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
