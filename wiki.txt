@@ -6412,7 +6412,7 @@ Cost: 3*
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
 2 Recruit
 '''Size-changing:''' https://cf.geekdo-static.com/mbs/mb_26283_0.png
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR]:[/BGCOLOR] Draw a card.
+https://cf.geekdo-static.com/mbs/mb_26283_0.png: Draw a card.
 Cost: 4*
 [size=8]''Crushing victories arrive in small packages.''[/size]
 
