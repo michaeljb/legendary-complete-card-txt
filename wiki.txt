@@ -5222,7 +5222,7 @@ Cost: 7
 
 ''Head of Security'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26284_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 KO all Wounds you gained this turn.
 2 Recruit
 Cost: 3
@@ -5235,7 +5235,7 @@ Cost: 4
 
 ''Loyal Friend'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 '''Striker'''
 0+ Attack
 Cost: 5
@@ -5275,7 +5275,7 @@ Cost: 2
 ''Friendly Neighborhood ...'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
 Wall-Crawl
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 You get +3 Attack usable only against the Mastermind or Villains on the Rooftops or Streets.
 0+ Attack
 Cost: 2
@@ -5292,20 +5292,20 @@ Cost: 3
 
 ''Ned'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 https://cf.geekdo-static.com/mbs/mb_26283_0.png: You get +2 Recruit
 1+ Recruit
 Cost: 2
 
 ''Liz'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26284_0.png
-Whenever you [COLOR=#CC0000]'''Coordinate'''[/COLOR] a card to another player, you may reveal this to draw two cards instead of one.
+Whenever you '''Coordinate''' a card to another player, you may reveal this to draw two cards instead of one.
 4 Recruit
 Cost: 6
 
 ''May Parker'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 Spider Friends: Each Villain gets -2 Attack this turn. The next time you fight the Mastermind this turn, it gets -2 Attack.
 5 Recruit
 Cost: 7
@@ -5337,7 +5337,7 @@ Cost: 2
 ''Something is Happening'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Wall-Crawl
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 '''Danger Sense 4'''
 If this revealed any Scheme Twists, you may shuffle the Villain Deck.
 0+ Attack
@@ -5349,7 +5349,7 @@ Avengers
 
 ''Genius, Billionaire ...'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 1 Recruit
 1 Attack
 Cost: 2
@@ -5357,7 +5357,7 @@ Cost: 2
 
 ''Stay Out of Trouble'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
+'''Coordinate'''
 https://cf.geekdo-static.com/mbs/mb_26287_0.png: '''Danger Sense 2'''
 2+ Attack
 Cost: 4
@@ -5371,8 +5371,8 @@ Cost: 5
 
 ''As Usual, I Did All the Work'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26285_0.png
-[COLOR=#CC0000]'''Coordinate'''[/COLOR]
-If another player accepts this [COLOR=#CC0000]'''Coordinate'''[/COLOR], then at the end of this turn, move all cards that entered that player's Victory Pile this turn into your Victory Pile.
+'''Coordinate'''
+If another player accepts this '''Coordinate''', then at the end of this turn, move all cards that entered that player's Victory Pile this turn into your Victory Pile.
 5 Attack
 Cost: 7
 
