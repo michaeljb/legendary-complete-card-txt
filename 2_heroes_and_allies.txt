@@ -3276,7 +3276,7 @@ Cost: 7
 
 
 [size=10][i][b]Daredevil[/b][/i][/size]
-Avengers
+Avengers/Marvel Knights
 
 [i]Dual Existence[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
@@ -3543,7 +3543,7 @@ Cost: 8
 
 
 [size=10][i][b]Peter Parker[/b][/i][/size]
-Avengers
+Avengers/Spider Friends
 
 [i]Conflicted Loyalties[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -4060,7 +4060,7 @@ Cost: 2
 Cost: 5
 [size=8][i]Flavor: Wait, isn't shooting electricity underwater a terrible idea?[/i][/size]
 
-[i]PhD in Oceanography (1 copy)[/i]
+[i]PhD in Oceanography[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 You may KO a card from your hand or discard pile.
 Mercs for Money: You get 1/2 Attack for each Hero in the KO pile.
@@ -5579,7 +5579,7 @@ Cost: 6
 
 [i]Rival Personalities[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-2+Attack
+2+ Attack
 You get +1 Attack for each card that [b]Transformed[/b] this turn.
 Cost: 4
 
