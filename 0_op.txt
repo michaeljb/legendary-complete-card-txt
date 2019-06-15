@@ -1,0 +1,46 @@
+[url=http://boardgamegeek.com/filepage/92659/agent-coulsons-recruit-assessments-new-players-gui]Agent Coulson's Recruit Assessments[/url] are great, but I wanted to have something more text-based, and more easily searchable than a pdf.
+
+So, partially inspired by [url=http://boardgamegeek.com/thread/550755/dominion-prosperity-complete-card-list]threads like this[/url] for my first gaming love, Dominion, and by wanting to learn the cards better to compete in the [url=https://boardgamegeek.com/thread/2151801/legendary-online-league-season-10]Legendary Online League[/url], I made this. Hope you like it!
+
+I'm happy to take feedback on how the info is presented here, I'm certain there are things that can be improved. For instance, I added the colored backgrounds for the Hero Type names, but now I feel the card names themselves are not emphasized enough, and I don't want this to end up looking too cluttered. Anyway, if you have any thoughts on that (or notice any errors), please let me know and I'll be sure to get them fixed.
+
+This list includes cards from all Marvel Legendary expansions (through the expansion mentioned in the subject), as well as errata from Version 3.0 of the [url=http://boardgamegeek.com/filepage/92138/unofficial-collected-faq-clarifications-and-errata]Unofficial Collected FAQ, Clarifications, and Errata from the BGG forums with links[/url]. There may be further corrections or clarifications available on the  [url=https://boardgamegeek.com/wiki/page/Legendary_Marvel_FAQ]Legendary Marvel FAQ wiki page[/url].
+
+The "3D" set isn't really an expansion, but some Legendary cards included with trading card packs from Upper Deck. There are some threads [url=https://boardgamegeek.com/thread/1350531/full-list-annoying-3d-cards]like this[/url] with more details.
+
+Special note: the card "Solo - Guns on My Guns" from the Deadpool expansion cares about whether other cards depict a gun in their art. In light of this, cards that have a gun in the art have this note below their text: "Art contains a gun." To avoid clutter, if the art doesn't have a gun, there is no note, and for characters that have gun in all their card art, the note is under the character name instead of repeated for each card.
+
+Jump to ("edit" links are for my own convenience when adding cards for the latest expansion):
+* [url=https://boardgamegeek.com/article/17036828#17036828]Bystanders, SHIELD Officer/Madame Hydra, Sidekicks, New Recruits, Starting Deck, Wounds/Bindings[/url] ([url=https://boardgamegeek.com/article/edit/17036828]edit[/url])
+* [url=https://boardgamegeek.com/article/17200309#17200309]Heroes and Allies[/url] ([url=https://boardgamegeek.com/article/edit/17200309]edit[/url])
+* [url=https://boardgamegeek.com/article/17206617#17206617]Schemes and Plots[/url] ([url=https://boardgamegeek.com/article/edit/17206617]edit[/url])
+* [url=https://boardgamegeek.com/article/17206697#17206697]Masterminds and Commanders[/url] ([url=https://boardgamegeek.com/article/edit/17206697]edit[/url])
+* [url=https://boardgamegeek.com/article/17206813#17206813]Villain and Adversary Groups[/url] ([url=https://boardgamegeek.com/article/edit/17206813]edit[/url])
+* [url=https://boardgamegeek.com/article/17207907#17207907]Henchmen Villain and Backup Adversary Groups[/url] ([url=https://boardgamegeek.com/article/edit/17207907]edit[/url])
+* [url=https://boardgamegeek.com/article/17496745#17496745]Ambitions & Horrors[/url] ([url=https://boardgamegeek.com/article/edit/17496745]edit[/url])
+* [url=https://boardgamegeek.com/article/17575929#17575929]Keywords[/url] ([url=https://boardgamegeek.com/article/edit/17575929]edit[/url])
+
+Each post has sections for the cards from each different expansion. These sections start with the expansion name surrounded by double-equals signs, e.g., "== Legendary ==", "== Dark City ==", "== Ant-Man ==", etc. You can take advantage of this with your web browser's search feature (control+F on Windows/Linux, command+F on macOS) to quickly navigate to the specific cards you're looking for. Here are the expansion names as I use them in this thread:
+
+* Legendary
+* Dark City
+* Fantastic Four
+* Paint the Town Red
+* Villains
+* Guardians of the Galaxy
+* Fear Itself
+* Secret Wars Volume 1
+* Secret Wars Volume 2
+* Captain America 75th Anniversary
+* Civil War
+* 3D
+* Deadpool
+* Noir
+* X-Men
+* Spider-Man Homecoming
+* Champions
+* World War Hulk
+* Marvel Studios Phase 1
+* Ant-Man
+
+(the card text posts in this thread are backed up at https://github.com/michaeljb/legendary-complete-card-txt)
