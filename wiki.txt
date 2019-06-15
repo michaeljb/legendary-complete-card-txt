@@ -7,97 +7,97 @@
 === Legendary ===
 
 
-[size=10]'''''Bystander'''''[/size] (30 copies)
+[size=14]'''''Bystander'''''[/size] (30 copies)
 VP: 1
 
 
 === Dark City ===
 
-[size=10]'''''News Reporter'''''[/size] (4 copies)
+[size=14]'''''News Reporter'''''[/size] (4 copies)
 When you rescue this Bystander, draw a card.
 VP: 1
 
 
-[size=10]'''''Paramedic'''''[/size] (3 copies)
+[size=14]'''''Paramedic'''''[/size] (3 copies)
 When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.
 VP: 1
 
 
-[size=10]'''''Radiation Scientist'''''[/size] (4 copies)
+[size=14]'''''Radiation Scientist'''''[/size] (4 copies)
 When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.
 VP: 1
 
 
 === Villains ===
 
-[size=10]'''''Bystander'''''[/size] (30 copies)
+[size=14]'''''Bystander'''''[/size] (30 copies)
 VP: 1
 
 
-[size=10]'''''Computer Hacker'''''[/size] (3 copies)
+[size=14]'''''Computer Hacker'''''[/size] (3 copies)
 When you kidnap this Bystander, draw an extra card when you draw a new hand at the end of your turn.
 VP: 1
 
 
-[size=10]'''''Engineer'''''[/size] (3 copies)
+[size=14]'''''Engineer'''''[/size] (3 copies)
 When you kidnap this Bystander, reveal the top card of your deck. If it costs 0 - KO it.
 VP: 1
 
 
-[size=10]'''''Public Speaker'''''[/size] (3 copies)
+[size=14]'''''Public Speaker'''''[/size] (3 copies)
 When you kidnap this Bystander, gain 1 recruit.
 VP: 1
 
 
-[size=10]'''''Rockstar'''''[/size] (3 copies)
+[size=14]'''''Rockstar'''''[/size] (3 copies)
 When you kidnap this Bystander, kidnap another Bystander.
 VP: 1
 
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Banker'''''[/size] (3 copies)
+[size=14]'''''Banker'''''[/size] (3 copies)
 When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.
 VP: 1
 
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Alligator Trapper'''''[/size] (3 copies)
+[size=14]'''''Alligator Trapper'''''[/size] (3 copies)
 When you rescue this Bystander, '''Patrol the Sewers:''' If it's empty, you get +2 Recruit.
 VP: 1
 
 
-[size=10]'''''Shapeshifted Copycat'''''[/size] (4 copies)
+[size=14]'''''Shapeshifted Copycat'''''[/size] (4 copies)
 When you rescue this Bystander, this card becomes a Villain with 3 Attack and enters the city. It gains the ability: "'''Fight''': KO one of your Heroes."
 VP: 1
 
 
-[size=10]'''''Undercover Agent'''''[/size] (3 copies)
+[size=14]'''''Undercover Agent'''''[/size] (3 copies)
 When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Officer.
 VP: 1
 
 
 === Civil War ===
 
-[size=10]'''''Aspiring Hero'''''[/size] (4 copies)
+[size=14]'''''Aspiring Hero'''''[/size] (4 copies)
 When you rescue this Bystander, gain a Sidekick.
 VP: 1
 
-[size=10]'''''Comic Shop Keeper'''''[/size] (3 copies)
+[size=14]'''''Comic Shop Keeper'''''[/size] (3 copies)
 When you rescue this Bystander, reveal the top three cards of the Hero Deck. The player of your choice gains one of them that costs 3 or less. Put the rest back in any order.
 VP: 1
 
 
 === Noir ===
 
-[size=10]'''''Detective Wolverine'''''[/size] (first print run promo)
+[size=14]'''''Detective Wolverine'''''[/size] (first print run promo)
 When you rescue this Bystander, '''Investigate''' the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile.
 
 
 === X-Men ===
 
-[size=10]'''''Cypher'''''[/size]
+[size=14]'''''Cypher'''''[/size]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -105,7 +105,7 @@ When you rescue this Bystander, gain it as a Hero.
 Look at the top two cards of your deck. Draw one and discard the other.
 Cost: 2
 
-[size=10]'''''Heartless Computer Scientist'''''[/size]
+[size=14]'''''Heartless Computer Scientist'''''[/size]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 When you rescue this Bystander,
 gain it as a Hero.
@@ -114,7 +114,7 @@ gain it as a Hero.
 2 Recruit
 Cost: 3
 
-[size=10]'''''Karma'''''[/size]
+[size=14]'''''Karma'''''[/size]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -123,7 +123,7 @@ Reveal the top card of the Hero Deck. You get +Attack equal to its printed Attac
 0+ Attack
 Cost: 3
 
-[size=10]'''''Magik'''''[/size] (first print run promo)
+[size=14]'''''Magik'''''[/size] (first print run promo)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -132,7 +132,7 @@ Teleport (Instead of playing this card, you may set it aside. At the end of the 
 2 Attack
 Cost: 4
 
-[size=10]'''''Magma'''''[/size]
+[size=14]'''''Magma'''''[/size]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -141,7 +141,7 @@ Chose one: Draw a card or you get +2 Attack.
 0+ Attack
 Cost: 3
 
-[size=10]'''''Martial Arts Master'''''[/size]
+[size=14]'''''Martial Arts Master'''''[/size]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 When you rescue this Bystander, gain it as a Hero.
 ------------
@@ -149,7 +149,7 @@ Draw a card.
 1 Attack
 Cost: 3
 
-[size=10]'''''Mirage'''''[/size]
+[size=14]'''''Mirage'''''[/size]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -158,7 +158,7 @@ Draw a card.
 1 Recruit
 Cost: 3
 
-[size=10]'''''Sunspot'''''[/size]
+[size=14]'''''Sunspot'''''[/size]
 X-Men
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 --- New Mutants
@@ -168,7 +168,7 @@ When you rescue this Bystander, gain it as a Hero.
 2+ Attack.
 Cost: 3
 
-[size=10]'''''Warlock'''''[/size]
+[size=14]'''''Warlock'''''[/size]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
@@ -177,7 +177,7 @@ When you rescue this Bystander, gain it as a Hero.
 2 Attack
 Cost: 3
 
-[size=10]'''''Wolfsbane'''''[/size]
+[size=14]'''''Wolfsbane'''''[/size]
 X-Men
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 --- New Mutants
@@ -190,101 +190,101 @@ Cost: 3
 
 === World War Hulk ===
 
-[size=10]'''''Actor'''''[/size] (1 copy)
+[size=14]'''''Actor'''''[/size] (1 copy)
 When you rescue this Bystander, choose a Hero in the HQ that costs 4 or less. You get its printed Recruit and Attack.
 VP: 1
 
 
-[size=10]'''''Animal Trainer'''''[/size] (1 copy)
+[size=14]'''''Animal Trainer'''''[/size] (1 copy)
 When you rescue this Bystander, each [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and/or [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero currently in the HQ costs 1 less this turn.
 VP: 1
 
 
-[size=10]'''''Tourist Couple'''''[/size] (1 copy)
+[size=14]'''''Tourist Couple'''''[/size] (1 copy)
 When you rescue this Bystander, you get +1 Recruit if the Rooftops are empty and +1 Recruit if the Bridge is empty.
 VP: 1
 
 
-[size=10]'''''Triage Nurse'''''[/size] (1 copy)
+[size=14]'''''Triage Nurse'''''[/size] (1 copy)
 When you rescue this Bystander, look at the top three cards of your deck. KO one, discard one, and put one back.
 VP: 1
 
 
 === 3D ===
 
-[size=10]'''''Bulldozer Driver'''''[/size] (? copies)
+[size=14]'''''Bulldozer Driver'''''[/size] (? copies)
 When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.
 VP: 1
 
 
-[size=10]'''''Double Agent Of S.H.I.E.L.D.'''''[/size] (? copies)
+[size=14]'''''Double Agent Of S.H.I.E.L.D.'''''[/size] (? copies)
 When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA allies.
 VP: 1
 
 
-[size=10]'''''Fortune Teller'''''[/size] (? copies)
+[size=14]'''''Fortune Teller'''''[/size] (? copies)
 When you rescue this Bystander, guess "zero" or "not zero." Then reveal the top card of your deck and check its cost. If you guessed right, draw that card.
 VP: 1
 
 
-[size=10]'''''Photographer'''''[/size] (? copies)
+[size=14]'''''Photographer'''''[/size] (? copies)
 This Bystander is worth +1 VP for each Hero you have that costs 7 or more among all your cards at the end of the game.
 VP: 1
 
 
-[size=10]'''''Stan Lee'''''[/size] (? copies)
+[size=14]'''''Stan Lee'''''[/size] (? copies)
 When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back in any order.
 VP: 1
 
 
 === Spider-Man Homecoming ===
 
-[size=10]'''''Damage Control'''''[/size] (first print run promo)
+[size=14]'''''Damage Control'''''[/size] (first print run promo)
 When you rescue this Bystander, reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
 '''VP''': 1
 
 
 === Marvel Studios Phase 1 ===
 
-[size=10]'''''Bystander'''''[/size] (30 copies)
+[size=14]'''''Bystander'''''[/size] (30 copies)
 VP: 1
 
-[size=10]'''''Happy Hogan'''''[/size] (3 copies)
+[size=14]'''''Happy Hogan'''''[/size] (3 copies)
 When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.
 VP: 1
 
-[size=10]'''''Jane Foster'''''[/size] (3 copies)
+[size=14]'''''Jane Foster'''''[/size] (3 copies)
 When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.
 VP: 1
 
-[size=10]'''''Peggy Carter'''''[/size] (3 copies)
+[size=14]'''''Peggy Carter'''''[/size] (3 copies)
 When you rescue this Bystander, draw a card.
 VP: 1
 
-[size=10]'''''Pepper Potts'''''[/size] (3 copies)
+[size=14]'''''Pepper Potts'''''[/size] (3 copies)
 When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.
 VP: 1
 
 
 === Dimensions ===
 
-[size=10]'''''Bulldozer Driver'''''[/size] (1 copy)
+[size=14]'''''Bulldozer Driver'''''[/size] (1 copy)
 When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.
 VP: 1
 
-[size=10]'''''Double Agent of S.H.I.E.L.D.'''''[/size] (1 copy)
+[size=14]'''''Double Agent of S.H.I.E.L.D.'''''[/size] (1 copy)
 When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA Allies.
 VP: 1
 
-[size=10]'''''Forklift Driver'''''[/size] (1 copy)
+[size=14]'''''Forklift Driver'''''[/size] (1 copy)
 When you rescue this Bystander, put any number of Heroes from the HQ on the bottom of the Hero Deck.
 VP: 1
 
-[size=10]'''''Fortune Teller'''''[/size] (1 copy)
+[size=14]'''''Fortune Teller'''''[/size] (1 copy)
 When you rescue this Bystander, guess "zero" or "not zero." Then reveal the top card of your deck and check its cost. If you guessed right, draw that card.
 VP: 1
 
-[size=10]'''''Photographer'''''[/size] (1 copy)
+[size=14]'''''Photographer'''''[/size] (1 copy)
 This Bystander is worth +1 Victory Points for each Hero you have that costs 7 Cost or more among all your cards at the end of the game.
 VP: 1*
 
@@ -294,7 +294,7 @@ VP: 1*
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
-[size=10]'''''S.H.I.E.L.D. Officer'''''[/size]
+[size=14]'''''S.H.I.E.L.D. Officer'''''[/size]
 ''Maria Hill'' (30 copies)
 S.H.I.E.L.D.
 2 Recruit
@@ -304,7 +304,7 @@ Cost: 3
 
 === Villains ===
 
-[size=10]'''''Madame HYDRA'''''[/size]
+[size=14]'''''Madame HYDRA'''''[/size]
 ''Viper'' (15 copies)
 HYDRA
 2 Recruit
@@ -319,7 +319,7 @@ Cost: 3
 
 === Villains ===
 
-[size=10]'''''New Recruit'''''[/size] (15 copies)
+[size=14]'''''New Recruit'''''[/size] (15 copies)
 1 Attack
 Return this card to the New Recruit Stack. Draw a card. (You still get this New Recruit's Attack.)
 Cost: 2
@@ -327,7 +327,7 @@ Cost: 2
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Sidekick'''''[/size] (15 copies)
+[size=14]'''''Sidekick'''''[/size] (15 copies)
 You may return this card to the Sidekick Stack. If you do, draw two cards.
 ''(You can only recruit up to once Sidekick each turn, using Recruit.)''
 Cost: 2
@@ -335,7 +335,7 @@ Cost: 2
 
 === Civil War ===
 
-[size=10]'''''Hairball'''''[/size] (3 copies)
+[size=14]'''''Hairball'''''[/size] (3 copies)
 Avengers
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 1 Attack
@@ -344,7 +344,7 @@ Put this on the bottom of the Sidekick Stack.
 Cost: 2
 [size=8]''Speedball's cat meows forth the same kinetic force fields.''[/size]
 
-[size=10]'''''Lockheed'''''[/size] (2 copies)
+[size=14]'''''Lockheed'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2+ Attack
@@ -352,7 +352,7 @@ Avengers
 Cost: 2
 [size=8]''Kitty Pryde's dragon has a wicked sense of humor.''[/size]
 
-[size=10]'''''Lockjaw'''''[/size] (2 copies)
+[size=14]'''''Lockjaw'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Attack
@@ -361,7 +361,7 @@ Put this on the bottom of the Sidekick Stack.
 Cost: 2
 [size=8]''Black Bolt's ally transports the Inhumans all over the galaxy.''[/size]
 
-[size=10]'''''Ms. Lion'''''[/size] (2 copies)
+[size=14]'''''Ms. Lion'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Rescue a Bystander.
@@ -370,14 +370,14 @@ Put this on the bottom of the Sidekick Stack.
 Cost: 2
 [size=8]''Aunt May's dog is definitely not a lion.''[/size]
 
-[size=10]'''''Redwing'''''[/size] (2 copies)
+[size=14]'''''Redwing'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Look at the top three cards of your deck. Draw one. Put the rest back in any order. Put this on the bottom of the Sidekick Stack.
 Cost: 2
 [size=8]''Falcon, the superhero, can see through Redwing's eyes.''[/size]
 
-[size=10]'''''Throg'''''[/size] (2 copies)
+[size=14]'''''Throg'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
@@ -386,7 +386,7 @@ Once this turn, if you made at least 6 Recruit, you get +2 Attack. Put this on t
 Cost: 2
 [size=8]''Thor's hammer yielded a sliver which became the mighty hammer Frogjolnir.''[/size]
 
-[size=10]'''''Zabu'''''[/size] (2 copies)
+[size=14]'''''Zabu'''''[/size] (2 copies)
 Avengers
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 KO a card from your hand or discard pile. Put this on the bottom of the Sidekick Stack.
@@ -399,14 +399,14 @@ Cost: 2
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
-[size=10]'''''S.H.I.E.L.D. Agent'''''[/size] (8 copies in starting deck)
+[size=14]'''''S.H.I.E.L.D. Agent'''''[/size] (8 copies in starting deck)
 S.H.I.E.L.D.
 1 Recruit
 Cost: 0
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''S.H.I.E.L.D. Trooper'''''[/size] (4 copies in starting deck)
+[size=14]'''''S.H.I.E.L.D. Trooper'''''[/size] (4 copies in starting deck)
 S.H.I.E.L.D.
 1 Attack
 Cost: 0
@@ -415,14 +415,14 @@ Cost: 0
 
 === Villains ===
 
-[size=10]'''''HYDRA Operative'''''[/size] (8 copies in starting deck)
+[size=14]'''''HYDRA Operative'''''[/size] (8 copies in starting deck)
 HYDRA
 1 Recruit
 Cost: 0
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''HYDRA Soldier'''''[/size] (4 copies in starting deck)
+[size=14]'''''HYDRA Soldier'''''[/size] (4 copies in starting deck)
 HYDRA
 1 Attack
 Cost: 0
@@ -434,43 +434,43 @@ Cost: 0
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
-[size=10]'''''Wound'''''[/size] (30 copies)
+[size=14]'''''Wound'''''[/size] (30 copies)
 '''Healing''': If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand.
 
 
 === Villains ===
 
-[size=10]'''''Bindings'''''[/size] (30 copies)
+[size=14]'''''Bindings'''''[/size] (30 copies)
 '''Betrayal''': If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand.  If you do, the player to your right gains all the other Bindings from your hand.
 
 
 === Civil War ===
 
-[size=10]'''''Blinding Flash'''''[/size] (2 copies)
+[size=14]'''''Blinding Flash'''''[/size] (2 copies)
 '''Healing''': You may discard a card and have each other player discard a card. If you do, KO this Wound.
 
-[size=10]'''''Blunt Force Trauma'''''[/size] (2 copies)
+[size=14]'''''Blunt Force Trauma'''''[/size] (2 copies)
 '''Healing''': You may spend 5 Attack. If you do, KO this Wound.
 
-[size=10]'''''Corrosive Webbing'''''[/size] (2 copies)
+[size=14]'''''Corrosive Webbing'''''[/size] (2 copies)
 '''Healing''': You may KO this Wound. If you do, gain another Wound.
 
-[size=10]'''''Fatal Blow'''''[/size] (2 copies)
+[size=14]'''''Fatal Blow'''''[/size] (2 copies)
 '''Healing''': You may KO a Hero that costs 1 or more from your hand or discard pile. If you do, KO this Wound.
 
-[size=10]'''''Psychic Trauma'''''[/size] (2 copies)
+[size=14]'''''Psychic Trauma'''''[/size] (2 copies)
 '''Healing''': You may spend 5 Recruit. If you do, KO this Wound.
 
-[size=10]'''''Spreading Nanovirus'''''[/size] (3 copies)
+[size=14]'''''Spreading Nanovirus'''''[/size] (3 copies)
 '''Healing''': You may have the player on your left gain this Wound.
 
-[size=10]'''''Subdermal Tracker'''''[/size] (2 copies)
+[size=14]'''''Subdermal Tracker'''''[/size] (2 copies)
 '''Healing''': You may play a card from the Villain Deck. If you do, KO this Wound.
 == '''Heroes and Allies''' ==
 
 === Legendary ===
 
-[size=10]'''''Black Widow'''''[/size]
+[size=14]'''''Black Widow'''''[/size]
 Avengers
 [size=8]''Art contains a gun''[/size]
 
@@ -499,7 +499,7 @@ Defeat a Villain or Mastermind that has a Bystander.
 Cost: 7
 
 
-[size=10]'''''Captain America'''''[/size]
+[size=14]'''''Captain America'''''[/size]
 Avengers
 
 ''Avengers Assemble!'' (5 copies)
@@ -527,7 +527,7 @@ Avengers: You get +3 Attack for each other Avengers Hero you played this turn.
 Cost: 7
 
 
-[size=10]'''''Cyclops'''''[/size]
+[size=14]'''''Cyclops'''''[/size]
 X-Men
 
 ''Determination'' (5 copies)
@@ -555,7 +555,7 @@ X-Men: You get +2 Attack for each other X-Men Hero you played this turn.
 Cost: 8
 
 
-[size=10]'''''Deadpool'''''[/size]
+[size=14]'''''Deadpool'''''[/size]
 (Unaffiliated)
 [size=8]''Art contains a gun''[/size]
 
@@ -586,7 +586,7 @@ You may gain a Wound to your hand. Then each player passes a card from their han
 Cost: 7
 
 
-[size=10]'''''Emma Frost'''''[/size]
+[size=14]'''''Emma Frost'''''[/size]
 X-Men
 
 ''Mental Discipline'' (5 copies)
@@ -618,7 +618,7 @@ Cost: 7
 [size=8]''A secondary mutation allows Emma Frost to transform into pure diamond.''[/size]
 
 
-[size=10]'''''Gambit'''''[/size]
+[size=14]'''''Gambit'''''[/size]
 X-Men
 
 ''Card Shark'' (5 copies)
@@ -646,7 +646,7 @@ Reveal the top card of your deck. You get + Attack equal to that card's cost.
 Cost: 7
 
 
-[size=10]'''''Hawkeye'''''[/size]
+[size=14]'''''Hawkeye'''''[/size]
 Avengers
 
 ''Quick Draw'' (5 copies)
@@ -676,7 +676,7 @@ Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.
 Cost: 7
 
 
-[size=10]'''''Hulk'''''[/size]
+[size=14]'''''Hulk'''''[/size]
 Avengers
 
 ''Growing Anger'' (5 copies)
@@ -708,7 +708,7 @@ Cost: 8
 [size=8]''"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!"''[/size]
 
 
-[size=10]'''''Iron Man'''''[/size]
+[size=14]'''''Iron Man'''''[/size]
 Avengers
 
 ''Endless Invention'' (5 copies)
@@ -737,7 +737,7 @@ Draw two cards.
 Cost: 7
 
 
-[size=10]'''''Nick Fury'''''[/size]
+[size=14]'''''Nick Fury'''''[/size]
 S.H.I.E.L.D.
 [size=8]''Art contains a gun''[/size]
 
@@ -765,7 +765,7 @@ Defeat any Villain or Mastermind whose Attack is less than the number of S.H.I.E
 Cost: 8
 
 
-[size=10]'''''Rogue'''''[/size]
+[size=14]'''''Rogue'''''[/size]
 X-Men
 
 ''Borrowed Brawn'' (5 copies)
@@ -793,7 +793,7 @@ Each player discards the top card of their deck. Play a copy of each of those ca
 Cost: 8
 
 
-[size=10]'''''Spider-Man'''''[/size]
+[size=14]'''''Spider-Man'''''[/size]
 Spider Friends
 
 ''Astonishing Strength'' (5 copies)
@@ -820,7 +820,7 @@ Reveal the top three cards of your deck. Put any that cost 2 or less into your h
 Cost: 2
 
 
-[size=10]'''''Storm'''''[/size]
+[size=14]'''''Storm'''''[/size]
 X-Men
 
 ''Gathering Stormclouds'' (5 copies)
@@ -850,7 +850,7 @@ Any Villain you fight on the Bridge this turn gets -2 Attack.
 Cost: 7
 
 
-[size=10]'''''Thor'''''[/size]
+[size=14]'''''Thor'''''[/size]
 Avengers
 
 ''Odinson'' (5 copies)
@@ -883,7 +883,7 @@ Cost: 8
 [size=8]''They call him the God of Thunder. His enemies better start praying.''[/size]
 
 
-[size=10]'''''Wolverine'''''[/size]
+[size=14]'''''Wolverine'''''[/size]
 X-Men
 
 ''Healing Factor'' (5 copies)
@@ -917,7 +917,7 @@ Cost: 8
 
 === Dark City ===
 
-[size=10]'''''Angel'''''[/size]
+[size=14]'''''Angel'''''[/size]
 X-Men
 
 ''Diving Catch'' (5 copies)
@@ -944,7 +944,7 @@ Discard any number of cards. Draw that many cards.
 Cost: 7
 
 
-[size=10]'''''Bishop'''''[/size]
+[size=14]'''''Bishop'''''[/size]
 X-Men
 
 ''Absorb Energies'' (5 copies)
@@ -977,7 +977,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Blade'''''[/size]
+[size=14]'''''Blade'''''[/size]
 Marvel Knights
 [size=8]''Art contains a gun''[/size]
 
@@ -1007,7 +1007,7 @@ You get +1 Attack for each Villain in your Victory Pile.
 Cost: 7
 
 
-[size=10]'''''Cable'''''[/size]
+[size=14]'''''Cable'''''[/size]
 X-Force
 
 ''Disaster Survivalist'' (5 copies)
@@ -1039,7 +1039,7 @@ Cost: 8
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Colossus'''''[/size]
+[size=14]'''''Colossus'''''[/size]
 X-Force
 
 ''Draw Their Fire'' (5 copies)
@@ -1069,7 +1069,7 @@ If another player would gain a Wound, you may reveal this card to gain that Woun
 Cost: 8
 
 
-[size=10]'''''Daredevil'''''[/size]
+[size=14]'''''Daredevil'''''[/size]
 Marvel Knights
 
 ''Backflip'' (5 copies)
@@ -1097,7 +1097,7 @@ Choose a number, then reveal the top card of your deck. If the card is that Cost
 Cost: 8
 
 
-[size=10]'''''Domino'''''[/size]
+[size=14]'''''Domino'''''[/size]
 X-Force
 [size=8]''Art contains a gun''[/size]
 
@@ -1133,7 +1133,7 @@ X-Force: This card and each other '''Versatile''' ability you use for the rest o
 Cost: 7
 
 
-[size=10]'''''Elektra'''''[/size]
+[size=14]'''''Elektra'''''[/size]
 Marvel Knights
 
 ''First Strike'' (5 copies)
@@ -1164,7 +1164,7 @@ Marvel Knights: You get +2 Recruit.
 Cost: 7
 
 
-[size=10]'''''Forge'''''[/size]
+[size=14]'''''Forge'''''[/size]
 X-Force
 
 ''Dirty Work'' (5 copies)
@@ -1198,7 +1198,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Ghost Rider'''''[/size]
+[size=14]'''''Ghost Rider'''''[/size]
 Marvel Knights
 
 ''Blazing Hellfire'' (5 copies)
@@ -1228,7 +1228,7 @@ Marvel Knights: Put one of those Villains into your Victory Pile.
 Cost: 8
 
 
-[size=10]'''''Iceman'''''[/size]
+[size=14]'''''Iceman'''''[/size]
 X-Men
 
 ''Deep Freeze'' (5 copies)
@@ -1257,7 +1257,7 @@ If a Villain, Master Strike, or Mastermind Tactic would cause you to gain any Wo
 Cost: 8
 
 
-[size=10]'''''Iron Fist'''''[/size]
+[size=14]'''''Iron Fist'''''[/size]
 Marvel Knights
 
 ''Focus Chi'' (5 copies)
@@ -1287,7 +1287,7 @@ Reveal cards from your deck until you have revealed two cards with the same Cost
 Cost: 9
 
 
-[size=10]'''''Jean Grey'''''[/size]
+[size=14]'''''Jean Grey'''''[/size]
 X-Men
 
 ''Psychic Search'' (5 copies)
@@ -1317,7 +1317,7 @@ X-Men: Rescue a Bystander for each other X-Men Hero you played this turn.
 Cost: 7
 
 
-[size=10]'''''Nightcrawler'''''[/size]
+[size=14]'''''Nightcrawler'''''[/size]
 X-Men
 
 ''Bamf!'' (5 copies)
@@ -1349,7 +1349,7 @@ When you play or '''Teleport''' this card, you may also '''Teleport''' up to thr
 Cost: 7
 
 
-[size=10]'''''Professor X'''''[/size]
+[size=14]'''''Professor X'''''[/size]
 X-Men
 
 ''Class Dismissed'' (5 copies)
@@ -1380,7 +1380,7 @@ Whenever you defeat a Villain this turn, you may gain it. It becomes a grey Hero
 Cost: 8
 
 
-[size=10]'''''Punisher'''''[/size]
+[size=14]'''''Punisher'''''[/size]
 Marvel Knights
 [size=8]''Art contains a gun''[/size]
 
@@ -1411,7 +1411,7 @@ Reveal cards from the Hero Deck until you have revealed two cards with the same 
 Cost: 8
 
 
-[size=10]'''''Wolverine'''''[/size]
+[size=14]'''''Wolverine'''''[/size]
 X-Force
 
 ''Animal Instincts'' (5 copies)
@@ -1444,7 +1444,7 @@ Cost: 7
 
 === Fantastic Four ===
 
-[size=10]'''''Human Torch'''''[/size]
+[size=14]'''''Human Torch'''''[/size]
 Fantastic Four
 
 ''Call for Backup'' (5 copies)
@@ -1474,7 +1474,7 @@ Fantastic Four: You get +1 Attack for each city space that contains a Villain.
 Cost: 8
 
 
-[size=10]'''''Invisible Woman'''''[/size]
+[size=14]'''''Invisible Woman'''''[/size]
 Fantastic Four
 
 ''Disappearing Act'' (5 copies)
@@ -1505,7 +1505,7 @@ If an ambush effect would occur, you may reveal this card and draw two cards ins
 Cost: 7
 
 
-[size=10]'''''Mr. Fantastic'''''[/size]
+[size=14]'''''Mr. Fantastic'''''[/size]
 Fantastic Four
 
 ''Twisting Equations'' (5 copies)
@@ -1536,7 +1536,7 @@ If an Enemy you fight this turn would have a fight effect, you may cancel that e
 Cost: 7
 
 
-[size=10]'''''Silver Surfer'''''[/size]
+[size=14]'''''Silver Surfer'''''[/size]
 (Unaffiliated)
 
 ''Epic Destiny'' (5 copies)
@@ -1569,7 +1569,7 @@ Cost: 7
 [size=8]''Finding extra power is not a problem for the Silver Surfer. His power is immeasurable.''[/size]
 
 
-[size=10]'''''Thing'''''[/size]
+[size=14]'''''Thing'''''[/size]
 Fantastic Four
 
 ''It Started on Yancy Street'' (5 copies)
@@ -1605,7 +1605,7 @@ Cost: 8
 
 === Paint the Town Red ===
 
-[size=10]'''''Black Cat'''''[/size]
+[size=14]'''''Black Cat'''''[/size]
 Spider Friends
 
 ''Casual Bank Robbery'' (5 copies)
@@ -1638,7 +1638,7 @@ Spider Friends: You get +1 Attack for each Bystander you rescued this turn.
 Cost: 8
 
 
-[size=10]'''''Moon Knight'''''[/size]
+[size=14]'''''Moon Knight'''''[/size]
 Marvel Knights
 
 ''Climbing Claws'' (5 copies)
@@ -1671,7 +1671,7 @@ Whenever you defeat a Villain on the Rooftops this turn, rescue Bystanders equal
 Cost: 8
 
 
-[size=10]'''''Scarlet Spider'''''[/size]
+[size=14]'''''Scarlet Spider'''''[/size]
 Spider Friends
 
 ''Flip Out'' (5 copies)
@@ -1705,7 +1705,7 @@ Cost: 7
 [size=8]''Many people are allergic...to getting punched in the face by a truck.''[/size]
 
 
-[size=10]'''''Spider-Woman'''''[/size]
+[size=14]'''''Spider-Woman'''''[/size]
 Spider Friends
 
 ''Bioelectric Shock'' (5 copies)
@@ -1738,7 +1738,7 @@ Cost: 7
 [size=8]''They'll follow her anywhere.''[/size]
 
 
-[size=10]'''''Symbiote Spider-Man'''''[/size]
+[size=14]'''''Symbiote Spider-Man'''''[/size]
 Spider Friends
 
 ''Dark Strength'' (5 copies)
@@ -1770,7 +1770,7 @@ Cost: 2
 
 === Villains ===
 
-[size=10]'''''Bullseye'''''[/size]
+[size=14]'''''Bullseye'''''[/size]
 Crime Syndicate
 
 ''Everything's A Weapon'' (5 copies)
@@ -1801,7 +1801,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Dr. Octopus'''''[/size]
+[size=14]'''''Dr. Octopus'''''[/size]
 Sinister Six
 
 ''Brilliant Research'' (5 copies)
@@ -1831,7 +1831,7 @@ Discard cards from the top of your deck until your deck runs out or you have dis
 Cost: 8
 
 
-[size=10]'''''Electro'''''[/size]
+[size=14]'''''Electro'''''[/size]
 Sinister Six
 
 ''Electroshock Therapy'' (5 copies)
@@ -1864,7 +1864,7 @@ Sinister Six, Sinister Six: Same Effect
 Cost: 7
 
 
-[size=10]'''''Enchantress'''''[/size]
+[size=14]'''''Enchantress'''''[/size]
 Foes of Asgard
 
 ''Enchant the Senses'' (5 copies)
@@ -1893,7 +1893,7 @@ Foes of Asgard: Then put Unending Anguish on the bottom of your deck.
 Cost: 7
 
 
-[size=10]'''''Green Goblin'''''[/size]
+[size=14]'''''Green Goblin'''''[/size]
 Sinister Six
 
 ''Goblin Glider'' (5 copies)
@@ -1924,7 +1924,7 @@ Return from your discard pile to your hand all the cards you discarded this turn
 Cost: 7
 
 
-[size=10]'''''Juggernaut'''''[/size]
+[size=14]'''''Juggernaut'''''[/size]
 Brotherhood
 
 ''Crimson Gem of Cyttorak'' (5 copies)
@@ -1953,7 +1953,7 @@ Choose one: Each player KOs two cards from their hand, or each player KOs two ca
 Cost: 8
 
 
-[size=10]'''''Kingpin'''''[/size]
+[size=14]'''''Kingpin'''''[/size]
 Crime Syndicate
 
 ''Pull the Strings'' (5 copies)
@@ -1980,7 +1980,7 @@ Crime Syndicate, Crime Syndicate: If you would return a New Recruit to the New R
 Cost: 8
 
 
-[size=10]'''''Kraven'''''[/size]
+[size=14]'''''Kraven'''''[/size]
 Sinister Six
 
 ''Ceaseless Tracker'' (5 copies)
@@ -2012,7 +2012,7 @@ Cost: 8
 [size=8]''No one's gonna ever keep him down.''[/size]
 
 
-[size=10]'''''Loki'''''[/size]
+[size=14]'''''Loki'''''[/size]
 Foes of Asgard
 
 ''All Humans Are Expendable'' (5 copies)
@@ -2040,7 +2040,7 @@ Each player reveals a Foes of Asgard Ally or reveals their hand. For each player
 Cost: 8
 
 
-[size=10]'''''Magneto'''''[/size]
+[size=14]'''''Magneto'''''[/size]
 Brotherhood
 
 ''Magnetic Levitation'' (5 copies)
@@ -2071,7 +2071,7 @@ Brotherhood: For each other Brotherhood Ally you played this turn, choose a play
 Cost: 7
 
 
-[size=10]'''''Mysterio'''''[/size]
+[size=14]'''''Mysterio'''''[/size]
 Sinister Six
 
 ''Psychedelic Mist'' (5 copies)
@@ -2104,7 +2104,7 @@ Sinister Six: Then, for each other Sinister Six Ally you played this turn, do th
 Cost: 7
 
 
-[size=10]'''''Mystique'''''[/size]
+[size=14]'''''Mystique'''''[/size]
 Brotherhood
 
 ''Hidden Weapons'' (5 copies)
@@ -2134,7 +2134,7 @@ Reveal the top five cards of the Ally Deck. You get + Attack equal to their tota
 Cost: 7
 
 
-[size=10]'''''Sabretooth'''''[/size]
+[size=14]'''''Sabretooth'''''[/size]
 Brotherhood
 
 ''Leap of the Tiger'' (5 copies)
@@ -2162,7 +2162,7 @@ Each player reveals a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Cost: 7
 
 
-[size=10]'''''Ultron'''''[/size]
+[size=14]'''''Ultron'''''[/size]
 (Unaffiliated)
 
 ''Army of Ultrons'' (5 copies)
@@ -2193,7 +2193,7 @@ Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLO
 Cost: 8
 
 
-[size=10]'''''Venom'''''[/size]
+[size=14]'''''Venom'''''[/size]
 Sinister Six
 
 ''Devour'' (5 copies)
@@ -2228,7 +2228,7 @@ Cost: 7
 
 === Guardians of the Galaxy ===
 
-[size=10]'''''Drax the Destroyer'''''[/size]
+[size=14]'''''Drax the Destroyer'''''[/size]
 Guardians of the Galaxy
 
 ''Knives of the Hunter'' (5 copies)
@@ -2256,7 +2256,7 @@ Double the Attack you have.
 Cost: 7
 
 
-[size=10]'''''Gamora'''''[/size]
+[size=14]'''''Gamora'''''[/size]
 Guardians of the Galaxy
 
 ''Bounty Hunter'' (5 copies)
@@ -2286,7 +2286,7 @@ Once per turn, gain two Shards. Once per turn, you may spend 5 Shards to get +10
 Cost: 8
 
 
-[size=10]'''''Groot'''''[/size]
+[size=14]'''''Groot'''''[/size]
 Guardians of the Galaxy
 
 ''Prune the Growths'' (5 copies)
@@ -2314,7 +2314,7 @@ When you recruit your next Hero this turn, you gain Shards equal to that Hero's 
 Cost: 8
 
 
-[size=10]'''''Rocket Raccoon'''''[/size]
+[size=14]'''''Rocket Raccoon'''''[/size]
 Guardians of the Galaxy
 [size=8]''Art contains a gun''[/size]
 
@@ -2343,7 +2343,7 @@ Cost: 4
 Cost: 7
 
 
-[size=10]'''''Star-Lord'''''[/size]
+[size=14]'''''Star-Lord'''''[/size]
 Guardians of the Galaxy
 
 ''Element Guns'' (5 copies)
@@ -2376,7 +2376,7 @@ Cost: 8
 
 === Fear Itself ===
 
-[size=10]'''''Greithoth, Breaker of Wills'''''[/size]
+[size=14]'''''Greithoth, Breaker of Wills'''''[/size]
 Foes of Asgard
 
 ''Mace of Chains'' (5 copies)
@@ -2405,7 +2405,7 @@ You get +Attack equal to the total number of '''Artifact'''s controlled by playe
 Cost: 7
 
 
-[size=10]'''''Kuurth, Breaker of Stone'''''[/size]
+[size=14]'''''Kuurth, Breaker of Stone'''''[/size]
 Foes of Asgard
 
 ''Unstoppable Sledge'' (5 copies)
@@ -2433,7 +2433,7 @@ Reveal a card from your hand, the top card of your deck, and the bottom card of 
 Cost: 7
 
 
-[size=10]'''''Nerkkod, Breaker of Oceans'''''[/size]
+[size=14]'''''Nerkkod, Breaker of Oceans'''''[/size]
 Foes of Asgard
 
 ''Pull of the Tides'' (5 copies)
@@ -2462,7 +2462,7 @@ Foes of Asgard: Each other player reveals their hand. Choose a New Recruit or Ma
 Cost: 7
 
 
-[size=10]'''''Nul, Breaker of Worlds'''''[/size]
+[size=14]'''''Nul, Breaker of Worlds'''''[/size]
 Foes of Asgard
 
 ''Demolition Derby'' (5 copies)
@@ -2490,7 +2490,7 @@ KO up to two cards from your hand and/or discard pile. For each Bindings you KO 
 Cost: 8
 
 
-[size=10]'''''Skadi'''''[/size]
+[size=14]'''''Skadi'''''[/size]
 HYDRA
 
 ''Dark Prophecy'' (5 copies)
@@ -2520,7 +2520,7 @@ When you throw this, you get +1 Attack for each other HYDRA card you played this
 Cost: 7
 
 
-[size=10]'''''Skirn, Breaker of Men'''''[/size]
+[size=14]'''''Skirn, Breaker of Men'''''[/size]
 Foes of Asgard
 
 ''Towering Leader'' (5 copies)
@@ -2554,7 +2554,7 @@ Cost: 7
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Apocalyptic Kitty Pryde'''''[/size]
+[size=14]'''''Apocalyptic Kitty Pryde'''''[/size]
 X-Men
 
 ''Phase Out'' (5 copies)
@@ -2583,7 +2583,7 @@ When any player defeats a Villain or Mastermind with a "Fight" effect, you may d
 Cost: 7
 
 
-[size=10]'''''Black Bolt'''''[/size]
+[size=14]'''''Black Bolt'''''[/size]
 Illuminati
 
 ''Destructive Whisper'' (5 copies)
@@ -2613,7 +2613,7 @@ For each card with no rules text you played this turn, draw a card.
 Cost: 8
 
 
-[size=10]'''''Black Panther'''''[/size]
+[size=14]'''''Black Panther'''''[/size]
 Illuminati
 
 ''Catlike Reflexes'' (5 copies)
@@ -2644,7 +2644,7 @@ Illuminati: Put them on top of your deck.
 Cost: 7
 
 
-[size=10]'''''Captain Marvel'''''[/size]
+[size=14]'''''Captain Marvel'''''[/size]
 Avengers
 
 ''Absorb Energies'' (5 copies)
@@ -2676,7 +2676,7 @@ Cost: 7
 [size=8]''You've heard of the power of the sun, right?''[/size]
 
 
-[size=10]'''''Dr. Strange'''''[/size]
+[size=14]'''''Dr. Strange'''''[/size]
 Illuminati
 
 ''Cloak of Levitation'' (5 copies)
@@ -2704,7 +2704,7 @@ Reveal the top three cards of your deck. Draw any number of them and '''Teleport
 Cost: 7
 
 
-[size=10]'''''Lady Thor'''''[/size]
+[size=14]'''''Lady Thor'''''[/size]
 Avengers
 
 ''Mysterious Origin'' (5 copies)
@@ -2736,7 +2736,7 @@ Cost: 8
 [size=8]''Very few can wield Mjolnir. Even fewer can withstand a hit from it.''[/size]
 
 
-[size=10]'''''Magik'''''[/size]
+[size=14]'''''Magik'''''[/size]
 X-Men
 
 ''Rally the New Mutants'' (5 copies)
@@ -2769,7 +2769,7 @@ Choose a Villain or Mastermind in your Victory Pile. You get +Attack equal to it
 Cost: 7
 
 
-[size=10]'''''Maximus'''''[/size]
+[size=14]'''''Maximus'''''[/size]
 Cabal
 
 ''Mental Domination'' (5 copies)
@@ -2800,7 +2800,7 @@ Cabal: You get +1 Attack for each Henchman you defeated this turn.
 Cost: 7
 
 
-[size=10]'''''Namor, the Sub-Mariner'''''[/size]
+[size=14]'''''Namor, the Sub-Mariner'''''[/size]
 Cabal
 
 ''Lead the Armies of Atlantis'' (5 copies)
@@ -2829,7 +2829,7 @@ Defeat a Villain for free.
 Cost: 7
 
 
-[size=10]'''''Old Man Logan'''''[/size]
+[size=14]'''''Old Man Logan'''''[/size]
 X-Men
 
 ''Last Survivor'' (5 copies)
@@ -2858,7 +2858,7 @@ Reveal your hand. You get +5 Attack if you haven't played any S.H.I.E.L.D. or HY
 Cost: 7
 
 
-[size=10]'''''Proxima Midnight'''''[/size]
+[size=14]'''''Proxima Midnight'''''[/size]
 Cabal
 
 ''Inspiration Through Power'' (5 copies)
@@ -2890,7 +2890,7 @@ Cost: 5
 Cost: 8
 
 
-[size=10]'''''Superior Iron Man'''''[/size]
+[size=14]'''''Superior Iron Man'''''[/size]
 Illuminati
 
 ''Armor Upgrades'' (5 copies)
@@ -2920,7 +2920,7 @@ Draw a card for each other player who has fewer cards in their Victory Pile than
 Cost: 8
 
 
-[size=10]'''''Thanos'''''[/size]
+[size=14]'''''Thanos'''''[/size]
 Cabal
 
 ''Revel in Destruction '' (5 copies)
@@ -2948,7 +2948,7 @@ KO six Bystanders from the Bystander Stack. Then, defeat any Villain or Mastermi
 Cost: 8
 
 
-[size=10]'''''Ultimate Spider-Man'''''[/size]
+[size=14]'''''Ultimate Spider-Man'''''[/size]
 Spider Friends
 
 ''Marvel Team-Up'' (5 copies)
@@ -2981,7 +2981,7 @@ Cost: 2
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Agent Venom'''''[/size]
+[size=14]'''''Agent Venom'''''[/size]
 Spider Friends
 
 ''Multi-Gun '' (5 copies)
@@ -3021,7 +3021,7 @@ For each other card you played this turn with a Attack icon, you get +1 Attack.
 Cost: 7
 
 
-[size=10]'''''Arkon the Magnificent'''''[/size]
+[size=14]'''''Arkon the Magnificent'''''[/size]
 (Unaffiliated)
 
 ''All-Terrain Barbarian'' (5 copies)
@@ -3054,7 +3054,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Beast'''''[/size]
+[size=14]'''''Beast'''''[/size]
 Illuminati
 
 ''Balanced Attack'' (5 copies)
@@ -3086,7 +3086,7 @@ Cost: 8
 [size=8]''If I calculate the precise rotational torque, I find I'm really thrashing you with considerable force.''[/size]
 
 
-[size=10]'''''Black Swan'''''[/size]
+[size=14]'''''Black Swan'''''[/size]
 Cabal
 
 ''Apocalyptic Vision'' (5 copies)
@@ -3116,7 +3116,7 @@ Cabal: Instead, you get + Attack for two of those cards.
 Cost: 7
 
 
-[size=10]'''''The Captain and the Devil '''''[/size]
+[size=14]'''''The Captain and the Devil '''''[/size]
 Avengers
 
 ''Jurassic America '' (5 copies)
@@ -3147,7 +3147,7 @@ Whenever you defeat a Villain this turn, each Villain and Mastermind adjacent to
 Cost: 8
 
 
-[size=10]'''''Captain Britain'''''[/size]
+[size=14]'''''Captain Britain'''''[/size]
 Illuminati
 
 ''Combined Strength'' (5 copies)
@@ -3175,7 +3175,7 @@ When you draw a new hand of cards at the end of this turn, draw three extra card
 Cost: 7
 
 
-[size=10]'''''Corvus Glaive'''''[/size]
+[size=14]'''''Corvus Glaive'''''[/size]
 Cabal
 
 ''Culling Blade'' (5 copies)
@@ -3207,7 +3207,7 @@ Cabal: You may KO a Bystander from the Escape Pile and from each player's Victor
 Cost: 8
 
 
-[size=10]'''''Dr. Punisher, Soldier Supreme '''''[/size]
+[size=14]'''''Dr. Punisher, Soldier Supreme '''''[/size]
 Marvel Knights
 
 ''Sweep the Streets of Trash'' (5 copies)
@@ -3241,7 +3241,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Elsa Bloodstone'''''[/size]
+[size=14]'''''Elsa Bloodstone'''''[/size]
 S.H.I.E.L.D.
 
 ''Bloodstone Pendant'' (5 copies)
@@ -3275,7 +3275,7 @@ Cost: 8
 [size=8]''Elsa's father threw her at monsters before she could walk, training her relentlessly to become the perfect weapon.''[/size]
 
 
-[size=10]'''''Phoenix Force Cyclops '''''[/size]
+[size=14]'''''Phoenix Force Cyclops '''''[/size]
 X-Men
 
 ''Burn Out'' (5 copies)
@@ -3304,7 +3304,7 @@ KO up to three cards from your hand. Draw that many cards.
 Cost: 8
 
 
-[size=10]'''''Ruby Summers'''''[/size]
+[size=14]'''''Ruby Summers'''''[/size]
 X-Men
 
 ''Guerrilla Warfare'' (5 copies)
@@ -3337,7 +3337,7 @@ To play this card, you must discard three cards from your hand.
 Cost: 8
 
 
-[size=10]'''''Shang-Chi '''''[/size]
+[size=14]'''''Shang-Chi '''''[/size]
 Marvel Knights
 
 ''Shuffling Footwork '' (5 copies)
@@ -3367,7 +3367,7 @@ Any time you are shuffling your deck with this card in it, you may set this card
 Cost: 7
 
 
-[size=10]'''''Silk'''''[/size]
+[size=14]'''''Silk'''''[/size]
 Spider Friends
 
 ''Long-Range Spider-Sense '' (5 copies)
@@ -3398,7 +3398,7 @@ Cost: 2
 Cost: 2
 
 
-[size=10]'''''Soulsword Colossus'''''[/size]
+[size=14]'''''Soulsword Colossus'''''[/size]
 X-Men
 
 ''Invade the Inferno'' (5 copies)
@@ -3427,7 +3427,7 @@ Cost: 7
 [size=8]''Every year, Colossus leads a team of X-Men into the Inferno to rescue his sister, Magik.''[/size]
 
 
-[size=10]'''''Spider-Gwen'''''[/size]
+[size=14]'''''Spider-Gwen'''''[/size]
 Spider Friends
 
 ''Fateful Bridge'' (5 copies)
@@ -3458,7 +3458,7 @@ Reveal the top three cards of your deck, then put them back in any order. You ge
 Cost: 2
 
 
-[size=10]'''''Time-Traveling Jean Grey '''''[/size]
+[size=14]'''''Time-Traveling Jean Grey '''''[/size]
 X-Men
 
 ''Throw Over the Railing'' (5 copies)
@@ -3488,7 +3488,7 @@ Cost: 7
 
 === Captain America 75th Anniversary ===
 
-[size=10]'''''Agent X-13'''''[/size]
+[size=14]'''''Agent X-13'''''[/size]
 S.H.I.E.L.D.
 
 ''Sniper Squad'' (5 copies)
@@ -3522,7 +3522,7 @@ KO up to two S.H.I.E.L.D. Heroes from your hand and/or discard pile.
 Cost: 7
 
 
-[size=10]'''''Captain America (Falcon)'''''[/size]
+[size=14]'''''Captain America (Falcon)'''''[/size]
 Avengers
 
 ''Aerial Catch'' (5 copies)
@@ -3554,7 +3554,7 @@ You get +2 Attack for each Hero Class you have.
 Cost: 7
 
 
-[size=10]'''''Captain America 1941'''''[/size]
+[size=14]'''''Captain America 1941'''''[/size]
 Avengers
 
 ''Devoted Patriot'' (5 copies)
@@ -3586,7 +3586,7 @@ Cost: 8
 [size=8]''75 years later, Cap is still finding villainous faces calling out to be punched.''[/size]
 
 
-[size=10]'''''Steve Rogers, Director of S.H.I.E.L.D.'''''[/size]
+[size=14]'''''Steve Rogers, Director of S.H.I.E.L.D.'''''[/size]
 S.H.I.E.L.D.
 [size=8]''Art contains a gun''[/size]
 
@@ -3618,7 +3618,7 @@ Rescue a Bystander
 Cost: 8
 
 
-[size=10]'''''Winter Soldier'''''[/size]
+[size=14]'''''Winter Soldier'''''[/size]
 (Unaffiliated)
 
 ''Bionic Arm'' (5 copies)
@@ -3655,7 +3655,7 @@ Cost: 7
 
 === Civil War ===
 
-[size=10]'''''Captain America, Secret Avenger'''''[/size]
+[size=14]'''''Captain America, Secret Avenger'''''[/size]
 Avengers
 
 ''Bold Leadership'' (5 copies)
@@ -3690,7 +3690,7 @@ Whenever you play a Sidekick or another Avengers Hero this turn set that card as
 Cost: 7
 
 
-[size=10]'''''Cloak & Dagger'''''[/size]
+[size=14]'''''Cloak & Dagger'''''[/size]
 Avengers/Marvel Knights
 
 ''Above/Below'' (5 copies)
@@ -3743,7 +3743,7 @@ Whenever you play a '''Divided''' card this turn: play both sides as if they wer
 Cost: 7
 
 
-[size=10]'''''Daredevil'''''[/size]
+[size=14]'''''Daredevil'''''[/size]
 Avengers/Marvel Knights
 
 ''Dual Existence'' (5 copies)
@@ -3780,7 +3780,7 @@ Avengers: Discard the top two cards of your deck. If they have different costs, 
 Cost: 8
 
 
-[size=10]'''''Falcon'''''[/size]
+[size=14]'''''Falcon'''''[/size]
 Avengers
 
 ''Rapid Reinforcements'' (5 copies)
@@ -3817,7 +3817,7 @@ Avengers: You get +Attack equal to the printed Attack of a Hero in the HQ.
 Cost: 7
 
 
-[size=10]'''''Goliath'''''[/size]
+[size=14]'''''Goliath'''''[/size]
 Avengers
 
 ''Brilliant Biochemist/Massive Warrior'' (5 copies)
@@ -3857,7 +3857,7 @@ You get +Attack equal to the cost of another card you played this turn.
 Cost: 8
 
 
-[size=10]'''''Hercules'''''[/size]
+[size=14]'''''Hercules'''''[/size]
 Avengers
 
 ''Crowd Favorite'' (5 copies)
@@ -3896,7 +3896,7 @@ Avengers: You get +1 Recruit for each Bystander in your Victory Pile.
 Cost: 7
 
 
-[size=10]'''''Hulkling'''''[/size]
+[size=14]'''''Hulkling'''''[/size]
 Avengers
 
 ''Cellular Regeneration'' (5 copies)
@@ -3938,7 +3938,7 @@ Cost: 8*
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Luke Cage'''''[/size]
+[size=14]'''''Luke Cage'''''[/size]
 Avengers
 
 ''Take a Bullet for the Team'' (5 copies)
@@ -3974,7 +3974,7 @@ Avengers: '''Fortify''' the Wound Stack. While it's fortified, players can't gai
 Cost: 8
 
 
-[size=10]'''''Patriot'''''[/size]
+[size=14]'''''Patriot'''''[/size]
 Avengers
 
 ''Intuitive Tactician'' (5 copies)
@@ -4010,7 +4010,7 @@ Reveal the top three cards of your deck. If you revealed at least three differen
 Cost: 8
 
 
-[size=10]'''''Peter Parker'''''[/size]
+[size=14]'''''Peter Parker'''''[/size]
 Avengers/Spider Friends
 
 ''Conflicted Loyalties'' (5 copies)
@@ -4050,7 +4050,7 @@ Cost: 2
 Cost: 2
 
 
-[size=10]'''''Speedball'''''[/size]
+[size=14]'''''Speedball'''''[/size]
 New Warriors
 
 ''Bounce Around'' (5 copies)
@@ -4086,7 +4086,7 @@ If a Master Strike would occur, you may reveal this card to KO that Master Strik
 Cost: 7
 
 
-[size=10]'''''Stature'''''[/size]
+[size=14]'''''Stature'''''[/size]
 Avengers
 
 ''Shrink to Nothing'' (5 copies)
@@ -4131,7 +4131,7 @@ Cost: 8*
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Storm & Black Panther'''''[/size]
+[size=14]'''''Storm & Black Panther'''''[/size]
 X-Men/Avengers
 
 ''Gathering Rain Clouds/Gathering Clues'' (5 copies)
@@ -4185,7 +4185,7 @@ Reveal any number of multi-class cards from your hand. Gain that many sidekicks.
 Cost: 7
 
 
-[size=10]'''''Tigra'''''[/size]
+[size=14]'''''Tigra'''''[/size]
 Avengers
 
 ''Friendship/Ferocity'' (5 copies)
@@ -4225,7 +4225,7 @@ Avengers: You get that Hero's printed Recruit and Attack.
 Cost: 7
 
 
-[size=10]'''''Vision'''''[/size]
+[size=14]'''''Vision'''''[/size]
 Avengers
 
 ''Solar Energy'' (5 copies)
@@ -4268,7 +4268,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Wiccan'''''[/size]
+[size=14]'''''Wiccan'''''[/size]
 Avengers
 
 ''Astral Projection'' (5 copies)
@@ -4310,7 +4310,7 @@ Cost: 7
 
 === 3D ===
 
-[size=10]'''''Howard the Duck'''''[/size]
+[size=14]'''''Howard the Duck'''''[/size]
 (Unaffiliated)
 
 ''Traveling Companion'' (5 copies)
@@ -4338,7 +4338,7 @@ Reveal the top three cards of your deck. Draw one of them, discard one, and KO o
 Cost: 7
 
 
-[size=10]'''''Man-Thing'''''[/size]
+[size=14]'''''Man-Thing'''''[/size]
 (Unaffiliated)
 
 ''Form from Ooze'' (5 copies)
@@ -4371,7 +4371,7 @@ Cost: 7
 
 === Deadpool ===
 
-[size=10]'''''Bob, Agent of HYDRA'''''[/size]
+[size=14]'''''Bob, Agent of HYDRA'''''[/size]
 HYDRA
 
 ''Bullets Flying, Bob Hiding'' (5 copies)
@@ -4404,7 +4404,7 @@ Cost: 8
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Deadpool'''''[/size]
+[size=14]'''''Deadpool'''''[/size]
 Mercs for Money
 
 ''It'll Grow Back'' (5 copies)
@@ -4437,7 +4437,7 @@ Cost: 7
 [size=8]''Flavor: Hey Wolverine! I've had a breakthrough!''[/size]
 
 
-[size=10]'''''Slapstick'''''[/size]
+[size=14]'''''Slapstick'''''[/size]
 Mercs for Money
 
 ''Napoleon Complex'' (5 copies)
@@ -4468,7 +4468,7 @@ Cost: 6
 Cost: 8
 
 
-[size=10]'''''Solo'''''[/size]
+[size=14]'''''Solo'''''[/size]
 Mercs for Money
 [size=8]''Art contains a gun''[/size]
 
@@ -4503,7 +4503,7 @@ Cost: 7
 [size=8]''Flavor: So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.''[/size]
 
 
-[size=10]'''''Stingray'''''[/size]
+[size=14]'''''Stingray'''''[/size]
 Mercs for Money
 
 ''Deck Chairs on the Titanic'' (5 copies)
@@ -4539,7 +4539,7 @@ Cost: 8
 
 === Noir ===
 
-[size=10]'''''Angel Noir'''''[/size]
+[size=14]'''''Angel Noir'''''[/size]
 X-Men
 
 ''Impetuous Dive'' (5 copies)
@@ -4572,7 +4572,7 @@ Cost: 5
 Cost: 8
 
 
-[size=10]'''''Daredevil Noir'''''[/size]
+[size=14]'''''Daredevil Noir'''''[/size]
 Marvel Knights
 
 ''Balancing Act'' (5 copies)
@@ -4605,7 +4605,7 @@ Discard a card from the top or bottom of your deck. If it costs 0, you get +1 At
 Cost: 7
 
 
-[size=10]'''''Iron Man Noir'''''[/size]
+[size=14]'''''Iron Man Noir'''''[/size]
 Avengers
 
 ''Steam-Powered Arsenal'' (5 copies)
@@ -4639,7 +4639,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Luke Cage Noir'''''[/size]
+[size=14]'''''Luke Cage Noir'''''[/size]
 Marvel Knights
 
 ''Private Investigations'' (5 copies)
@@ -4669,7 +4669,7 @@ You get +2 Attack for each other card you played this turn that costs 4 or more.
 Cost: 8
 
 
-[size=10]'''''Spider-Man Noir'''''[/size]
+[size=14]'''''Spider-Man Noir'''''[/size]
 Spider Friends
 
 ''Gumshoe's Revolver'' (5 copies)
@@ -4704,7 +4704,7 @@ Cost: 2
 
 === X-Men ===
 
-[size=10]'''''Aurora & Northstar'''''[/size]
+[size=14]'''''Aurora & Northstar'''''[/size]
 X-Men
 
 ''Northern Lights'' (5 copies)
@@ -4745,7 +4745,7 @@ All Heroes you recruit this turn have '''Soaring Flight'''.
 Cost: 7
 
 
-[size=10]'''''Banshee'''''[/size]
+[size=14]'''''Banshee'''''[/size]
 X-Men
 
 ''Sonar Detection'' (5 copies)
@@ -4778,7 +4778,7 @@ Cost: 5
 Cost: 8
 
 
-[size=10]'''''Beast'''''[/size]
+[size=14]'''''Beast'''''[/size]
 X-Men
 
 ''Captivating Conundrum'' (5 copies)
@@ -4809,7 +4809,7 @@ Cost: 5
 Cost: 8
 
 
-[size=10]'''''Cannonball'''''[/size]
+[size=14]'''''Cannonball'''''[/size]
 X-Men
 
 ''Kinetic Blast Field'' (5 copies)
@@ -4841,7 +4841,7 @@ Attack: 4+
 Cost: 8
 
 
-[size=10]'''''Colossus & Wolverine'''''[/size]
+[size=14]'''''Colossus & Wolverine'''''[/size]
 X-Men
 
 ''Reliable/Unpredictable'' (5 copies)
@@ -4879,7 +4879,7 @@ Then, draw a card for each X-Men card you '''Berserked'''.
 Cost: 7
 
 
-[size=10]'''''Dazzler'''''[/size]
+[size=14]'''''Dazzler'''''[/size]
 X-Men
 
 ''Convert Sound to Light'' (5 copies)
@@ -4910,7 +4910,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Havok'''''[/size]
+[size=14]'''''Havok'''''[/size]
 X-Men
 
 ''Blinding Burst'' (5 copies)
@@ -4940,7 +4940,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Jubilee'''''[/size]
+[size=14]'''''Jubilee'''''[/size]
 X-Men
 
 ''Light a Spark'' (5 copies)
@@ -4971,7 +4971,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Kitty Pryde'''''[/size]
+[size=14]'''''Kitty Pryde'''''[/size]
 X-Men
 
 ''Intangible Qualities'' (5 copies)
@@ -5002,7 +5002,7 @@ Put a card from the HQ on the bottom of the Hero Deck. You get +Attack equal to 
 Cost: 8
 
 
-[size=10]'''''Legion'''''[/size]
+[size=14]'''''Legion'''''[/size]
 X-Men
 
 ''Bend Steel/Bend Light'' (5 copies)
@@ -5053,7 +5053,7 @@ Reveal the top three cards of the Hero Deck. You get their total printed Attack.
 Cost: 8
 
 
-[size=10]'''''Longshot'''''[/size]
+[size=14]'''''Longshot'''''[/size]
 X-Men
 
 ''Fortune Favors the Bold'' (5 copies)
@@ -5085,7 +5085,7 @@ X-Men: You get +Attack equal to the printed Victory Points of the card you revea
 Cost: 7
 
 
-[size=10]'''''Phoenix'''''[/size]
+[size=14]'''''Phoenix'''''[/size]
 X-Men
 
 ''Life & Death Incarnate'' (5 copies)
@@ -5117,7 +5117,7 @@ KO all the cards you '''Berserked'''. If this card makes at least 13 Attack, the
 Cost: 9
 
 
-[size=10]'''''Polaris'''''[/size]
+[size=14]'''''Polaris'''''[/size]
 X-Men
 
 ''Ride the Magnetic Waves'' (5 copies)
@@ -5149,7 +5149,7 @@ Cost: 6
 Cost: 8
 
 
-[size=10]'''''Psylocke'''''[/size]
+[size=14]'''''Psylocke'''''[/size]
 X-Men
 
 ''Psychic Knife'' (5 copies)
@@ -5182,7 +5182,7 @@ Reveal the top card of the Hero Deck. The player of your choice puts it in their
 Cost: 7
 
 
-[size=10]'''''X-23'''''[/size]
+[size=14]'''''X-23'''''[/size]
 X-Men
 
 ''Adamantium Footclaws'' (5 copies)
@@ -5217,7 +5217,7 @@ Cost: 7
 
 === Spider-Man Homecoming ===
 
-[size=10]'''''Happy Hogan'''''[/size]
+[size=14]'''''Happy Hogan'''''[/size]
 (Unaffiliated)
 
 ''Head of Security'' (5 copies)
@@ -5249,7 +5249,7 @@ Cost: 5
 [size=8]''Flavor: Many people don't understand why Iron Man would need a bodyguard. They haven't met Happy.''[/size]
 
 
-[size=10]'''''High-Tech Spider-Man'''''[/size]
+[size=14]'''''High-Tech Spider-Man'''''[/size]
 Spider Friends
 
 ''Advanced Targeting System'' (5 copies)
@@ -5281,7 +5281,7 @@ You get +3 Attack usable only against the Mastermind or Villains on the Rooftops
 Cost: 2
 
 
-[size=10]'''''Peter's Allies'''''[/size]
+[size=14]'''''Peter's Allies'''''[/size]
 Spider Friends
 
 ''Michelle'' (5 copies)
@@ -5311,7 +5311,7 @@ Spider Friends: Each Villain gets -2 Attack this turn. The next time you fight t
 Cost: 7
 
 
-[size=10]'''''Peter Parker, Homecoming'''''[/size]
+[size=14]'''''Peter Parker, Homecoming'''''[/size]
 Spider Friends
 
 ''Avenger in Training'' (5 copies)
@@ -5344,7 +5344,7 @@ If this revealed any Scheme Twists, you may shuffle the Villain Deck.
 Cost: 2
 
 
-[size=10]'''''Tony Stark'''''[/size]
+[size=14]'''''Tony Stark'''''[/size]
 Avengers
 
 ''Genius, Billionaire ...'' (5 copies)
@@ -5380,7 +5380,7 @@ Cost: 7
 
 === Champions ===
 
-[size=10]'''''Gwenpool'''''[/size]
+[size=14]'''''Gwenpool'''''[/size]
 Champions
 
 ''Come On, Nobody Reads Card Names'' (5 copies)
@@ -5413,7 +5413,7 @@ Cost: 6*
 Cost: 7
 
 
-[size=10]'''''Ms. Marvel'''''[/size]
+[size=14]'''''Ms. Marvel'''''[/size]
 Champions
 
 ''Long Arm of the Law'' (5 copies)
@@ -5449,7 +5449,7 @@ Cost: 6*
 Cost: 9*
 
 
-[size=10]'''''Nova'''''[/size]
+[size=14]'''''Nova'''''[/size]
 Champions
 
 ''Space Cop'' (5 copies)
@@ -5487,7 +5487,7 @@ For each other card you played this turn with a Recruit icon, you get +1 Recruit
 Cost: 9*
 
 
-[size=10]'''''Totally Awesome Hulk'''''[/size]
+[size=14]'''''Totally Awesome Hulk'''''[/size]
 Champions
 
 ''Beloved Behemoth'' (5 copies)
@@ -5520,7 +5520,7 @@ You get +1 Attack for each extra card you drew this turn.
 Cost: 9*
 
 
-[size=10]'''''Viv Vision'''''[/size]
+[size=14]'''''Viv Vision'''''[/size]
 Champions
 
 ''Walking Wi-Fi'' (5 copies)
@@ -5557,7 +5557,7 @@ Cost: 9*
 === World War Hulk ===
 
 
-[size=10]'''''Amadeus Cho'''''[/size]
+[size=14]'''''Amadeus Cho'''''[/size]
 Champions
 
 ''Extrapolate'' (5 copies)
@@ -5596,7 +5596,7 @@ Whenever you use an '''Outwit''' ability this turn, you may use it an extra time
 Cost: 8
 
 
-[size=10]'''''Bruce Banner'''''[/size]
+[size=14]'''''Bruce Banner'''''[/size]
 Avengers
 
 ''Solve The Impossible'' (5 copies)
@@ -5633,7 +5633,7 @@ Cost: 6
 Cost: 7
 
 
-[size=10]'''''Caiera'''''[/size]
+[size=14]'''''Caiera'''''[/size]
 Warbound
 
 ''Shadow Queen'' (5 copies)
@@ -5671,7 +5671,7 @@ Cost: 7
 [size=8]''The Red King betrayed her, causing the plague of Cytoplasm Spikes that destroyed her people.''[/size]
 
 
-[size=10]'''''Gladiator Hulk'''''[/size]
+[size=14]'''''Gladiator Hulk'''''[/size]
 Warbound
 
 ''Don't Make Me Angry'' (5 copies)
@@ -5711,7 +5711,7 @@ You get double Attack from each Smash this turn.
 Cost: 8
 
 
-[size=10]'''''Hiroim'''''[/size]
+[size=14]'''''Hiroim'''''[/size]
 Warbound
 
 ''Seek Redemption'' (5 copies)
@@ -5747,7 +5747,7 @@ Choose one: Rescue three Bystanders, or defeat any Villain or Mastermind whose A
 Cost: 7
 
 
-[size=10]'''''Hulkbuster Iron Man'''''[/size]
+[size=14]'''''Hulkbuster Iron Man'''''[/size]
 Avengers
 
 ''Pound For Pound'' (5 copies)
@@ -5788,7 +5788,7 @@ You get +2 Attack for each other [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/B
 Cost: 8
 
 
-[size=10]'''''Joe Fixit, Grey Hulk'''''[/size]
+[size=14]'''''Joe Fixit, Grey Hulk'''''[/size]
 Crime Syndicate
 
 ''Carefully Considered Smashing'' (5 copies)
@@ -5825,7 +5825,7 @@ You can spend any combination of Recruit and Attack to fight the Mastermind this
 Cost: 7
 
 
-[size=10]'''''Korg'''''[/size]
+[size=14]'''''Korg'''''[/size]
 Warbound
 
 ''Nothing Beats Rock'' (5 copies)
@@ -5865,7 +5865,7 @@ Put all cards from the HQ on the bottom of the Hero Deck in random order. You ge
 Cost: 8
 
 
-[size=10]'''''Miek, The Unhived'''''[/size]
+[size=14]'''''Miek, The Unhived'''''[/size]
 Warbound
 
 ''This Bug Smashes You'' (5 copies)
@@ -5902,7 +5902,7 @@ Look at the top three cards of your deck and put them back in any order. Then yo
 Cost: 8
 
 
-[size=10]'''''Namora'''''[/size]
+[size=14]'''''Namora'''''[/size]
 Champions
 
 ''Crushing Tsunami'' (5 copies)
@@ -5940,7 +5940,7 @@ Cost: 6
 Cost: 7
 
 
-[size=10]'''''No-Name, Brood Queen'''''[/size]
+[size=14]'''''No-Name, Brood Queen'''''[/size]
 Warbound
 
 ''Surprise Attack'' (5 copies)
@@ -5978,7 +5978,7 @@ Look at the top card of your deck. Then '''Feast''' up to three times. You get +
 Cost: 8
 
 
-[size=10]'''''Rick Jones'''''[/size]
+[size=14]'''''Rick Jones'''''[/size]
 S.H.I.E.L.D.
 
 ''Hacktivist'' (5 copies)
@@ -6029,7 +6029,7 @@ Count the number of different printed VP values in your Victory Pile. Draw that 
 Cost: 9
 
 
-[size=10]'''''Sentry'''''[/size]
+[size=14]'''''Sentry'''''[/size]
 Avengers
 
 ''Agoraphobia'' (5 copies)
@@ -6072,7 +6072,7 @@ Reveal the top five cards of the Hero Deck, gain their total printed Attack, and
 Cost: 8
 
 
-[size=10]'''''She-Hulk'''''[/size]
+[size=14]'''''She-Hulk'''''[/size]
 Avengers
 
 ''Hurl Legal Objections'' (5 copies)
@@ -6111,7 +6111,7 @@ For every 2 Recruit you made this turn, Reveal the top card of the Hero Deck, pu
 Cost: 8
 
 
-[size=10]'''''Skaar, Son Of Hulk'''''[/size]
+[size=14]'''''Skaar, Son Of Hulk'''''[/size]
 Avengers
 
 ''Anger Management'' (5 copies)
@@ -6155,7 +6155,7 @@ Cost: 8
 === Marvel Studios Phase 1 ===
 
 
-[size=10]'''''Black Widow'''''[/size]
+[size=14]'''''Black Widow'''''[/size]
 Avengers
 
 ''Dangerous Rescue'' (5 copies)
@@ -6186,7 +6186,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Captain America'''''[/size]
+[size=14]'''''Captain America'''''[/size]
 Avengers
 
 ''Avengers Assemble!'' (5 copies)
@@ -6215,7 +6215,7 @@ Avengers: You get +3 Attack for each other Avengers Hero you played this turn.
 Cost: 7
 
 
-[size=10]'''''Hawkeye'''''[/size]
+[size=14]'''''Hawkeye'''''[/size]
 Avengers
 
 ''Quick Draw'' (5 copies)
@@ -6244,7 +6244,7 @@ Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.
 Cost: 7
 
 
-[size=10]'''''Hulk'''''[/size]
+[size=14]'''''Hulk'''''[/size]
 Avengers
 
 ''Growing Anger'' (5 copies)
@@ -6272,7 +6272,7 @@ Cost: 5
 Cost: 8
 
 
-[size=10]'''''Iron Man'''''[/size]
+[size=14]'''''Iron Man'''''[/size]
 Avengers
 
 ''Endless Invention'' (5 copies)
@@ -6301,7 +6301,7 @@ Draw two cards.
 Cost: 7
 
 
-[size=10]'''''Nick Fury'''''[/size]
+[size=14]'''''Nick Fury'''''[/size]
 S.H.I.E.L.D.
 
 ''Battlefield Promotion'' (5 copies)
@@ -6329,7 +6329,7 @@ Cost: 8
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Thor'''''[/size]
+[size=14]'''''Thor'''''[/size]
 Avengers
 
 ''Odinson'' (5 copies)
@@ -6364,7 +6364,7 @@ Cost: 8
 === Ant-Man ===
 
 
-[size=10]'''''Ant-Man'''''[/size]
+[size=14]'''''Ant-Man'''''[/size]
 Avengers
 
 ''Ride the Ants'' (5 copies)
@@ -6397,7 +6397,7 @@ A hero in the HQ without '''Size-changing''' abilities gain '''Size-Chaning''': 
 Cost: 9*
 
 
-[size=10]'''''Wasp'''''[/size]
+[size=14]'''''Wasp'''''[/size]
 Avengers
 
 ''Bio-Electric Sting'' (5 copies)
@@ -6431,7 +6431,7 @@ Avengers: You get +1 Attack for each other Avengers card you played this turn.
 Cost: 9*
 
 
-[size=10]'''''Jocasta'''''[/size]
+[size=14]'''''Jocasta'''''[/size]
 Avengers
 
 ''Creation of Ultron'' (5 copies)
@@ -6462,7 +6462,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Wonder Man'''''[/size]
+[size=14]'''''Wonder Man'''''[/size]
 Avengers
 
 ''One-Hit Wonder'' (5 copies)
@@ -6494,7 +6494,7 @@ Choose any number of cards from the HQ. Put them on the bottom of the Hero Deck.
 Cost: 8*
 
 
-[size=10]'''''Black Knight'''''[/size]
+[size=14]'''''Black Knight'''''[/size]
 Avengers
 
 ''Amulet of Avalon'' (5 copies)
@@ -6528,7 +6528,7 @@ Cost: 7
 === Venom ===
 
 
-[size=10]'''''Carnage'''''[/size]
+[size=14]'''''Carnage'''''[/size]
 Venomverse
 
 ''Rending Claws'' (5 copies)
@@ -6560,7 +6560,7 @@ Cost: 6
 Cost: 8
 
 
-[size=10]'''''Venom'''''[/size]
+[size=14]'''''Venom'''''[/size]
 Venomverse
 
 ''Devouring Drool'' (5 copies)
@@ -6599,7 +6599,7 @@ Venomverse Venomverse: Instead, do both.
 Cost: 8
 
 
-[size=10]'''''Venom Rocket'''''[/size]
+[size=14]'''''Venom Rocket'''''[/size]
 Venomverse
 
 ''Hungry for Action'' (5 copies)
@@ -6631,7 +6631,7 @@ Cost: 7
 [size=8]''Art contains a gun''[/size]
 
 
-[size=10]'''''Venomized Dr. Strange'''''[/size]
+[size=14]'''''Venomized Dr. Strange'''''[/size]
 Venomverse
 
 ''Cauldron of the Cosmos'' (5 copies)
@@ -6661,7 +6661,7 @@ Venomverse Venomverse: Do this ability again.
 Cost: 8
 
 
-[size=10]'''''Venompool'''''[/size]
+[size=14]'''''Venompool'''''[/size]
 Venomverse
 
 ''Digest That Chimichanga'' (5 copies)
@@ -6697,7 +6697,7 @@ Cost: 7
 
 === Dimensions ===
 
-[size=10]'''''Howard the Duck'''''[/size]
+[size=14]'''''Howard the Duck'''''[/size]
 (Unaffiliated)
 
 ''Traveling Companion'' (5 copies)
@@ -6725,7 +6725,7 @@ Reveal the top three cards of your deck. Draw one of them, discard one, and KO o
 Cost: 7
 
 
-[size=10]'''''Jessica Jones'''''[/size]
+[size=14]'''''Jessica Jones'''''[/size]
 Marvel Knights
 
 ''Alter Ego'' (5 copies)
@@ -6756,7 +6756,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Man-Thing'''''[/size]
+[size=14]'''''Man-Thing'''''[/size]
 (Unaffiliated)
 
 ''Form From Ooze'' (5 copies)
@@ -6786,7 +6786,7 @@ Cost: 5
 Cost: 7
 
 
-[size=10]'''''Ms. America'''''[/size]
+[size=14]'''''Ms. America'''''[/size]
 Avengers
 
 ''Star Power'' (5 copies)
@@ -6819,7 +6819,7 @@ Cost: 7
 [size=8]''Her enemies are also cosmically aware - that she has pulverized them into star fragments.''[/size]
 
 
-[size=10]'''''Squirrel Girl'''''[/size]
+[size=14]'''''Squirrel Girl'''''[/size]
 Avengers
 
 ''Find Tiny Friends'' (5 copies)
@@ -6853,46 +6853,46 @@ Cost: 8
 
 === Legendary ===
 
-[size=10]'''''The Legacy Virus'''''[/size]
+[size=14]'''''The Legacy Virus'''''[/size]
 '''Setup''': 8 Twists. Wound stack holds 6 Wounds per player.
 '''Twist''': Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
 '''Evil Wins''': If the Wound stack runs out.
 
-[size=10]'''''Midtown Bank Robbery'''''[/size]
+[size=14]'''''Midtown Bank Robbery'''''[/size]
 '''Setup''': 8 Twists. 12 total Bystanders in the Villain Deck.
 '''Special Rules''': Each Villain gets +1 Attack for each Bystander it has.
 '''Twist''': Any Villain in the Bank captures 2 Bystanders. Then play the top card of the Villain Deck.
 '''Evil Wins''': When 8 Bystanders are carried away by escaping Villains.
 
-[size=10]'''''Negative Zone Prison Breakout'''''[/size]
+[size=14]'''''Negative Zone Prison Breakout'''''[/size]
 '''Setup''': 8 Twists. Add an extra Henchman group to the Villain Deck.
 '''Twist''': Play the top 2 cards of the Villain Deck.
 '''Evil Wins''': If 12 Villains escape.
 
-[size=10]'''''Portals to the Dark Dimension'''''[/size]
+[size=14]'''''Portals to the Dark Dimension'''''[/size]
 '''Setup''': 7 Twists. Each Twist is a Dark Portal.
 '''Twist 1''': Put the Dark Portal above the Mastermind. The Mastermind gets +1 Attack.
 '''Twists 2-6''': Put the Dark Portal in the leftmost city space that doesn't yet have a Dark Portal. Villains in that city space get +1 Attack.
 '''Twist 7''': Evil Wins!
 
-[size=10]'''''Replace Earth's Leaders with Killbots'''''[/size]
+[size=14]'''''Replace Earth's Leaders with Killbots'''''[/size]
 '''Setup''': 5 Twists. 3 additional Twists next to this Scheme. 18 total Bystanders in the Villain Deck.
 '''Special Rules''': Bystanders in the Villain Deck count as Killbot Villains, with Attack equal to the number of Twists next to this Scheme.
 '''Twist''': Put the Twist next to this Scheme.
 '''Evil Wins''': If 5 "Killbots" escape.
 
-[size=10]'''''Secret Invasion of the Skrull Shapeshifters'''''[/size]
+[size=14]'''''Secret Invasion of the Skrull Shapeshifters'''''[/size]
 '''Setup''': 8 Twists. 6 Heroes. Skrull Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
 '''Special Rules''': Heroes in the Villain Deck count as Skrull Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
 '''Twist''': The highest-cost Hero from the HQ moves into the Sewers as a Skrull Villain, as above.
 '''Evil Wins''': If 6 Heroes get into the Escaped Villains pile.
 
-[size=10]'''''Super Hero Civil War'''''[/size]
+[size=14]'''''Super Hero Civil War'''''[/size]
 '''Setup''': For 2-3 players, use 8 Twists. For 4-5 players, use 5 Twists. If only 2 players, use only 4 Heroes in the Hero Deck.
 '''Twist''': KO all the Heroes in the HQ.
 '''Evil Wins''': If the Hero Deck runs out.
 
-[size=10]'''''Unleash the Power of the Cosmic Cube'''''[/size]
+[size=14]'''''Unleash the Power of the Cosmic Cube'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Put the Twist next to this Scheme.
 '''Twist 5-6''': Each player gains a Wound.
@@ -6903,48 +6903,48 @@ Cost: 8
 
 === Dark City ===
 
-[size=10]'''''Capture Baby Hope'''''[/size]
+[size=14]'''''Capture Baby Hope'''''[/size]
 '''Setup''': 8 Twists. Put a token on this Scheme to represent the baby, Hope Summers.
 '''Twist''': If a Villain has the baby, that Villain escapes. Otherwise, the baby is captured by the closest Villain to the Villain Deck. (If there are no Villains, do nothing.)
 '''Special Rules''': The Villain with the baby gets +4 Attack. If you defeat that Villain, rescue the baby to your Victory Pile (until the next Twist). The baby is worth 6 VP at the end of the game. If a Villain escapes with the baby, stack a Twist next to the Mastermind and return the baby to this Scheme card.
 '''Evil Wins''': When there are 3 Twists stacked next to the Mastermind.
 
-[size=10]'''''Detonate the Helicarrier'''''[/size]
+[size=14]'''''Detonate the Helicarrier'''''[/size]
 '''Setup''': 8 Twists. 6 Heroes in the Hero Deck.
 '''Special Rules''': Whenever a Hero is KO'd from the HQ, turn that Hero face down on that HQ space, representing an Explosion on the Helicarrier. When an HQ space has 6 Explosions, that space is Destroyed and can't hold Heroes anymore.
 '''Twist''': Stack this Twist next to the Scheme. Then for each Twist in that stack, KO the leftmost Hero in the HQ and immediately refill that space.
 '''Evil Wins''': When all HQ spaces are Destroyed or the Hero Deck runs out.
 
-[size=10]'''''Massive Earthquake Generator'''''[/size]
+[size=14]'''''Massive Earthquake Generator'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or KOs the top card of their deck.
 '''Evil Wins''': When the number of non grey Heroes in the KO pile is 3 times the number of players.
 
-[size=10]'''''Organized Crime Wave'''''[/size]
+[size=14]'''''Organized Crime Wave'''''[/size]
 '''Setup''': 8 Twists. Include 10 Maggia Goons as one of the Henchman Groups.
 '''Special Rules''': Goons also have the ability "Ambush: Play another card from the Villain Deck."
 '''Twist''': Each Goon in the city escapes. Shuffle all Goons from each players' Victory Piles into the Villain Deck.
 '''Evil Wins''': When 5 Goons escape.
 
-[size=10]'''''Save Humanity'''''[/size]
+[size=14]'''''Save Humanity'''''[/size]
 '''Setup''': 8 Twists. 24 Bystanders in the Hero Deck. (1 player: 12 Bystanders in the Hero Deck)
 '''Special Rules''': You may spend 2 Recruit to rescue a Bystander from the HQ.
 '''Twist''': KO all Bystanders in the HQ. Then each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or KOs a Bystander from their Victory Pile.
 '''Evil Wins''': When the number of Bystanders KO'd and/or carried off is 4 times the number of players.
 
-[size=10]'''''Steal the Weaponized Plutonium'''''[/size]
+[size=14]'''''Steal the Weaponized Plutonium'''''[/size]
 '''Setup''': 8 Twists representing Plutonium. Add an extra Villain Group.
 '''Twist''': This Plutonium is captured by the closest Villain to the Villain Deck. If there are no Villains in the city, KO this Plutonium. Either way, play another card from the Villain Deck.
 '''Special Rules''': Each Villain gets +1 Attack for each Plutonium it has. When a Villain with any Plutonium is defeated, shuffle that Plutonium back into the Villain Deck.
 '''Evil Wins''': When 4 Plutonium have been carried off by Villains.
 
-[size=10]'''''Transform Citizens Into Demons'''''[/size]
+[size=14]'''''Transform Citizens Into Demons'''''[/size]
 '''Setup''': 8 Twists. Villain Deck includes 14 extra Jean Grey cards and no Bystanders.
 '''Twist''': Stack 5 Bystanders face down next to the Scheme. Bystanders stacked here are "Demon Goblin" Villains. They have 2 Attack. Players can fight these Demon Goblins to rescue them as Bystanders.
 '''Special Rules''': Each Jean Grey card counts as a "Goblin Queen" Villain. It's worth 4 VP. It has Attack equal to its Cost plus the number of Demon Goblins stacked next to the Scheme.
 '''Evil Wins''': When 4 Goblin Queen cards escape.
 
-[size=10]'''''X-Cutioner's Song'''''[/size]
+[size=14]'''''X-Cutioner's Song'''''[/size]
 '''Setup''': 8 Twists. Villain Deck includes 14 cards for an extra Hero and no Bystanders.
 '''Special Rules''': Whenever you play a Hero from the Villain Deck, that Hero is captured by the closest enemy to the Villain Deck. Each Villain gets +2 Attack for each Hero it has. When you fight an enemy, gain all the Heroes captured by that enemy.
 '''Twist''': KO all Heroes captured by enemies. Then play another card from the Villain Deck.
@@ -6954,23 +6954,23 @@ Cost: 8
 
 === Fantastic Four ===
 
-[size=10]'''''Bathe the Earth in Cosmic Rays'''''[/size]
+[size=14]'''''Bathe the Earth in Cosmic Rays'''''[/size]
 '''Setup''': 6 Twists.
 '''Twist''': Each player in turn does the following: Reveal your hand. KO one of your non-grey Heroes. Choose a Hero from the HQ with the same or lower cost and put it into your hand.
 '''Evil Wins''': When the number of non-grey Heroes in the KO pile is six times the number of players.
 
-[size=10]'''''Flood the Planet with Melted Glaciers'''''[/size]
+[size=14]'''''Flood the Planet with Melted Glaciers'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Stack the Twist next to the Scheme as "Rising Waters." Then KO each Hero from the HQ whose cost is less than or equal to the number of Rising Waters in that stack.
 '''Evil Wins''': When 20 non-grey Heroes are KO'd.
 
-[size=10]'''''Invincible Force Field'''''[/size]
+[size=14]'''''Invincible Force Field'''''[/size]
 '''Setup''': 7 Twists.
 '''Twist''': Stack this Twist next to the Mastermind as a "Force Field."
 '''Special Rules''': To fight the Mastermind, you must also spend 1 Recruit or 1 Attack for each Force Field next to them.
 '''Twist 7''': Evil Wins!
 
-[size=10]'''''Pull Reality Into the Negative Zone'''''[/size]
+[size=14]'''''Pull Reality Into the Negative Zone'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist 2, 4, and 6''': Until the next Twist, Enemies cost Recruit to fight and Heroes cost Attack to recruit.
 '''Twist 7''': Evil Wins!
@@ -6979,24 +6979,24 @@ Cost: 8
 
 === Paint the Town Red ===
 
-[size=10]'''''The Clone Saga'''''[/size]
+[size=14]'''''The Clone Saga'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Each player reveals two non-grey Heroes with the same card name or discards down to 3 cards.
 '''Evil Wins''': When 2 Villains with the same card name have escaped or the Villain Deck runs out.
 
-[size=10]'''''Invade the Daily Bugle News HQ'''''[/size]
+[size=14]'''''Invade the Daily Bugle News HQ'''''[/size]
 '''Setup''': 8 Twists. Add 6 extra Henchmen from a single Henchman Group to the Hero Deck.
 '''Special Rules''': You can fight Villains in the HQ.
 '''Twist''': KO a Hero from the HQ. Put the highest-Attack Villain from the city into that HQ space.
 '''Evil Wins''': When there are 5 Villains in the HQ.
 
-[size=10]'''''Splice Humans with Spider DNA'''''[/size]
+[size=14]'''''Splice Humans with Spider DNA'''''[/size]
 '''Setup''': 8 Twists. Include Sinister Six as one of the Villain Groups.
 '''Special Rules''': Sinister Six Villains get +3 Attack. All Hero cards have Wall-Crawl.
 '''Twist''': Each player puts a Sinister Six Villain from their Victory Pile on top of the Villain Deck. No matter how many players did so, play a single card from the Villain Deck.
 '''Evil Wins''': When 6 Sinister Six Villains have escaped or the Villain Deck runs out.
 
-[size=10]'''''Weave a Web of Lies'''''[/size]
+[size=14]'''''Weave a Web of Lies'''''[/size]
 '''Setup''': 7 Twists.
 '''Special Rules''': Whenever you defeat a Villain, you may pay 1 Recruit. If you do, rescue a Bystander.
 You can't fight the Mastermind unless you have a Bystander in your Victory Pile for each Twist next to the Mastermind.
@@ -7007,48 +7007,48 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 === Villains ===
 
-[size=10]'''''Build an Underground MegaVault Prison'''''[/size]
+[size=14]'''''Build an Underground MegaVault Prison'''''[/size]
 '''Setup''': 8 Twists. The Bindings stack holds 5 Bindings per player.
 '''Twist''': If there is an Adversary in the Sewers, each player gains a Bindings. Otherwise, reveal the top card of the Adversary Deck. If that card is an Adversary, it enters the Sewers.
 '''Good Wins''': When the Bindings stack runs out.
 
-[size=10]'''''Cage Villains in Power-Suppressing Cells'''''[/size]
+[size=14]'''''Cage Villains in Power-Suppressing Cells'''''[/size]
 '''Setup''': 8 Twists. Stack 2 Cops per player next to this Plot.
 '''Twist''': Each player returns all Cops from their Victory Pile to the Cop Stack. Then each player puts a non-grey Ally from their hand in front of them. Put a Cop from the Cop Stack on top of each of those Allies.
 '''Special Rules''': You can fight any Cop on top of Allies. If you do, the player of your choice gains that Ally.
 '''Good Wins''': When a Twist must put out a Cop, but the Cop Stack is already empty.
 
-[size=10]'''''Crown Thor King of Asgard'''''[/size]
+[size=14]'''''Crown Thor King of Asgard'''''[/size]
 '''Setup''': 8 Twists. Put the Thor Adversary next to this Plot.
 '''Twist''': If Thor is in the city, he overruns. Otherwise, Thor enters the Bridge from wherever he is, and Thor guards 3 Bystanders.
 '''Special Rules''': Whenever Thor overruns, stack a Plot Twist from the KO pile next to this Plot as a "Triumph of Asgard."
 '''Good Wins''': When there are 3 Triumphs of Asgard next to this Plot.
 
-[size=10]'''''Crush HYDRA'''''[/size]
+[size=14]'''''Crush HYDRA'''''[/size]
 '''Setup''': 8 Twists.
 '''Twists 1-7''': Each Adversary in the city captures a New Recruit, or if there are no more New Recruits, a Madame HYDRA.
 '''Twist 8''': Put all captured Allies from the city into the Overrun Pile.
 '''Special Rules''': An Adversary gets +1 Attack for each Ally it has captured. When you fight that Adversary, gain those Allies.
 '''Good Wins''': When there are 11 Allies in the Overrun Pile.
 
-[size=10]'''''Graduation at Xavier's X-Academy'''''[/size]
+[size=14]'''''Graduation at Xavier's X-Academy'''''[/size]
 '''Setup''': 8 Twists. Stack 8 Bystanders next to this Plot as "Young Mutants."
 '''Twist''': Put a Bystander from next to this Plot into the Overrun Pile.
 '''Good Wins''': When there are 8 Bystanders in the Overrun Pile.
 
-[size=10]'''''Infiltrate the Lair with Spies'''''[/size]
+[size=14]'''''Infiltrate the Lair with Spies'''''[/size]
 '''Setup''': 8 Twists, Stack 21 Bystanders next to this Plot as "Infiltrating Spies."
 '''Twist''': Put all Bystanders from the Lair into the Overrun pile. Then put a Bystander from next to this Plot into each Lair space under the Bridge, Streets, and Sewers.
 '''Special Rules''': When you recruit an Ally, kidnap any Bystander in that Lair space. When an Ally leaves the Lair in any other way, put any Bystander from that Lair space into the Overrun Pile.
 '''Good Wins''': When there are 12 Bystanders in the Overrun Pile.
 
-[size=10]'''''Mass Produce War Machine Armor'''''[/size]
+[size=14]'''''Mass Produce War Machine Armor'''''[/size]
 '''Setup''': 8 Twists, Include 10 S.H.I.E.L.D. Assault Squads as one of the Backup Adversary groups.
 '''Twist''': Stack this Twist next to the Plot as "War Machine Technology." An Assault Squad from the current player's Victory Pile enters the Bridge.
 '''Special Rules''': Assault Squads get +1 Attack for each War Machine Technology next to the Plot.
 '''Good Wins''': When there are 3 Assault Squads in the Overrun Pile.
 
-[size=10]'''''Resurrect Heroes with Norn Stones'''''[/size]
+[size=14]'''''Resurrect Heroes with Norn Stones'''''[/size]
 '''Setup''': 8 Twists.
 '''Twists 1-6''': An Adversary from the current player's Victory Pile enters the Bridge. Then play the top card of the Adversary Deck.
 '''Twists 7-8''': Each player puts an Adversary from their Victory Pile into the Overrun Pile.
@@ -7058,24 +7058,24 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 === Guardians of the Galaxy ===
 
-[size=10]'''''Forge the Infinity Gauntlet'''''[/size]
+[size=14]'''''Forge the Infinity Gauntlet'''''[/size]
 '''Setup''': 8 Twists. Always include the Infinity Gems Villain Group.
 '''Twist''': Starting to your left and going clockwise, the first player with an Infinity Gem Artifact card in play or in their discard pile chooses on of those Infinity Gems to enter the city. Then put a Shard on each Infinity Gem in the city.
 '''Evil Wins''': When 6 Infinity Gem Villains are in the city and/or the Escape Pile.
 '''Evil Wins''': When a player controls 4 Infinity Gem Artifacts, that player is corrupted by power. That player wins, Evil wins, and all other players lose.
 
-[size=10]'''''Intergalactic Kree Nega-Bomb'''''[/size]
+[size=14]'''''Intergalactic Kree Nega-Bomb'''''[/size]
 '''Setup''': 8 Twists. Make a face down 'Nega-Bomb Deck' of 6 Bystanders.
 '''Twist''': Shuffle this Twist into the Nega-Bomb Deck. Then reveal a random card from that deck. If it's a Bystander, rescue it. If it's a Twist, KO it, KO all Heroes from the HQ, and each player gains a Wound.
 '''Evil Wins''': When 16 non-grey Heroes are in the KO pile.
 
-[size=10]'''''The Kree-Skrull War'''''[/size]
+[size=14]'''''The Kree-Skrull War'''''[/size]
 '''Setup''': 8 Twists. Always include Kree Starforce and Skrull Villain Groups.
 '''Twists 1-7''': All Kree and Skrulls escape from the city. Then, if there are more Kree than Skrulls in the Escape Pile, stack this Twist next to the Mastermind as a Kree Conquest. If there are more Skrulls than Kree in the Escape Pile, stack this Twist next to the Villain Deck as a Skrull Conquest.
 '''Twist 8''': Stack this Twist on the side with the most Conquests.
 '''Evil Wins''': When there are 4 Kree Conquests or 4 Skrull Conquests.
 
-[size=10]'''''Unite the Shards'''''[/size]
+[size=14]'''''Unite the Shards'''''[/size]
 '''Setup''': 30 Shards in the supply. Twists equal to the number of players plus 5.
 '''Twist''': Stack this Twist next to the Scheme. Then for each Twist in that stack, the Mastermind gains a Shard.
 '''Special Rules''': During your turn, any number of times, you may spend 2 Recruit to gain one of the Mastermind's Shards.
@@ -7085,19 +7085,19 @@ You can't fight the Mastermind unless you have a Bystander in your Victory Pile 
 
 === Fear Itself ===
 
-[size=10]'''''Fear Itself'''''[/size]
+[size=14]'''''Fear Itself'''''[/size]
 '''Setup''': 10 Twists.
 Earth's Fear Level starts at 8. The number of Allies in the Lair is always equal to the Fear Level.
 '''Twist''': KO an Ally from the Lair. The Fear Level goes down by 1.
 '''Good Wins''': When the Fear Level is 0.
 
-[size=10]'''''Last Stand at Avengers Tower'''''[/size]
+[size=14]'''''Last Stand at Avengers Tower'''''[/size]
 '''Setup''': 6 Twists.
 '''Twist''': Stack this Twist above the Rooftops as StarkTech Defenses. If there is an Adversary on the Rooftops, choose 3 Allies from the Lair and KO them.
 '''Special Rules''': While an Adversary is on the Rooftops, it gets +1 Attack for each StarkTech Defenses.
 '''Good Wins''': When there are 13 non-grey Allies in the KO pile.
 
-[size=10]''''' The Traitor'''''[/size]
+[size=14]''''' The Traitor'''''[/size]
 '''Setup''': 2+ players only. 8 Twists. Shuffle a 'Betrayal Deck' of 3 Bindings per player and a 9th Twist.
 '''Twists 1-3''': If there is no revealed Traitor, each player puts a 'Betrayal Card' from the Betrayal Deck face down in front of them and looks at it.
 '''Special Rules''': During your turn, you may reveal a Twist from your Betrayal Cards to become 'the Traitor'. If you do, each other player gains all the Bindings from their Betrayal Cards.
@@ -7109,49 +7109,49 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Build an Army of Annihilation'''''[/size]
+[size=14]'''''Build an Army of Annihilation'''''[/size]
 '''Setup''': 9 Twists. Put 10 extra Annihilation Wave Henchmen in that KO pile.
 '''Twist''': KO all Annihilation Henchmen from the players' Victory Piles. Stack this Twist next to the Scheme. Then, for each Twist in that stack, put an Annihilation Henchman from the KO pile next to the Mastermind. Players can fight those Henchmen.
 '''Evil Wins''': When there are 10 Annihilation Henchmen next to the Mastermind.
 
-[size=10]'''''Corrupt the Next Generation of Heroes'''''[/size]
+[size=14]'''''Corrupt the Next Generation of Heroes'''''[/size]
 '''Setup''': 8 Twists. Add 10 Sidekicks to the Villain Deck.
 '''Special Rules''': Sidekicks in the Villain Deck and city are Villains. Their Attack is 2 plus the number of Twists stacked next to this Scheme. When you defeat a Sidekick, gain it to the top of your deck.
 '''Twists 1-7''': Each player returns a Sidekick from their discard pile to the Sidekick Stack. Then, two Sidekicks from the Sidekick Stack enter the city.
 '''Twist 8''': All Sidekicks in the city escape.
 '''Evil Wins''': When 4 Sidekicks escape.
 
-[size=10]'''''Crush Them With My Bare Hands'''''[/size]
+[size=14]'''''Crush Them With My Bare Hands'''''[/size]
 '''Setup''': 5 Twists. If playing solo, add an extra Villain Group.
 '''Twist''': This Twist becomes a Master Strike that takes effect immediately.
 '''Evil Wins''': When 8 Master Strikes have taken effect.
 
-[size=10]'''''Dark Alliance'''''[/size]
+[size=14]'''''Dark Alliance'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist 1''': Add a random second Mastermind to the game with one Mastermind Tactic.
 '''Twists 2-4''': If the second Mastermind is still in play, it gains another Mastermind Tactic.
 '''Twists 5-6''': Each Mastermind captures a Bystander.
 '''Twist 7''': Evil Wins!
 
-[size=10]'''''Fragmented Realities'''''[/size]
+[size=14]'''''Fragmented Realities'''''[/size]
 '''Setup''': Add an extra Villain Group. Shuffle the Villain Deck, then split it as evenly as possible into a Villain Deck for each player. Then, shuffle 2 Twists into each player's Villain Deck.
 '''Special Rules''': The normal city does not exist. Instead, each player has a different dimension in front of them with one city space. Villains and Bystanders from your Villain Deck enter your dimension. You can fight Villains in any dimension.
 '''Twist''': Play two card from your Villain Deck
 '''Evil Wins''': When the number of non-grey Heroes in the KO pile is 5 times the number of players.
 
-[size=10]'''''Master of Tyrants'''''[/size]
+[size=14]'''''Master of Tyrants'''''[/size]
 '''Setup''': 8 Twists. Choose 3 other Masterminds, and shuffle their 12 Tactics into the Villain Deck. Those Tactics are "Tyrant Villains" with their printed Attack and no abilities.
 '''Twist 1-7''': Put this Twist under a Tyrant Villain as "Dark Power." It gets +2 Attack.
 '''Twist 8''': All Tyrant Villains in the city escape.
 '''Evil Wins''': When 5 Tyrant Villains escape.
 
-[size=10]'''''Pan-Dimensional Plague'''''[/size]
+[size=14]'''''Pan-Dimensional Plague'''''[/size]
 '''Setup''': 10 Twists.
 '''Twist''': KO all Wounds from next to the HQ. Then, put a Wound from the Wound Stack next to each Hero in the HQ.
 '''Special Rules''': When a player recruits a Hero with a Wound next to it, that player can either gain that Wound or pay 1 Recruit to return that Wound to the Wound Stack.
 '''Evil Wins''': When the Wound Stack runs out.
 
-[size=10]'''''Smash Two Dimensions Together'''''[/size]
+[size=14]'''''Smash Two Dimensions Together'''''[/size]
 '''Setup''': 8 Twists. Add an extra Villain Group. Put the Villain Deck on the Bank space.
 '''Special Rules''': The Sewers and Bank do not exist, so the city is only 3 spaces. There is a parallel dimension with 3 city spaces above the main city. Whenever a Villain enters the city, the current player chooses which city it enters.
 '''Twist 1-7''': Play two cards from the Villain Deck.
@@ -7162,48 +7162,48 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Deadlands Hordes Charge the Wall'''''[/size]
+[size=14]'''''Deadlands Hordes Charge the Wall'''''[/size]
 '''Setup:''' 8 Twists. Add an extra Villain Group.
 '''Twist:''' Each Villain simultaneously charges two spaces. Play another card from the Villain Deck.
 '''Evil Wins:''' When the number of escaped Villains equals the number of players plus 6.
 
-[size=10]'''''Enthrone the Barons of Battleworld'''''[/size]
+[size=14]'''''Enthrone the Barons of Battleworld'''''[/size]
 '''Setup:''' 8 Twists.
 '''Twists 1-7:''' The Villain in the city or Escape Pile with the highest printed Attack ascends to become a new Mastermind. It gets +2 Attack. It gains the ability "'''Master Strike:''' Each Player discards a card with cost equal to this Mastermind's printed VP." ''(Keep them separate from any Villains who ascend through Escape effects.)''
 '''Twist 8:''' The Villain in each player's Victory Pile with the highest printed Attack ascends the same way.
 '''Evil Wins:''' When there are six Masterminds.
 
-[size=10]'''''The Fountain of Eternal Life'''''[/size]
+[size=14]'''''The Fountain of Eternal Life'''''[/size]
 '''Setup:''' 8 Twists. (1 player: 4 Twists.)
 '''Special Rules:''' All Villains and Mastermind Tactics have "'''Fight:''' '''Fateful Resurrection'''."
 '''Twist:''' A Villain from your Victory Pile enters the Sewers. Put this Twist on the bottom of the Villain Deck.
 '''Evil Wins:''' When the number of escaped Villains is 3 times the number of players.
 
-[size=10]'''''The God-Emperor of Battleworld'''''[/size]
+[size=14]'''''The God-Emperor of Battleworld'''''[/size]
 '''Setup:''' 8 Twists.
 '''Twist 1:''' This Scheme ascends to becomes (sic) a new 9-Attack "God-Emperor" Mastermind worth 9 VP. It has "'''Master Strike''': Each player with exactly six cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck."
 '''Twist 2-6:''' Stack this Twist next to the Scheme. The God-Emperor gets another +2 Attack.
 '''Twist 7:''' If the God-Emperor lives, it KOs all other Masterminds.
 '''Twist 8:''' Evil wins! ''(If any Mastermind still lives.)''
 
-[size=10]'''''The Mark of Khonshu'''''[/size]
+[size=14]'''''The Mark of Khonshu'''''[/size]
 '''Setup:''' 10 Twists. Always include Khonshu Guardians. Add all fourteen cards for an extra Hero to the Villain Deck.
 '''Special Rules:''' Heroes in the Villain Deck are "Khonshu Guardian" Villains with Attack equal to their printed cost. While in the Sewers, Rooftops, or Bridge, they are in "wolf form" and have double their Attack. When you defeat one, gain it as a Hero.
 '''Twist:''' Play two cards from the Villain Deck.
 '''Evil Wins:''' When 7 Khonshu Guardians escape.
 
-[size=10]'''''Master the Mysteries of Kung-Fu'''''[/size]
+[size=14]'''''Master the Mysteries of Kung-Fu'''''[/size]
 '''Setup:''' 8 Twists.
 '''Twist:''' Stack this Twist next to the Scheme.
 '''Special Rules:''' Villains and the Mastermind have the Circle of Kung-Fu matching the number of Twists stacked here.
 '''Evil Wins:''' When the number of escaped Villains is double the number of players.
 
-[size=10]'''''Secret Wars'''''[/size]
+[size=14]'''''Secret Wars'''''[/size]
 '''Setup:''' 8 Twists.
 '''Twists 1-3:''' Add another random Mastermind to the game with one Tactic.
 '''Twist 8:''' Evil wins!
 
-[size=10]'''''Sinister Ambitions'''''[/size]
+[size=14]'''''Sinister Ambitions'''''[/size]
 '''Setup:''' 6 Twists. Add 10 random Ambition cards to the Villain Deck.
 '''Special Rules:''' Ambition cards are Villains with their printed Attack. Add +1 Attack for each Twist stacked next to the Scheme. They are worth 4 VP. Whenever an Ambition Villain escapes, do its Ambition effect.
 '''Twist 1-5:''' Stack this Twist next to the Scheme. Play another card from the Villain Deck.
@@ -7214,14 +7214,14 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 === Captain America 75th Anniversary ===
 
-[size=10]'''''Brainwash the Military'''''[/size]
+[size=14]'''''Brainwash the Military'''''[/size]
 '''Setup:''' 7 Twists. Add 12 S.H.I.E.L.D. Officers to the Villain Deck.
 '''Special Rules:''' S.H.I.E.L.D. Officers in the Villain Deck are Villains. Their Attack is 3 plus the number of Twists stacked next to this Scheme. When you defeat a S.H.I.E.L.D. Officer, gain it as a Hero.
 '''Twist 1-6:''' Stack this Twists next to the Scheme as a "Traitor Battalion." Play another card from the Villain Deck.
 '''Twist 7:''' All S.H.I.E.L.D. Officers in the city escape.
 '''Evil Wins:''' When 5 S.H.I.E.L.D. Officers escape.
 
-[size=10]'''''Change the Outcome of WWII'''''[/size]
+[size=14]'''''Change the Outcome of WWII'''''[/size]
 '''Setup:''' 7 Twists. Add an extra Villain Group.
 '''Twist:''' The Axis invades a new country. Put all Villains and Bystanders from the city on the bottom of the Villain Deck. The number of city spaces changes. Play 2 cards from the Villain Deck. If any Villains escape this country, stack a Twist next to the scheme as a "conquered capital."
 '''Twist 1:''' Poland: 4 spaces.
@@ -7233,13 +7233,13 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 '''Twist 7:''' Switzerland: 1 space.
 '''Evil Wins:''' When 3 capitals are conquered.
 
-[size=10]'''''Go Back in Time to Slay Heroes' Ancestors'''''[/size]
+[size=14]'''''Go Back in Time to Slay Heroes' Ancestors'''''[/size]
 '''Setup:''' 9 Twists. 8 Heroes in Hero deck.
 '''Twist:''' Put a Hero form the HQ next to the Scheme, "Purged from the Timestream."
 '''Special Rules:''' Whenever a Hero is in the HQ whose Hero Name has been Purged from the Timestream, KO that Hero.
 '''Evil Wins:''' When the Hero Deck runs out.
 
-[size=10]'''''The Unbreakable Enigma Code'''''[/size]
+[size=14]'''''The Unbreakable Enigma Code'''''[/size]
 '''Setup:''' 6 Twists.
 '''Twists 1-5:''' Put a card from the Hero Deck face down next to the scheme as part of the "Enigma Code." Mix up those cards face-down.
 '''Twist 6:''' Evil Wins!
@@ -7249,43 +7249,43 @@ During your turns, you may spend 4 Attack any number of times to play an additio
 
 === Civil War ===
 
-[size=10]'''''Avengers vs. X-Men'''''[/size]
+[size=14]'''''Avengers vs. X-Men'''''[/size]
 '''Setup:''' 9 Twists. Hero Deck has 3 Heroes of one Team and 3 Heroes of another Team. (Avengers, X-Men, Spider-Friends, Marvel Knights, etc.)
 '''Twist:''' 1-7 Each player reveals their hand. Each player that has cards of both those teams gains a Wound.
 '''Twist 8:''' Evil wins!
 
-[size=10]'''''Dark Reign of H.A.M.M.E.R. Officers'''''[/size]
+[size=14]'''''Dark Reign of H.A.M.M.E.R. Officers'''''[/size]
 '''Setup:''' 7 Twists.
 '''Twist:''' Stack this Twist next to the Scheme. Then, for each Twist in that stack, put a S.H.I.E.L.D. Officer next to the Mastermind as a 3 Attack Villain with S.H.I.E.L.D. Clearance. You can fight them to gain them as Heroes.
 '''Evil Wins:''' When there are 7 Officers next to the Mastermind.
 
-[size=10]'''''Epic Super Hero Civil War'''''[/size]
+[size=14]'''''Epic Super Hero Civil War'''''[/size]
 '''Setup:''' 1 player: 4 Heroes in Hero Deck. 1-3 players: 9 Twists. 4-5 players: 6 Twists.
 '''Twist:''' Stack this Twist next to the Scheme. Then, for each Twist in that stack, KO a Hero from the HQ and immediately refill that HQ space.
 '''Evil Wins:''' When the Hero Deck runs out.
 
-[size=10]'''''Imprison Unregistered Superhumans'''''[/size]
+[size=14]'''''Imprison Unregistered Superhumans'''''[/size]
 '''Setup:''' 11 Twists.
 '''Twist 1, 3, 5, 7, 9:''' This Scheme fortifies the city space to its right starting with the Bridge. Villains in that space get +1 Attack.
 Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Evil Wins:''' When 3 Bystanders are in the KO pile and/or Escape Pile.
 
-[size=10]'''''Nitro the Supervillain Threatens Crowds'''''[/size]
+[size=14]'''''Nitro the Supervillain Threatens Crowds'''''[/size]
 '''Setup:''' 8 Twists.
 '''Twist:''' KO all Bystanders held by Villains. Then, the Villain with the highest Attack captures 3 Bystanders.
 '''Evil Wins:''' When 15 Bystanders are in the KO pile and/or Escape Pile.
 
-[size=10]'''''Predict Future Crime'''''[/size]
+[size=14]'''''Predict Future Crime'''''[/size]
 '''Setup:''' 6 Twists. Add an extra Villain Group.
 '''Twist:''' Reveal the top 3 cards of the Villain Deck. Play each Villain you revealed. Put the rest back in any order.
 '''Evil Wins:''' When there are 2 Villains per player in the Escape Pile.
 
-[size=10]'''''Reveal Heroes' Secret Identities'''''[/size]
+[size=14]'''''Reveal Heroes' Secret Identities'''''[/size]
 '''Setup:''' 6 Twists. 7 Heroes in Hero Deck.
 '''Twist:''' Put a Hero from the HQ next to the Scheme as an "Unmasked" Hero. All cards with "Unmasked" Hero Names cost +1 Recruit to recruit. You can't Unmask a Hero Name that has already been Unmasked.
 '''Evil Wins:''' When 5 Heroes are Unmasked.
 
-[size=10]'''''United States Split by Civil War'''''[/size]
+[size=14]'''''United States Split by Civil War'''''[/size]
 '''Setup:''' 10 Twists.
 '''Twist:''' If there is a Villain on the Streets or Bridge, put this Twist in a stack of "Western States Victories." Otherwise, if there is a Villain in the Sewers, put this Twist in a stack of "Eastern States Victories."
 '''Evil Wins:''' When there are 3 Western Victories or 3 Eastern Victories.
@@ -7294,18 +7294,18 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Deadpool ===
 
-[size=10]'''''Deadpool Kills the Marvel Universe'''''[/size]
+[size=14]'''''Deadpool Kills the Marvel Universe'''''[/size]
 '''Setup:''' Use Deadpool as one of the Heroes. 2 players: Use 4 Heroes total. 1-3 players: 6 Twists. 4-5 Players: 5 Twists.
 '''Twist:''' Reveal cards from the Hero Deck until you reveal a Deadpool card. KO all the cards you revealed.
 '''Evil Wins:''' When the Hero Deck runs out.
 
-[size=10]'''''Deadpool Wants a Chimichanga'''''[/size]
+[size=14]'''''Deadpool Wants a Chimichanga'''''[/size]
 '''Setup:''' 6 Twists. 12 total Bystanders in the Villain Deck. All Bystanders represent "Chimichangas." ''(They're Bystanders too.)'' 3-5 players: Add a Villain Group.
 '''Nobody Eats Just One Chimichanga!''' Whenever you play a Chimichanga from the Villain Deck, play another card from the Villain Deck.
 '''Twist:''' Put each Chimichanga from the city into the Escape Pile. Then, each player shuffles a Chimichanga from their Victory Pile back into the Villain Deck. Any player who cannot do so gains a Wound.
 '''Evil Wins:''' When 6 Chimichangas are in the Escape Pile.
 
-[size=10]'''''Deadpool Writes a Scheme'''''[/size]
+[size=14]'''''Deadpool Writes a Scheme'''''[/size]
 '''Setup:''' Hey, writing these doesn't seem so tough. Use the best Hero in the game: Deadpool! Add 6 Twists of Lemon, shake vigorously, and I'll make it up as I go.
 '''Twist 1:''' Everybody draw 1 card. Wait, are these supposed to be bad?
 '''Twist 2:''' Anyone without a Deadpool in hand is doing it wrong -- discard 2 cards.
@@ -7314,7 +7314,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Twist 5:''' Each player gains 5 Wounds. Is that a good number?
 '''Twist 6:''' Deadpool wins 6 times! Wow, I'm way better at this game than you.
 
-[size=10]'''''Everybody Hates Deadpool'''''[/size]
+[size=14]'''''Everybody Hates Deadpool'''''[/size]
 '''Setup:''' 6 Twists. Use at least 1 Mercs for Money Hero.
 '''Special Rules:''' All Villains have Revenge for their own Villain Groups. (If they already have Revenge, double it.)
 '''Twist:''' Everyone reveals their hand. Whoever reveals the fewest Mercs for Money cards (or tied for fewest) gains a Wound.
@@ -7324,24 +7324,24 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Noir ===
 
-[size=10]'''''Find the Split Personality Killer'''''[/size]
+[size=14]'''''Find the Split Personality Killer'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist 1-5''': Shuffle 3 Bystanders from the Bystander Stack and the top card of the Hero Deck face down next to this Scheme as a deck of "Murder Suspects."
 '''Special Rules''': Whenever you defeat a Villain, you may pay 1 Attack extra to '''Investigate''' the Murder Suspects for a Bystander and rescue it.
 '''Twist 6''': Each player writes down their guess for which Hero Name is the Split Personality Killer. Reveal the entire Murder Suspects Deck. The Hero Name with the most cards in the Murder Suspect Deck (or tied for most) is the Split Personality Killer. Each player who guessed right wins. All other players lose.
 
-[size=10]'''''Silence the Witnesses'''''[/size]
+[size=14]'''''Silence the Witnesses'''''[/size]
 '''Setup''': 6 Twists.
 '''Twist''': This Scheme captures 3 '''Hidden Witnesses'''. If it already had any '''Hidden Witnesses''', put those into the Escape Pile.
 '''Evil Wins''': When 6 Bystanders are in the Escape Pile.
 
-[size=10]'''''Five Families of Crime'''''[/size]
+[size=14]'''''Five Families of Crime'''''[/size]
 '''Setup''': 8 Twists. Add two extra Villain Groups. Split the Villain Deck into 5 shuffled decks, one above each city space.
 '''Special Rules''': Each Villain Deck uses its own city of one city space. Each turn, you choose which Villain Deck plays a card.
 '''Twist''': Play two cards from a Villain Deck.
 '''Evil Wins''': When 8 Villains escape or all Villain Decks run out.
 
-[size=10]'''''Hidden Heart of Darkness'''''[/size]
+[size=14]'''''Hidden Heart of Darkness'''''[/size]
 '''Setup''': 8 Twists. Shuffle the Mastermind Tactics into the Villain Deck as Villains.
 '''Special Rules''': If there are no Tactics in the city, you can win the game by fighting the Mastermind card.
 '''Twist''': Each player shuffles a Tactic from their victory pile into the Villain Deck. Any player who did so draws two cards. Then, '''Investigate''' the Villain Deck for a Tactic and that Tactic enters the city. Reveal all the cards you '''Investigated'''.
@@ -7351,46 +7351,46 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === X-Men ===
 
-[size=10]'''''Alien Brood Encounters'''''[/size]
+[size=14]'''''Alien Brood Encounters'''''[/size]
 '''Setup''': 8 Twists. Add 10 Brood as extra Henchmen. No Bystanders in Villain Deck.
 '''Special Rules''': Cards are played from the Villain Deck face-down. You may spend 1 Attack to "scan" a face-down card in the city, turning it face-up and doing any Ambush effect, Twist, Trap, or Master Strike. If a face-down card would escape, scan it, and then it escapes if it's a Villain.
 '''Twist''': The player on your right gains this Twist as a "Brood Infection." When drawn, they KO it and gain 2 Wounds.
 '''Evil Wins''': When 3 Villains per player have escaped.
 
-[size=10]'''''Anti-Mutant Hatred'''''[/size]
+[size=14]'''''Anti-Mutant Hatred'''''[/size]
 '''Setup''': 11 Twists. 30 Wounds.
 '''Twist''': Put this Twist into your discard pile as an "Angry Mob."
 '''Special Rules''': At the start of your turn, for each Angry Mob in your hand, the player on your right gains a Wound and gains that Angry Mob.
 '''Evil Wins''': When the Wound Stack or Villain Deck runs out.
 
-[size=10]'''''The Dark Phoenix Saga'''''[/size]
+[size=14]'''''The Dark Phoenix Saga'''''[/size]
 '''Setup''': 10 Twists. Include Hellfire Club as one of the Villain Groups. Add 14 Jean Grey Hero cards to the Villain Deck.
 '''Special Rules''': Jean Grey cards in the Villain Deck are Villains with attack equal to their cost, "Ambush: Play another Villain card" and "Fight: Gain this as a Hero."
 '''Twist''': Shuffle all Jean Grey cards from the KO pile and from all players' hands and discard piles into the Villain Deck.
 '''Evil Wins''': When 5 Jean Grey cards have escaped.
 
-[size=10]'''''Horror of Horrors'''''[/size]
+[size=14]'''''Horror of Horrors'''''[/size]
 '''Setup''': 6 Twists
 '''Twist 1-5''': Play a random Horror.
 '''Twist 6''': Evil wins!
 
-[size=10]'''''Mutant-Hunting Super Sentinels'''''[/size]
+[size=14]'''''Mutant-Hunting Super Sentinels'''''[/size]
 '''Setup''': 9 Twists. Include 10 Sentinels as extra Henchmen (or substitute another Henchman group.)
 '''Twist''': Stack this Twist next to the Scheme as a "Sentinel Upgrade." Shuffle all Sentinels from players' Victory Piles into the Villain Deck. Play another card from the Villain Deck.
 '''Special Rules''': All Sentinels get +1 Attack for each Sentinel Upgrade next to the Scheme.
 '''Evil Wins''': When 3 Sentinels have Escaped.
 
-[size=10]'''''Nuclear Armageddon'''''[/size]
+[size=14]'''''Nuclear Armageddon'''''[/size]
 '''Setup''': 5 Twists
 '''Twist''': Destroy the city space closest to the Mastermind. Any Villain There escapes. Put this Twist there.
 '''Evil Wins''': When the city is destroyed.
 
-[size=10]'''''Televised Deathtraps of Mojoworld'''''[/size]
+[size=14]'''''Televised Deathtraps of Mojoworld'''''[/size]
 '''Setup''': 11 Twists. 6 Wounds per player in Wound Stack.
 '''Twist''': Stack this Twist next to the Scheme as a "Deathtrap.' This turn, you may pay 1 Attack for each Deathtrap stacked there. If you don't, each player gains a Wound.
 '''Evil Wins''': When the Wound Stack or Villain Deck runs out.
 
-[size=10]'''''X-Men Danger Room Goes Berserk'''''[/size]
+[size=14]'''''X-Men Danger Room Goes Berserk'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Trap! By End of Turn: You may pay 2 Recruit. If you do, shuffle this Twist back into the Villain Deck, then play a card from the Villain Deck. Or Suffer: Stack this Twist next to the scheme as an "Airborne Neurotoxin."
 '''Evil Wins''': When there are 5 Airborne Neurotoxins.
@@ -7399,25 +7399,25 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Spider-Man Homecoming ===
 
-[size=10]'''''Distract the Hero'''''[/size]
+[size=14]'''''Distract the Hero'''''[/size]
 '''Setup''': 8 Twists. Use at least one Spider Friends Hero.
 '''Twist''': If you get any Victory Points this turn, put this Twist on the bottom of the Villain Deck. Otherwise, stack this Twist next to the Scheme as a Villainous Interruption.
 '''Evil Wins''': When there have been 5 Villainous Interruptions.
 
-[size=10]'''''Explosion at the Washington Monument'''''[/size]
+[size=14]'''''Explosion at the Washington Monument'''''[/size]
 '''Setup''': 8 Twists. Shuffle 18 Bystanders and 14 Wounds, then deal them evenly into eight decks. Put these decks in a row, as Floors of the Washington Monument.
 '''Special Rules''': Whenever you fight a Villain, you may reveal any face-down card from any Floor. If it's a Bystander, rescue it. If it's a Wound, put it back face-up.
 '''Twist''': KO the topmost Floor of the Washington Monument. You gain one of the Wounds KO'd this way.
 '''Evil Wins''': When 10 Bystanders are in the KO pile and/or Escape Pile, or all Floors are KO'd.
 
-[size=10]'''''Ferry Disaster'''''[/size]
+[size=14]'''''Ferry Disaster'''''[/size]
 '''Setup''': 9 Twists. Put the Bystander Stack above the Sewers as the "Ferry."
 '''Twist 1-4''': If there's a Villain in the city space below the Ferry, KO 2 Bystanders from the Ferry. Whether you KO'd or not, the Ferry moves one space left.
 '''Twist 5-8''': Same effect, but it moves right.
 '''Twist 9''': KO half the Bystanders from the Bystander deck, rounding up.
 '''Evil Wins''': When 7 Bystanders are in the KO pile and/or Escape Pile.
 
-[size=10]'''''Scavenge Alien Weaponry'''''[/size]
+[size=14]'''''Scavenge Alien Weaponry'''''[/size]
 '''Setup''': 7 Twists. Add an extra Henchmen Group of 10 cards as Smugglers.
 '''Special Rules''': Smugglers have Striker.
 '''Twist''': Play two cards from the Villain Deck.
@@ -7427,25 +7427,25 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Champions ===
 
-[size=10]'''''Clash of the Monsters Unleashed'''''[/size]
+[size=14]'''''Clash of the Monsters Unleashed'''''[/size]
 '''Setup''': 10 Twists. 6 Wounds per player in the Wound Stack. Shuffle 8 Monsters Unleashed Villains into a face-down "Monster Pit" deck.
 '''Twist 3-10''': Each player chooses a Villain from their Victory Pile as their "Gladiator." Then the top card of the Monster Pit enteres the city. Each player whose Gladiator has a lower printed Attack than that Monster gains a Wound.
 '''Evil Wins''': When the Wound Stack or Monster Pit Deck runs out.
 
-[size=10]'''''Divide and Conquer'''''[/size]
+[size=14]'''''Divide and Conquer'''''[/size]
 '''Setup''': 8 Twists. 7 Heroes. Sort the Hero Deck by Hero Class. [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] (If a card has multiple Classes, break ties at random.) Put these 5 smaller, shuffled Hero Decks beneath the 5 HQ Spaces.
 '''Special Rules''': Whenever an HQ Space is empty, fill it with the top card of the Hero Deck below that space.
 '''Twist 1-3''': KO all Heroes in the HQ.
 '''Twist 4-8''': KO one of the Hero Decks.
 '''Evil Wins''': When all Hero Decks are gone.
 
-[size=10]'''''Hypnotize Every Human'''''[/size]
+[size=14]'''''Hypnotize Every Human'''''[/size]
 '''Setup''': 8 Twists. Add another Henchman Villain Group. No Bystanders in the Villain Deck.
 '''Twist 1-6''': Put a Bystander from the Bystander Stack above each city space as a facedown 2 Attack "Hypno-Thrall" Villain. They don't move. When you fight one, rescue it as a Bystander. You can't fight a Villain in a city space that has any Hypno-Thralls above it.
 '''Twist 7-8''': Each player puts a Villain from their Victory Pile into the Escape pile.
 '''Evil Wins''': When 8 Villains are in the Escape pile.
 
-[size=10]'''''Steal All Oxygen on Earth'''''[/size]
+[size=14]'''''Steal All Oxygen on Earth'''''[/size]
 '''Setup''': 8 Twists. The "Oxygen Level" starts at 8.
 '''Twist''': Stack this Twist next to the Scheme. The Oxygen Level decreases by 1. Then KO each Hero from the HQ whose cost is greater than the Oxygen Level.
 '''Evil Wins''': When 20 non-grey Heroes are KO'd.
@@ -7454,45 +7454,45 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === World War Hulk ===
 
-[size=10]'''''Break the Planet Asunder'''''[/size]
+[size=14]'''''Break the Planet Asunder'''''[/size]
 '''Setup''': 9 Twists. 7 Heroes.
 '''Twist''': Stack this Twist next to the Scheme as a "Tectonic Break." Then KO each Hero from the HQ whose printed Attack is less than the number of Tectonic Breaks (no printed Attack counts as 0).
 '''Evil Wins''': When 25 non-grey Heroes are KO'd.
 
-[size=10]'''''Cytoplasm Spike Invasion'''''[/size]
+[size=14]'''''Cytoplasm Spike Invasion'''''[/size]
 '''Setup''': 10 Twists. Shuffle together 20 Bystanders and 10 Cytoplasm Spike Henchmen as an "Infected Deck."
 '''Twist''': Reveal the top three cards of the Infected Deck. KO all Bystanders you revealed. All Spikes you revealed enter the city.
 '''Evil Wins''': When the KO pile and Escape Pile combine to have 18 Bystanders and/or Spikes.
 
-[size=10]'''''Fall of the Hulks'''''[/size]
+[size=14]'''''Fall of the Hulks'''''[/size]
 '''Setup''': 10 Twists. 6 Wounds per player in Wound Stack. Use exactly two Heroes with "Hulk" in their Hero Names.
 '''Twist 3-6''': '''Cross-Dimension Hulk Rampage'''.
 '''Twist 7-10''': Each player gains a Wound.
 '''Evil Wins''': When the Wound Stack runs out.
 
-[size=10]'''''Gladiator Pits of Sakaar'''''[/size]
+[size=14]'''''Gladiator Pits of Sakaar'''''[/size]
 '''Setup''': 6 Twists.
 '''Twist''': Until the start of your next turn, each player can only play cards from a single Team of their choice during their turn. (e.g. S.H.I.E.L.D., Avengers, X-Men, Warbound, etc.)
 '''Evil Wins''': When 2 Villains per player have escaped or the Villain Deck runs out.
 
-[size=10]'''''Mutating Gamma Rays'''''[/size]
+[size=14]'''''Mutating Gamma Rays'''''[/size]
 '''Setup''': 7 Twists. Take 14 cards from an extra Hero with "Hulk" in its Hero Name. Put them in a face-up "Mutation Pile."
 '''Twist 1-6''': Each player in turn does the following: Put a non-grey Hero from your hand into the Mutation Pile. Then you may put a different card name with the same cost from the Mutation Pile into your discard pile.
 '''Twist 7:''' Evil Wins!
 
-[size=10]'''''Shoot Hulk into Space'''''[/size]
+[size=14]'''''Shoot Hulk into Space'''''[/size]
 '''Setup''': 8 Twists. Take 14 cards from an extra Hero with "Hulk" in its Hero Name. Shuffle them into a "Hulk Deck."
 '''Twist''': Put 2 cards from the Hulk Deck into a face-up "Prison Ship" stack next to the S.H.I.E.L.D. Officer Stack.
 '''Special Rules''': You may recruit the top card of the Prison Ship stack.
 '''Evil Wins''': When there are 10 cards in the Prison Ship or the Hulk Deck runs out.
 
-[size=10]'''''Subjugate with Obedience Disks'''''[/size]
+[size=14]'''''Subjugate with Obedience Disks'''''[/size]
 '''Setup''': 11 Twists.
 '''Twist''': Put this Twist under an HQ space as an "Obedience Disk." No space can have two more Obedience Disks than any other space.
 '''Special Rules''': To recruit a Hero in the HQ, you must also pay 1 Recruit for each Obedience Disk under it.
 '''Evil Wins''': When each HQ space has 2 Obedience Disks.
 
-[size=10]'''''World War Hulk'''''[/size]
+[size=14]'''''World War Hulk'''''[/size]
 '''Setup''': 9 Twists. Put three additional Masterminds out of play, "Lurking." Each of the four Masterminds has two random Tactics.
 '''Special Rules''': When you defeat all of a Mastermind's Tactics, KO its face card and a random Lurking Mastermind enters play.
 '''Twist 1-8''': Swap the current Mastermind with a random Lurking Mastermind.
@@ -7502,46 +7502,46 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Marvel Studios Phase 1 ===
 
-[size=10]'''''Asgard Under Siege'''''[/size]
+[size=14]'''''Asgard Under Siege'''''[/size]
 '''Setup''': 8 Twists. Add an extra Henchman group to the Villain Deck.
 '''Twist''': Play the top 2 cards of the Villain Deck.
 '''Evil Wins''': If 12 Villains escape.
 
-[size=10]'''''Destroy the Cities of Earth!'''''[/size]
+[size=14]'''''Destroy the Cities of Earth!'''''[/size]
 '''Setup''': 8 Twists. 12 Bystanders in the Villain Deck.
 '''Special Rules''': Each Villain gets +1 Attack for each Bystander it has.
 '''Twist''': Any Villain in the Bank captures 2 Bystanders. Then play the top card of the Villain Deck.
 '''Evil Wins''': When 8 Bystanders are carried away by escaping Villains.
 
-[size=10]'''''Enslave Minds with the Chitauri Scepter'''''[/size]
+[size=14]'''''Enslave Minds with the Chitauri Scepter'''''[/size]
 '''Setup''': 8 Twists. 6 Heroes. Chitauri Villain Group required. Shuffle 12 random Heroes from the Hero Deck into the Villain Deck.
 '''Special Rules''': Heroes in the Villain Deck count as "Enslaved" Villains with Attack equal to the Hero's Cost +2. If you defeat that Hero, you gain it.
 '''Twist''': The highest-cost Hero from the HQ moves into the Sewers as an "Enslaved" Villain, as above.
 '''Evil Wins''': If 6 Heroes get into the Escaped Villains pile.
 
-[size=10]'''''Invade Asgard'''''[/size]
+[size=14]'''''Invade Asgard'''''[/size]
 '''Setup''': 7 Twists. Each Twist is a Dark Portal.
 '''Twist 1''': Put the Dark Portal above the Mastermind. The Mastermind gets +1 Attack.
 '''Twists 2-6''': Put the Dark Portal in the leftmost city space that doesn't yet have a Dark Portal. Villains in that city space get +1 Attack.
 '''Twist 7''': Evil Wins!
 
-[size=10]'''''Radioactive Palladium Poisoning'''''[/size]
+[size=14]'''''Radioactive Palladium Poisoning'''''[/size]
 '''Setup''': 8 Twists. Wound stack holds 6 Wounds per player.
 '''Twist''': Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.
 '''Evil Wins''': If the Wound stack runs out.
 
-[size=10]'''''Replace Earth's Leaders with HYDRA'''''[/size]
+[size=14]'''''Replace Earth's Leaders with HYDRA'''''[/size]
 '''Setup''': 5 Twists. 3 additional Twists next to this Scheme. 18 total Bystanders in the Villain Deck.
 '''Special Rules''': Bystanders in the Villain Deck count as "Infiltrator" Villains, with Attack equal to the number of Twists next to this Scheme.
 '''Twist''': Put the Twist next to this Scheme.
 '''Evil Wins''': If 5 "Infiltrators" escape.
 
-[size=10]'''''Super Hero Civil War'''''[/size]
+[size=14]'''''Super Hero Civil War'''''[/size]
 '''Setup''': 2: Use 4 Heroes in the Hero Deck. 2-3 players: 8 Twists. 4-5 players: 5 Twists.
 '''Twist''': KO all the Heroes in the HQ.
 '''Evil Wins''': If the Hero Deck runs out.
 
-[size=10]'''''Unleash the Power of the Cosmic Cube'''''[/size]
+[size=14]'''''Unleash the Power of the Cosmic Cube'''''[/size]
 '''Setup''': 8 Twists.
 '''Twist''': Put the Twist next to this Scheme.
 '''Twists 5-6''': Each player gains a Wound.
@@ -7552,24 +7552,24 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Ant-Man ===
 
-[size=10]'''''Age of Ultron'''''[/size]
+[size=14]'''''Age of Ultron'''''[/size]
 '''Setup:''' 11 Twists. 4-5 Players: Add another Hero.
 '''Twist:''' Put the top card of the Hero Deck next to the Scheme in an "Evolution" Pile. Then this Twist enters the city as an "Evolved Ultron" Villain.
 '''Special Rules:''' Evolved Ultrons have 4 Attack and are '''Empowered''' by each color in the Evolution pile. They're worth 6VP.
 '''Evil Wins:''' When 7 Evolved Ultrons are in the city and/or Escape Pile.[/q]
 
-[size=10]'''''Pull Earth into Medieval Times'''''[/size]
+[size=14]'''''Pull Earth into Medieval Times'''''[/size]
 '''Setup:''' 9 Twists.
 '''Twist 1-6:''' Until the start of your next turn, all Villains and Mastermind everywhere have '''Chivalrous Duel'''.
 '''Twist 7-9:''' Each player puts a Villains from the Victory Pile into the Escape Pile.
 '''Evil Wins:''' When 3 Villains per player have escaped.
 
-[size=10]'''''Transform Commuters into Giant Ants'''''[/size]
+[size=14]'''''Transform Commuters into Giant Ants'''''[/size]
 '''Setup:''' Twists equal to the number of players plus 6.
 '''Twist:''' STack this Twist next to the Scheme. Then for each Twist in that stack, put a Bystander face down next to the Mastermind as a 2A "Giant Ant" Villain. When you fight one, rescue it as a Bystander.
 '''Evil Wins:''' When ther are 10 Giant Ants next to the Mastermind.
 
-[size=10]'''''Trap Heroes in the Microverse'''''[/size]
+[size=14]'''''Trap Heroes in the Microverse'''''[/size]
 '''Setup:''' 11 Twists. Add all 14 cards for and extra Hero the Villain Deck.
 '''Special Rules:''' Heroes in the Villain Deck are "Micro-Sized Villains with Attack equal to their printed cost. They have '''Size-Changing''' for their card color and no outher abilites while in the city. When you fight one, choose any player to gain it as a Hero.
 '''Twist:''' Play two cards from the Villain Deck.
@@ -7579,23 +7579,23 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Venom ===
 
-[size=10]'''''Invasion of the Venom Symbiotes'''''[/size]
+[size=14]'''''Invasion of the Venom Symbiotes'''''[/size]
 '''Setup:''' 8 Twists. Add an extra Henchman Group.
 '''Twist:''' This Twist enters the city as a 3 Attack "Symbiote" Villain worth 3VP with "'''Ambush:''' This '''Symbiote Bonds''' with another Villain in the city. Play another card from the Villain Deck."
 '''Evil Wins:''' When the Escape Pile has 3 cards per player, or the Villain Deck runs out.
 
-[size=10]'''''Maximum Carnage'''''[/size]
+[size=14]'''''Maximum Carnage'''''[/size]
 '''Setup:''' 10 Twists. Wound Stack has 6 Wounds per player.
 '''Twist:''' Stack this Twist next to the Scheme. If the Streets are empty, put a Bystander there as a "Possessed Psychotic" Villain. If the Streets weren't empty, each player gains a Wound.
 '''Special Rules:''' "Possessed Psychotics" have Attack equal to the number of Twists next to the Scheme. When you fight one, rescue it as a Bystander.
 '''Evil Wins:''' When there are 6 Bystanders in the Escape Pile or the Wound Stack runs out.
 
-[size=10]'''''Paralyzing Venom'''''[/size]
+[size=14]'''''Paralyzing Venom'''''[/size]
 '''Setup:''' 6 Twists. All Bystanders are also "Biochemists."
 '''Twist:''' Each player Kos a Biochemist from their Victory Pile or discards down to 4 cards in hand.
 '''Twist 6:''' Evil Wins!
 
-[size=10]'''''Symbiotic Absorption'''''[/size]
+[size=14]'''''Symbiotic Absorption'''''[/size]
 '''Setup:''' 11 Twists. Set aside a second "Drained" Mastermind and its 4 Tactics, out of play. Add its "Always Leads" Villains as an extra Villain Group.
 '''Twist 1-4:''' Shuffle one of the Drained Mastermind's Tactics into the main Mastermind's Tactics.
 '''Twist 6, 8, 10:''' The Mastermind uses this Twist to copy the Master Strike ability of the Drained Mastermind.
@@ -7605,7 +7605,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 
 === Legendary ===
 
-[size=10]'''''Dr. Doom'''''[/size]
+[size=14]'''''Dr. Doom'''''[/size]
 
 '''Always Leads''': Doombot Legion
 '''Master Strike''': Each player with exactly 6 cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts 2 cards from their hand on top of their deck.
@@ -7625,7 +7625,7 @@ VP: 5
 '''Fight''': When you draw a new hand of cards at the end of this turn, draw three extra cards.
 
 
-[size=10]'''''Loki'''''[/size]
+[size=14]'''''Loki'''''[/size]
 
 '''Always Leads''': Enemies of Asgard
 '''Master Strike''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
@@ -7645,7 +7645,7 @@ VP: 5
 '''Fight''': Each other player KOs two Bystanders from their Victory Pile.
 
 
-[size=10]'''''Magneto'''''[/size]
+[size=14]'''''Magneto'''''[/size]
 
 '''Always Leads''': Brotherhood
 '''Master Strike''': Each player reveals an X-Men Hero or discards down to four cards.
@@ -7665,7 +7665,7 @@ VP: 5
 '''Fight''': For each of your X-Men Heroes, rescue a Bystander.
 
 
-[size=10]'''''Red Skull'''''[/size]
+[size=14]'''''Red Skull'''''[/size]
 
 '''Always Leads''': HYDRA
 '''Master Strike''': Each player KOs a Hero from their hand.
@@ -7688,7 +7688,7 @@ VP: 5
 
 === Dark City ===
 
-[size=10]'''''Apocalypse'''''[/size]
+[size=14]'''''Apocalypse'''''[/size]
 
 '''Always Leads''': Four Horsemen
 Four Horsemen Villains get +2 Attack
@@ -7710,7 +7710,7 @@ VP: 6
 '''Fight''': If this is not the final Tactic, rescue six Bystanders and shuffle this Tactic back into the other Tactics.
 
 
-[size=10]'''''Kingpin'''''[/size]
+[size=14]'''''Kingpin'''''[/size]
 
 Bribe
 '''Always Leads''': Streets of New York
@@ -7731,7 +7731,7 @@ VP: 6
 '''Fight''': Each other player plays a Henchman Villain from their Victory Pile as if playing it from the Villain Deck.
 
 
-[size=10]'''''Mephisto'''''[/size]
+[size=14]'''''Mephisto'''''[/size]
 
 Whenever a player gains a Wound, put it on top of that player's deck.
 '''Always Leads''': Underworld
@@ -7752,7 +7752,7 @@ VP: 6
 '''Fight''': Each other player without a Mastermind Tactic in their Victory Pile gains a Wound.
 
 
-[size=10]'''''Mr. Sinister'''''[/size]
+[size=14]'''''Mr. Sinister'''''[/size]
 
 Mr. Sinister gets +1 Attack for each Bystander he has.
 '''Always Leads''': Marauders
@@ -7773,7 +7773,7 @@ VP: 6
 '''Fight''': Mr. Sinister captures a Bystander from each other player's Victory Pile.
 
 
-[size=10]'''''Stryfe'''''[/size]
+[size=14]'''''Stryfe'''''[/size]
 
 '''Always Leads''': MLF
 '''Master Strike''': Stack this Master Strike next to Stryfe.
@@ -7797,7 +7797,7 @@ VP: 6
 
 === Fantastic Four ===
 
-[size=10]'''''Galactus'''''[/size]
+[size=14]'''''Galactus'''''[/size]
 
 Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 '''Always Leads''': Heralds of Galactus
@@ -7819,7 +7819,7 @@ VP: 7
 '''Fight''': Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ.
 
 
-[size=10]'''''Mole Man'''''[/size]
+[size=14]'''''Mole Man'''''[/size]
 
 Mole Man gets +1 Attack for each Subterranea Villain that has escaped.
 '''Always Leads''': Subterranea
@@ -7843,7 +7843,7 @@ VP: 6
 
 === Paint the Town Red ===
 
-[size=10]'''''Carnage'''''[/size]
+[size=14]'''''Carnage'''''[/size]
 
 '''Always Leads''': Maximum Carnage
 '''Master Strike''': Feast on each player. Whenever this Master Strike feasts on a player's 0-cost Hero, that player gains a Wound.
@@ -7866,7 +7866,7 @@ Feast
 If Carnage feasts on a 0-cost Hero this way, each other player KOs a Bystander from their Victory Pile.
 
 
-[size=10]'''''Mysterio'''''[/size]
+[size=14]'''''Mysterio'''''[/size]
 
 '''Always Leads''': Sinister Six
 '''Master Strike''': Shuffle this Master Strike into Mysterio's face down Mastermind Tactics. That card becomes a Mastermind Tactic worth 6 VP.
@@ -7889,7 +7889,7 @@ VP: 6
 
 === Villains ===
 
-[size=10]'''''Dr. Strange'''''[/size]
+[size=14]'''''Dr. Strange'''''[/size]
 
 '''Always Leads''': Defenders.
 Command Strike: Reveal the top three cards of the Adversary Deck. Put the Adversary you revealed with the highest printed Attack on top of that deck. Then play a Plot Twist from among the cards you revealed. Then put the rest of those cards on the bottom of that deck in random order.
@@ -7909,7 +7909,7 @@ VP: 6
 '''Fight''': After you draw a new hand of cards at the end of this turn, each player simultaneously passes a non-grey Ally from their hand to the hand of the player on their left.
 
 
-[size=10]'''''Nick Fury'''''[/size]
+[size=14]'''''Nick Fury'''''[/size]
 
 '''Always Leads''': Avengers.
 Command Strike: Stack this Strike next to Nick Fury. Then demolish each player once for each Strike stacked here.
@@ -7929,7 +7929,7 @@ VP: 6
 '''Fight''': Defeat an Adversary whose Attack is less than the number of Hydra Allies in the KO pile.
 
 
-[size=10]'''''Odin'''''[/size]
+[size=14]'''''Odin'''''[/size]
 
 '''Always Leads''': Asgardian Warriors.
 Odin gets +1 Attack for each Asgardian Warrior in the city and in the Overrun Pile.
@@ -7950,7 +7950,7 @@ VP: 6
 '''Fight''': Each other player reveals a Foes of Asgard Ally or discards a card for each Asgardian Warrior in the Overrun Pile.
 
 
-[size=10]'''''Professor X'''''[/size]
+[size=14]'''''Professor X'''''[/size]
 
 '''Always Leads''': X-men First Class.
 Command Strike: Choose the two highest-cost Allies in the Lair. Stack them next to Professor X as "Telepathic Pawns." Professor X gets +1 Attack for each Ally stacked next to him. Players can recrut the top Ally in the stack next to Professor X.
@@ -7973,7 +7973,7 @@ VP: 6
 
 === Guardians of the Galaxy ===
 
-[size=10]'''''Supreme Intelligence of the Kree'''''[/size]
+[size=14]'''''Supreme Intelligence of the Kree'''''[/size]
 
 '''Always Leads''': Kree Starforce
 '''Master Strike''': The Supreme Intelligence gains a Shard. Then each player reveals their hand and discards each with cost equal to, and cost one higher than, the number of Shards on the Supreme Intelligence.
@@ -7993,7 +7993,7 @@ VP: 6
 '''Fight''': The Supreme Intelligence and Kree Villains in the city each gain a Shard.
 
 
-[size=10]'''''Thanos'''''[/size]
+[size=14]'''''Thanos'''''[/size]
 
 '''Always Leads''': Infinity Gems
 Thanos gets -2 Attack for each Infinity Gem Artifact card controlled by any player.
@@ -8017,7 +8017,7 @@ VP: 7
 
 === Fear Itself ===
 
-[size=10]'''''Uru-Enchanted Iron Man'''''[/size]
+[size=14]'''''Uru-Enchanted Iron Man'''''[/size]
 
 '''Always Leads''': The Mighty.
 Command Strike: Demolish each player. Then stack this Strike next to Iron Man. Uru-Enchanted Iron Man has an Uru-Enchanted Weapon for each Strike stacked here.
@@ -8040,7 +8040,7 @@ VP: 6
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Madelyne Pryor, Goblin Queen'''''[/size]
+[size=14]'''''Madelyne Pryor, Goblin Queen'''''[/size]
 
 Bystanders captured by Madelyne are "Demon Goblin" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.
 '''Always Leads''': Limbo
@@ -8061,7 +8061,7 @@ VP: 6
 '''Fight''': For each Limbo Villain in the city and/or Escape Pile, Madelyne captures a Bystander.
 
 
-[size=10]'''''Nimrod, Super Sentinel'''''[/size]
+[size=14]'''''Nimrod, Super Sentinel'''''[/size]
 
 You can't fight Nimrod unless you made at least 6 Recruit this turn.
 '''Always Leads''': Sentinel Territories
@@ -8082,7 +8082,7 @@ VP: 6
 '''Fight''': Choose Recruit or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it.
 
 
-[size=10]'''''Wasteland Hulk'''''[/size]
+[size=14]'''''Wasteland Hulk'''''[/size]
 
 Wasteland Hulk gets +3 Attack for each of his Mastermind Tactics among all players' Victory Piles.
 '''Always Leads''': Wasteland
@@ -8103,7 +8103,7 @@ VP: 6
 '''Fight''': You gain a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero from the HQ for free.
 
 
-[size=10]'''''Zombie Green Goblin'''''[/size]
+[size=14]'''''Zombie Green Goblin'''''[/size]
 
 Zombie Green Goblin gets +1 Attack for each Hero in the KO pile that costs 7 or more.
 '''Always Leads''': The Deadlands
@@ -8127,7 +8127,7 @@ VP: 6
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Immortal Emperor Zheng-Zhu'''''[/size]
+[size=14]'''''Immortal Emperor Zheng-Zhu'''''[/size]
 
 7th Circle of Kung-Fu
 '''Always Leads''': K'un-Lun
@@ -8148,7 +8148,7 @@ VP: 5
 '''Fight''': Choose any number of Heroes from the HQ. Put them on the bottom of the Hero Deck in random order.
 
 
-[size=10]'''''King Hyperion'''''[/size]
+[size=14]'''''King Hyperion'''''[/size]
 
 '''Always Leads''': Utopolis
 '''Master Strike''': King Hyperion enters the city if he was not already there. Then, he '''charges''' three spaces.
@@ -8169,7 +8169,7 @@ VP: 6
 '''Fight''': If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you may defeat a Villain in the city for free.
 
 
-[size=10]'''''Shiklah, the Demon Bride'''''[/size]
+[size=14]'''''Shiklah, the Demon Bride'''''[/size]
 
 '''Always Leads''': Monster Metropolis
 '''Master Strike''': Reveal the top three cards of the Villain Deck. Put all the Scheme Twists you revealed on top of the Villain Deck. Put the rest on the bottom of that deck in random order.
@@ -8194,7 +8194,7 @@ You get +1 Attack for each Hero with an odd-numbered cost you played this turn. 
 '''Fight''': '''Fateful Resurrection'''. If she resurrects, draw two cards.
 
 
-[size=10]'''''Spider-Queen'''''[/size]
+[size=14]'''''Spider-Queen'''''[/size]
 
 Spider-Queen gets +1 Attack for each Bystander in the Escape pile.
 '''Always Leads''': Spider-Infected
@@ -8218,7 +8218,7 @@ VP: 6
 
 === Captain America 75th Anniversary ===
 
-[size=10]'''''Arnim Zola'''''[/size]
+[size=14]'''''Arnim Zola'''''[/size]
 
 Ultimate Abomination
 ''Always Leads'': Zola's Creations
@@ -8239,7 +8239,7 @@ Ultimate Abomination
 '''Fight''': KO up to two of your Heroes that have less than 2 printed Attack.
 
 
-[size=10]'''''Baron Heinrich Zemo'''''[/size]
+[size=14]'''''Baron Heinrich Zemo'''''[/size]
 
 Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron Zemo gets +9 Attack unless you are a Savior.
 ''Always Leads'': Masters of Evil (WWII)
@@ -8263,7 +8263,7 @@ Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron
 
 === Civil War ===
 
-[size=10]'''''Authoritarian Iron Man'''''[/size]
+[size=14]'''''Authoritarian Iron Man'''''[/size]
 
 '''Always Leads''': Superhuman Registration Act
 '''Master Strike''': Authoritarian Iron Man fortifies the next city space to his right, starting with the Bridge. You can't fight him while there's a Villain in that space.
@@ -8284,7 +8284,7 @@ VP: 6
 '''Fight''': The Villain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying.
 
 
-[size=10]'''''Baron Helmut Zemo'''''[/size]
+[size=14]'''''Baron Helmut Zemo'''''[/size]
 
 Baron Zemo gets -1 Attack for each Villain in your Victory Pile.
 '''Always Leads''': Thunderbolts
@@ -8305,7 +8305,7 @@ VP: 6
 '''Fight''': Each other player reveals their hand. Each player who revealed an Avengers Hero gains a Wound.
 
 
-[size=10]'''''Maria Hill, Director of S.H.I.E.L.D.'''''[/size]
+[size=14]'''''Maria Hill, Director of S.H.I.E.L.D.'''''[/size]
 
 Double S.H.I.E.L.D. Clearance. You can't fight Maria Hill while there are any S.H.I.E.L.D. Elite or Officers in the city.
 '''Always Leads''': S.H.I.E.L.D. Elite.
@@ -8326,7 +8326,7 @@ VP: 6
 '''Fight''': Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.
 
 
-[size=10]'''''Misty Knight'''''[/size]
+[size=14]'''''Misty Knight'''''[/size]
 
 Bribe
 '''Always Leads''': Heroes for Hire
@@ -8347,7 +8347,7 @@ VP: 6
 '''Fight''': Each other player reveals a Marvel Knight Hero or gains a Wound.
 
 
-[size=10]'''''Ragnarok'''''[/size]
+[size=14]'''''Ragnarok'''''[/size]
 
 Ragnarok gets +2 Attack for each Hero Class among Heroes in the HQ.
 '''Always Leads''': Registration Enforcers
@@ -8371,7 +8371,7 @@ VP: 6
 
 === Deadpool ===
 
-[size=10]'''''Evil Deadpool'''''[/size]
+[size=14]'''''Evil Deadpool'''''[/size]
 '''Revenge for Mastermind Tactics'''
 '''Always Leads''': Evil Deadpool Corpse
 '''Master Strike''': Without talking, each player simultaneously discards a card. Whoever discards the lowest-costing card ''(or tied for lowest)'' gains a Wound.
@@ -8391,7 +8391,7 @@ VP: 6
 '''Fight:''' Each other player discards the top card of their deck. Whoever discards the lowest-costing card (or tied for lowest) gains a Wound.
 
 
-[size=10]'''''Macho Gomez'''''[/size]
+[size=14]'''''Macho Gomez'''''[/size]
 '''Revenge for Deadpool's "Friends"'''
 '''Always Leads:''' Deadpool's "Friends"
 '''Master Strike:''' Put this Strike in front of you as a "Bounty on Your Head." Then, each player gains a Wound for each Bounty on them. Any number of times during your turn, you may pay 1 Recruit to move a Bounty from you to the player on your left.
@@ -8414,7 +8414,7 @@ VP: 6
 
 === Noir ===
 
-[size=10]'''''Charles Xavier'''''[/size]
+[size=14]'''''Charles Xavier'''''[/size]
 Charles Xavier gets +1 Attack for each Bystander in the HQ and city.
 '''Always Leads''': X-Men Noir
 '''Master Strike''': Four Heroes in the HQ capture '''Hidden Witnesses'''.
@@ -8434,7 +8434,7 @@ VP: 6
 '''Fight''': Each other player puts a random Bystander from their Victory Pile onto a Hero in the HQ as a '''Hidden Witness'''.
 
 
-[size=10]'''''The Goblin, Underworld Boss'''''[/size]
+[size=14]'''''The Goblin, Underworld Boss'''''[/size]
 '''Start of Game''': The Goblin captures 2 '''Hidden Witnesses'''.
 '''Always Leads''': Goblin's Freak Show
 '''Master Strike''': Two random Bystanders from each player's Victory Pile become '''Hidden Witnesses''' held by The Goblin. Any player who didn't have two Bystanders gains a Wound instead.
@@ -8457,14 +8457,14 @@ VP: 6
 
 === X-Men ===
 
-[size=10]'''''Arcade'''''[/size]
+[size=14]'''''Arcade'''''[/size]
 '''Start of Game''': Arcade captures 5 '''Human Shields'''.
 '''Always Leads''': Murderworld
 '''Master Strike''': Arcade captures a random Bystander from each player's Victory Pile as a '''Human Shield'''. Each player who didn't have a Bystander gains a Wound instead.
 Attack: 3*
 VP: 5
 
-[size=10]'''''Epic Arcade'''''[/size]
+[size=14]'''''Epic Arcade'''''[/size]
 '''Start of Game''': Arcade captures 8 '''Human Shields'''. Play a random Horror.
 '''Always Leads''': Murderworld
 '''Master Strike''': Arcade captures two random Bystanders from each player's Victory Pile as a '''Human Shield'''. Each player who didn't have two Bystanders gains a Wound instead.
@@ -8484,14 +8484,14 @@ VP: 5
 '''Fight''': Arcade and each Murderworld Villain in the city capture two '''Human Shields'''.
 
 
-[size=10]'''''Dark Phoenix'''''[/size]
+[size=14]'''''Dark Phoenix'''''[/size]
 '''Always Leads''': Hellfire Club
 '''Master Strike''': KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck.
 Dark Phoenix Wins: When the Hero Deck is empty.
 13 Attack
 VP: 7
 
-[size=10]'''''Epic Dark Phoenix'''''[/size]
+[size=14]'''''Epic Dark Phoenix'''''[/size]
 '''Always Leads''': Hellfire Club
 '''Master Strike''': KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck. Then, each player plays a Hellfire Club card from their victory Pile. Next, play a random Horror.
 Dark Phoenix Wins: When the Hero Deck is empty.
@@ -8511,14 +8511,14 @@ VP: 7
 '''Fight''': Each other player gains two 0-cost cards from the KO pile.
 
 
-[size=10]'''''Deathbird'''''[/size]
+[size=14]'''''Deathbird'''''[/size]
 Deathbird gets +1 Attack for each Shi'ar Villain in the city and Escape Pile.
 '''Always Leads''': Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
 '''Master Strike''': If there are already any Shi'ar Villains in the city, each player gains a Wound. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 7 Attack worth 5 VP.
 Attack: 8+
 VP: 6
 
-[size=10]'''''Epic Deathbird'''''[/size]
+[size=14]'''''Epic Deathbird'''''[/size]
 Deathbird gets +2 Attack for each Shi'ar Villain in the city and Escape Pile.
 '''Always Leads''': Shi'ar Imperial Guard and a Shi'ar Henchmen Group.
 '''Master Strike''': If there are already any Shi'ar Villains in the city, play a random Horror. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 9 Attack worth 6 VP.
@@ -8538,14 +8538,14 @@ VP: 6
 '''Fight''': Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is "'''Escape''': This card becomes a Scheme Twist that takes effect immediately."
 
 
-[size=10]'''''Mojo'''''[/size]
+[size=14]'''''Mojo'''''[/size]
 '''Start of Game''': Mojo captures 3 '''Human Shields'''. All Bystanders in Victory Piles are worth 3 VP.
 '''Always Leads''': Mojoverse
 '''Master Strike''': Mojo captures a '''Human Shield'''. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.
 Attack: 6*
 VP: 5
 
-[size=10]'''''Epic Mojo'''''[/size]
+[size=14]'''''Epic Mojo'''''[/size]
 '''Start of Game''': Mojo captures 6 '''Human Shields'''. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.
 '''Always Leads''': Mojoverse
 '''Master Strike''': Mojo and each Mojoverse Villain capture a '''Human Shield'''. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.
@@ -8565,14 +8565,14 @@ VP: 5
 '''Fight''': Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a '''Human Shield'''.
 
 
-[size=10]'''''Onslaught'''''[/size]
+[size=14]'''''Onslaught'''''[/size]
 Each player's hand size is 1 less.
 '''Always Leads''': Dark Descendants
 '''Master Strike''': KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses one of their non-grey Heroes. Onslaught Dominates those Heroes.
 Attack: 10+
 VP: 7
 
-[size=10]'''''Epic Onslaught'''''[/size]
+[size=14]'''''Epic Onslaught'''''[/size]
 Each player's hand size is 1 less.
 '''Always Leads''': Dark Descendants
 '''Master Strike''': KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses two of their non-grey Heroes. Onslaught Dominates those Heroes. Then play a random Horror.
@@ -8592,13 +8592,13 @@ VP: 7
 '''Fight''': Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes.
 
 
-[size=10]'''''Shadow King'''''[/size]
+[size=14]'''''Shadow King'''''[/size]
 '''Always Leads''': Shadow-X
 '''Master Strike''': KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.
 Attack: 7+
 VP: 6
 
-[size=10]'''''Epic Shadow King'''''[/size]
+[size=14]'''''Epic Shadow King'''''[/size]
 '''Start of Game''': Play two random Horrors.
 '''Always Leads''': Shadow-X
 '''Master Strike''': KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.
@@ -8621,14 +8621,14 @@ VP: 6
 
 === Spider-Man Homecoming ===
 
-[size=10]'''''Adrian Toomes'''''[/size]
+[size=14]'''''Adrian Toomes'''''[/size]
 '''Double Striker'''
 '''Always Leads''': Salvagers
 '''Master Strike''': Starting from the Sewers, each Villain in the city uses its "Escape" ability.
 '''Attack''': 5+
 '''VP''': 6
 
-[size=10]'''''Epic Adrian Toomes'''''[/size]
+[size=14]'''''Epic Adrian Toomes'''''[/size]
 '''Triple Striker'''
 '''Always Leads''': Salvagers
 '''Master Strike''': Starting from the Sewers, each Villain in the city uses its "Ambush" ability, then its "Escape" ability.
@@ -8680,14 +8680,14 @@ VP: 6
 
 === Champions ===
 
-[size=10]'''''Fin Fang Foom'''''[/size]
+[size=14]'''''Fin Fang Foom'''''[/size]
 '''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 '''Always Leads''': Monsters Unleashed
 '''Master Strike''': '''Demolish''' each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile.
 '''Attack''': 20*
 '''VP''': 7
 
-[size=10]'''''Epic Fin Fang Foom'''''[/size]
+[size=14]'''''Epic Fin Fang Foom'''''[/size]
 '''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 '''Always Leads''': Monsters Unleashed
 '''Master Strike''': '''Demolish''' each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile. KO all the Heroes '''Demolished''' this way.
@@ -8707,14 +8707,14 @@ VP: 6
 '''Fight''': KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]).
 
 
-[size=10]'''''Pagliacci'''''[/size]
+[size=14]'''''Pagliacci'''''[/size]
 '''Always Leads''': Wrecking Crew
 '''Master Strike 1, 5''': This card becomes a Scheme Twist that takes effect immediately.
 '''Master Strike 2, 3, 4''': '''Demolish''' each player.
 '''Attack''': 9
 '''VP''': 6
 
-[size=10]'''''Epic Pagliacci'''''[/size]
+[size=14]'''''Epic Pagliacci'''''[/size]
 '''Always Leads''': Wrecking Crew
 '''Master Strike 1, 3, 5''': This card becomes a Scheme Twist that takes effect immediately.
 '''Master Strike 2, 4''': '''Demolish''' each player.
@@ -8738,7 +8738,7 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 
 === World War Hulk ===
 
-[size=10]'''''General Ross'''''[/size]
+[size=14]'''''General Ross'''''[/size]
 
 '''Start of Game:''' Stack 8 Bystanders next to General Ross as "Helicopter" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight General Ross while he has any Helicopters.
 '''Always Leads''': Code Red
@@ -8746,7 +8746,7 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 '''Attack''': 6*
 '''VP''': 6
 
-[size=10]'''''Red Hulk [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''Red Hulk [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
 
 '''Wounded Fury'''
 You can't fight Helicopters, and they don't stop you from fighting Red Hulk.
@@ -8771,7 +8771,7 @@ This Mastermind '''Transforms'''.
 This Mastermind '''Transforms'''.
 
 
-[size=10]'''''Illuminati, Secret Society'''''[/size]
+[size=14]'''''Illuminati, Secret Society'''''[/size]
 
 This Mastermind gets +4 Attack unless you '''Outwit''' them.
 '''Always Leads''': Illuminati.
@@ -8779,7 +8779,7 @@ This Mastermind gets +4 Attack unless you '''Outwit''' them.
 '''Attack''': 11+
 '''VP''': 7
 
-[size=10]'''''Illuminati, Open Warfare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''Illuminati, Open Warfare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
 
 Whenever a card effect causes a player to draw any number of cards, that player must then also discard a card.
 '''Master Strike''': Each player reveals their hand and discards two cards that each cost between 5 and 8. The Illuminati '''Transform'''.
@@ -8803,7 +8803,7 @@ The Illuminati '''Transform'''.
 The Illuminati '''Transform'''.
 
 
-[size=10]'''''King Hulk, Sakaarson'''''[/size]
+[size=14]'''''King Hulk, Sakaarson'''''[/size]
 
 King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape Pile.
 '''Always Leads''': Warbound.
@@ -8811,7 +8811,7 @@ King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape
 '''Attack''': 9+
 '''VP''': 6
 
-[size=10]'''''King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR]'''''[/size]
+[size=14]'''''King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR]'''''[/size]
 
 '''Wounded Fury'''
 '''Master Strike''': Each player reveals their hand, then KO's a card from their hand or discard pile that has the same card name as a card in the HQ. King Hulk '''Transforms'''.
@@ -8835,14 +8835,14 @@ King Hulk '''Transforms'''.
 King Hulk '''Transforms'''.
 
 
-[size=10]'''''M.O.D.O.K.'''''[/size]
+[size=14]'''''M.O.D.O.K.'''''[/size]
 All cards' '''Outwit''' abilities require four different costs instead of three.
 '''Always Leads''': Intelligencia.
 '''Master Strike''': Each player who can't '''Outwit''' M.O.D.O.K. gains a Wound, then M.O.D.O.K. '''Transforms'''.
 '''Attack''': 9
 '''VP''': 6
 
-[size=10]'''''M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
 You can only fight M.O.D.O.K with Recruit, not Attack.
 '''Master Strike''': Each player who can't '''Outwit''' M.O.D.O.K. KO's a non-grey Hero from their discard pile. M.O.D.O.K. '''Transforms'''.
 '''Attack''': 8*
@@ -8865,14 +8865,14 @@ M.O.D.O.K. '''Transforms'''.
 M.O.D.O.K. '''Transforms'''.
 
 
-[size=10]'''''The Red King'''''[/size]
+[size=14]'''''The Red King'''''[/size]
 You can't fight the Red King while any Villains are in the city.
 '''Always Leads''': Sakaar Imperial Guard.
 '''Master Strike''': The Red King '''Transforms''', then each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card or gains a Wound.
 '''Attack''': 7*
 '''VP''': 6
 
-[size=10]'''''The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
 '''Master Strike''': The Red King Transforms, then play another card from the Villain Deck.
 '''Attack''': 10
 '''VP''': 6
@@ -8894,14 +8894,14 @@ The Red King '''Transforms'''.
 The Red King '''Transforms'''.
 
 
-[size=10]'''''The Sentry'''''[/size]
+[size=14]'''''The Sentry'''''[/size]
 '''Start of Game''': Shuffle 2 Wounds into each player's deck before drawing starting hands.
 '''Always Leads''': Aspects of the Void.
 '''Master Strike''': The Sentry '''Transforms''', then '''Cross-Dimensional Void Rampage'''.
 '''Attack''': 10
 '''VP''': 6
 
-[size=10]'''''The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
 '''Wounded Fury'''
 '''Master Strike''': '''Feast''' on each player. If this feasts on a player's grey Hero, that player gains a Wound.
 The Void '''Transforms'''.
@@ -8928,7 +8928,7 @@ This Mastermind '''Transforms'''.
 
 === Marvel Studios Phase 1 ===
 
-[size=10]'''''Iron Monger'''''[/size]
+[size=14]'''''Iron Monger'''''[/size]
 
 '''Bank Conqueror 4'''
 ''' Always Leads:''' Iron Foes
@@ -8949,7 +8949,7 @@ This Mastermind '''Transforms'''.
 '''Fight:''' If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.[/q]
 
 
-[size=10]'''''Loki'''''[/size]
+[size=14]'''''Loki'''''[/size]
 
 '''Always Leads''': Enemies of Asgard
 '''Master Strike''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
@@ -8969,7 +8969,7 @@ VP: 5
 '''Fight''': Each other player KOs two Bystanders from their Victory Pile.
 
 
-[size=10]'''''Red Skull'''''[/size]
+[size=14]'''''Red Skull'''''[/size]
 
 '''Always Leads''': HYDRA
 '''Master Strike''': Each player KOs a Hero from their hand.
@@ -8992,14 +8992,14 @@ VP: 5
 
 === Ant-Man ===
 
-[size=10]'''''Ultron'''''[/size]
+[size=14]'''''Ultron'''''[/size]
 
 '''Always Leads:''' Ultron's Legacy
 '''Master Strike:''' Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a "Threat Analysis pile" next to Ultron. Ultron is '''Empowered''' by each color in his Threat Analysis pile.
 Attack: 9+
 VP: 6
 
-[size=10]'''''Epic Ultron'''''[/size]
+[size=14]'''''Epic Ultron'''''[/size]
 
 '''Always Leads:''' Ultron's Legacy
 '''Master Strike:''' Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a "Threat Analysis pile" next to Ultron. Ultron is '''Triple Empowered''' by each color in his Threat Analysis pile.
@@ -9019,7 +9019,7 @@ VP: 6
 '''Fight:''' Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space.
 
 
-[size=10]'''''Morgana Le Fay'''''[/size]
+[size=14]'''''Morgana Le Fay'''''[/size]
 
 '''Chivalrous Duel'''
 '''Always Leads:''' Queen's Vengeance
@@ -9028,7 +9028,7 @@ Attack: 7*
 VP: 6
 
 
-[size=10]'''''Epic Morgan Le Fay'''''[/size]
+[size=14]'''''Epic Morgan Le Fay'''''[/size]
 
 '''Chivalrous Duel'''
 '''Always Leads:''' Queen's Vengeance
@@ -9052,14 +9052,14 @@ VP: 6
 
 === Venom ===
 
-[size=10]'''''Hybrid'''''[/size]
+[size=14]'''''Hybrid'''''[/size]
 If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
 '''Always Leads:''' Life Foundation
 '''Master Strike:''' A Villain from the city '''Symbiote Bonds''' with Hybrid, If Hybrid was already bonded, then each player gains a Wound instead.
 '''Attack:''' 6
 '''VP:''' 6
 
-[size=10]'''''Epic Hybrid'''''[/size]
+[size=14]'''''Epic Hybrid'''''[/size]
 If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
 '''Always Leads:''' Life Foundation
 '''Master Strike:''' The highest Attack unbonded Villain from the city and/or Escape Pile '''Symbiote Bonds''' with Hybrid. If no new bond could occur, then each player gains a Wound instead.
@@ -9079,14 +9079,14 @@ Symbiotic Call
 '''Fight:''' If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed '''Symbiote Bonds''' with Hybrid. Put the rest back in any order.
 
 
-[size=10]'''''Poison Thanos'''''[/size]
+[size=14]'''''Poison Thanos'''''[/size]
 Poison Thanos gets +1 Attack for each different cost among cards in his "Poisoned Souls" pile.
 '''Always Leads:''' Poisons
 '''Master Strike:''' Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a "Poisoned Souls: pile.
 '''Attack:''' 12+
 '''VP:''' 7
 
-[size=10]'''''Epic Poison Thanos'''''[/size]
+[size=14]'''''Epic Poison Thanos'''''[/size]
 Poison Thanos gets +2 Attack for each different cost among cards in his "Poisoned Souls" pile.
 '''Always Leads:''' Poisons
 '''Master Strike:''' Each player reveals their hand and puts half (round up) of their non-grey Heroes net to Thanos in a "Poisoned Souls" pile. Each player that lost no Heroes this way gains a Wound.
@@ -9109,7 +9109,7 @@ Soul Seize
 
 === Dimensions ===
 
-[size=10]'''''J. Jonah Jameson'''''[/size]
+[size=14]'''''J. Jonah Jameson'''''[/size]
 
 '''Start of Game:''' Put 2 S.H.I.E.L.D. Officers per player into a face down "Angry Mobs" stack.
 '''Special Rules:''' You can spend 4 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.
@@ -9118,7 +9118,7 @@ Soul Seize
 Attack: 4*
 VP: 5
 
-[size=10]'''''Epic J. Jonah Jameson'''''[/size]
+[size=14]'''''Epic J. Jonah Jameson'''''[/size]
 
 '''Start of Game:''' Put 3 S.H.I.E.L.D. Officers per player into a face down "Angry Mobs" stack.
 '''Special Rules:''' You can spend 5 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.
@@ -9143,7 +9143,7 @@ That Menace Spider-Man!
 
 === Legendary ===
 
-[size=10]'''''Brotherhood'''''[/size]
+[size=14]'''''Brotherhood'''''[/size]
 
 ''Blob'' (2 copies)
 You can't defeat Blob unless you have an X-Men Hero.
@@ -9168,7 +9168,7 @@ You can't defeat Blob unless you have an X-Men Hero.
 '''VP:''' 3
 
 
-[size=10]'''''Enemies of Asgard'''''[/size]
+[size=14]'''''Enemies of Asgard'''''[/size]
 
 ''Destroyer'' (1 copy)
 '''Fight:''' KO all your S.H.I.E.L.D. Heroes.
@@ -9194,7 +9194,7 @@ You can't defeat Blob unless you have an X-Men Hero.
 '''VP:''' 4
 
 
-[size=10]'''''HYDRA'''''[/size]
+[size=14]'''''HYDRA'''''[/size]
 
 ''Endless Armies of HYDRA'' (3 copies)
 '''Fight:''' Play the top two cards of the Villain Deck.
@@ -9218,7 +9218,7 @@ Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.
 '''VP:''' 3
 
 
-[size=10]'''''Masters of Evil'''''[/size]
+[size=14]'''''Masters of Evil'''''[/size]
 
 ''Baron Zemo'' (2 copies)
 '''Fight:''' For each of your Avengers Heroes, rescue a Bystander.
@@ -9242,7 +9242,7 @@ Ultron is worth +1 VP for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGC
 '''VP:''' 2
 
 
-[size=10]'''''Radiation'''''[/size]
+[size=14]'''''Radiation'''''[/size]
 
 ''Abomination'' (2 copies)
 '''Fight:''' If you fight Abomination on the Streets or Bridge, rescue three Bystanders.
@@ -9266,7 +9266,7 @@ Ultron is worth +1 VP for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGC
 '''VP:''' 3
 
 
-[size=10]'''''Skrulls'''''[/size]
+[size=14]'''''Skrulls'''''[/size]
 
 ''Paibok the Power Skrull'' (1 copy)
 '''Fight:''' Choose a Hero in the HQ for each player. Each player gains that Hero.
@@ -9291,7 +9291,7 @@ Ultron is worth +1 VP for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGC
 '''VP:''' 2
 
 
-[size=10]'''''Spider-Foes'''''[/size]
+[size=14]'''''Spider-Foes'''''[/size]
 
 ''Doctor Octopus'' (2 copies)
 '''Fight:''' When you draw a new hand of cards at the end of this turn, draw eight cards instead of six.
@@ -9318,7 +9318,7 @@ You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[
 
 === Dark City ===
 
-[size=10]'''''Emissaries of Evil'''''[/size]
+[size=14]'''''Emissaries of Evil'''''[/size]
 
 ''Egghead'' (2 copies)
 '''Ambush:''' Reveal the top card of the Villain Deck. If it's a Villain, play it.
@@ -9342,7 +9342,7 @@ You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[
 '''VP:''' 3
 
 
-[size=10]'''''Four Horsemen'''''[/size]
+[size=14]'''''Four Horsemen'''''[/size]
 
 ''Death'' (2 copies)
 '''Fight:''' Each other player reveals their hand and KOs one of their Heroes that costs 1 or more.
@@ -9369,7 +9369,7 @@ You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[
 '''VP:''' 4
 
 
-[size=10]'''''Marauders'''''[/size]
+[size=14]'''''Marauders'''''[/size]
 
 ''Blockbuster'' (2 copies)
 Blockbuster gets +2 Attack for each Bystander he has.
@@ -9395,7 +9395,7 @@ Scalphunter gets +1 Attack for each Bystander he has.
 '''VP:''' 3
 
 
-[size=10]'''''MLF'''''[/size]
+[size=14]'''''MLF'''''[/size]
 
 ''Forearm'' (2 copies)
 To fight Forearm, you must also reveal four Hero cards with different card names.
@@ -9418,7 +9418,7 @@ To fight Zero, you must also discard three cards that cost 0.
 '''VP:''' 2
 
 
-[size=10]'''''Streets of New York'''''[/size]
+[size=14]'''''Streets of New York'''''[/size]
 
 ''Bullseye'' (2 copies)
 '''Fight:''' KO one of your Heroes with a Recruit icon and one of your Heroes with an Attack icon.
@@ -9444,7 +9444,7 @@ Bribe
 '''VP:''' 4
 
 
-[size=10]'''''Underworld'''''[/size]
+[size=14]'''''Underworld'''''[/size]
 
 ''Azazel'' (2 copies)
 '''Fight:''' A card in your hand gains Teleport this turn.
@@ -9473,7 +9473,7 @@ Bribe
 
 === Fantastic Four ===
 
-[size=10]'''''Heralds of Galactus'''''[/size]
+[size=14]'''''Heralds of Galactus'''''[/size]
 
 ''Firelord'' (2 copies)
 Cosmic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -9501,7 +9501,7 @@ Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 '''VP:''' 5
 
 
-[size=10]'''''Subterranea'''''[/size]
+[size=14]'''''Subterranea'''''[/size]
 
 ''Giganto'' (2 copies)
 '''Fight:''' When you draw a new hand of cards at the end of this turn, draw two extra cards.
@@ -9531,7 +9531,7 @@ Burrow
 
 === Paint the Town Red ===
 
-[size=10]'''''Maximum Carnage'''''[/size]
+[size=14]'''''Maximum Carnage'''''[/size]
 
 ''Carrion'' (2 copies)
 Feast
@@ -9559,7 +9559,7 @@ When Shriek feasts on a 0-cost Hero, each other player gains a Wound.
 '''VP:''' 4
 
 
-[size=10]'''''Sinister Six'''''[/size]
+[size=14]'''''Sinister Six'''''[/size]
 
 ''Chameleon'' (1 copy)
 '''Fight:''' Copy the effects of the Hero in the HQ space under Chameleon, including its Recruit and Attack.
@@ -9598,7 +9598,7 @@ Sandman's Attack is twice the number of Villains in the city.
 
 === Villains ===
 
-[size=10]'''''Avengers'''''[/size]
+[size=14]'''''Avengers'''''[/size]
 
 ''Ant-Man'' (2 copies)
 '''Attack:''' 3*
@@ -9639,7 +9639,7 @@ Overrun: Demolish each player.
 Elusive 7
 
 
-[size=10]'''''Defenders'''''[/size]
+[size=14]'''''Defenders'''''[/size]
 
 ''Daredevil'' (2 copies)
 '''Attack:''' 5
@@ -9665,7 +9665,7 @@ Overrun: Same Effects.
 '''Fight:''' Each player reveals the top three cards of their deck. You choose which players discard them and which players put them back on top in the order of their choice.
 
 
-[size=10]'''''Marvel Knights'''''[/size]
+[size=14]'''''Marvel Knights'''''[/size]
 
 ''Black Panther'' (2 copies)
 '''Attack:''' 4
@@ -9690,7 +9690,7 @@ Overrun: Each player reveals the top card of their deck and if it costs 1 Cost o
 Overrun: Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings.
 
 
-[size=10]'''''Spider Friends'''''[/size]
+[size=14]'''''Spider Friends'''''[/size]
 
 ''Black Cat'' (2 copies)
 '''Attack:''' 2*
@@ -9716,7 +9716,7 @@ Overrun: Each player reveals the top card of their deck, and if it has an Attack
 Overrun: Each player gains a Bindings.
 
 
-[size=10]'''''Uncanny Avengers'''''[/size]
+[size=14]'''''Uncanny Avengers'''''[/size]
 
 ''Havok'' (2 copies)
 '''Attack:''' 4+
@@ -9743,7 +9743,7 @@ Wolverine gets +1 Attack for each card you've drawn this turn.
 Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then shuffle Wolverine back into the Adversary deck.
 
 
-[size=10]'''''Uncanny X-Men'''''[/size]
+[size=14]'''''Uncanny X-Men'''''[/size]
 
 ''Colossus'' (2 copies)
 '''Attack:''' 5+
@@ -9771,7 +9771,7 @@ X-Treme Attack.
 '''Fight:''' If you fight Storm on the Rooftops, each other player gains a Bindings.
 
 
-[size=10]'''''X-Men First Class'''''[/size]
+[size=14]'''''X-Men First Class'''''[/size]
 
 ''Angel'' (2 copies)
 '''Attack:''' 4+
@@ -9808,7 +9808,7 @@ Overrun: Each player reveals a Brotherhood Ally or discards a card.
 
 === Guardians of the Galaxy ===
 
-[size=10]'''''Kree Starforce'''''[/size]
+[size=14]'''''Kree Starforce'''''[/size]
 
 ''Captain Atlas'' (1 copy)
 Captain Atlas gets +1 Attack for each Shard on the Mastermind.
@@ -9849,7 +9849,7 @@ Captain Atlas gets +1 Attack for each Shard on the Mastermind.
 '''VP:''' 2
 
 
-[size=10]'''''Infinity Gems'''''[/size]
+[size=14]'''''Infinity Gems'''''[/size]
 
 ''Mind Gem'' (1 copy)
 '''Ambush:''' Mind Gem gains a Shard for each Scheme Twist in the KO pile and/or stacked next to the Scheme.
@@ -9897,7 +9897,7 @@ Artifact - When you play this Artifact, take another turn after this one. Use th
 
 === Fear Itself ===
 
-[size=10]'''''The Mighty'''''[/size]
+[size=14]'''''The Mighty'''''[/size]
 
 ''Black Widow'' (1 copy)
 2 Uru-Enchanted Weapons
@@ -9955,7 +9955,7 @@ Overrun: Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR]
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''The Deadlands'''''[/size]
+[size=14]'''''The Deadlands'''''[/size]
 
 ''Zombie Baron Zemo'' (1 copy)
 '''Ambush:''' '''Rise of the Living Dead'''
@@ -10007,7 +10007,7 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 '''VP:''' 3
 
 
-[size=10]'''''Domain of Apocalypse'''''[/size]
+[size=14]'''''Domain of Apocalypse'''''[/size]
 
 ''Apocalyptic Blink'' (3 copies)
 '''Fight:''' Reveal the top card of your deck. Draw it or '''Teleport''' it.
@@ -10033,7 +10033,7 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 '''VP:''' 5
 
 
-[size=10]'''''Limbo'''''[/size]
+[size=14]'''''Limbo'''''[/size]
 
 ''Inferno Colossus'' (2 copies)
 '''Ambush:''' The Mastermind captures a Bystander.
@@ -10060,7 +10060,7 @@ You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]
 '''VP:''' 2
 
 
-[size=10]'''''Manhattan (Earth-1610)'''''[/size]
+[size=14]'''''Manhattan (Earth-1610)'''''[/size]
 
 ''Ultimate Captain America'' (2 copies)
 '''Fight:''' Gain this as a Hero.
@@ -10096,7 +10096,7 @@ You get +1 Attack for each color of Hero you have
 2+ Attack
 
 
-[size=10]'''''Sentinel Territories'''''[/size]
+[size=14]'''''Sentinel Territories'''''[/size]
 
 ''Colossus of Future Past'' (2 copies)
 '''Fight:''' ''Colossus changes the future:'' Don't play a Villain card at the beginning of next turn.
@@ -10120,7 +10120,7 @@ You get +1 Attack for each color of Hero you have
 '''VP:''' 5
 
 
-[size=10]'''''Wasteland'''''[/size]
+[size=14]'''''Wasteland'''''[/size]
 
 ''The Hulk Gang'' (3 copies)
 '''Fight:''' '''Cross-Dimensional Hulk Rampage''' '''Escape:''' Same effect.
@@ -10146,7 +10146,7 @@ You get +1 Attack for each color of Hero you have
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Deadpool's Secret Secret Wars'''''[/size]
+[size=14]'''''Deadpool's Secret Secret Wars'''''[/size]
 
 ''Deadpool'' (1 copy)
 ''5th Circle of Kung-Fu'' (2 copies)
@@ -10172,7 +10172,7 @@ You can't fight Doop if there is a Villain in an adjacent city space.
 '''VP:''' 2
 
 
-[size=10]'''''Guardians of Knowhere'''''[/size]
+[size=14]'''''Guardians of Knowhere'''''[/size]
 
 ''Angela'' (1 copy)
 '''Fight:''' '''Fateful Resurrection'''
@@ -10203,7 +10203,7 @@ You can't fight Doop if there is a Villain in an adjacent city space.
 '''VP:''' 2
 
 
-[size=10]'''''K'un-lun'''''[/size]
+[size=14]'''''K'un-lun'''''[/size]
 
 ''Laughing Skull'' (2 copies)
 '''5th Circle of Kung-Fu'''
@@ -10230,7 +10230,7 @@ You can't fight Doop if there is a Villain in an adjacent city space.
 '''VP:''' 4
 
 
-[size=10]'''''Monster Metropolis'''''[/size]
+[size=14]'''''Monster Metropolis'''''[/size]
 
 ''Bug, Shiklah's Dragon'' (2 copies)
 '''Fight:''' KO a card from your discard pile. '''Fateful Resurrection'''
@@ -10256,7 +10256,7 @@ When in the Sewers, Rooftops or Bridge, he is in "wolf form" and gets +3 Attack.
 '''VP:''' 3
 
 
-[size=10]'''''Utopolis'''''[/size]
+[size=14]'''''Utopolis'''''[/size]
 
 ''Doctor Spectrum'' (3 copies)
 '''Ambush:''' '''Charge''' one space.
@@ -10284,7 +10284,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 '''VP:''' 3
 
 
-[size=10]'''''X-Men '92'''''[/size]
+[size=14]'''''X-Men '92'''''[/size]
 
 '''92 Beast'' (2 copies)
 '''Ambush:''' Charge one space.
@@ -10321,7 +10321,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 
 === Captain America 75th Anniversary ===
 
-[size=10]'''''Zola's Creations'''''[/size]
+[size=14]'''''Zola's Creations'''''[/size]
 
 ''Captain Zolandia'' (2 copies)
 Abomination
@@ -10349,7 +10349,7 @@ To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
 '''VP:''' 3
 
 
-[size=10]'''''Masters of Evil (WWII)'''''[/size]
+[size=14]'''''Masters of Evil (WWII)'''''[/size]
 
 ''Black Knight'' (2 copies)
 '''Ambush:''' Black Knight captures a Bystander.
@@ -10381,7 +10381,7 @@ To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.
 
 === Civil War ===
 
-[size=10]'''''CSA Special Marshals'''''[/size]
+[size=14]'''''CSA Special Marshals'''''[/size]
 
 ''Bullseye'' (2 copies)
 '''Fight:''' KO one of your heroes with a Recruit icon.
@@ -10406,7 +10406,7 @@ Size-Changing: Covert
 '''VP:''' 4
 
 
-[size=10]'''''Great Lakes Avengers'''''[/size]
+[size=14]'''''Great Lakes Avengers'''''[/size]
 
 ''Big Bertha'' (2 copies)
 Size-Changing: Strength
@@ -10433,7 +10433,7 @@ You can't fight Squirrel Girl if you played more than one card this turn.
 '''VP:''' 2
 
 
-[size=10]'''''Heroes for Hire'''''[/size]
+[size=14]'''''Heroes for Hire'''''[/size]
 
 ''Colleen Wing'' (2 copies)
 Bribe
@@ -10461,7 +10461,7 @@ Bribe
 '''VP:''' 5
 
 
-[size=10]'''''Registration Enforcers'''''[/size]
+[size=14]'''''Registration Enforcers'''''[/size]
 
 ''Blade'' (2 copies)
 '''Fight:''' If you fight Blade in the Sewers or Rooftops, you get +2 Recruit.
@@ -10488,7 +10488,7 @@ Size-Changing: Instinct
 '''VP:''' 3
 
 
-[size=10]'''''S.H.I.E.L.D. Elite'''''[/size]
+[size=14]'''''S.H.I.E.L.D. Elite'''''[/size]
 
 ''Agent Eric Marshall'' (2 copies)
 S.H.I.E.L.D. Clearance
@@ -10516,7 +10516,7 @@ S.H.I.E.L.D. Clearance
 '''VP:''' 5
 
 
-[size=10]'''''Superhuman Registration Act'''''[/size]
+[size=14]'''''Superhuman Registration Act'''''[/size]
 
 ''Iron Spider'' (2 copies)
 '''Ambush:''' Fortify your deck. While Iron Spider fortifies a players deck, that player draws one fewer card at the end of their turn.
@@ -10542,7 +10542,7 @@ Size-Changing: Tech
 '''VP:''' 4
 
 
-[size=10]'''''Thunderbolts'''''[/size]
+[size=14]'''''Thunderbolts'''''[/size]
 
 ''Fixer'' (2 copies)
 '''Fight:''' Look at the top three cards of your deck. KO one and put the rest back in any order.
@@ -10570,7 +10570,7 @@ Size-Changing: Tech
 
 === Deadpool ===
 
-[size=10]'''''Deadpool's "Friends'''''"[/size]
+[size=14]'''''Deadpool's "Friends'''''"[/size]
 
 ''Blind Al and Deuce'' (2 copies)
 '''Revenge for Deadpool's "Friends"'''
@@ -10601,7 +10601,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 '''VP:''' 3
 
 
-[size=10]'''''Evil Deadpool Corpse'''''[/size]
+[size=14]'''''Evil Deadpool Corpse'''''[/size]
 
 ''D.E.A.D.P.O.O.L.'' (2 copies)
 '''Revenge for Evil Deadpool Corpse'''
@@ -10636,7 +10636,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 === Noir ===
 
-[size=10]'''''Goblin's Freak Show'''''[/size]
+[size=14]'''''Goblin's Freak Show'''''[/size]
 
 ''Vulture, Carnival Cannibal'' (2 copies)
 '''Ambush''': The Vulture captures 2 '''Hidden Witnesses'''.
@@ -10673,7 +10673,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 '''VP''': 2
 
 
-[size=10]'''''X-Men Noir'''''[/size]
+[size=14]'''''X-Men Noir'''''[/size]
 
 ''Bobby "Iceman" Drake'' (1 copy)
 '''Fight''': '''Investigate''' for a card with a Recruit icon.
@@ -10714,7 +10714,7 @@ During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost
 
 === X-Men ===
 
-[size=10]'''''Dark Descendants'''''[/size]
+[size=14]'''''Dark Descendants'''''[/size]
 
 ''Fatale'' (2 copies)
 '''Fight''': KO one of your Heroes.
@@ -10749,7 +10749,7 @@ X-Men
 '''VP:''' 3
 
 
-[size=10]'''''Hellfire Club'''''[/size]
+[size=14]'''''Hellfire Club'''''[/size]
 
 ''Corrupt the Phoenix Force'' (1 copy)
 '''Trap!'''
@@ -10781,7 +10781,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 '''VP:''' 4
 
 
-[size=10]'''''Mojoverse'''''[/size]
+[size=14]'''''Mojoverse'''''[/size]
 
 ''Mindwarping TV Broadcast'' (1 copy)
 '''Trap!'''
@@ -10815,7 +10815,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 '''VP:''' 2
 
 
-[size=10]'''''Murderworld'''''[/size]
+[size=14]'''''Murderworld'''''[/size]
 
 ''Animatronic Killer Clowns'' (2 copies)
 '''Trap!'''
@@ -10848,7 +10848,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 '''VP:''' 2
 
 
-[size=10]'''''Shadow-X'''''[/size]
+[size=14]'''''Shadow-X'''''[/size]
 
 ''Betrayal of the Shadow'' (1 copy)
 '''By End of Turn:''' You may pay 6 Recruit.
@@ -10897,7 +10897,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 2 Attack
 
 
-[size=10]'''''Shi'ar Imperial Guard'''''[/size]
+[size=14]'''''Shi'ar Imperial Guard'''''[/size]
 
 ''Blackthorn'' (2 copies)
 '''Fight:''' If you fought Blackthorn in the Sewers or Streets, each other player gains a Wound.
@@ -10930,7 +10930,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 '''VP:''' 3
 
 
-[size=10]'''''Sisterhood of Mutants'''''[/size]
+[size=14]'''''Sisterhood of Mutants'''''[/size]
 
 ''Lady Deathstrike'' (2 copies)
 '''Fight:''' KO one of your Heroes.
@@ -10962,7 +10962,7 @@ Sebastian Shaw has +1 Attack for each card you've played from your hand this tur
 '''VP:''' 3
 
 
-[size=10]'''''Token Villains'''''[/size]
+[size=14]'''''Token Villains'''''[/size]
 
 ''Animatronic Killer Clown'' (2 copies)
 Villain --- Murderworld
@@ -10991,7 +10991,7 @@ Villain --- Shi'ar Imperial Guard
 
 === Spider-Man Homecoming ===
 
-[size=10]'''''Salvagers'''''[/size]
+[size=14]'''''Salvagers'''''[/size]
 
 ''Hybrid Alien Tech'' (2 copies)
 '''Striker'''
@@ -11019,7 +11019,7 @@ Villain --- Shi'ar Imperial Guard
 '''VP''': 2
 
 
-[size=10]'''''Vulture Tech'''''[/size]
+[size=14]'''''Vulture Tech'''''[/size]
 
 ''Chitauri Weapon Assault'' (2 copies)
 '''Striker'''
@@ -11050,7 +11050,7 @@ Villain --- Shi'ar Imperial Guard
 
 === Champions ===
 
-[size=10]'''''Monsters Unleashed'''''[/size]
+[size=14]'''''Monsters Unleashed'''''[/size]
 
 ''Goom'' (1 copy)
 '''Ambush:''' Goom captures a Bystander.
@@ -11101,7 +11101,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 '''VP:''' 5
 
 
-[size=10]'''''Wrecking Crew'''''[/size]
+[size=14]'''''Wrecking Crew'''''[/size]
 
 ''Bulldozer'' (2 copies)
 '''Ambush:''' Bulldozer moves an extra space forward. If this pushes any Villains forward, '''Demolish''' each player.
@@ -11128,7 +11128,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 
 === World War Hulk ===
 
-[size=10]'''''Aspects of the Void'''''[/size]
+[size=14]'''''Aspects of the Void'''''[/size]
 
 ''Black Anti-Hurricane'' (2 copies)
 '''Fight''': Each player simultaneously puts a card from their discard pile into the discard pile of the player to their right.
@@ -11161,7 +11161,7 @@ Ambush''': Play another card from the Villain Deck.
 [size=8]''Some briefly think the Shadow Man is the heroic Sentry. The thought doesn't last long.''[/size]
 
 
-[size=10]'''''Code Red'''''[/size]
+[size=14]'''''Code Red'''''[/size]
 
 ''Caught Red-Handed'' (1 copy)
 '''Trap!
@@ -11198,7 +11198,7 @@ Thundra gets +2 Attack if there are any number of [BGCOLOR=#FF0000][COLOR=#FFFFF
 '''VP''': 3
 
 
-[size=10]'''''Illuminati'''''[/size]
+[size=14]'''''Illuminati'''''[/size]
 
 ''Black Bolt'' (2 copies)
 During your turn, any number of times, you may discard a card that has no rules text to give Black Bolt -2 Attack this turn.
@@ -11230,7 +11230,7 @@ Attack''': 6+
 '''VP''': 4
 
 
-[size=10]'''''Intelligencia'''''[/size]
+[size=14]'''''Intelligencia'''''[/size]
 
 ''Battle of Wits'' (2 copies)
 '''Trap!
@@ -11258,7 +11258,7 @@ Doc Samson has +4 Attack unless you '''Outwit''' him.
 '''VP''': 3
 
 
-[size=10]'''''Sakaar Imperial Guard'''''[/size]
+[size=14]'''''Sakaar Imperial Guard'''''[/size]
 
 ''Gladiators' Colosseum'' (1 copy)
 '''Trap!
@@ -11289,7 +11289,7 @@ Primus Vand gets +1 Attack for each Villain next to him.
 '''VP''': 3
 
 
-[size=10]'''''U-Foes'''''[/size]
+[size=14]'''''U-Foes'''''[/size]
 
 ''Ironclad'' (1 copy)
 '''Fight''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero of KO's a Hero that costs 1 or more from their discard pile.
@@ -11320,7 +11320,7 @@ By End of Turn''': Discard a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOL
 '''VP''': 3
 
 
-[size=10]'''''Warbound'''''[/size]
+[size=14]'''''Warbound'''''[/size]
 
 ''Elloe Kaifi'' (1 copy)
 '''Fight''': Draw a card. Another player of your choice also draws a card.
@@ -11360,7 +11360,7 @@ By End of Turn''': Put a Warbound Villain and Henchman Villain from your Victory
 
 === Marvel Studios Phase 1 ===
 
-[size=10]'''''Chitauri'''''[/size]
+[size=14]'''''Chitauri'''''[/size]
 
 ''Chitauri Soldier'' (2 copies)
 '''Rooftops Conqueror 2'''
@@ -11388,7 +11388,7 @@ By End of Turn''': Put a Warbound Villain and Henchman Villain from your Victory
 '''VP:''' 3
 
 
-[size=10]'''''Enemies of Asgard'''''[/size]
+[size=14]'''''Enemies of Asgard'''''[/size]
 
 ''Destroyer'' (1 copy)
 '''Fight:''' KO all your S.H.I.E.L.D. Heroes.
@@ -11414,7 +11414,7 @@ By End of Turn''': Put a Warbound Villain and Henchman Villain from your Victory
 '''VP:''' 4
 
 
-[size=10]'''''Gamma Hunters'''''[/size]
+[size=14]'''''Gamma Hunters'''''[/size]
 
 ''Sonic Cannon'' (2 copies)
 '''Ambush:''' Each Player discards two cards, then draws a card.
@@ -11442,7 +11442,7 @@ Each Player reveals their hand. Each player with any [BGCOLOR=#009933][COLOR=#FF
 '''VP:''' 2
 
 
-[size=10]'''''HYDRA'''''[/size]
+[size=14]'''''HYDRA'''''[/size]
 
 ''Endless Armies of HYDRA'' (3 copies)
 '''Fight:''' Play the top two cards of the Villain Deck.
@@ -11466,7 +11466,7 @@ Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.
 '''VP:''' 3
 
 
-[size=10]'''''Iron Foes'''''[/size]
+[size=14]'''''Iron Foes'''''[/size]
 
 ''Hammer Drone Marine'' (2 copies)
 '''Fight:''' Look at the top three cards of your deck. KO one of them and put the rest back in any order.
@@ -11495,7 +11495,7 @@ Raza gets +1 Attack for each Bystander he has.
 
 === Ant-Man ===
 
-[size=10]'''''Ultron's Legacy'''''[/size]
+[size=14]'''''Ultron's Legacy'''''[/size]
 
 ''Ultron Roboticks'' (1 copy)
 '''Microscopic Size-chaning:''' [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
@@ -11547,7 +11547,7 @@ Raza gets +1 Attack for each Bystander he has.
 '''VP:''' 4
 
 
-[size=10]'''''Queen's Vengeance'''''[/size]
+[size=14]'''''Queen's Vengeance'''''[/size]
 
 ''Daystar'' (1 copy)
 '''Microscopic Size-Changing:''' [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
@@ -11601,7 +11601,7 @@ Raza gets +1 Attack for each Bystander he has.
 
 === Venom ===
 
-[size=10]'''''Life Foundation'''''[/size]
+[size=14]'''''Life Foundation'''''[/size]
 
 ''Agony'' (1 copy)
 '''Ambush:''' Reveal the top three cards of the Villain Deck. A Villain you revealed '''Symbiote Bonds''' with Agony. Put the rest back in any order.
@@ -11636,7 +11636,7 @@ Raza gets +1 Attack for each Bystander he has.
 '''VP:''' 4
 
 
-[size=10]'''''Poisons'''''[/size]
+[size=14]'''''Poisons'''''[/size]
 
 ''Poison Captain America'' (1 copy)
 '''Fight:''' This '''Symbiote Bonds''' with another Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.
@@ -11704,22 +11704,22 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 
 === Legendary ===
 
-[size=10]'''''Doombot Legion'''''[/size]
+[size=14]'''''Doombot Legion'''''[/size]
 '''Fight''': Look at the top two cards of your deck. KO one of them and put the other back.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Hand Ninjas'''''[/size]
+[size=14]'''''Hand Ninjas'''''[/size]
 '''Fight''': You get +1 Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Savage Land Mutates'''''[/size]
+[size=14]'''''Savage Land Mutates'''''[/size]
 '''Fight''': When you draw a new hand of cards at the end of this turn, draw an extra card.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Sentinel'''''[/size]
+[size=14]'''''Sentinel'''''[/size]
 '''Fight''': KO one of your Heroes.
 '''Attack''': 3
 '''VP''': 1
@@ -11727,13 +11727,13 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 
 === Dark City ===
 
-[size=10]'''''Maggia Goons'''''[/size]
+[size=14]'''''Maggia Goons'''''[/size]
 '''Bribe'''
 '''Fight''': KO one of your Heroes.
 '''Attack''': 4*
 '''VP''': 1
 
-[size=10]'''''Phalanx'''''[/size]
+[size=14]'''''Phalanx'''''[/size]
 '''Fight''': Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
 '''Attack''': 3
 '''VP''': 1
@@ -11741,22 +11741,22 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 
 === Villains ===
 
-[size=10]'''''Asgardian Warriors'''''[/size]
+[size=14]'''''Asgardian Warriors'''''[/size]
 '''Fight''': Draw a card.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Cops'''''[/size]
+[size=14]'''''Cops'''''[/size]
 '''Fight''': Gain a New Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Multiple Man'''''[/size]
+[size=14]'''''Multiple Man'''''[/size]
 '''Fight''': KO one of your Allies for each other Multiple Man in your Victory Pile.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''S.H.I.E.L.D. Assault Squad'''''[/size]
+[size=14]'''''S.H.I.E.L.D. Assault Squad'''''[/size]
 '''Fight''': Discard the top card of your deck. Then KO an Ally from your discard pile.
 '''Attack''': 3
 '''VP''': 1
@@ -11764,18 +11764,18 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 
 === Secret Wars Volume 1 ===
 
-[size=10]'''''Ghost Racers'''''[/size]
+[size=14]'''''Ghost Racers'''''[/size]
 Ambush: Rise of the Living Dead
 '''Fight''': Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''M.O.D.O.K.s'''''[/size]
+[size=14]'''''M.O.D.O.K.s'''''[/size]
 '''Fight''': KO a Hero from your discard pile or the HQ. If that Hero has a Recruit icon, you get +1 Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Thor Corps'''''[/size]
+[size=14]'''''Thor Corps'''''[/size]
 '''Fight''': Gain this as a Hero.
 '''Attack''': 3
 -----
@@ -11787,19 +11787,19 @@ Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000
 
 === Secret Wars Volume 2 ===
 
-[size=10]'''''Khonshu Guardians'''''[/size]
+[size=14]'''''Khonshu Guardians'''''[/size]
 While in the Sewers, Rooftops or Bridge, this is in "wolf form" and gets +2 Attack.
 '''Fight''': KO one of your Heroes.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Magma Men'''''[/size]
+[size=14]'''''Magma Men'''''[/size]
 '''Fight''': KO one of your Heroes.
-[size=10]'''''Fateful Resurrection'''''[/size]
+[size=14]'''''Fateful Resurrection'''''[/size]
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Spider-Infected'''''[/size]
+[size=14]'''''Spider-Infected'''''[/size]
 Ambush: This captures a Bystander.
 '''Fight''': The next Hero you gain this turn has Wall-Crawl.
 '''Attack''': 3
@@ -11808,13 +11808,13 @@ Ambush: This captures a Bystander.
 
 === Civil War ===
 
-[size=10]'''''Mandroid'''''[/size]
+[size=14]'''''Mandroid'''''[/size]
 This gets +1 Attack for each other Mandroid in your Victory Pile.
 '''Fight''': KO one of your Heroes.
 '''Attack''': 2+
 '''VP''': 1
 
-[size=10]'''''Cape-Killers'''''[/size]
+[size=14]'''''Cape-Killers'''''[/size]
 S.H.I.E.L.D. Clearance
 '''Fight''': KO a card from your discard pile.
 '''Attack''': 3*
@@ -11823,29 +11823,29 @@ S.H.I.E.L.D. Clearance
 
 === X-Men ===
 
-[size=10]'''''The Brood'''''[/size]
+[size=14]'''''The Brood'''''[/size]
 This Villain gets +1 Attack for each Bystander in the KO pile.
 '''Fight''': KO one of your Heroes. Then KO a Bystander from the Bystander Stack.
 '''Attack''': 1+
 '''VP''': 1
 
-[size=10]'''''Hellfire Cult'''''[/size]
+[size=14]'''''Hellfire Cult'''''[/size]
 '''Fight''': Reveal the top card of your deck. If it costs 0, KO it. Otherwise, you get +1 Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Sapien League'''''[/size]
+[size=14]'''''Sapien League'''''[/size]
 '''Fight''': KO one of your Heroes. Then, reveal the top card of the Villain Deck. If it's a Henchman Villain, play it.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Shi'ar Death Commandos'''''[/size]
+[size=14]'''''Shi'ar Death Commandos'''''[/size]
 '''Ambush''': The Villain captures a Human Shield.
 '''Fight''': KO one of your Heroes.
 '''Attack''': 2*
 '''VP''': 1
 
-[size=10]'''''Shi'ar Patrol Craft'''''[/size]
+[size=14]'''''Shi'ar Patrol Craft'''''[/size]
 '''Fight''': The next Hero you recruit this turn has '''Soaring Flight'''.
 '''Attack''': 3
 '''VP''': 1
@@ -11853,12 +11853,12 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 === 3D ===
 
-[size=10]'''''Circus of Crime'''''[/size]
+[size=14]'''''Circus of Crime'''''[/size]
 '''Fight''': Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Spider Slayer'''''[/size]
+[size=14]'''''Spider Slayer'''''[/size]
 '''Fight''': Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.
 '''Attack''': 3
 '''VP''': 1
@@ -11867,17 +11867,17 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 === World War Hulk ===
 
-[size=10]'''''Cytoplasm Spikes'''''[/size]
+[size=14]'''''Cytoplasm Spikes'''''[/size]
 '''Fight''': '''Feast'''. If Cytoplasm Spikes feasts on a non-grey Hero, you get +2 Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Death's Heads'''''[/size]
+[size=14]'''''Death's Heads'''''[/size]
 '''Fight''': If you '''Outwit''' these Death's Heads, KO one of your cards that costs 0.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Sakaaran Hivelings'''''[/size]
+[size=14]'''''Sakaaran Hivelings'''''[/size]
 '''Fight''': Look at the top card of your deck. Put it back on the top or bottom. Then '''Feast'''.
 '''Attack''': 3
 '''VP''': 1
@@ -11886,22 +11886,22 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 
 === Marvel Studios Phase 1 ===
 
-[size=10]'''''Hammer Drone Army'''''[/size]
+[size=14]'''''Hammer Drone Army'''''[/size]
 '''Fight''': KO one of your Heroes.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''HYDRA Pilots'''''[/size]
+[size=14]'''''HYDRA Pilots'''''[/size]
 '''Fight''': You get +1 Recruit.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''HYDRA Spies'''''[/size]
+[size=14]'''''HYDRA Spies'''''[/size]
 '''Fight''': When you draw a new hand of cards at the end of this turn, draw an extra card.
 '''Attack''': 3
 '''VP''': 1
 
-[size=10]'''''Ten Rings Fanatics'''''[/size]
+[size=14]'''''Ten Rings Fanatics'''''[/size]
 '''Fight''': Look at the top two cards of your deck. KO one of them and put the other back.
 '''Attack''': 3
 '''VP''': 1
@@ -11910,12 +11910,12 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 === Dimensions ===
 
 
-[size=10]'''''Circus of Crime'''''[/size]
+[size=14]'''''Circus of Crime'''''[/size]
 '''Fight:''' Reveal the top card of your deck. If it costs 0 Cost, KO it. Otherwise, draw it.
 '''Attack: '''3
 '''VP: '''1
 
-[size=10]'''''Spider-Slayer'''''[/size]
+[size=14]'''''Spider-Slayer'''''[/size]
 '''Fight:''' Reveal the top two cards of your deck. Put any that cost 2 Cost or less into your hand. Put the rest back in any order.
 '''Attack: '''3
 '''VP: '''1
