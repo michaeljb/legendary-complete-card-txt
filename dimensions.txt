@@ -1,17 +1,3 @@
-Henchmen
-
-[size=10][i][b]Circus of Crime[/b][/i][/size]
-[b]Fight:[/b] Reveal the top card of your deck. If it costs 0 Cost, KO it. Otherwise, draw it.
-[b]Attack: [/b]3
-[b]VP: [/b]1
-
-[size=10][i][b]Spider-Slayer[/b][/i][/size]
-[b]Fight:[/b] Reveal the top two cards of your deck. Put any that cost 2 Cost or less into your hand. Put the rest back in any order.
-[b]Attack: [/b]3
-[b]VP: [/b]1
-
-
-
 Bystanders
 
 [size=10][i][b]Bulldozer Driver[/b][/i][/size] (1 copy)

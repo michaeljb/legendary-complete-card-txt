@@ -205,5 +205,19 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 [b]VP[/b]: 1
 
 
-[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
+== Dimensions ==
 
+
+[size=10][i][b]Circus of Crime[/b][/i][/size]
+[b]Fight:[/b] Reveal the top card of your deck. If it costs 0 Cost, KO it. Otherwise, draw it.
+[b]Attack: [/b]3
+[b]VP: [/b]1
+
+[size=10][i][b]Spider-Slayer[/b][/i][/size]
+[b]Fight:[/b] Reveal the top two cards of your deck. Put any that cost 2 Cost or less into your hand. Put the rest back in any order.
+[b]Attack: [/b]3
+[b]VP: [/b]1
+
+
+
+[url=https://boardgamegeek.com/article/17029557#17029557](jump to top)[/url]
