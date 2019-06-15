@@ -160,11 +160,11 @@ Cost: 3
 
 [size=14]'''''Sunspot'''''[/size]
 X-Men
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 --- New Mutants
 When you rescue this Bystander, gain it as a Hero.
 ------------
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack.
 2+ Attack.
 Cost: 3
 
@@ -379,7 +379,7 @@ Cost: 2
 
 [size=14]'''''Throg'''''[/size] (2 copies)
 Avengers
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 0+ Attack
 Once this turn, if you made at least 6 Recruit, you get +2 Attack. Put this on the bottom of the Sidekick Stack.
@@ -509,7 +509,7 @@ You get +1 Recruit for each color of Hero you have.
 Cost: 3
 
 ''Perfect Teamwork'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get +1 Attack for each color of Hero you have.
 Cost: 4
@@ -531,7 +531,7 @@ Cost: 7
 X-Men
 
 ''Determination'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
 To play this card, you must discard a card from your hand.
 Cost: 2
@@ -610,7 +610,7 @@ Each player may reveal another X-Men Hero. Each player who does draws a card.
 Cost: 5
 
 ''Diamond Form'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 5 Attack
 Whenever you defeat a Villain or Mastermind this turn, you get +3 Recruit.
@@ -680,9 +680,9 @@ Cost: 7
 Avengers
 
 ''Growing Anger'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack.
 Cost: 3
 [size=8]''Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced...''[/size]
 [size=8]''3D alt art flavor text: You won't like me when I'm angry.''[/size]
@@ -694,16 +694,16 @@ You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.
 Cost: 4
 
 ''Crazed Rampage'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Each player gains a Wound.
 Cost: 5
 [size=8]''Hulk's rages tear everything apart: Enemies. Friends. Pants.''[/size]
 
 ''Hulk Smash!'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +5 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +5 Attack.
 Cost: 8
 [size=8]''"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!"''[/size]
 
@@ -754,7 +754,7 @@ Cost: 3
 [size=8]''Fury always budgets one extra prototype for his personal collection.''[/size]
 
 ''Legendary Commander'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
 Cost: 6
@@ -769,9 +769,9 @@ Cost: 8
 X-Men
 
 ''Borrowed Brawn'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +3 Attack.
 Cost: 4
 [size=8]''When Rogue steals super strength, enemies get super scared.''[/size]
 
@@ -787,7 +787,7 @@ Play this card as a copy of another Hero you played this turn. This card is both
 Cost: 5
 
 ''Steal Abilities'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Each player discards the top card of their deck. Play a copy of each of those cards.
 Cost: 8
@@ -797,7 +797,7 @@ Cost: 8
 Spider Friends
 
 ''Astonishing Strength'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1 Recruit
 Reveal the top card of your deck. If that card costs 2 or less, draw it.
 Cost: 2
@@ -854,9 +854,9 @@ Cost: 7
 Avengers
 
 ''Odinson'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Recruit.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Recruit.
 Cost: 3
 [size=8]''"Whosoever holds the hammer, if he be worthy, shall possess the power of Thor."''[/size]
 
@@ -921,7 +921,7 @@ Cost: 8
 X-Men
 
 ''Diving Catch'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 When a card effect causes you to discard this card, rescue a Bystander and draw two cards.
 Cost: 4
@@ -938,7 +938,7 @@ You may discard a card. You get + Attack equal to that card's Cost.
 Cost: 5
 
 ''Strength of Spirit'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Discard any number of cards. Draw that many cards.
 Cost: 7
@@ -982,7 +982,7 @@ Marvel Knights
 [size=8]''Art contains a gun''[/size]
 
 ''Night Hunter'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 2 Attack
 Whenever you defeat a Villain in the Sewers or Rooftops this turn, you get +2 Recruit.
@@ -1043,14 +1043,14 @@ Cost: 8
 X-Force
 
 ''Draw Their Fire'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 You gain a Wound.
 Cost: 1
 [size=8]''When enemies get charged by a huge steel titan, that tends to occupy their attention.''[/size]
 
 ''Invulnerability'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 If you would gain a Wound, you may discard this card instead. If you do, draw two cards.
 Cost: 3
@@ -1058,12 +1058,12 @@ Cost: 3
 ''Silent Statue'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26283_0.png
 4+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Attack.
 Cost: 6
 [size=8]''No one expects an enormous metal brawler to take the stealthy approach.''[/size]
 
 ''Russian Heavy Tank'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6 Attack
 If another player would gain a Wound, you may reveal this card to gain that Wound and draw a card.
 Cost: 8
@@ -1073,7 +1073,7 @@ Cost: 8
 Marvel Knights
 
 ''Backflip'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 When you play Backflip, the next Hero you recruit this turn goes on top of your deck.
 Cost: 3
@@ -1215,9 +1215,9 @@ Cost: 3
 [size=8]''Most motorcycles don't drive up walls. Most don't drive into your nightmares.''[/size]
 
 ''Infernal Chains'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat a Villain of 3 Attack or less for free.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Defeat a Villain of 3 Attack or less for free.
 Cost: 2
 
 ''Penance Stare'' (1 copy)
@@ -1245,7 +1245,7 @@ https://cf.geekdo-static.com/mbs/mb_26285_0.png: You get +1 Attack for each othe
 Cost: 4
 
 ''Frost Spike Armor'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 https://cf.geekdo-static.com/mbs/mb_26285_0.png: Draw a card for each https://cf.geekdo-static.com/mbs/mb_26285_0.png Hero you played this turn.
 Cost: 5
@@ -1267,21 +1267,21 @@ You get +1 Recruit for each Hero with a different Cost you have.
 Cost: 3
 
 ''Wield the Iron Fist'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get +1 Attack for each Hero with a different Cost you have.
 Cost: 4
 
 ''Ancient Legacy'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
 Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Versatile 2'''
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Versatile 2'''
 Cost: 1
 
 ''Living Weapon'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 8 Attack
 Reveal cards from your deck until you have revealed two cards with the same Cost. Draw all the cards you revealed.
 Cost: 9
@@ -1399,9 +1399,9 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mb
 Cost: 5
 
 ''Hostile Interrogation'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Each other player reveals the top card of their deck. If that card costs 4 or more, discard it. You get +1 Recruit for each card discarded this way.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Each other player reveals the top card of their deck. If that card costs 4 or more, discard it. You get +1 Recruit for each card discarded this way.
 Cost: 3
 
 ''The Punisher'' (1 copy)
@@ -1429,7 +1429,7 @@ If you drew any extra cards this turn, you get +2 Attack.
 Cost: 4
 
 ''No Mercy'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Draw a card.
 You may KO a card from your hand or discard pile.
 Cost: 4
@@ -1540,7 +1540,7 @@ Cost: 7
 (Unaffiliated)
 
 ''Epic Destiny'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 '''Focus 6 Recruit ->''' Defeat a Villain of 5 Attack or 6 Attack.
 Cost: 4
@@ -1580,7 +1580,7 @@ Cost: 3
 [size=8]''Yancy Street is Thing's turf. Trespass at your own risk.''[/size]
 
 ''Knuckle Sandwich'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
 0+ Attack
 '''Focus 3 Recruit ->''' You get +2 Attack.
@@ -1588,16 +1588,16 @@ Cost: 5
 [size=8]''Recipe prep time: 3 seconds. Serves: 20''[/size]
 
 ''Crime Stopper'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Whenever you defeat a Villain in the Bank this turn, rescue a Bystander.
 '''Focus 1 Recruit ->''' Move a Villain to an adjacent city space. If another Villain is already there, swap them.
 Cost: 6
 
 ''It's Clobberin' Time!'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +3 Attack for each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +3 Attack for each other https://cf.geekdo-static.com/mbs/mb_26286_0.png card you played this turn.
 Cost: 8
 [size=8]''Thing doesn't wear a watch, but he's happy to tell you what time it is.''[/size]
 
@@ -1675,7 +1675,7 @@ Cost: 8
 Spider Friends
 
 ''Flip Out'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1 Recruit
 '''Wall-Crawl'''
 Spider Friends: Draw a card.
@@ -1698,7 +1698,7 @@ Cost: 6
 [size=8]''A life of chaos lends Scarlet Spider an unpredictability that opponents can't escape.''[/size]
 
 ''Sting of the Spider'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5 Attack
 Whenever you put a card on top of your deck this turn, you may draw that card.
 Cost: 7
@@ -1716,7 +1716,7 @@ Reveal the top card of your deck. If that card has an Attack icon, draw it.
 Cost: 4
 
 ''Radioactive Spider'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
 To play this card, you must put a card from your hand on top of your deck.
 Cost: 2
@@ -1742,7 +1742,7 @@ Cost: 7
 Spider Friends
 
 ''Dark Strength'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 '''Wall-Crawl'''
 Reveal the top card of your deck. If it costs 1 or 2, you get +2 Attack.
@@ -1818,7 +1818,7 @@ Cost: 5
 [size=8]''"It worked! Hahahahaha!"''[/size]
 
 ''Eighth Time's a Charm'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4+ Attack
 If this is the eighth card you played this turn, you get +2 Attack.
 Cost: 6
@@ -1928,26 +1928,26 @@ Cost: 7
 Brotherhood
 
 ''Crimson Gem of Cyttorak'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Each other player reveals the top card of their deck, and if it costs 1, 2, or 3, discards it. You get +1 Recruit for each card discarded this way.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Each other player reveals the top card of their deck, and if it costs 1, 2, or 3, discards it. You get +1 Recruit for each card discarded this way.
 Cost: 4
 
 ''Size Matters'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 You get +1 Attack for each other card you played this turn that costs 4 or more.
 Cost: 4
 
 ''Runaway Train'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 To play this card, you must discard a card from your hand.
 Cost: 5
 [size=8]''Move it or lose it.''[/size]
 
 ''Unstoppable Force'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
 Choose one: Each player KOs two cards from their hand, or each player KOs two cards from their discard pile. Then you get +1 Attack for each non-grey Ally KO'd this turn.
 Cost: 8
@@ -1962,9 +1962,9 @@ Whenever a card effect causes you to gain a New Recruit this turn, put that New 
 Cost: 3
 
 ''Recruitment Day'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Gain a New Recruit.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Gain a New Recruit.
 Cost: 3
 [size=8]''"Anyone else want to punch Daredevil in the face?"''[/size]
 
@@ -1975,7 +1975,7 @@ You get +1 Attack for each New Recruit you played this turn.
 Cost: 5
 
 ''Endless Underlings'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Crime Syndicate, Crime Syndicate: If you would return a New Recruit to the New Recruit Stack this turn, put it on the bottom of your deck instead.
 Cost: 8
 
@@ -1999,7 +1999,7 @@ Cost: 4
 [size=8]''Art contains a gun''[/size]
 
 ''Hunt Down'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 Choose an Adversary and a direction. Move that Adversary as many adjacent, empty spaces as you can in that direction. You get +1 Attack for each space it moved.
 Cost: 5
@@ -2051,10 +2051,10 @@ You may choose a Bindings from your hand or discard pile and have another player
 Cost: 3
 
 ''Mutants Will Rule'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
 '''Dodge'''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player. That player reveals a Brotherhood Ally or gains a Bindings. If a Bindings is gained this way, you get +1 Recruit.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Choose a player. That player reveals a Brotherhood Ally or gains a Bindings. If a Bindings is gained this way, you get +1 Recruit.
 Cost: 4
 
 ''Weapons From Scrap Metal'' (3 copies)
@@ -2155,7 +2155,7 @@ Reveal the top three cards of your deck. Draw one of them, discard one, and put 
 Cost: 2
 
 ''Upper Hand'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4+ Attack
 Each player reveals a https://cf.geekdo-static.com/mbs/mb_26284_0.png Ally or reveals the top card of their deck. Choose any number of those revealed top cards to be KO'd.
 https://cf.geekdo-static.com/mbs/mb_26284_0.png: You get +1 Attack for each card KO'd this turn.
@@ -2204,14 +2204,14 @@ Cost: 4
 [size=8]''Feeding Time!''[/size]
 
 ''Symbiote Takeover'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Kidnap a Bystander.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Kidnap a Bystander.
 Cost: 3
 [size=8]''"Where do you think you're going?"''[/size]
 
 ''Horrify the Populace'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Each Adversary with a 4 Attack or more guards a Bystander.
 Cost: 6
@@ -2232,7 +2232,7 @@ Cost: 7
 Guardians of the Galaxy
 
 ''Knives of the Hunter'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Artifact -'''
 Once per turn, you get +1 Attack.
 Cost: 3
@@ -2290,13 +2290,13 @@ Cost: 8
 Guardians of the Galaxy
 
 ''Prune the Growths'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile. If you do, gain a Shard.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You may KO a card from your hand or discard pile. If you do, gain a Shard.
 Cost: 4
 
 ''Surviving Sprig'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1 Attack
 When you draw a new hand of cards at the end of this turn, draw an extra card.
 Cost: 3
@@ -2308,7 +2308,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png: You may choose another player. 
 Cost: 4
 
 ''I Am Groot'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5 Recruit
 When you recruit your next Hero this turn, you gain Shards equal to that Hero's cost.
 Cost: 8
@@ -2393,7 +2393,7 @@ If you control an '''Artifact''', you get +2 Attack.
 Cost: 3
 
 ''Break the Will to Resist'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
 https://cf.geekdo-static.com/mbs/mb_26283_0.png: Each player discards the bottom card of their deck. For each non-grey card discard this way, you get +1 Attack.
 Cost: 5
@@ -2415,19 +2415,19 @@ When you throw this, you get +2 Attack.
 Cost: 4
 
 ''Reach for Power'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
 Reveal the top or bottom card of your deck. If it costs 4 or more, you get +2 Recruit.
 Cost: 4
 
 ''Contest of Strength'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
 Foes of Asgard: Discard the top card of any player's deck. Then reveal the top or bottom card of your deck. If the card you revealed has an equal or higher cost, you get +2 Attack.
 Cost: 5
 
 ''Break Every Bone'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Reveal a card from your hand, the top card of your deck, and the bottom card of your deck. You get +Attack equal to their total costs.
 Cost: 7
@@ -2437,7 +2437,7 @@ Cost: 7
 Foes of Asgard
 
 ''Pull of the Tides'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 You may move an Adversary to an adjacent city space. If another Adversary is already there, swap them.
 Cost: 3
@@ -2466,25 +2466,25 @@ Cost: 7
 Foes of Asgard
 
 ''Demolition Derby'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Choose a player and '''Demolish''' them. If that player discards a card this way, draw a card.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Choose a player and '''Demolish''' them. If that player discards a card this way, draw a card.
 Cost: 3
 
 ''Otherworldly Mace'' (5 copies)
 https://cf.geekdo-static.com/mbs/mb_26284_0.png
 '''Thrown Artifact'''
-When you throw this, you get +2 Attack for each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Ally you played this turn.
+When you throw this, you get +2 Attack for each https://cf.geekdo-static.com/mbs/mb_26286_0.png Ally you played this turn.
 Cost: 4
 
 ''Nul Smash!'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Say "NUL SMASH!" Then each player slaps a palm on the table. The last other player to slap a palm on the table gains a Bindings.
 Cost: 6
 
 ''Break the World'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6 Attack
 KO up to two cards from your hand and/or discard pile. For each Bindings you KO this way, '''demolish''' each other player.
 Cost: 8
@@ -2508,7 +2508,7 @@ Cost: 5
 [size=8]''Skadi hails HYDRA. Immortal HYDRA. Whenever she cuts off a limb, two more take its place.''[/size]
 
 ''Hammer of the Serpent'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Thrown Artifact'''
 When you throw this, you get +2 Attack for each card you discarded this turn.
 Cost: 5
@@ -2544,7 +2544,7 @@ When you throw this, you get +1 Attack for each card you've drawn this turn.
 Cost: 2
 
 ''Break Your Hopes'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Each player reveals a https://cf.geekdo-static.com/mbs/mb_26283_0.png Ally or discards a card. For each card discarded this way, you draw a card.
 Cost: 7
@@ -2600,7 +2600,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mb
 Cost: 4
 
 ''Silence is Golden'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 4+ Attack
 Choose a card you played this turn with no rules text. You get its Recruit and Attack again.
@@ -2624,14 +2624,14 @@ Cost: 3
 [size=8]''King T'Challa is a doctor of physics, a master diplomat, and a genius inventor. But sometimes he just likes kicking bad guys in the face.''[/size]
 
 ''Multifaceted Genius'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 2+ Attack
 You get +1 Attack for each other multicolored card you played this turn.
 Cost: 4
 [size=8]''Some people excel at one specific thing. Black Panther excels at almost everything.''[/size]
 
 ''Stalk the Urban Jungle'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 4 Attack
 Whenever you defeat a Villain on the Rooftops or Streets this turn, you may KO one of your cards or a card from your discard pile.
 Cost: 6
@@ -2655,23 +2655,23 @@ Cost: 3
 [size=8]''Carol Danvers soaks up energy to empower her physical strength and photonic blasts.''[/size]
 
 ''Supersonic Flight'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26285_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 1 Attack
 Draw a card.
 Cost: 3
 [size=8]''Once a captain in the Air Force, Carol Danvers has re-emerged from Ms. Marvel to Captain Marvel.''[/size]
 
 ''Marvelous Strength'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: For each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero you have played this turn, you get +1 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: For each other https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero you have played this turn, you get +1 Attack.
 Cost: 5
 [size=8]''Art contains a gun''[/size]
 
 ''Cosmic Energies'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26285_0.png
 5+ Attack
-https://cf.geekdo-static.com/mbs/mb_26285_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +6 Attack.
+https://cf.geekdo-static.com/mbs/mb_26285_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +6 Attack.
 Cost: 7
 [size=8]''You've heard of the power of the sun, right?''[/size]
 
@@ -2714,21 +2714,21 @@ Once per turn, if you made at least 6 Recruit this turn, draw a card.
 Cost: 3
 
 ''Chosen by Asgard'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 0+ Attack
 Once per turn, if you made at least 6 Recruit this turn, you get +2 Attack.
 Cost: 4
 
 ''Heir to the Hammer'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26285_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 4+ Attack
-https://cf.geekdo-static.com/mbs/mb_26285_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+https://cf.geekdo-static.com/mbs/mb_26285_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Attack.
 Cost: 6
 [size=8]''If Mjolnir deems her worthy, who would dare argue?''[/size]
 
 ''Living Thunderstorm'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Recruit
 0+ Attack
 One per turn, if you made at least 6 Recruit this turn, you get +6 Attack.
@@ -2810,22 +2810,22 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png: Gain a Sidekick.
 Cost: 3
 
 ''Ruler of the Seas'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2, usable only against Villains on the Bridge or the Mastermind.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2, usable only against Villains on the Bridge or the Mastermind.
 Cost: 4
 [size=8]''Namor is lord of two-thirds of the Earth: all the watery bits.''[/size]
 
 ''Feed the Sharks'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 2 Attack
 You may KO a card from your hand or discard pile. If you do, draw a card.
 Cost: 6
 
 ''Imperius Rex'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Defeat a Villain for free.
-https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Instead, defeat the Mastermind once for free.
+https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png: Instead, defeat the Mastermind once for free.
 Cost: 7
 
 
@@ -2924,13 +2924,13 @@ Cost: 8
 Cabal
 
 ''Revel in Destruction '' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26285_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 2+ Recruit
 Cabal: KO a Bystander from the Bystander Stack. Then, you get +1 Recruit for every three Bystanders in the KO pile.
 Cost: 3
 
 ''Transdimensional Overlord'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 '''Teleport'''
 You may KO a Bystander from your Victory Pile. If you do, you get +2 Attack.
@@ -2952,16 +2952,16 @@ Cost: 8
 Spider Friends
 
 ''Marvel Team-Up'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 Gain a Sidekick.
 Reveal the top card of your deck. If it costs 2 or less, draw it.
 Cost: 2
 
 ''Leaping Spider'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Reveal the top card of your deck. If it costs 2 or less, draw it.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Attack.
 Cost: 2
 
 ''Web-Slinger'' (3 copies)
@@ -2994,7 +2994,7 @@ Cost: 2
 [size=8]''Art contains a gun''[/size]
 
 ''Government Payroll'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 0+ Recruit
 0+ Attack
 '''Wall-Crawl'''
@@ -3011,7 +3011,7 @@ Cost: 6
 [size=8]''Flash Thompson combines elite military training with Venom symbiote.''[/size]
 
 ''Shapeshifting Symbiote'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
 '''Wall-Crawl'''
@@ -3025,7 +3025,7 @@ Cost: 7
 (Unaffiliated)
 
 ''All-Terrain Barbarian'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 2+ Recruit
 '''Wall-Crawl'''
 '''Patrol the Sewers''': If it's empty, you get +1 Recruit.
@@ -3058,30 +3058,30 @@ Cost: 7
 Illuminati
 
 ''Balanced Attack'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 2 Attack
-Reveal the top card of your deck. If it's https://cf.geekdo-static.com/mbs/mb_26287_0.png or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], draw it.
+Reveal the top card of your deck. If it's https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26286_0.png, draw it.
 Cost: 3
 [size=8]''If you can balance yourself upside-down, you will turn your foes upside-down with a balanced attack.''[/size]
 
 ''Upside-down Thinking'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 '''Wall-Crawl'''
 '''Patrol any city space''':
 If it's empty, then the hero in the HQ space under it costs 3 less this turn.
 Cost: 4
 
 ''Doctor of Beatdown'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 2+ Attack
-For each other [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn, you get +1 Attack.
+For each other https://cf.geekdo-static.com/mbs/mb_26286_0.png card you played this turn, you get +1 Attack.
 For each other https://cf.geekdo-static.com/mbs/mb_26287_0.png card you played this turn, you get +1 Attack.
 Cost: 6
 
 ''Multi-Variable Smackulus'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 4 Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png: Draw three cards.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png: Draw three cards.
 Cost: 8
 [size=8]''If I calculate the precise rotational torque, I find I'm really thrashing you with considerable force.''[/size]
 
@@ -3120,7 +3120,7 @@ Cost: 7
 Avengers
 
 ''Jurassic America '' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26287_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png
 1+ Recruit
 '''Spectrum''': you get +2 Recruit.
 Cost: 2
@@ -3151,7 +3151,7 @@ Cost: 8
 Illuminati
 
 ''Combined Strength'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get +1 Attack for each different team icon among your heroes.
 Cost: 4
@@ -3164,13 +3164,13 @@ You get +1 Recruit for each different team icon among your heroes.
 Cost: 3
 
 ''Raise the Union Jack'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 2 Attack
 '''Patrol the Rooftops''': If it's empty, reveal the top two cards of your deck. If they have different team icons, draw them. Otherwise, put them back in any order.
 Cost: 5
 
 ''Lead the Captain Britain Corps'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 When you draw a new hand of cards at the end of this turn, draw three extra cards.
 Cost: 7
 
@@ -3186,7 +3186,7 @@ Cost: 3
 [size=8]''A sculptor with a scalpel...A rather enormous scalpel.''[/size]
 
 ''Let None Escape You'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 0+ Recruit
 0+ Attack
 '''Patrol the Escape Pile''': If there are none Bystanders in it, you get +2 Attack. Otherwise, you get +2 Recruit.
@@ -3194,7 +3194,7 @@ Cost: 2
 [size=8]''Thanos' most trusted general...And his most cruel.''[/size]
 
 ''Rictus Grin'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
 Cabal: KO a Bystander from the Bystander Stack. Then, you get +1 Attack for every four Bystanders in the KO Pile.
 Cost: 6
@@ -3268,7 +3268,7 @@ Cost: 6
 [size=8]''Art contains a gun''[/size]
 
 ''Prodigy of Ulysses Bloodstone'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6+ Attack
 '''Spectrum''': You get +3 Attack.
 Cost: 8
@@ -3315,7 +3315,7 @@ Cost: 3
 [size=8]''Hit-and-run tactics.''[/size]
 
 ''Heir to Legends'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26285_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 2 Recruit
 2 Attack
 To play this card, you must discard a card from your hand.
@@ -3323,7 +3323,7 @@ Cost: 5
 [size=8]''The alternate-reality daughter of Cyclops and Emma Frost, Ruby, combines both their powers.''[/size]
 
 ''Form of Solid Ruby'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 4 Attack
 X-Men: Whenever you defeat a villain or mastermind this turn, you get +2 Recruit.
@@ -3378,7 +3378,7 @@ Cost: 2
 [size=8]''Cindy Moon was bitten by the same radioactive spider as Peter Parker.''[/size]
 
 ''Cascading Maneuver'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 1 Attack
 '''Wall-Crawl'''
 '''Spectrum''': Draw a card.
@@ -3408,15 +3408,15 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png: Once this turn, you may fight t
 Cost: 3
 
 ''Steel Interception'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 2 Attack
 If a player would gain a Wound, you may discard this card instead. If you do, draw two cards.
 Cost: 4
 
 ''Possessed by the Soulsword'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Cross-Dimensional Colossus Rampage'''. You get +2 Attack if at least one other player didn't reveal a Colossus card.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Cross-Dimensional Colossus Rampage'''. You get +2 Attack if at least one other player didn't reveal a Colossus card.
 Cost: 6
 
 ''Rescue My Family from Hell'' (1 copy)
@@ -3443,7 +3443,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png
 Cost: 2
 
 ''First Adventure'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 '''Wall-Crawl'''
 '''Patrol the Bank''': If it's empty, you get +1 Attack.
@@ -3558,9 +3558,9 @@ Cost: 7
 Avengers
 
 ''Devoted Patriot'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Man Out of Time'''
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Man Out of Time'''
 Cost: 3
 [size=8]''"With luck, HYDRA will be a distant memory by 1942."''[/size]
 
@@ -3591,7 +3591,7 @@ S.H.I.E.L.D.
 [size=8]''Art contains a gun''[/size]
 
 ''International Strike Force'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 Recruit for each Hero Class you have.
 '''Savior''': You get +1 Attack for each Hero Class you have.
 Cost: 3
@@ -3622,7 +3622,7 @@ Cost: 8
 (Unaffiliated)
 
 ''Bionic Arm'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
 https://cf.geekdo-static.com/mbs/mb_26287_0.png: '''Man Out of Time'''.
 Cost: 3
@@ -3668,7 +3668,7 @@ Cost: 2
 ''Inspire a Nation/Inspire a Man'' (5 copies)
 '''Divided'''
 ''Inspire a Nation (Captain America, Secret Avenger: Avengers)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Gain a Sidekick.
 Cost: 3
 -----------------
@@ -3768,7 +3768,7 @@ The next Hero you recruit this turn goes on top of your deck.
 Cost: 6
 -----------------
 ''Revealed Identity (Iron Fist: Marvel Knights)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get +1 Attack for each different cost of Hero you have.
 Cost: 6
@@ -3829,9 +3829,9 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png
 Cost: 4*
 -----------------
 ''Massive Warrior''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Cost: 4*
 
 ''Growth Industry'' (5 copies)
@@ -3843,16 +3843,16 @@ Cost: 5*
 [size=8]''Science keeps Goliath at the height of his power.''[/size]
 
 ''Being Big is Best'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 for each other card you played this turn that costs 4 or more.
 Cost: 6*
 
 ''Enormous Implications'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +Attack equal to the cost of another card you played this turn.
 Cost: 8
 
@@ -3870,7 +3870,7 @@ Cost: 4
 ''Manly Dullard/Boy Genius'' (5 copies)
 '''Divided'''
 ''Manly Dullard (Hercules: Avengers)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 To play this, you must discard a card from your hand.
 Cost: 3
@@ -3881,14 +3881,14 @@ Draw a card.
 Cost: 3
 
 ''Prince of Power'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Reveal the top card of your deck. If it costs 0, KO it.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Reveal the top card of your deck. If it costs 0, KO it.
 Cost: 5
 [size=8]''His strength is exceeded only by his ego.''[/size]
 
 ''Son of Zeus'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
 Rescue a Bystander. Then, you get +1 Attack for each Bystander in your Victory Pile.
@@ -3900,18 +3900,18 @@ Cost: 7
 Avengers
 
 ''Cellular Regeneration'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You may KO a Wound from your hand or discard pile. If you do, you get +1 Attack.
 Cost: 5*
 
 ''Half-Kree/Half-Skrull'' (5 copies)
 '''Divided'''
 ''Half-Kree''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Gain a Wound.
 Cost: 4*
 -----------------
@@ -3942,7 +3942,7 @@ Cost: 8*
 Avengers
 
 ''Take a Bullet for the Team'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1 Recruit
 1 Attack
 If any player would gain a Wound, you may discard this card instead. If you do, draw two cards.
@@ -3951,7 +3951,7 @@ Cost: 4
 ''Cautious/Reckless'' (5 copies)
 '''Divided'''
 ''Cautious (Luke Cage: Avengers)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
 Cost: 3
 -----------------
@@ -3968,7 +3968,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png: Look at the top three cards of 
 Cost: 5
 
 ''Unbreakable Skin'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6 Attack
 Avengers: '''Fortify''' the Wound Stack. While it's fortified, players can't gain Wounds. At the beginning of your next turn, put this card in your discard pile.
 Cost: 8
@@ -3985,7 +3985,7 @@ Cost: 3
 [size=8]''If Cap and Iron Man's Avengers destroy each other, the Young Avengers will be ready.''[/size]
 
 ''New Generation of Heroes'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 Recruit for each Hero Name among your non-S.H.I.E.L.D. Heroes.
 Cost: 2
 
@@ -4101,10 +4101,10 @@ Cost: 2*
 ''Crush Ants/Crush File Sizes'' (5 copies)
 '''Divided'''
 ''Crush Ants (Stature: Avengers)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat a Villain that has 3 Attack or less.
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Defeat a Villain that has 3 Attack or less.
 Cost: 5*
 -----------------
 ''Crush File Sizes (Iron Lad: Avengers)''
@@ -4115,18 +4115,18 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png: Draw a card.
 Cost: 5*
 
 ''Growing Confidence'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack for each Villain in your Victory Pile that has a printed Attack 3 or less.
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack for each Villain in your Victory Pile that has a printed Attack 3 or less.
 Cost: 6*
 [size=8]''Ant-Man's daughter grew up pretty fast.''[/size]
 
 ''Trample the Tiny'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5 Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Defeat each Villain that has 4 Attack or less.
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Defeat each Villain that has 4 Attack or less.
 Cost: 8*
 [size=8]''Art contains a gun''[/size]
 
@@ -4342,7 +4342,7 @@ Cost: 7
 (Unaffiliated)
 
 ''Form from Ooze'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Teleport'''
 You get +2 Attack usable only against villains in the Sewers or the Mastermind.
@@ -4362,9 +4362,9 @@ You may move a Villain to another city space. If another Villain is already ther
 Cost: 5
 
 ''Eternity of Solitude'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack for each empty city space.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack for each empty city space.
 Cost: 7
 
 
@@ -4430,7 +4430,7 @@ Cost: 5
 [size=8]''Flavor: You also get another +13 Attack, but this doesn't count because it's flavor text.''[/size]
 
 ''Deadpool Rage!'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5 Attack
 '''Excessive Violence:''' Take another turn after this one. But don't use this ability more than once per game - trilogies are stupid.
 Cost: 7
@@ -4455,7 +4455,7 @@ Cost: 3
 [size=8]''Flavor: And they say cartoons are too violent these days.''[/size]
 
 ''Surprise Chainsaw'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Excessive Violence''': When you have a new hand of cards at the end of this turn, draw an extra card.
 4 1/2 Attack
 Cost: 6
@@ -4551,7 +4551,7 @@ Cost: 3
 [size=8]''Art contains a gun, or at least muzzle flashes and bullet trajectory''[/size]
 
 ''Multitalented'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Choose a Hero Class. '''Investigate''' for a card of that Hero Class.
 1 Recruit
 1 Attack
@@ -4650,20 +4650,20 @@ Cost: 4
 [size=8]''Flavor: He doesn't stop until he clears his name ... or dies trying.''[/size]
 
 ''Follow Big Leads'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 Recruit for each other card you played this turn that costs 4 or more.
 2+ Recruit
 Cost: 4
 [size=8]''Flavor: The deeper he digs, the bigger the conspiracy becomes.''[/size]
 
 Unbreakable Cage (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Once per turn, if a player would gain a Wound, you may reveal this card and '''Investigate''' for any card instead.
 4 Attack
 Cost: 6
 
 Weight of the World (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +2 Attack for each other card you played this turn that costs 4 or more.
 5+ Attack
 Cost: 8
@@ -4695,7 +4695,7 @@ Cost: 2
 [size=8]''Flavor: "Who murdered Uncle Ben?"''[/size]
 
 ''Spider-Totem's Chosen'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Spider Friends: '''Investigate''' each player's deck for a card that costs 2 or less, play a copy of that card, then put it into their discard pile.
 1 Attack
 Cost: 2
@@ -4723,7 +4723,7 @@ https://cf.geekdo-static.com/mbs/mb_26285_0.png
 Cost: 4
 ------------
 ''Blazing Fists (Northstar)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Berserk'''
 2+ Attack
 Cost: 4
@@ -4788,9 +4788,9 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png
 Cost: 2
 
 ''Furry Fury'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Berserk'''
-'''X-Gene''' [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Berserk'''
+'''X-Gene''' https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Berserk'''
 2+ Attack
 Cost: 4
 
@@ -4820,21 +4820,21 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png: You get +2 Attack
 Cost: 3
 
 ''Carry to the Air'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Soaring Flight'''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: The next Hero you recruit this turn has '''Soaring Flight'''.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: The next Hero you recruit this turn has '''Soaring Flight'''.
 2 Recruit
 Cost: 4
 
 ''Natural Leader'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Soaring Flight'''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Return a S.H.I.E.L.D. Hero from your discard pile to your hand.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Return a S.H.I.E.L.D. Hero from your discard pile to your hand.
 3 Attack
 Cost: 6
 
 ''Human Cannon'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Soaring Flight'''
 If you played at least 6 other cards this turn, you get +2 Attack.
 Attack: 4+
@@ -4847,7 +4847,7 @@ X-Men
 ''Reliable/Unpredictable'' (5 copies)
 '''Divided'''
 ''Reliable (Colossus)''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 Cost: 3
 ------------
@@ -4858,7 +4858,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png
 Cost: 3
 
 ''Fastball Special'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Soaring Flight'''
 '''X-Gene''' https://cf.geekdo-static.com/mbs/mb_26284_0.png: '''Berserk'''
 2+ Attack
@@ -4872,7 +4872,7 @@ If you have a Wound in your hand or discard pile, KO it. Otherwise, gain a Wound
 Cost: 6
 
 ''Uncanny X-Men'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Berserk''', '''Berserk''', '''Berserk'''
 Then, draw a card for each X-Men card you '''Berserked'''.
 3+ Attack
@@ -5008,7 +5008,7 @@ X-Men
 ''Bend Steel/Bend Light'' (5 copies)
 '''Divided'''
 ''Bend Steel''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Berserk'''
 1+ Attack
 Cost: 2
@@ -5089,7 +5089,7 @@ Cost: 7
 X-Men
 
 ''Life & Death Incarnate'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 KO this card.
 You may KO a card from your hand or discard pile.
 3 Recruit
@@ -5110,7 +5110,7 @@ You may put a Hero that was KO'd this turn into your discard pile.
 Cost: 6
 
 ''Driven Mad by Power'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Berserk''', '''Berserk''', '''Berserk''', '''Berserk'''
 KO all the cards you '''Berserked'''. If this card makes at least 13 Attack, then the Phoenix Force becomes corrupted by power and devours the Earth. You win, Evil wins, and all other players lose.
 6+ Attack
@@ -5335,7 +5335,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png: '''Danger Sense 1'''. If this r
 Cost: 2
 
 ''Something is Happening'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Wall-Crawl
 [COLOR=#CC0000]'''Coordinate'''[/COLOR]
 '''Danger Sense 4'''
@@ -5424,10 +5424,10 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png: Rescue a Bystander.
 Cost: 3*
 
 ''Big Impact'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Versatile 2'''
 Cost: 4*
 
@@ -5440,10 +5440,10 @@ Champions: You may KO a card from your hand or discard pile.
 Cost: 6*
 
 ''Rising Hope'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 '''Versatile 4'''
 '''Cheering Crowds'''
 Cost: 9*
@@ -5453,7 +5453,7 @@ Cost: 9*
 Champions
 
 ''Space Cop'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 0+ Attack
 '''Versatile 1'''
@@ -5482,7 +5482,7 @@ Cost: 5
 https://cf.geekdo-static.com/mbs/mb_26285_0.png
 0+ Recruit
 0+ Attack
-'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26285_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26285_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png
 For each other card you played this turn with a Recruit icon, you get +1 Recruit. For each other card you played this turn with an Attack icon, you get +1 Attack.
 Cost: 9*
 
@@ -5491,10 +5491,10 @@ Cost: 9*
 Champions
 
 ''Beloved Behemoth'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: The first time you defeat a Villain this turn, rescue a Bystander.
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: The first time you defeat a Villain this turn, rescue a Bystander.
 Cost: 4*
 
 ''Incredible Mind, Awesome Body'' (5 copies)
@@ -5506,16 +5506,16 @@ Draw a card.
 Cost: 4*
 
 ''Growing Pains'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png
 If you have a Wound in your hand or discard pile, KO it and you get +2 Attack. Otherwise, gain a Wound.
 Cost: 5*
 
 ''7th Smartest Man in the World'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
 5+ Attack
-'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26287_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 Attack for each extra card you drew this turn.
 Cost: 9*
 
@@ -5575,7 +5575,7 @@ Cost: 3
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Like Totally Smart Hulk'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 '''Outwit:''' You get +2 Attack.
 Cost: 5
@@ -5613,7 +5613,7 @@ Cost: 4
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Savage Hulk Unleashed'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Smash 4'''
 Cost 5
@@ -5651,7 +5651,7 @@ Cost: 4
 [size=8]''This sword can cut the Hulk. Imagine what it can do to you.''[/size]
 
 ''Focus The Old Power'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
 '''Outwit''': You may KO a card from your hand or discard pile.
 Cost: 6
@@ -5665,7 +5665,7 @@ Cost: 7
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Vengeful Destructor'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 Double the Attack you have.
 Cost: 7
 [size=8]''The Red King betrayed her, causing the plague of Cytoplasm Spikes that destroyed her people.''[/size]
@@ -5675,7 +5675,7 @@ Cost: 7
 Warbound
 
 ''Don't Make Me Angry'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Draw a card.
 '''Smash 2'''
@@ -5691,20 +5691,20 @@ Cost: 4
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Hulk Is King'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 When a card effect causes you to discard this card, you may return this card to your hand.
 Cost:5
 
 ''The Green Scar'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Cross-Dimensional Hulk Rampage.'''
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Cross-Dimensional Hulk Rampage.'''
 If any players gained a Wound this way, you get '''Wounded Fury.'''
 Cost: 5
 
 ''Double-Fisted Smashing'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get double Attack from each Smash this turn.
 '''Smash 3'''
@@ -5729,7 +5729,7 @@ Cost: 4
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Hiroim Redeemed'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 You get +1 Attack for every two Bystanders in your Victory Pile.
 Cost: 5
@@ -5751,7 +5751,7 @@ Cost: 7
 Avengers
 
 ''Pound For Pound'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Draw a card.
 https://cf.geekdo-static.com/mbs/mb_26287_0.png: You get +2 Attack.
@@ -5768,7 +5768,7 @@ Cost: 4
 ''Build The Suit'' (3 copies)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
 3 Recruit
-https://cf.geekdo-static.com/mbs/mb_26287_0.png, [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Transform''' this into Ultra-Massive Armor
+https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Transform''' this into Ultra-Massive Armor
 Cost: 5
 [size=8]''Tony Stark has specialized suits for many occasions. This one is specialized for may concussions.''[/size]
 
@@ -5784,7 +5784,7 @@ Cost: 6
 ''Final Battle'' (1 copy)
 https://cf.geekdo-static.com/mbs/mb_26287_0.png
 5+ Attack
-You get +2 Attack for each other https://cf.geekdo-static.com/mbs/mb_26287_0.png and/or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card you played this turn.
+You get +2 Attack for each other https://cf.geekdo-static.com/mbs/mb_26287_0.png and/or https://cf.geekdo-static.com/mbs/mb_26286_0.png card you played this turn.
 Cost: 8
 
 
@@ -5792,10 +5792,10 @@ Cost: 8
 Crime Syndicate
 
 ''Carefully Considered Smashing'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 0+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Smash 2'''
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Smash 2'''
 Cost: 3
 
 ''Threaten And Bribe'' (5 copies)
@@ -5805,7 +5805,7 @@ Choose a Villain. You can spend any combination of Recruit and Attack to fight i
 Cost: 4
 
 ''Ambitious Enforcer'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 When you defeat a Villain this turn that has 6 Attack or more, '''Transform''' this into Underworld Boss and put it on top of your deck.
 Cost: 6
@@ -5829,23 +5829,23 @@ Cost: 7
 Warbound
 
 ''Nothing Beats Rock'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Smash 2.''' If you '''Smash''' a Wound this way, KO it.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Smash 2.''' If you '''Smash''' a Wound this way, KO it.
 Cost: 2
 
 ''Move Mountains'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
 '''Outwit''': Draw a card.
 Cost: 4
 [size=8]''Nobody expects to be outwitted by a pile of rocks.''[/size]
 
 ''Forged By Fire'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Transform''' this into Lord of Granite.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Transform''' this into Lord of Granite.
 Cost: 3
 [size=8]''After a while, it gets hard to tell if you're being hit by fist-sized rocks or rock-sized fists.''[/size]
 
@@ -5859,7 +5859,7 @@ Cost: 5
 [size=8]''Korg was forced to slay his own brother Margus, whose will was broken by the Red King's Obedience Discs.''[/size]
 
 ''Kronan Tactician'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 Put all cards from the HQ on the bottom of the Hero Deck in random order. You get their total printed Attack.
 Cost: 8
@@ -5896,7 +5896,7 @@ Cost: 7
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Hive King Miek'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 6 Attack
 Look at the top three cards of your deck and put them back in any order. Then you may '''Feast'''.
 Cost: 8
@@ -5927,7 +5927,7 @@ Cost: 5
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Master of Depths'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Smash 3'''
 If you '''Smash''' a 0-cost Hero this way, KO it.
@@ -5958,7 +5958,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png: You may '''Feast.'''
 Cost: 4
 
 ''Bursting With Life'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 You may '''Feast.''' Then, if a non-grey Hero was KO'd from you deck this turn, '''Transform''' this into Torrent of Broodlings.
 Cost: 3
@@ -6010,7 +6010,7 @@ Cost: 5
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''A-Bomb'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Smash 5'''
 Cost: 6
@@ -6040,13 +6040,13 @@ Cost: 2
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Golden Guardian of Good'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You may '''Transform''' this into Agoraphobia and put it in your discard pile. If you do, you get +4 Attack.
 Cost: 6
 
 ''Rival Personalities'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 You get +1 Attack for each card that '''Transformed''' this turn.
 Cost: 4
@@ -6083,7 +6083,7 @@ Cost: 3
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Hurl Trucks'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 '''Smash 2'''
 '''Smash 2'''
@@ -6091,20 +6091,20 @@ Cost: 6
 [size=8]''Some courtroom opponents are afraid to make objections.''[/size]
 
 ''Window Of Opportunity'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
 '''Outwit''': Draw a card.
 Cost: 4
 [size=8]''Her law firm's monthly budget includes a lot of windows.''[/size]
 
 ''Radioactive Riot'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
 Once this turn, if you made at least 6 Recruit this turn, you may KO a card from your hand or discard pile.
 Cost: 6
 
 ''Jade Giantess'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Recruit
 0+ Attack
 For every 2 Recruit you made this turn, Reveal the top card of the Hero Deck, put it on the bottom of that deck, and you get that card's printed Attack.
@@ -6115,9 +6115,9 @@ Cost: 8
 Avengers
 
 ''Anger Management'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: '''Smash 3'''
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: '''Smash 3'''
 Cost: 3
 [size=8]''Sometimes the best way to control your anger is to obliterate the thing that made you mad.''[/size]
 
@@ -6137,14 +6137,14 @@ Cost: 5
 
 [COLOR=#FF0000]Transformed[/COLOR]
 ''Raging Savage'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3+ Attack
 '''Wounded Fury'''
 Cost: 6
 [size=8]''The only time Skaar isn't feeling pain is when he's making someone else feel pain.''[/size]
 
 ''Planetary-Level Revenge'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4+ Attack
 '''Wounded Fury'''
 Then, you may KO any number of Wounds from your hand and/or discard pile, then draw that many cards.
@@ -6197,7 +6197,7 @@ Cost: 3
 [size=8]''Art contains a gun''[/size]
 
 ''Perfect Teamwork'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 You get +1 Attack for each color of Hero you have.
 Cost: 4
@@ -6248,9 +6248,9 @@ Cost: 7
 Avengers
 
 ''Growing Anger'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack.
 Cost: 3
 
 ''Unstoppable Hulk'' (5 copies)
@@ -6260,15 +6260,15 @@ You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.
 Cost: 4
 
 ''Crazed Rampage'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4 Attack
 Each player gains a Wound.
 Cost: 5
 
 ''Hulk Smash!'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +5 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +5 Attack.
 Cost: 8
 
 
@@ -6316,7 +6316,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png: You get +1 Attack.
 Cost: 3
 
 ''Legendary Commander'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.
 Cost: 6
@@ -6333,9 +6333,9 @@ Cost: 8
 Avengers
 
 ''Odinson'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Recruit.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Recruit.
 Cost: 3
 [size=8]''Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.''[/size]
 
@@ -6383,7 +6383,7 @@ https://cf.geekdo-static.com/mbs/mb_26287_0.png: You may discard a card. If you 
 Cost: 5*
 
 ''Giant Ego'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2+ Attack
 '''Size-changing:''' https://cf.geekdo-static.com/mbs/mb_26287_0.png
 You get +1 Attack for each extra card you drew this turn.
@@ -6466,9 +6466,9 @@ Cost: 7
 Avengers
 
 ''One-Hit Wonder'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
-Chose one: Draw a card, or you get '''Empowered''' by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].
+Chose one: Draw a card, or you get '''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26286_0.png.
 Cost: 2
 [size=8]''Arms dealer. Stunt man, Movie star. Master of Evil. Avenger. Maybe he'll star in his own biopic.''[/size]
 
@@ -6487,10 +6487,10 @@ Put a card from the HQ on the bottom of the Hero Deck. If that card had a Recrui
 Cost: 5
 
 ''8th Wonder of the World'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4+ Attack
-'''Size-changing''' [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-Choose any number of cards from the HQ. Put them on the bottom of the Hero Deck. Then you get '''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26285_0.png and [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].
+'''Size-changing''' https://cf.geekdo-static.com/mbs/mb_26286_0.png
+Choose any number of cards from the HQ. Put them on the bottom of the Hero Deck. Then you get '''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26285_0.png and https://cf.geekdo-static.com/mbs/mb_26286_0.png.
 Cost: 8*
 
 
@@ -6505,9 +6505,9 @@ Cost: 3
 [size=8]''The amulet summons whatever boon he chooses. Sword of Light, Shield of Night, Mystical Armor, or Flying Steed.''[/size]
 
 ''Defend the Weak'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Return a 0-cost card from your discard pile to your hand.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Return a 0-cost card from your discard pile to your hand.
 Cost: 3
 [size=8]''Art contains a gun''[/size]
 
@@ -6539,7 +6539,7 @@ Cost: 3
 [size=8]''One good gaping wound deserves another.''[/size]
 
 ''Carnivore'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 '''Digest 4:''' Draw two cards.
 '''Indigestion:''' You get +2 Recruit.
@@ -6573,7 +6573,7 @@ https://cf.geekdo-static.com/mbs/mb_26284_0.png: Instead, you get both.
 Cost: 3
 
 ''Razor Teeth'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Recruit
 2 Attack
 '''Excessive Violence:''' You get +2 Recruit.
@@ -6665,11 +6665,11 @@ Cost: 8
 Venomverse
 
 ''Digest That Chimichanga'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Digest 2:''' You get +2 Attack.
 '''Indigestion:''' "Rescue" a Bystander.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Instead, you get both.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Instead, you get both.
 Cost: 2
 
 ''Shenanigans'' (5 copies)
@@ -6687,7 +6687,7 @@ Whenever you Rescue a Bystander this turn, do any "rescue" ability on it an extr
 Cost: 5
 
 ''Play to the Crowd'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 4+ Attack
 '''Digest 7:''' You get +1 Attack for each two Bystanders in your Victory Pile.
 '''Indigestion:''' "Rescue" two Bystanders.
@@ -6729,7 +6729,7 @@ Cost: 7
 Marvel Knights
 
 ''Alter Ego'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 2 Attack
 '''Switcheroo 4'''
 Cost: 3
@@ -6743,7 +6743,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png
 Cost: 4
 
 ''Crack the Case'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Recruit
 '''Switcheroo 6'''
 '''Investigate '''for a card with a Recruit icon. You may draw that card or KO it.
@@ -6760,7 +6760,7 @@ Cost: 7
 (Unaffiliated)
 
 ''Form From Ooze'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 0+ Attack
 '''Teleport'''
 You get +2 Attack, usable only against Villains in the Sewers or the Mastermind
@@ -6780,9 +6780,9 @@ You may move a Villain to another city space. If another Villain is already ther
 Cost: 5
 
 ''Eternity of Solitude'' (1 copy)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 5+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +1 Attack for each empty city space.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +1 Attack for each empty city space.
 Cost: 7
 
 
@@ -6790,10 +6790,10 @@ Cost: 7
 Avengers
 
 ''Star Power'' (5 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 1+ Attack
 '''Teleport'''
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Attack.
 Cost: 3
 [size=8]''Her cosmic punches don't just make her targets see stars. Everyone else can see them too.''[/size]
 
@@ -6805,9 +6805,9 @@ Cost: 4
 [size=8]''She hails from the Utopian Parallel to rally the Avengers with a warning.''[/size]
 
 ''Kick a Hole in Reality'' (3 copies)
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 3 Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Reveal the top card of your deck. KO it or '''Teleport''' it.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: Reveal the top card of your deck. KO it or '''Teleport''' it.
 Cost: 6
 [size=8]''She's here to take names and kick holes…in the fabric of spacetime.''[/size]
 
@@ -6917,7 +6917,7 @@ Cost: 8
 
 [size=14]'''''Massive Earthquake Generator'''''[/size]
 '''Setup''': 8 Twists.
-'''Twist''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or KOs the top card of their deck.
+'''Twist''': Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or KOs the top card of their deck.
 '''Evil Wins''': When the number of non grey Heroes in the KO pile is 3 times the number of players.
 
 [size=14]'''''Organized Crime Wave'''''[/size]
@@ -7433,7 +7433,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Evil Wins''': When the Wound Stack or Monster Pit Deck runs out.
 
 [size=14]'''''Divide and Conquer'''''[/size]
-'''Setup''': 8 Twists. 7 Heroes. Sort the Hero Deck by Hero Class. [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png (If a card has multiple Classes, break ties at random.) Put these 5 smaller, shuffled Hero Decks beneath the 5 HQ Spaces.
+'''Setup''': 8 Twists. 7 Heroes. Sort the Hero Deck by Hero Class. https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png (If a card has multiple Classes, break ties at random.) Put these 5 smaller, shuffled Hero Decks beneath the 5 HQ Spaces.
 '''Special Rules''': Whenever an HQ Space is empty, fill it with the top card of the Hero Deck below that space.
 '''Twist 1-3''': KO all Heroes in the HQ.
 '''Twist 4-8''': KO one of the Hero Decks.
@@ -7628,7 +7628,7 @@ VP: 5
 [size=14]'''''Loki'''''[/size]
 
 '''Always Leads''': Enemies of Asgard
-'''Master Strike''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
+'''Master Strike''': Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound
 Attack: 10
 VP: 5
 
@@ -7799,7 +7799,7 @@ VP: 6
 
 [size=14]'''''Galactus'''''[/size]
 
-Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png
+Cosmic Threat: https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png
 '''Always Leads''': Heralds of Galactus
 '''Master Strike''': Destroy the city space closest to Galactus. Any Villain there escapes. Put this Master Strike there.
 Galactus Wins: When the city is destroyed.
@@ -7807,13 +7807,13 @@ Attack: 20*
 VP: 7
 
 ''Cosmic Entity''
-'''Fight''': Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26285_0.png. Each player reveals any number of cards of that class, then draws that many cards.
+'''Fight''': Choose https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26285_0.png. Each player reveals any number of cards of that class, then draws that many cards.
 
 ''Force of Eternity''
 '''Fight''': When you draw a new hand of cards at the end of this turn, draw six extra cards, then discard six cards.
 
 ''Panicked Mobs''
-'''Fight''': Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26285_0.png. Each player reveals any number of cards of that class, then rescues that many Bystanders.
+'''Fight''': Choose https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26285_0.png. Each player reveals any number of cards of that class, then rescues that many Bystanders.
 
 ''Sunder the Earth''
 '''Fight''': Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ.
@@ -8681,30 +8681,30 @@ VP: 6
 === Champions ===
 
 [size=14]'''''Fin Fang Foom'''''[/size]
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 '''Always Leads''': Monsters Unleashed
 '''Master Strike''': '''Demolish''' each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile.
 '''Attack''': 20*
 '''VP''': 7
 
 [size=14]'''''Epic Fin Fang Foom'''''[/size]
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 '''Always Leads''': Monsters Unleashed
 '''Master Strike''': '''Demolish''' each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile. KO all the Heroes '''Demolished''' this way.
 '''Attack''': 24*
 '''VP''': 7
 
 ''Alien Dragon Technology''
-'''Fight''': A Hero in the HQ gets '''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png this turn.
+'''Fight''': A Hero in the HQ gets '''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png this turn.
 
 ''Flammable Acid Breath''
-'''Fight''': KO the top card of the Hero Deck. Then each other player KOs a Hero of that Hero class from their discard pile ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png).
+'''Fight''': KO the top card of the Hero Deck. Then each other player KOs a Hero of that Hero class from their discard pile (https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png).
 
 ''Multipronged Assault''
-'''Fight''': Each other player reveals at least 3 Hero Classes ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png) or gains a Wound.
+'''Fight''': Each other player reveals at least 3 Hero Classes (https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png) or gains a Wound.
 
 ''Supersonic Dive Attack''
-'''Fight''': KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png).
+'''Fight''': KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class (https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26287_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png).
 
 
 [size=14]'''''Pagliacci'''''[/size]
@@ -8795,7 +8795,7 @@ The Illuminati '''Transform'''.
 The Illuminati '''Transform'''.
 
 ''Hulkbuster's Hammer Fist''
-'''Fight''': Each other player reveals their hand and KOs a https://cf.geekdo-static.com/mbs/mb_26287_0.png or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero from their hand or discard pile.
+'''Fight''': Each other player reveals their hand and KOs a https://cf.geekdo-static.com/mbs/mb_26287_0.png or https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero from their hand or discard pile.
 The Illuminati '''Transform'''.
 
 ''Zom's Manacles of Living Bondage''
@@ -8819,7 +8819,7 @@ King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape
 '''VP''': 6
 
 ''Fury of the Green Scar''
-'''Fight''': Each other player reveals their hand and discards a Hero that isn't grey and isn't [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].
+'''Fight''': Each other player reveals their hand and discards a Hero that isn't grey and isn't https://cf.geekdo-static.com/mbs/mb_26286_0.png.
 King Hulk '''Transforms'''.
 
 ''Oath of the Warbound''
@@ -8831,7 +8831,7 @@ King Hulk '''Transforms'''.
 King Hulk '''Transforms'''.
 
 ''Rule By the Strongest''
-'''Fight''': You get +1 Recruit for each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes.
+'''Fight''': You get +1 Recruit for each of your https://cf.geekdo-static.com/mbs/mb_26286_0.png Heroes.
 King Hulk '''Transforms'''.
 
 
@@ -8952,7 +8952,7 @@ This Mastermind '''Transforms'''.
 [size=14]'''''Loki'''''[/size]
 
 '''Always Leads''': Enemies of Asgard
-'''Master Strike''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound
+'''Master Strike''': Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound
 Attack: 10
 VP: 5
 
@@ -9255,12 +9255,12 @@ Ultron is worth +1 VP for each https://cf.geekdo-static.com/mbs/mb_26287_0.png H
 '''VP:''' 2
 
 ''Maestro'' (2 copies)
-'''Fight:''' For each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes, KO one of your Heroes.
+'''Fight:''' For each of your https://cf.geekdo-static.com/mbs/mb_26286_0.png Heroes, KO one of your Heroes.
 '''Attack:''' 6
 '''VP:''' 4
 
 ''Zzzax'' (2 copies)
-'''Fight:''' Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+'''Fight:''' Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound.
 '''Escape:''' Same effect.
 '''Attack:''' 5
 '''VP:''' 3
@@ -9439,7 +9439,7 @@ Bribe
 
 ''Tombstone'' (2 copies)
 Bribe
-'''Escape:''' Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+'''Escape:''' Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound.
 '''Attack:''' 8*
 '''VP:''' 4
 
@@ -9495,8 +9495,8 @@ Cosmic Threat: https://cf.geekdo-static.com/mbs/mb_26283_0.png
 '''VP:''' 5
 
 ''Terrax the Tamer'' (2 copies)
-Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-'''Ambush:''' For each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero in the HQ, Terrax captures a Bystander.
+Cosmic Threat: https://cf.geekdo-static.com/mbs/mb_26286_0.png
+'''Ambush:''' For each https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero in the HQ, Terrax captures a Bystander.
 '''Attack:''' 11*
 '''VP:''' 5
 
@@ -9965,7 +9965,7 @@ Overrun: Each player reveals an https://cf.geekdo-static.com/mbs/mb_26284_0.png 
 
 ''Zombie Loki'' (1 copy)
 '''Ambush:''' '''Rise of the Living Dead'''
-'''Escape:''' Loki ascends to become a new Mastermind. He gains the ability, '''"Master Strike:''' Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]  Hero or gains a Wound."
+'''Escape:''' Loki ascends to become a new Mastermind. He gains the ability, '''"Master Strike:''' Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png  Hero or gains a Wound."
 '''Attack:''' 8
 '''VP:''' 6
 
@@ -10066,7 +10066,7 @@ You can't defeat Zombie Venom unless you have a https://cf.geekdo-static.com/mbs
 '''Fight:''' Gain this as a Hero.
 '''Attack:''' 6
 -----------------
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 You get +1 Attack for each color of Hero you have
 0+ Attack
 
@@ -10291,7 +10291,7 @@ While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.
 '''Fight:''' Gain this as a Hero.
 '''Attack:''' 5
 -----------------
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
 https://cf.geekdo-static.com/mbs/mb_26287_0.png: Draw a card.
 2 Attack
 
@@ -10883,8 +10883,8 @@ https://cf.geekdo-static.com/mbs/mb_26285_0.png
 '''Fight:''' Gain this as a Hero.
 '''Attack:''' 5
 ---------
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-'''X-Gene''' [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Draw a card.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
+'''X-Gene''' https://cf.geekdo-static.com/mbs/mb_26286_0.png: Draw a card.
 2 Attack
 
 ''Dark Marvel Girl'' (1 copy)
@@ -10924,7 +10924,7 @@ https://cf.geekdo-static.com/mbs/mb_26283_0.png
 '''VP:''' 2
 
 ''Smasher'' (2 copies)
-'''Ambush:''' Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or discards a card.
+'''Ambush:''' Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or discards a card.
 '''Fight:''' KO a card from your discard pile.
 '''Attack:''' 5
 '''VP:''' 3
@@ -11059,13 +11059,13 @@ Villain --- Shi'ar Imperial Guard
 '''Attack:''' 6
 
 ''Groot from Planet X'' (1 copy)
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png
 '''Fight:''' Two Bystanders from the Bystander Stack enter the city as 3 Attack "Splintered Half-Groot" Villains. When you fight one, rescue it as a Bystander.
 '''Attack:''' 6*
 '''VP:''' 2
 
 ''Monsteroso'' (1 copy)
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png
 '''Fight:''' When you draw a new hand of cards at the end of this turn, draw an extra card.
 '''Attack:''' 5*
 '''VP:''' 2
@@ -11082,7 +11082,7 @@ You can't fight Orrgo unless you have already defeated another Villain this turn
 '''VP:''' 3
 
 ''Tim Boo Ba'' (1 copy)
-'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
+'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png
 '''Fight:''' All Heroes currently in the HQ cost 1 less this turn.
 '''Attack:''' 12*
 '''VP:''' 5
@@ -11219,7 +11219,7 @@ This Villain gets +1 Attack for each Bystander in the city.
 
 ''Enchain the Hulk'' (1 copy)
 '''Trap!
-By End of Turn''': Discard two cards of the same Hero Class or recruit two cards of the same Hero Class. ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png, but not grey)
+By End of Turn''': Discard two cards of the same Hero Class or recruit two cards of the same Hero Class. (https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png, but not grey)
 '''Or Suffer''': ''(After you draw your new hand)'' '''Cross-Dimensional Hulk Rampage
 VP''': 4
 
@@ -11292,7 +11292,7 @@ Primus Vand gets +1 Attack for each Villain next to him.
 [size=14]'''''U-Foes'''''[/size]
 
 ''Ironclad'' (1 copy)
-'''Fight''': Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero of KO's a Hero that costs 1 or more from their discard pile.
+'''Fight''': Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero of KO's a Hero that costs 1 or more from their discard pile.
 '''Escape''': Same effect.
 '''Attack''': 6
 '''VP''': 4
@@ -11424,7 +11424,7 @@ By End of Turn''': Put a Warbound Villain and Henchman Villain from your Victory
 
 ''Lt. Gen “Thunderbolt” Ross'' (2 copies)
 '''Ambush:'''
-Each Player reveals their hand. Each player with any [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] cards must discard one of them or gain a wound.
+Each Player reveals their hand. Each player with any https://cf.geekdo-static.com/mbs/mb_26286_0.png cards must discard one of them or gain a wound.
 '''Escape:''' Same effect.
 '''Attack:''' 5
 '''VP:''' 3
@@ -11534,8 +11534,8 @@ Raza gets +1 Attack for each Bystander he has.
 '''VP:''' 5
 
 ''Brutish Ultron-14'' (1 copy)
-'''Empowered''' by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-'''Fight:''' Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+'''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26286_0.png
+'''Fight:''' Each player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound.
 '''Escape:''' Same effect.
 '''Attack:''' 5+
 '''VP:''' 4
@@ -11562,7 +11562,7 @@ Raza gets +1 Attack for each Bystander he has.
 '''VP:''' 3
 
 ''Gigantus'' (1 copy)
-'''Microscopic Size-Changing:''' [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+'''Microscopic Size-Changing:''' https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png
 '''Fight:''' KO one of your Heroes.
 '''Attack:''' 7*
 '''VP:''' 4
@@ -11659,8 +11659,8 @@ Draw a card.
 '''Fight:''' This '''Symbiote Bonds''' with a Henchman Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.
 '''Attack:''' 5
 -----------------
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: You get +2 Attack.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png
+https://cf.geekdo-static.com/mbs/mb_26286_0.png: You get +2 Attack.
 '''Attack:''' 2+
 
 
@@ -11780,9 +11780,9 @@ Ambush: Rise of the Living Dead
 '''Attack''': 3
 -----
 Team: Avengers
-Class: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/https://cf.geekdo-static.com/mbs/mb_26285_0.png
+Class: https://cf.geekdo-static.com/mbs/mb_26286_0.png/https://cf.geekdo-static.com/mbs/mb_26285_0.png
 2+ Recruit
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] https://cf.geekdo-static.com/mbs/mb_26285_0.png: You get +1 Recruit.
+https://cf.geekdo-static.com/mbs/mb_26286_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png: You get +1 Recruit.
 
 
 === Secret Wars Volume 2 ===
@@ -12042,7 +12042,7 @@ Reveal the top two cards of the Villain Deck. Play a Master Strike you revealed.
 ''Attack:'' 6
 
 '''Pummel'''
-Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.
+Each other player reveals a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero or gains a Wound.
 ''Attack:'' 4
 
 
@@ -12268,7 +12268,7 @@ An Abomination Villain's Attack can go up and down as the Villain moves through 
 Matching the theme of division and duality, Civil War introduces "Divided Cards," which have two miniature cards printed on the same card.
 * You recruit a Divided Card from the HQ as normal by paying its cost. Each side of a Divided Card shows the same cost. (If it costs "3" on each side, you pay only 3 Recruit, not 6.)
 * When you play a Divided Card, you choose which side to play. You generate all the Recruit, Attack, and special abilities of that side as normal. You ignore the other side, as if it doesn't exist.
-* Each side of a Divided Card has a different Hero Class, like [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] or https://cf.geekdo-static.com/mbs/mb_26285_0.png. You can play the [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] side to get ready to use a Superpower Ability that triggers on [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] cards later in your turn.
+* Each side of a Divided Card has a different Hero Class, like https://cf.geekdo-static.com/mbs/mb_26286_0.png or https://cf.geekdo-static.com/mbs/mb_26285_0.png. You can play the https://cf.geekdo-static.com/mbs/mb_26286_0.png side to get ready to use a Superpower Ability that triggers on https://cf.geekdo-static.com/mbs/mb_26286_0.png cards later in your turn.
 * Different sides of Divided Cards often let you choose between Recruit, Attack, drawing cards, and other effects. Choose carefully which side to play!
 * While a Divided Card is in your hand or the HQ, it counts as all its Hero Classes, Teams and Hero Names. But once you play it, the card only counts as the side you chose.
 * When sorting and setting up, always use the Hero Name on the left side of a Divided Card.
@@ -12278,7 +12278,7 @@ Matching the theme of division and duality, Civil War introduces "Divided Cards,
 This keyword represents Heroes and Villains using superpowers to massively change their size.
 * Some Hero cards say, "Size-Changing: https://cf.geekdo-static.com/mbs/mb_26283_0.png." This means "You can recruit this card for 2 Recruit less if you played a https://cf.geekdo-static.com/mbs/mb_26283_0.png card this turn."
 * Likewise, some Villain cards say, "Size-Changing: https://cf.geekdo-static.com/mbs/mb_26287_0.png." This means "You can fight this Villain for 2 Attack less if you played a https://cf.geekdo-static.com/mbs/mb_26287_0.png card this turn."
-* Some Divided Cards say "Size-Changing: https://cf.geekdo-static.com/mbs/mb_26287_0.png" on one side and "Size-Changing: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" on the other side. You can recruit either side of the card with its own Size-Changing discount, but you can't get both discounts at once.
+* Some Divided Cards say "Size-Changing: https://cf.geekdo-static.com/mbs/mb_26287_0.png" on one side and "Size-Changing: https://cf.geekdo-static.com/mbs/mb_26286_0.png" on the other side. You can recruit either side of the card with its own Size-Changing discount, but you can't get both discounts at once.
 
 '''Phasing'''
 This keyword represents Heroes becoming insubstantial and moving through solid objects.
@@ -12337,7 +12337,7 @@ signature teamwork.
 * Some Heroes say things like "X-Gene https://cf.geekdo-static.com/mbs/mb_26285_0.png: You get +2 Attack." This means "If you have a https://cf.geekdo-static.com/mbs/mb_26285_0.png card in your discard pile, you get +2 Attack." You can use a card's X-Gene ability only if you have the specified kind of card in your discard pile.
 * You can only use a card's X-Gene ability once, no matter how many matching cards you have in your discard pile.
 * Remember: when you play a card during your turn, it stays in front of you until the end of turn. Then all the cards you played that turn go to the discard pile. So if you have an empty discard pile, you can't play a https://cf.geekdo-static.com/mbs/mb_26287_0.png card from your hand, then immediately play a card with "X-Gene https://cf.geekdo-static.com/mbs/mb_26287_0.png" and use that X-Gene ability.
-* One cool combo is to recruit a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero into your discard pile, then play your "X-Gene [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" card, and you'll get to use its X-Gene ability.
+* One cool combo is to recruit a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero into your discard pile, then play your "X-Gene https://cf.geekdo-static.com/mbs/mb_26286_0.png" card, and you'll get to use its X-Gene ability.
 
 '''Piercing Energy''': This keyword represents X-Men using psychic knives & sonic screams to pierce enemy defenses.
 * Some Heroes give you a new kind of points called "Piercing Energy," using the Piercing icon. You can fight a Villain or Mastermind by spending Piercing points equal to that enemy's printed Victory Points value (VP). You ignore that enemy's Attack and any Attack modifiers.
@@ -12416,8 +12416,8 @@ You can only Coordinate one card to each player on their turn. However, multiple
 
 '''Size-Changing''': This keyword represents Heroes and Villains using superpowers to stretch or massively change their size. It's also used by characters that can change the size of a weapon, technology, or energy. It first appeared in ''Legendary: Civil War'', but in this set it has a new twist.
 ...
-* As a new Twist, some Heroes and Villains in this set say things like "'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26283_0.png." If you played any [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes this turn, the cost is 2 less. If you played any https://cf.geekdo-static.com/mbs/mb_26283_0.png Heroes, the cost is 2 less. If you played both a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero and a https://cf.geekdo-static.com/mbs/mb_26283_0.png Hero this turn, then the cost is 4 less.
-* Fin Fang From and one of his Monsters Unleashed even say "'''Size-Changing''': [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png". You can pay 2 Attack less to fight them for each of these Hero Classes you played this turn.
+* As a new Twist, some Heroes and Villains in this set say things like "'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png." If you played any https://cf.geekdo-static.com/mbs/mb_26286_0.png Heroes this turn, the cost is 2 less. If you played any https://cf.geekdo-static.com/mbs/mb_26283_0.png Heroes, the cost is 2 less. If you played both a https://cf.geekdo-static.com/mbs/mb_26286_0.png Hero and a https://cf.geekdo-static.com/mbs/mb_26283_0.png Hero this turn, then the cost is 4 less.
+* Fin Fang From and one of his Monsters Unleashed even say "'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26286_0.png, https://cf.geekdo-static.com/mbs/mb_26284_0.png, https://cf.geekdo-static.com/mbs/mb_26283_0.png, https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png". You can pay 2 Attack less to fight them for each of these Hero Classes you played this turn.
 * [u]Note[/u]: For any Size-Changing card, it doesn't matter how many Heroes you played -- it only maters whether or not you played any Heroes of that Hero class.
 * After you've recruited a card, Size-Changing doesn't do anything else on that card.
 * If a Hero in the HQ already has "'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26287_0.png" and it gains "'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png" from another special ability like the Sporr Villain, it just ends up with "'''Size-Changing''': https://cf.geekdo-static.com/mbs/mb_26287_0.png, https://cf.geekdo-static.com/mbs/mb_26285_0.png." A card can't have Size-Changing for the same Hero Class twice.
@@ -12497,12 +12497,12 @@ Far beyond other Heroes that can stretch or grow, Ant-Man and Wasp can change th
 This keyword represents Heroes and Villains who
 draw power from ambient energy, technology, or
 superpowers around them.
-* Some Heroes say things like "You get '''Empowered''' by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]." This means '''"You get +1 Attack for each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card in the HQ."'''
+* Some Heroes say things like "You get '''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26286_0.png." This means '''"You get +1 Attack for each https://cf.geekdo-static.com/mbs/mb_26286_0.png card in the HQ."'''
 * Likewise, some Villains and Masterminds say things like "'''Empowered''' by https://cf.geekdo-static.com/mbs/mb_26287_0.png". This means '''"This gets +1 Attack for each https://cf.geekdo-static.com/mbs/mb_26287_0.png card in the HQ."'''
 * As cards enter and leave the HQ, an Empowered card can get stronger or weaker. You only check the Attack bonus at the moment you play your Empowered Hero or at the moment you fight the Empowered enemy.
 * One clever move is to recruit a Hero from the HQ at the right time, changing the colors in the HQ to weaken an Empowered enemy or try to strengthen an Empowered Hero in your hand.
 * Some cards are even "Double Empowered" or "Triple Empowered" meaning that they get +2 Attack or +3 Attack for each appropriate card in the HQ.
-* (A multicolored or divided card from other sets counts if either half is the correct color. For example, an "Empowered by https://cf.geekdo-static.com/mbs/mb_26285_0.png and [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" ability can get +1 Attack from a https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png card or from a https://cf.geekdo-static.com/mbs/mb_26284_0.png [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] card. However, a "https://cf.geekdo-static.com/mbs/mb_26285_0.png [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]" card in the HQ would only give +1 Attack, not +2 Attack.)
+* (A multicolored or divided card from other sets counts if either half is the correct color. For example, an "Empowered by https://cf.geekdo-static.com/mbs/mb_26285_0.png and https://cf.geekdo-static.com/mbs/mb_26286_0.png" ability can get +1 Attack from a https://cf.geekdo-static.com/mbs/mb_26283_0.png https://cf.geekdo-static.com/mbs/mb_26285_0.png card or from a https://cf.geekdo-static.com/mbs/mb_26284_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png card. However, a "https://cf.geekdo-static.com/mbs/mb_26285_0.png https://cf.geekdo-static.com/mbs/mb_26286_0.png" card in the HQ would only give +1 Attack, not +2 Attack.)
 
 '''Chivalrous Duel'''
 This keyword represents how Morgan le Fay and the knights of her "Queen's Vengeance" hail from a realm of honorable single combat. You can't gang up on an enemy in a Chivalrous Duel – you have to pick just one Hero Name to duel the enemy.
