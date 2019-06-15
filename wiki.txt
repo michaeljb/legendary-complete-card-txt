@@ -8746,7 +8746,7 @@ As killer clowns go, Pagliacci is not one you want to find under your bed.
 '''Attack''': 6*
 '''VP''': 6
 
-[size=14]'''''Red Hulk [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''Red Hulk (Mastermind, Transformed)'''''[/size]
 
 '''Wounded Fury'''
 You can't fight Helicopters, and they don't stop you from fighting Red Hulk.
@@ -8779,7 +8779,7 @@ This Mastermind gets +4 Attack unless you '''Outwit''' them.
 '''Attack''': 11+
 '''VP''': 7
 
-[size=14]'''''Illuminati, Open Warfare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''Illuminati, Open Warfare (Mastermind, Transformed)'''''[/size]
 
 Whenever a card effect causes a player to draw any number of cards, that player must then also discard a card.
 '''Master Strike''': Each player reveals their hand and discards two cards that each cost between 5 and 8. The Illuminati '''Transform'''.
@@ -8811,7 +8811,7 @@ King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape
 '''Attack''': 9+
 '''VP''': 6
 
-[size=14]'''''King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR]'''''[/size]
+[size=14]'''''King Hulk, Worldbreaker (Mastermind, Transformed)'''''[/size]
 
 '''Wounded Fury'''
 '''Master Strike''': Each player reveals their hand, then KO's a card from their hand or discard pile that has the same card name as a card in the HQ. King Hulk '''Transforms'''.
@@ -8842,7 +8842,7 @@ All cards' '''Outwit''' abilities require four different costs instead of three.
 '''Attack''': 9
 '''VP''': 6
 
-[size=14]'''''M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''M.O.D.O.K., Network Nightmare (Mastermind, Transformed)'''''[/size]
 You can only fight M.O.D.O.K with Recruit, not Attack.
 '''Master Strike''': Each player who can't '''Outwit''' M.O.D.O.K. KO's a non-grey Hero from their discard pile. M.O.D.O.K. '''Transforms'''.
 '''Attack''': 8*
@@ -8872,7 +8872,7 @@ You can't fight the Red King while any Villains are in the city.
 '''Attack''': 7*
 '''VP''': 6
 
-[size=14]'''''The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''The Red King, Power Armored (Mastermind, Transformed)'''''[/size]
 '''Master Strike''': The Red King Transforms, then play another card from the Villain Deck.
 '''Attack''': 10
 '''VP''': 6
@@ -8901,7 +8901,7 @@ The Red King '''Transforms'''.
 '''Attack''': 10
 '''VP''': 6
 
-[size=14]'''''The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]'''''[/size]
+[size=14]'''''The Void (Mastermind, Transformed)'''''[/size]
 '''Wounded Fury'''
 '''Master Strike''': '''Feast''' on each player. If this feasts on a player's grey Hero, that player gains a Wound.
 The Void '''Transforms'''.
@@ -9971,7 +9971,7 @@ Overrun: Each player reveals an https://cf.geekdo-static.com/mbs/mb_26284_0.png 
 
 ''Zombie Madame Hydra'' (1 copy)
 '''Ambush:''' '''Rise of the Living Dead'''
-'''Fight:''' KO one of your [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Heroes or [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] Allies.
+'''Fight:''' KO one of your S.H.I.E.L.D. Heroes or HYDRA Allies.
 '''Attack:''' 4
 '''VP:''' 2
 
