@@ -2,7 +2,7 @@
 
 [threadid=1243890 Original forum thread]
 
-[size=16]'''Bystanders'''[/size]
+== '''Bystanders''' ==
 
 === Legendary ===
 
@@ -290,7 +290,7 @@ VP: 1*
 
 
 
-[size=16]'''Setup Cards'''[/size]
+== '''Setup Cards''' ==
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
@@ -315,7 +315,7 @@ Cost: 3
 
 
 
-[size=16]'''Sidekicks and New Recruits'''[/size]
+== '''Sidekicks and New Recruits''' ==
 
 === Villains ===
 
@@ -395,7 +395,7 @@ Cost: 2
 
 
 
-[size=16]'''Starting Deck Cards'''[/size]
+== '''Starting Deck Cards''' ==
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
@@ -430,7 +430,7 @@ Cost: 0
 
 
 
-[size=16]'''Wounds and Bindings'''[/size]
+== '''Wounds and Bindings''' ==
 
 === Legendary === and also === Marvel Studios Phase 1 ===
 
@@ -466,7 +466,7 @@ Cost: 0
 
 [size=10]'''''Subdermal Tracker'''''[/size] (2 copies)
 '''Healing''': You may play a card from the Villain Deck. If you do, KO this Wound.
-[size=16]'''Heroes and Allies'''[/size]
+== '''Heroes and Allies''' ==
 
 === Legendary ===
 
@@ -6849,7 +6849,7 @@ Cost: 4
 You may choose a number from 1 to 5. A Hero in your hand gains '''Switcheroo''' for that number.
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may choose a number from 1 to 8 instead.
 Cost: 8
-[size=16]'''Schemes and Plots'''[/size]
+== '''Schemes and Plots''' ==
 
 === Legendary ===
 
@@ -7601,7 +7601,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Twist 6, 8, 10:''' The Mastermind uses this Twist to copy the Master Strike ability of the Drained Mastermind.
 '''Twist 11:''' Evil Wins!
 '''Special Rules:''' If Tactics or Master Strikes mention the Drained Mastermind, use the main Mastermind instead.
-[size=16]'''Masterminds and Commanders'''[/size]
+== '''Masterminds and Commanders''' ==
 
 === Legendary ===
 
@@ -9138,7 +9138,7 @@ Slanderous Editorial
 
 That Menace Spider-Man!
 '''Fight:''' Each other player reveals their hand and discard a Spider-Friends Hero. Any player who cannot must instead put a non-grey card from their hand into the Angry Mobs stack.
-[size=16]'''Villains and Adversaries'''[/size]
+== '''Villains and Adversaries''' ==
 
 
 === Legendary ===
@@ -11700,7 +11700,7 @@ Reveal the top card of your deck. If it costs 2 or less, draw it.
 '''Ambush:''' This Symbiote Bonds with the Mastermind. When you fight the Mastermind, defeat Symbiotic Armor and KO one of your Heroes instead of taking a Tactic.
 '''Attack:''' 1
 '''VP:''' 6
-[size=16]'''Henchmen and Backup Adversaries'''[/size]
+== '''Henchmen and Backup Adversaries''' ==
 
 === Legendary ===
 
@@ -11919,7 +11919,7 @@ This Villain gets +1 Attack for each Bystander in the KO pile.
 '''Fight:''' Reveal the top two cards of your deck. Put any that cost 2 Cost or less into your hand. Put the rest back in any order.
 '''Attack: '''3
 '''VP: '''1
-[size=16]'''Ambitions'''[/size]
+== '''Ambitions''' ==
 
 === Secret Wars Volume 1 ===
 
@@ -12091,7 +12091,7 @@ This card becomes a Master Strike that takes effect immediately. Then, this card
 
 
 
-[size=16]'''Horrors'''[/size]
+== '''Horrors''' ==
 
 === X-Men ===
 
@@ -12154,7 +12154,7 @@ This Horror Ascends to become a new 9-Attack "Master Plan" Token Mastermind wort
 
 '''Tyrant Mastermind'''
 The Mastermind as +3 Attack.
-[size=16]'''Keywords'''[/size]
+== '''Keywords''' ==
 
 === Dark City ===
 
