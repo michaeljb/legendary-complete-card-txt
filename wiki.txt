@@ -7556,7 +7556,7 @@ Other Twists: If there's a Villain in that fortified city space, KO a bystander.
 '''Setup:''' 11 Twists. 4-5 Players: Add another Hero.
 '''Twist:''' Put the top card of the Hero Deck next to the Scheme in an "Evolution" Pile. Then this Twist enters the city as an "Evolved Ultron" Villain.
 '''Special Rules:''' Evolved Ultrons have 4 Attack and are '''Empowered''' by each color in the Evolution pile. They're worth 6VP.
-'''Evil Wins:''' When 7 Evolved Ultrons are in the city and/or Escape Pile.[/q]
+'''Evil Wins:''' When 7 Evolved Ultrons are in the city and/or Escape Pile.
 
 [size=14]'''''Pull Earth into Medieval Times'''''[/size]
 '''Setup:''' 9 Twists.
@@ -8946,7 +8946,7 @@ This Mastermind '''Transforms'''.
 '''Fight:''' Each other player reveals a https://cf.geekdo-static.com/mbs/mb_26287_0.png Hero or discards down to 4 cards.
 
 ''Unexpected Betrayal ''
-'''Fight:''' If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.[/q]
+'''Fight:''' If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.
 
 
 [size=14]'''''Loki'''''[/size]
