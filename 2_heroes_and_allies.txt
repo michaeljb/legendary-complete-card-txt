@@ -1,4 +1,4 @@
-[size=16][b]Heroes and Allies[/b][/size]
+﻿[size=16][b]Heroes and Allies[/b][/size]
 
 == Legendary ==
 
@@ -4188,13 +4188,13 @@ You get +1 Recruit for each other card you played this turn that costs 4 or more
 Cost: 4
 [size=8][i]Flavor: The deeper he digs, the bigger the conspiracy becomes.[/i][/size]
 
-Unbreakable Cage (3 copies)
+[i]Unbreakable Cage[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 Once per turn, if a player would gain a Wound, you may reveal this card and [b]Investigate[/b] for any card instead.
 4 Attack
 Cost: 6
 
-Weight of the World (1 copy)
+[i]Weight of the World[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 You get +2 Attack for each other card you played this turn that costs 4 or more.
 5+ Attack
@@ -4253,7 +4253,7 @@ Cost: 3
 [b]Lightshow[/b]: You get +2 Recruit.
 2+ Recruit
 Cost: 4
-------------
+-----------------
 [i]Blazing Fists (Northstar)[/i]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [b]Berserk[/b]
@@ -4382,7 +4382,7 @@ X-Men
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
 Cost: 3
-------------
+-----------------
 [i]Unpredictable (Wolverine)[/i]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 [b]Berserk[/b], [b]Berserk[/b]
@@ -4544,7 +4544,7 @@ X-Men
 [b]Berserk[/b]
 1+ Attack
 Cost: 2
-------------
+-----------------
 [i]Bend Light[/i]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 [b]Lightshow[/b]: You get +2 Recruit.
@@ -4557,7 +4557,7 @@ Cost: 2
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2 Attack
 Cost: 3
-------------
+-----------------
 [i]Split Eardrums[/i]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 [b]Piercing Energy[/b]
@@ -4570,7 +4570,7 @@ Cost: 3
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 Draw two cards.
 Cost: 5
-------------
+-----------------
 [i]Channel Fire[/i]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 You get +1 Attack for each different Hero Class in your discard pile.
@@ -5443,7 +5443,7 @@ Champions
 Draw a card.
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: [b]Smash 3[/b]
 Cost: 3
-[size=8]There's more than one way to smash a problem.[i][/i][/size]
+[size=8][i]There's more than one way to smash a problem.[/i][/size]
 
 [i]Heart Of The Ocean[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
