@@ -5232,8 +5232,8 @@ Cost:5
 [i]The Green Scar[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 3+ Attack
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Hulk Rampage.[/b]
-If any players gained a Wound this way, you get [b]Wounded Fury.[/b]
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Cross-Dimensional Hulk Rampage[/b].
+If any players gained a Wound this way, you get [b]Wounded Fury[/b].
 Cost: 5
 
 [i]Double-Fisted Smashing[/i] (1 copy)
@@ -5365,7 +5365,7 @@ Warbound
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 0+ Attack
 Draw a card.
-[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Smash 2.[/b] If you [b]Smash[/b] a Wound this way, KO it.
+[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Smash 2[/b]. If you [b]Smash[/b] a Wound this way, KO it.
 Cost: 2
 
 [i]Move Mountains[/i] (5 copies)
@@ -5411,7 +5411,7 @@ Cost: 3
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 Recruit
 Look at the top card of your deck. Put it back on the top or bottom.
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may [b]Feast.[/b]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may [b]Feast[/b].
 Cost: 4
 
 [i]Endless Appetite[/i] (3 copies)
@@ -5424,7 +5424,7 @@ Cost: 5
 [i]Metamorphosis[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 5 Recruit
-You may [b]Feast.[/b] Then, if a card with an Attack icon was KO'd from your deck this turn, [b]Transform[/b] this into Hive King Miek.
+You may [b]Feast[/b]. Then, if a card with an Attack icon was KO'd from your deck this turn, [b]Transform[/b] this into Hive King Miek.
 Cost: 7
 
 [COLOR=#FF0000]Transformed[/COLOR]
@@ -5487,13 +5487,13 @@ Cost: 2
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 2 Attack
 Look at the top card of your deck. Discard it or put it back.
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may [b]Feast.[/b]
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may [b]Feast[/b].
 Cost: 4
 
 [i]Bursting With Life[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 2 Recruit
-You may [b]Feast.[/b] Then, if a non-grey Hero was KO'd from you deck this turn, [b]Transform[/b] this into Torrent of Broodlings.
+You may [b]Feast[/b]. Then, if a non-grey Hero was KO'd from you deck this turn, [b]Transform[/b] this into Torrent of Broodlings.
 Cost: 3
 
 [COLOR=#FF0000]Transformed[/COLOR]
@@ -5657,7 +5657,7 @@ Cost: 3
 [i]Scarred Past[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2+ Attack
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Wounded Fury.[/b]
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Wounded Fury[/b].
 Cost: 3
 [size=8][i]Getting hurt makes Skaar stronger. Growing up without parents gave him a lot to work with.[/i][/size]
 
