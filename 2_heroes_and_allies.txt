@@ -4793,21 +4793,21 @@ Cost: 2
 [i]Recon Drone Connection[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 0+ Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [b]Danger Sense 3[/b]
 Cost: 2
 
 [i]Spider-Grip[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2 Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Choose two Villains in adjacent city spaces. Each of them gets -1 Attack this turn.
 Cost: 2
 
 [i]Friendly Neighborhood ...[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 0+ Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 You get +3 Attack usable only against the Mastermind or Villains on the Rooftops or Streets.
 Cost: 2
@@ -4849,7 +4849,7 @@ Spider Friends
 [i]Avenger in Training[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2+ Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Villain, you may fight it.
 Cost: 2
 
@@ -4862,14 +4862,14 @@ Cost: 2
 [i]Homemade Web-Shooters[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
 2+ Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Bystander, rescue it.
 Cost: 2
 
 [i]Something is Happening[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 0+ Attack
-Wall-Crawl
+[b]Wall-Crawl[/b]
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 [b]Danger Sense 4[/b]
 If this revealed any Scheme Twists, you may shuffle the Villain Deck.
