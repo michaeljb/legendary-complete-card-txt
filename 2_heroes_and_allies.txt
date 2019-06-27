@@ -3908,16 +3908,16 @@ HYDRA
 
 [i]Bullets Flying, Bob Hiding[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Excessive Violence[/b]: Draw a card.
 2 1/2 Recruit
+[b]Excessive Violence[/b]: Draw a card.
 Cost: 3
 [size=8][i]Flavor: "When I'm involved in excessive violence, I'm usually the victim!"[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]HYDRA Half-Wit[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-Reveal the top card of your deck. If it's HYDRA or S.H.I.E.L.D., draw it.
 1 1/2 Attack
+Reveal the top card of your deck. If it's HYDRA or S.H.I.E.L.D., draw it.
 Cost: 2
 [size=8][i]Flavor: "At first I thought HYDRA was a facial moisturizer."[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
@@ -3930,8 +3930,8 @@ Cost: 6
 
 [i]Epic Middle Manager[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Excessive Violence[/b]: KO up to two HYDRA and/or S.H.I.E.L.D. Heroes from your discard pile. Draw a card for each Hero KO'd this way.
 5 Attack
+[b]Excessive Violence[/b]: KO up to two HYDRA and/or S.H.I.E.L.D. Heroes from your discard pile. Draw a card for each Hero KO'd this way.
 Cost: 8
 [size=8][i]Art contains a gun[/i][/size]
 
@@ -3941,8 +3941,8 @@ Mercs for Money
 
 [i]It'll Grow Back[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-If you have a Wound in your hand or discard pile, KO it at you get +1 Attack. Otherwise, gain a Wound. These days, getting wounded mostly just pisses me off.
 2 1/2+ Attack
+If you have a Wound in your hand or discard pile, KO it at you get +1 Attack. Otherwise, gain a Wound. These days, getting wounded mostly just pisses me off.
 Cost: 4
 
 [i]Nighttime Is the Right Time[/i] (5 copies)
@@ -3988,15 +3988,15 @@ Cost: 3
 
 [i]Surprise Chainsaw[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[b]Excessive Violence[/b]: When you have a new hand of cards at the end of this turn, draw an extra card.
 4 1/2 Attack
+[b]Excessive Violence[/b]: When you have a new hand of cards at the end of this turn, draw an extra card.
 Cost: 6
 [size=8][i]Flavor: This card's a little hacky.[/i][/size]
 
 [i]Electroplasmic Insanity[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Excessive Violence[/b]: Recruit a Hero from the HQ for free. Then, you may shuffle your discard pile into your deck.
 5 Attack
+[b]Excessive Violence[/b]: Recruit a Hero from the HQ for free. Then, you may shuffle your discard pile into your deck.
 Cost: 8
 
 
@@ -4013,9 +4013,9 @@ Cost: 2
 
 [i]Merc's Gotta Get Paid[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Excessive Violence: You get +1 Recruit.
 0+ Recruit
 2 1/2 Attack
+Excessive Violence: You get +1 Recruit.
 Cost: 3
 [size=8][i]Flavor: Mercenary - (noun) - one who converts carnage into cash.[/i][/size]
 
@@ -4029,7 +4029,7 @@ Cost: 5
 [i]Cut in Half[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 2 1/2 Attack
-Choose a Villalin. Cut its Attack in half this turn.
+Choose a Villain. Cut its Attack in half this turn.
 Mercs for Money: Cut the Mastermind's Attack in half for one fight this turn.
 Cost: 7
 [size=8][i]Flavor: So 11 becomes 5 1/2. This is like 4th grade math - Try to keep up.[/i][/size]
@@ -4040,16 +4040,16 @@ Mercs for Money
 
 [i]Deck Chairs on the Titanic[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1 1/2 Attack
 Draw a card.
 You may move a Villain to an adjacent city space. If another Villain is already there, swap them.
-1 1/2 Attack
 Cost: 4
 
 [i]Superpowered Swimsuit[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+1/2+ Attack
 Draw a card.
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You get +2 Attack, usable only against Villains in the Sewers or Bridge or the Mastermind.
-1/2+ Attack
 Cost: 2
 [size=8][i]Flavor: Breathing underwater is the best superpower, if you don't count any other superpowers.[/i][/size]
 
@@ -4062,9 +4062,9 @@ Cost: 5
 
 [i]PhD in Oceanography[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4+ Attack
 You may KO a card from your hand or discard pile.
 Mercs for Money: You get 1/2 Attack for each Hero in the KO pile.
-4+ Attack
 Cost: 8
 
 
@@ -4076,31 +4076,31 @@ X-Men
 
 [i]Impetuous Dive[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack.
 2+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Attack.
 Cost: 3
 [size=8][i]Flavor: "Legends tell of a Cape of Mercury that enables a man to fly. Until I find it, I'll just jump and hope for the best."[/i][/size]
 [size=8][i]Art contains a gun, or at least muzzle flashes and bullet trajectory[/i][/size]
 
 [i]Multitalented[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-Choose a Hero Class. [b]Investigate[/b] for a card of that Hero Class.
 1 Recruit
 1 Attack
+Choose a Hero Class. [b]Investigate[/b] for a card of that Hero Class.
 Cost: 4
 [size=8][i]Flavor: Specialties include: Medicine, Prisons, Detective Work, Advertising, and Everything Else.[/i][/size]
 
 [i]Identical Twin Brother[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-You get the printed Recruit and Attack of a Hero in the HQ. Then put that Hero on the bottom of the Hero Deck.
 0+ Recruit
 0+ Attack
+You get the printed Recruit and Attack of a Hero in the HQ. Then put that Hero on the bottom of the Hero Deck.
 Cost: 5
 
 [i]Missing Person Case[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Investigate[/b] the Hero Deck for any card and put that card in your hand.
 3 Attack
+[b]Investigate[/b] the Hero Deck for any card and put that card in your hand.
 Cost: 8
 
 
@@ -4109,31 +4109,31 @@ Marvel Knights
 
 [i]Balancing Act[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-The next Hero you recruit this turn goes on top of your deck.
 1 Recruit
 1 Attack
+The next Hero you recruit this turn goes on top of your deck.
 Cost: 3
 [size=8][i]Flavor: A body balanced on a single muscle. A city balanced on a single man.[/i][/size]
 
 [i]Listen for Heartbeats[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Choose a number 1 or more. [b]Investigate[/b] for a card of that cost.
 2 Attack
+Choose a number 1 or more. [b]Investigate[/b] for a card of that cost.
 Cost: 4
 [size=8][i]Flavor: "Hearing hearts a block away is easy. The tough part is discerning whose is whose."[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]Discover the Bodies[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Investigate[/b] for a card that costs 0. KO that card.
 3 Recruit
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Investigate[/b] for a card that costs 0. KO that card.
 Cost: 5
 [size=8][i]Flavor: "By the time I found them, they were already dead."[/i][/size]
 
 [i]Hitting Rock Bottom[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Discard a card from the top or bottom of your deck. If it costs 0, you get +1 Attack and repeat this process. If your deck runs out, stop.
 3+ Attack
+Discard a card from the top or bottom of your deck. If it costs 0, you get +1 Attack and repeat this process. If your deck runs out, stop.
 Cost: 7
 
 
@@ -4142,31 +4142,31 @@ Avengers
 
 [i]Steam-Powered Arsenal[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-To play this, you must put another card from your hand on top of your deck.
 3 Attack
+To play this, you must put another card from your hand on top of your deck.
 Cost: 3
 [size=8][i]Flavor: "Water is the key to creation ... and destruction."[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]Mechanized Plate-Mail[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[b]Investigate[/b] for a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card.
 2 Recruit
+[b]Investigate[/b] for a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card.
 Cost: 4
 [size=8][i]Flavor: "The best way to test a new invention is to let HYDRA shoot it with automatic weapons."[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]Learn from Enemies[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may use the "Fight" ability of a Villain worth 1 VP in your Victory Pile.
 3 Attack
+[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: You may use the "Fight" ability of a Villain worth 1 VP in your Victory Pile.
 Cost: 6
 
 [i]Adventurers Assemble![/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+4 Attack
 Whenever you [b]Investigate[/b] this turn, look a three cards instead of two.
 Choose Recruit or Attack. [b]Investigate[/b] for a card with that icon.
-4 Attack
 Cost: 7
 [size=8][i]Art contains a gun[/i][/size]
 
@@ -4176,28 +4176,28 @@ Marvel Knights
 
 [i]Private Investigations[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Investigate[/b] for a card that costs 4 or more.
 2 Attack
+[b]Investigate[/b] for a card that costs 4 or more.
 Cost: 4
 [size=8][i]Flavor: He doesn't stop until he clears his name ... or dies trying.[/i][/size]
 
 [i]Follow Big Leads[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-You get +1 Recruit for each other card you played this turn that costs 4 or more.
 2+ Recruit
+You get +1 Recruit for each other card you played this turn that costs 4 or more.
 Cost: 4
 [size=8][i]Flavor: The deeper he digs, the bigger the conspiracy becomes.[/i][/size]
 
 [i]Unbreakable Cage[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-Once per turn, if a player would gain a Wound, you may reveal this card and [b]Investigate[/b] for any card instead.
 4 Attack
+Once per turn, if a player would gain a Wound, you may reveal this card and [b]Investigate[/b] for any card instead.
 Cost: 6
 
 [i]Weight of the World[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-You get +2 Attack for each other card you played this turn that costs 4 or more.
 5+ Attack
+You get +2 Attack for each other card you played this turn that costs 4 or more.
 Cost: 8
 
 
@@ -4206,30 +4206,30 @@ Spider Friends
 
 [i]Gumshoe's Revolver[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[b]Investigate[/b] for a card that costs 2 or less.
 1 Attack
+[b]Investigate[/b] for a card that costs 2 or less.
 Cost: 2
 [size=8][i]Flavor: Stealth goes a long way, but some mysteries can only be unraveled with cold steel.[/i][/size]
 [size=8][i]Art contains a gun[/i][/size]
 
 [i]Webs of Darkness[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get 2+ Attack.
 1+ Attack
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get 2+ Attack.
 Cost: 2
 [size=8][i]Flavor: Spiders from a cursed totem gave Peter Parker dark powers to match his shadowed mission.[/i][/size]
 
 [i]Solve the Crime[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Investigate[/b] the Bystander Stack for a Bystander and rescue it.
 2 Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Investigate[/b] the Bystander Stack for a Bystander and rescue it.
 Cost: 2
 [size=8][i]Flavor: "Who murdered Uncle Ben?"[/i][/size]
 
 [i]Spider-Totem's Chosen[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-Spider Friends: [b]Investigate[/b] each player's deck for a card that costs 2 or less, play a copy of that card, then put it into their discard pile.
 1 Attack
+Spider Friends: [b]Investigate[/b] each player's deck for a card that costs 2 or less, play a copy of that card, then put it into their discard pile.
 Cost: 2
 
 
@@ -4241,39 +4241,39 @@ X-Men
 
 [i]Northern Lights[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
 [b]Soaring Flight[/b]
 [b]Lightshow[/b]: Draw a card.
-2 Attack
 Cost: 3
 
 [i]Blazing Flare/Blazing Fists[/i] (5 copies)
 [b]Divided[/b]
 [i]Blazing Flare (Aurora)[/i]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: You get +2 Recruit.
 2+ Recruit
+[b]Lightshow[/b]: You get +2 Recruit.
 Cost: 4
 -----------------
 [i]Blazing Fists (Northstar)[/i]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
-[b]Berserk[/b]
 2+ Attack
+[b]Berserk[/b]
 Cost: 4
 
 [i]Twin Blast[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
 [b]Soaring Flight[/b]
 [b]Lightshow[/b]: You get +3 Attack
-2+ Attack
 Cost: 5
 
 [i]Mach 10[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+4 Recruit
+0+ Attack
 [b]Soaring Flight[/b]
 All Heroes you recruit this turn have [b]Soaring Flight[/b].
 [b]Lightshow[/b]: You get +2 Attack for each [b]Lightshow[/b] card you played this turn.
-4 Recruit
-0+ Attack
 Cost: 7
 
 
@@ -4289,24 +4289,24 @@ Cost: 2
 
 [i]Speed of Sound[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Piercing
 [b]Soaring Flight[/b]
 [b]Piercing Energy[/b]
-2 Piercing
 Cost: 3
 
 [i]Sonic Blastwave[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Piercing Energy[/b]
-[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You may have this card produce Piercing instead of Recruit.
 3 Recruit
 0+ Piercing
+[b]Piercing Energy[/b]
+[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You may have this card produce Piercing instead of Recruit.
 Cost: 5
 
 [i]Bone-Shattering Howl[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+4 Piercing
 [b]Piercing Energy[/b]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You may use Attack as if it were Piercing this turn.
-4 Piercing
 Cost: 8
 
 
@@ -4315,29 +4315,29 @@ X-Men
 
 [i]Captivating Conundrum[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[b]X-Gene[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
 1 Attack
+[b]X-Gene[/b] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 2
 
 [i]Furry Fury[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2+ Attack
 [b]Berserk[/b]
 [b]X-Gene[/b] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: [b]Berserk[/b]
-2+ Attack
 Cost: 4
 
 [i]Calculated Rage[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3+ Attack
 Look at the top card of your deck. Discard it or put it back.
 [b]Berserk[/b]
-3+ Attack
 Cost: 5
 
 [i]Recursive Pummeling[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3+ Attack
 [b]Berserk[/b]
 [b]X-Gene[/b] X-Men: You may return a 0-cost, 3-cost, and 4-cost card from your discard pile to your hand.
-3+ Attack
 Cost: 8
 
 
@@ -4346,30 +4346,30 @@ X-Men
 
 [i]Kinetic Blast Field[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+1+ Attack
 [b]Soaring Flight[/b]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +2 Attack
-1+ Attack
 Cost: 3
 
 [i]Carry to the Air[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+2 Recruit
 [b]Soaring Flight[/b]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: The next Hero you recruit this turn has [b]Soaring Flight[/b].
-2 Recruit
 Cost: 4
 
 [i]Natural Leader[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Attack
 [b]Soaring Flight[/b]
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]: Return a S.H.I.E.L.D. Hero from your discard pile to your hand.
-3 Attack
 Cost: 6
 
 [i]Human Cannon[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+Attack: 4+
 [b]Soaring Flight[/b]
 If you played at least 6 other cards this turn, you get +2 Attack.
-Attack: 4+
 Cost: 8
 
 
@@ -4385,8 +4385,8 @@ Cost: 3
 -----------------
 [i]Unpredictable (Wolverine)[/i]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[b]Berserk[/b], [b]Berserk[/b]
 1+ Attack
+[b]Berserk[/b], [b]Berserk[/b]
 Cost: 3
 
 [i]Fastball Special[/i] (5 copies)
@@ -4398,16 +4398,16 @@ Cost: 4
 
 [i]Insane Disregard for Danger[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+4+ Attack
 [b]Berserk[/b]
 If you have a Wound in your hand or discard pile, KO it. Otherwise, gain a Wound.
-4+ Attack
 Cost: 6
 
 [i]Uncanny X-Men[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3+ Attack
 [b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b]
 Then, draw a card for each X-Men card you [b]Berserked[/b].
-3+ Attack
 Cost: 7
 
 
@@ -4416,29 +4416,29 @@ X-Men
 
 [i]Convert Sound to Light[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[b]Piercing Energy[/b]
-[b]Lightshow[/b]: You get +1 Piercing for each [b]Lightshow[/b] card you played this turn.
 1 Recruit
 0+ Piercing
+[b]Piercing Energy[/b]
+[b]Lightshow[/b]: You get +1 Piercing for each [b]Lightshow[/b] card you played this turn.
 Cost: 3
 
 [i]Dazzling Glamour[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: You get +2 Attack.
 2+ Attack
+[b]Lightshow[/b]: You get +2 Attack.
 Cost: 4
 
 [i]City-Wide Mega Concert[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: When you draw a new hand of cards at the end of this turn, draw two extra cards.
 3 Attack
+[b]Lightshow[/b]: When you draw a new hand of cards at the end of this turn, draw two extra cards.
 Cost: 5
 [size=8][i]Flavor: Performing is her passion, fighting aliens is more of a nights-and-weekends thing.[/i][/size]
 
 [i]Inspire the World[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: Put a Hero from the HQ on top of your deck.
 5 Attack
+[b]Lightshow[/b]: Put a Hero from the HQ on top of your deck.
 Cost: 7
 
 
@@ -4447,28 +4447,28 @@ X-Men
 
 [i]Blinding Burst[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: You get +3 Attack usable only against the Mastermind.
 2 Recruit
+[b]Lightshow[/b]: You get +3 Attack usable only against the Mastermind.
 Cost: 3
 
 [i]Unleash Havok[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2+ Attack
 To play this card, you must discard a card from your hand.
 [b]Berserk[/b], [b]Berserk[/b]
-2+ Attack
 Cost: 4
 
 [i]Concussive Plasma[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] card in your discard pile.
 2+ Attack
+[b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get +1 Attack for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] card in your discard pile.
 Cost: 5
 
 [i]Radiation Focus Array[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+3+ Attack
 [b]Berserk[/b]
 [b]X-Gene[/b] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: You get the total printed Attack of all the [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] cards in your discard pile.
-3+ Attack
 Cost: 7
 
 
@@ -4477,29 +4477,29 @@ X-Men
 
 [i]Light a Spark[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+0+ Recruit
 Draw a card.
 [b]Lightshow[/b]: You get +1 Recruit for each [b]Lightshow[/b] card you played this turn.
-0+ Recruit
 Cost: 2
 
 [i]Blasting Fireworks[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+1+ Attack
 Draw a card.
 [b]Lightshow[/b]: You get +1 Attack for each [b]Lightshow[/b] card you played this turn.
-1+ Attack
 Cost: 4
 
 [i]Unexpected Explosion[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: Look at the top card of your deck. If it costs 0, KO it.
 3 Attack
+[b]Lightshow[/b]: Look at the top card of your deck. If it costs 0, KO it.
 Cost: 5
 
 [i]Prismatic Cascade[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: You get +1 Recruit and +1 Attack for each [b]Lightshow[/b] card you played this turn.
 0+ Recruit
 5+ Attack
+[b]Lightshow[/b]: You get +1 Recruit and +1 Attack for each [b]Lightshow[/b] card you played this turn.
 Cost: 7
 
 
@@ -4508,29 +4508,29 @@ X-Men
 
 [i]Intangible Qualities[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Put a card from the HQ on the bottom of the Hero deck. If that card had a Recruit icon, get +2 Recruit. If that card had an Attack icon, you get +2 Attack. (If both, get both.)
 0+ Recruit
 0+ Attack
+Put a card from the HQ on the bottom of the Hero deck. If that card had a Recruit icon, get +2 Recruit. If that card had an Attack icon, you get +2 Attack. (If both, get both.)
 Cost: 3
 
 [i]Going through a Phase[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]X-Gene[/b] X-Men: Draw a card.
 1 Recruit
 1 Attack
+[b]X-Gene[/b] X-Men: Draw a card.
 Cost: 4
 
 [i]Ghost in the Machine[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-You get +1 Attack for each different cost among the Heroes in the HQ.
 0+ Attack
+You get +1 Attack for each different cost among the Heroes in the HQ.
 Cost: 6
 
 [i]Lockheed, Kitty's Dragon[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+0+ Attack
 [b]Soaring Flight[/b]
 Put a card from the HQ on the bottom of the Hero Deck. You get +Attack equal to its cost.
-0+ Attack
 Cost: 8
 
 
@@ -4540,15 +4540,15 @@ X-Men
 [i]Bend Steel/Bend Light[/i] (5 copies)
 [b]Divided[/b]
 [i]Bend Steel[/i]
+1+ Attack
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 [b]Berserk[/b]
-1+ Attack
 Cost: 2
 -----------------
 [i]Bend Light[/i]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-[b]Lightshow[/b]: You get +2 Recruit.
 1+ Recruit
+[b]Lightshow[/b]: You get +2 Recruit.
 Cost: 2
 
 [i]Split Personality/Split Eardrums[/i] (5 copies)
@@ -4560,8 +4560,8 @@ Cost: 3
 -----------------
 [i]Split Eardrums[/i]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-[b]Piercing Energy[/b]
 2 Piercing
+[b]Piercing Energy[/b]
 Cost: 3
 
 [i]Channel Time/Channel Fire[/i] (3 copies)
@@ -4573,15 +4573,15 @@ Cost: 5
 -----------------
 [i]Channel Fire[/i]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-You get +1 Attack for each different Hero Class in your discard pile.
 0+ Attack
+You get +1 Attack for each different Hero Class in your discard pile.
 Cost: 5
 
 [i]Maelstrom of Clashing Powers[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+3+ Attack
 [b]Soaring Flight[/b]
 Reveal the top three cards of the Hero Deck. You get their total printed Attack. Put them on the bottom of the Hero Deck.
-3+ Attack
 Cost: 8
 
 
@@ -4590,15 +4590,15 @@ X-Men
 
 [i]Fortune Favors the Bold[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-To play this card, you must put a card from your hand on top of your deck.
 3 Attack
+To play this card, you must put a card from your hand on top of your deck.
 Cost: 3
 
 [i]Flurry of Blades[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
 [b]Berserk[/b]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Berserk[/b]
-2+ Attack
 Cost: 4
 [size=8][i]Flavor: Longshot is supernaturally lucky. His enemies? Not so much.[/i][/size]
 
@@ -4611,9 +4611,9 @@ Cost: 6
 
 [i]Escape from Mojo World[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+5+ Attack
 Reveal the top card of the Villain Deck. If it's a Villain, you may put it on the bottom of that Deck.
 X-Men: You get +Attack equal to the printed Victory Points of the card you revealed.
-5+ Attack
 Cost: 7
 
 
@@ -4622,17 +4622,17 @@ X-Men
 
 [i]Life & Death Incarnate[/i] (5 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+3 Recruit
 KO this card.
 You may KO a card from your hand or discard pile.
-3 Recruit
 Cost: 3
 
 [i]Obliterating Fire[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+4 Piercing
 [b]Soaring Flight[/b]
 [b]Piercing Energy[/b]
 KO this card.
-4 Piercing
 Cost: 4
 
 [i]Reincarnating Phoenix[/i] (3 copies)
@@ -4643,9 +4643,9 @@ Cost: 6
 
 [i]Driven Mad by Power[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+6+ Attack
 [b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b], [b]Berserk[/b]
 KO all the cards you [b]Berserked[/b]. If this card makes at least 13 Attack, then the Phoenix Force becomes corrupted by power and devours the Earth. You win, Evil wins, and all other players lose.
-6+ Attack
 Cost: 9
 
 
@@ -4654,30 +4654,30 @@ X-Men
 
 [i]Ride the Magnetic Waves[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Recruit
 [b]Soaring Flight[/b]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: When you draw a new hand of cards at the end of this turn, draw an extra card.
-2 Recruit
 Cost: 3
 
 [i]Electromagnetic Pulse[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+2 Piercing
 [b]Piercing Energy[/b]
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]: Draw a card.
-2 Piercing
 Cost: 4
 
 [i]Subtle Attunement[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
 [b]Soaring Flight[/b]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: Look at the top two cards of your deck. You may KO one of them. Put the rest back in any order.
-2 Attack
 Cost: 6
 
 [i]Reverse Polarity[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+4 Recruit
 [b]Soaring Flight[/b]
 [b]X-Gene[/b] X-Men: You can use Recruit as Attack this turn, and vice versa.
-4 Recruit
 Cost: 8
 
 
@@ -4686,31 +4686,31 @@ X-Men
 
 [i]Psychic Knife[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+0+ Piercing
 Draw a card.
 [b]Piercing Energy[/b]
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You get +1 Piercing.
-0+ Piercing
 Cost: 2
 
 [i]Precognition[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-Reveal the top card of the Hero Deck. You may recruit it this turn. If you do, draw a card.
 2 Recruit
+Reveal the top card of the Hero Deck. You may recruit it this turn. If you do, draw a card.
 Cost: 3
 
 [i]Butterfly Effect[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Piercing
 [b]Piercing Energy[/b]
 [b]X-Gene[/b] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +1 Piercing.
-2+ Piercing
 Cost: 5
 [size=8][i]Flavor: The focused totality of her powers.[/i][/size]
 
 [i]Telepathic Ninjutsu[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3 Piercing
 [b]Piercing Energy[/b]
 Reveal the top card of the Hero Deck. The player of your choice puts it in their hand.
-3 Piercing
 Cost: 7
 
 
@@ -4719,30 +4719,30 @@ X-Men
 
 [i]Adamantium Footclaws[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
 2 Attack
+[b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Draw a card.
 Cost: 3
 [size=8][i]Flavor: Cloned from Wolverine's DNA, X-23 has extra Adamantium foot claws and almost as much savagery.[/i][/size]
 
 [i]Healing Factor Genome[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
 [b]Berserk[/b]
 You may KO a Wound from your hand or discard pile.
-2+ Attack
 Cost: 4
 
 [i]Bioengineered Assassin[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2+ Attack
 [b]Berserk[/b]
 [b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: You may KO a card from your hand or discard pile.
-2+ Attack
 Cost: 6
 
 [i]Heir to Wolverine[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+3+ Attack
 [b]Berserk[/b], [b]Berserk[/b]
 [b]X-Gene[/b] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: Count the [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] cards in your discard pile. [b]Berserk[/b] that many times.
-3+ Attack
 Cost: 7
 
 
@@ -4754,29 +4754,29 @@ Cost: 7
 
 [i]Head of Security[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2 Recruit
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 KO all Wounds you gained this turn.
-2 Recruit
 Cost: 3
 
 [i]Watchful Eye[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 2[/b]. If this revealed any Master Strikes, KO those Strikes, then you may KO a card from your hand or discard pile.
 2+ Attack
+[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 2[/b]. If this revealed any Master Strikes, KO those Strikes, then you may KO a card from your hand or discard pile.
 Cost: 4
 
 [i]Loyal Friend[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 [b]Striker[/b]
-0+ Attack
 Cost: 5
 [size=8][i]Flavor: "Don't I look happy to you?"[/i][/size]
 
 [i]Asset Management[/i] (1 copy)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-[b]Double Striker[/b]
 0+ Attack
+[b]Double Striker[/b]
 Cost: 5
 [size=8][i]Flavor: Many people don't understand why Iron Man would need a bodyguard. They haven't met Happy.[/i][/size]
 
@@ -4792,24 +4792,24 @@ Cost: 2
 
 [i]Recon Drone Connection[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
 Wall-Crawl
 [b]Danger Sense 3[/b]
-0+ Attack
 Cost: 2
 
 [i]Spider-Grip[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2 Attack
 Wall-Crawl
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: Choose two Villains in adjacent city spaces. Each of them gets -1 Attack this turn.
-2 Attack
 Cost: 2
 
 [i]Friendly Neighborhood ...[/i] (1 copy)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+0+ Attack
 Wall-Crawl
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 You get +3 Attack usable only against the Mastermind or Villains on the Rooftops or Streets.
-0+ Attack
 Cost: 2
 
 
@@ -4818,28 +4818,28 @@ Spider Friends
 
 [i]Michelle[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-You may choose a Villain or Mastermind. You can fight it using only Recruit this turn.
 2 Recruit
+You may choose a Villain or Mastermind. You can fight it using only Recruit this turn.
 Cost: 3
 
 [i]Ned[/i] (5 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+1+ Recruit
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: You get +2 Recruit
-1+ Recruit
 Cost: 2
 
 [i]Liz[/i] (3 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
-Whenever you [COLOR=#CC0000][b]Coordinate[/b][/COLOR] a card to another player, you may reveal this to draw two cards instead of one.
 4 Recruit
+Whenever you [COLOR=#CC0000][b]Coordinate[/b][/COLOR] a card to another player, you may reveal this to draw two cards instead of one.
 Cost: 6
 
 [i]May Parker[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+5 Recruit
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 Spider Friends: Each Villain gets -2 Attack this turn. The next time you fight the Mastermind this turn, it gets -2 Attack.
-5 Recruit
 Cost: 7
 
 
@@ -4848,9 +4848,9 @@ Spider Friends
 
 [i]Avenger in Training[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
+2+ Attack
 Wall-Crawl
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Villain, you may fight it.
-2+ Attack
 Cost: 2
 
 [i]Heightened Senses[/i] (5 copies)
@@ -4861,18 +4861,18 @@ Cost: 2
 
 [i]Homemade Web-Shooters[/i] (3 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
 Wall-Crawl
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Danger Sense 1[/b]. If this revealed a Bystander, rescue it.
-2+ Attack
 Cost: 2
 
 [i]Something is Happening[/i] (1 copy)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
+0+ Attack
 Wall-Crawl
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 [b]Danger Sense 4[/b]
 If this revealed any Scheme Twists, you may shuffle the Villain Deck.
-0+ Attack
 Cost: 2
 
 
@@ -4881,31 +4881,31 @@ Avengers
 
 [i]Genius, Billionaire ...[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
-[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 1 Recruit
 1 Attack
+[COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 Cost: 2
 [size=8][i]Flavor: "Just don't do anything I would do. And definitely don't do anything I wouldn't do. There's a little grey area in there, and that's where you operate."[/i][/size]
 
 [i]Stay Out of Trouble[/i] (5 copies)
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]
+2+ Attack
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]: [b]Danger Sense 2[/b]
-2+ Attack
 Cost: 4
 [size=8][i]Flavor: I know you want to save the world, but you're not ready yet.[/i][/size]
 
 [i]Little Grey Area[/i] (3 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
-Avengers: [b]Danger Sense 1[/b]. If this revealed a Villain, then Villains from that same Villain Group get -1 Attack this turn.
 3+ Attack
+Avengers: [b]Danger Sense 1[/b]. If this revealed a Villain, then Villains from that same Villain Group get -1 Attack this turn.
 Cost: 5
 
 [i]As Usual, I Did All the Work[/i] (1 copy)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
+5 Attack
 [COLOR=#CC0000][b]Coordinate[/b][/COLOR]
 If another player accepts this [COLOR=#CC0000][b]Coordinate[/b][/COLOR], then at the end of this turn, move all cards that entered that player's Victory Pile this turn into your Victory Pile.
-5 Attack
 Cost: 7
 
 
@@ -4965,6 +4965,7 @@ Cost: 4*
 
 [i]Need to Stretch My Legs[/i] (3 copies)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
+2 Attack
 2 Attack
 [b]Size-Changing[/b]: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 Champions: You may KO a card from your hand or discard pile.
