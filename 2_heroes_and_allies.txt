@@ -6272,20 +6272,20 @@ Cost: 3
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 1 Attack
 [b]Switcheroo 5[/b]
-[b]Investigate [/b]for a card with an Attack icon.
+[b]Investigate[/b] for a card with an Attack icon.
 Cost: 4
 
 [i]Crack the Case[/i] (3 copies)
 [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]
 3 Recruit
 [b]Switcheroo 6[/b]
-[b]Investigate [/b]for a card with a Recruit icon. You may draw that card or KO it.
+[b]Investigate[/b] for a card with a Recruit icon. You may draw that card or KO it.
 Cost: 5
 
 [i]Uncover Hidden Evil[/i] (1 copy)
 [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
 4 Attack
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Investigate [/b]the Villain Deck for a Villain. You may put it into your Victory Pile and do its Fight effect. Otherwise, put it back on the top or bottom of that deck.
+[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]: [b]Investigate[/b] the Villain Deck for a Villain. You may put it into your Victory Pile and do its Fight effect. Otherwise, put it back on the top or bottom of that deck.
 Cost: 7
 
 
@@ -6333,7 +6333,7 @@ Cost: 3
 [i]Search Parallel Dimensions[/i] (5 copies)
 [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]
 2 Recruit
-[b]Investigate [/b]for an Avengers card and [b]Teleport[/b] that card.
+[b]Investigate[/b] for an Avengers card and [b]Teleport[/b] that card.
 Cost: 4
 [size=8][i]She hails from the Utopian Parallel to rally the Avengers with a warning.[/i][/size]
 
@@ -6358,7 +6358,7 @@ Avengers
 [i]Find Tiny Friends[/i] (5 copies)
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 [b]Switcheroo 3[/b]
-[b]Investigate [/b]for a card that costs 3 or less.
+[b]Investigate[/b] for a card that costs 3 or less.
 Cost: 2
 
 [i]Nut Punch[/i] (5 copies)
