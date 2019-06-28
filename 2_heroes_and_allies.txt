@@ -4015,7 +4015,7 @@ Cost: 2
 [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]
 0+ Recruit
 2 1/2 Attack
-Excessive Violence: You get +1 Recruit.
+[b]Excessive Violence[/b]: You get +1 Recruit.
 Cost: 3
 [size=8][i]Flavor: Mercenary - (noun) - one who converts carnage into cash.[/i][/size]
 
